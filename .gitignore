@@ -1,0 +1,19 @@
+# Database e dati grezzi (troppo pesanti / rigenerabili)
+db/*.duckdb
+data/raw/*
+data/staging/*
+!data/raw/.gitkeep
+!data/staging/.gitkeep
+
+# Ambiente Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
