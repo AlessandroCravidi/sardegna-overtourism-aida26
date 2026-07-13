@@ -1,0 +1,1915 @@
+"anno","Provincia","Comune","Tipologia","Categoria","Numero Strutture","letti","camere"
+2023,"Città metropolitana di Cagliari","ASSEMINI","Affittacamere",,1,5,3
+2023,"Città metropolitana di Cagliari","CAGLIARI","Affittacamere",,9,69,36
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Affittacamere",,1,6,3
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Affittacamere",,1,5,4
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Affittacamere",,1,5,3
+2023,"Città metropolitana di Cagliari","QUARTUCCIU","Affittacamere",,1,17,5
+2023,"Provincia del Sud Sardegna","ARBUS","Affittacamere",,1,6,3
+2023,"Provincia del Sud Sardegna","GERGEI","Affittacamere",,1,9,4
+2023,"Provincia del Sud Sardegna","IGLESIAS","Affittacamere",,4,31,15
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Affittacamere",,2,7,5
+2023,"Provincia di Nuoro","BAUNEI","Affittacamere",,1,12,6
+2023,"Provincia di Nuoro","TORPÈ","Affittacamere",,1,12,6
+2023,"Provincia di Nuoro","TORTOLÌ","Affittacamere",,1,8,4
+2023,"Provincia di Oristano","CABRAS","Affittacamere",,2,20,8
+2023,"Provincia di Sassari","ALGHERO","Affittacamere",,40,292,136
+2023,"Provincia di Sassari","ARZACHENA","Affittacamere",,7,60,15
+2023,"Provincia di Sassari","BADESI","Affittacamere",,2,8,4
+2023,"Provincia di Sassari","BUDONI","Affittacamere",,2,17,8
+2023,"Provincia di Sassari","BULTEI","Affittacamere",,1,6,2
+2023,"Provincia di Sassari","CALANGIANUS","Affittacamere",,1,5,2
+2023,"Provincia di Sassari","CASTELSARDO","Affittacamere",,5,49,25
+2023,"Provincia di Sassari","GOLFO ARANCI","Affittacamere",,3,32,13
+2023,"Provincia di Sassari","LA MADDALENA","Affittacamere",,4,28,12
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Affittacamere",,2,24,11
+2023,"Provincia di Sassari","LURAS","Affittacamere",,1,4,2
+2023,"Provincia di Sassari","OLBIA","Affittacamere",,30,245,96
+2023,"Provincia di Sassari","OSILO","Affittacamere",,1,11,6
+2023,"Provincia di Sassari","OSSI","Affittacamere",,2,15,6
+2023,"Provincia di Sassari","PORTO TORRES","Affittacamere",,8,56,28
+2023,"Provincia di Sassari","SAN TEODORO","Affittacamere",,19,169,60
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Affittacamere",,8,60,22
+2023,"Provincia di Sassari","SASSARI","Affittacamere",,9,65,32
+2023,"Provincia di Sassari","SORSO","Affittacamere",,3,34,11
+2023,"Provincia di Sassari","STINTINO","Affittacamere",,8,64,38
+2023,"Provincia di Sassari","VILLANOVA MONTELEONE","Affittacamere",,1,0,0
+2023,"Provincia di Sassari","OLBIA","Affittacamere","3 Stelle",1,13,6
+2023,"Città metropolitana di Cagliari","CAGLIARI","Affittacamere","I Categoria",20,171,85
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Affittacamere","I Categoria",1,12,3
+2023,"Città metropolitana di Cagliari","PULA","Affittacamere","I Categoria",1,6,3
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Affittacamere","I Categoria",7,76,30
+2023,"Città metropolitana di Cagliari","SINNAI","Affittacamere","I Categoria",1,3,3
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Affittacamere","I Categoria",3,36,13
+2023,"Provincia del Sud Sardegna","CASTIADAS","Affittacamere","I Categoria",2,20,11
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Affittacamere","I Categoria",2,18,9
+2023,"Provincia del Sud Sardegna","IGLESIAS","Affittacamere","I Categoria",2,20,10
+2023,"Provincia del Sud Sardegna","MANDAS","Affittacamere","I Categoria",1,12,5
+2023,"Provincia del Sud Sardegna","PORTOSCUSO","Affittacamere","I Categoria",1,8,4
+2023,"Provincia del Sud Sardegna","SADALI","Affittacamere","I Categoria",1,12,5
+2023,"Provincia del Sud Sardegna","SAN VITO","Affittacamere","I Categoria",2,17,10
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Affittacamere","I Categoria",1,12,6
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Affittacamere","I Categoria",5,44,21
+2023,"Provincia di Nuoro","BARI SARDO","Affittacamere","I Categoria",1,20,6
+2023,"Provincia di Nuoro","BAUNEI","Affittacamere","I Categoria",3,35,18
+2023,"Provincia di Nuoro","DORGALI","Affittacamere","I Categoria",3,22,11
+2023,"Provincia di Nuoro","LULA","Affittacamere","I Categoria",1,4,2
+2023,"Provincia di Nuoro","MAMOIADA","Affittacamere","I Categoria",2,20,11
+2023,"Provincia di Nuoro","NUORO","Affittacamere","I Categoria",1,4,2
+2023,"Provincia di Nuoro","ORGOSOLO","Affittacamere","I Categoria",1,11,4
+2023,"Provincia di Nuoro","OROSEI","Affittacamere","I Categoria",3,35,17
+2023,"Provincia di Nuoro","POSADA","Affittacamere","I Categoria",1,10,6
+2023,"Provincia di Nuoro","TETI","Affittacamere","I Categoria",1,6,3
+2023,"Provincia di Nuoro","TONARA","Affittacamere","I Categoria",1,8,5
+2023,"Provincia di Nuoro","TORPÈ","Affittacamere","I Categoria",1,2,2
+2023,"Provincia di Nuoro","TORTOLÌ","Affittacamere","I Categoria",1,12,6
+2023,"Provincia di Oristano","LACONI","Affittacamere","I Categoria",1,10,5
+2023,"Provincia di Oristano","NURACHI","Affittacamere","I Categoria",1,7,4
+2023,"Provincia di Oristano","ORISTANO","Affittacamere","I Categoria",1,17,6
+2023,"Provincia di Oristano","TERRALBA","Affittacamere","I Categoria",1,12,6
+2023,"Provincia di Sassari","AGGIUS","Affittacamere","I Categoria",1,11,5
+2023,"Provincia di Sassari","ALGHERO","Affittacamere","I Categoria",13,99,48
+2023,"Provincia di Sassari","ARZACHENA","Affittacamere","I Categoria",5,52,12
+2023,"Provincia di Sassari","BERCHIDDA","Affittacamere","I Categoria",2,16,0
+2023,"Provincia di Sassari","CASTELSARDO","Affittacamere","I Categoria",1,8,4
+2023,"Provincia di Sassari","LA MADDALENA","Affittacamere","I Categoria",5,54,13
+2023,"Provincia di Sassari","OLBIA","Affittacamere","I Categoria",12,85,25
+2023,"Provincia di Sassari","OSCHIRI","Affittacamere","I Categoria",1,7,3
+2023,"Provincia di Sassari","PALAU","Affittacamere","I Categoria",5,31,14
+2023,"Provincia di Sassari","PORTO TORRES","Affittacamere","I Categoria",3,20,10
+2023,"Provincia di Sassari","PUTIFIGARI","Affittacamere","I Categoria",1,6,3
+2023,"Provincia di Sassari","SAN TEODORO","Affittacamere","I Categoria",10,87,35
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Affittacamere","I Categoria",7,60,18
+2023,"Provincia di Sassari","SASSARI","Affittacamere","I Categoria",7,63,27
+2023,"Provincia di Sassari","SORSO","Affittacamere","I Categoria",1,13,6
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Affittacamere","I Categoria",1,12,0
+2023,"Provincia di Sassari","VALLEDORIA","Affittacamere","I Categoria",1,12,6
+2023,"Città metropolitana di Cagliari","ASSEMINI","Affittacamere","II Categoria",2,15,7
+2023,"Città metropolitana di Cagliari","CAGLIARI","Affittacamere","II Categoria",201,1598,792
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Affittacamere","II Categoria",6,52,26
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Affittacamere","II Categoria",1,2,2
+2023,"Città metropolitana di Cagliari","MONSERRATO","Affittacamere","II Categoria",4,31,16
+2023,"Città metropolitana di Cagliari","PULA","Affittacamere","II Categoria",13,85,49
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Affittacamere","II Categoria",21,132,69
+2023,"Città metropolitana di Cagliari","QUARTUCCIU","Affittacamere","II Categoria",2,19,7
+2023,"Città metropolitana di Cagliari","SELARGIUS","Affittacamere","II Categoria",4,20,12
+2023,"Città metropolitana di Cagliari","SESTU","Affittacamere","II Categoria",4,18,11
+2023,"Città metropolitana di Cagliari","SINNAI","Affittacamere","II Categoria",4,42,19
+2023,"Città metropolitana di Cagliari","VILLA SAN PIETRO","Affittacamere","II Categoria",1,5,0
+2023,"Provincia del Sud Sardegna","BARUMINI","Affittacamere","II Categoria",1,11,6
+2023,"Provincia del Sud Sardegna","BUGGERRU","Affittacamere","II Categoria",1,15,4
+2023,"Provincia del Sud Sardegna","CALASETTA","Affittacamere","II Categoria",3,17,8
+2023,"Provincia del Sud Sardegna","CARBONIA","Affittacamere","II Categoria",2,20,10
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Affittacamere","II Categoria",8,76,35
+2023,"Provincia del Sud Sardegna","CASTIADAS","Affittacamere","II Categoria",2,12,7
+2023,"Provincia del Sud Sardegna","DOLIANOVA","Affittacamere","II Categoria",1,6,2
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Affittacamere","II Categoria",4,34,14
+2023,"Provincia del Sud Sardegna","DOMUSNOVAS","Affittacamere","II Categoria",1,4,2
+2023,"Provincia del Sud Sardegna","ESCALAPLANO","Affittacamere","II Categoria",1,10,5
+2023,"Provincia del Sud Sardegna","ESCOLCA","Affittacamere","II Categoria",1,9,4
+2023,"Provincia del Sud Sardegna","GERGEI","Affittacamere","II Categoria",1,2,1
+2023,"Provincia del Sud Sardegna","GONNESA","Affittacamere","II Categoria",2,14,8
+2023,"Provincia del Sud Sardegna","GONNOSFANADIGA","Affittacamere","II Categoria",3,12,8
+2023,"Provincia del Sud Sardegna","GUSPINI","Affittacamere","II Categoria",3,12,4
+2023,"Provincia del Sud Sardegna","IGLESIAS","Affittacamere","II Categoria",10,72,35
+2023,"Provincia del Sud Sardegna","ISILI","Affittacamere","II Categoria",1,3,2
+2023,"Provincia del Sud Sardegna","MASAINAS","Affittacamere","II Categoria",1,12,6
+2023,"Provincia del Sud Sardegna","MURAVERA","Affittacamere","II Categoria",3,26,11
+2023,"Provincia del Sud Sardegna","NURAGUS","Affittacamere","II Categoria",1,6,5
+2023,"Provincia del Sud Sardegna","PAULI ARBAREI","Affittacamere","II Categoria",1,12,5
+2023,"Provincia del Sud Sardegna","PISCINAS","Affittacamere","II Categoria",2,15,3
+2023,"Provincia del Sud Sardegna","PORTOSCUSO","Affittacamere","II Categoria",1,9,5
+2023,"Provincia del Sud Sardegna","SADALI","Affittacamere","II Categoria",2,26,12
+2023,"Provincia del Sud Sardegna","SANLURI","Affittacamere","II Categoria",1,4,3
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Affittacamere","II Categoria",6,49,27
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Affittacamere","II Categoria",11,66,33
+2023,"Provincia del Sud Sardegna","SENORBÌ","Affittacamere","II Categoria",1,12,6
+2023,"Provincia del Sud Sardegna","SERRI","Affittacamere","II Categoria",1,8,4
+2023,"Provincia del Sud Sardegna","SIDDI","Affittacamere","II Categoria",1,6,3
+2023,"Provincia del Sud Sardegna","TEULADA","Affittacamere","II Categoria",4,24,13
+2023,"Provincia del Sud Sardegna","VILLAMAR","Affittacamere","II Categoria",1,8,4
+2023,"Provincia del Sud Sardegna","VILLANOVAFRANCA","Affittacamere","II Categoria",1,2,1
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Affittacamere","II Categoria",2,16,10
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Affittacamere","II Categoria",12,102,51
+2023,"Provincia di Nuoro","ARITZO","Affittacamere","II Categoria",1,4,2
+2023,"Provincia di Nuoro","AUSTIS","Affittacamere","II Categoria",1,2,1
+2023,"Provincia di Nuoro","BARI SARDO","Affittacamere","II Categoria",1,19,6
+2023,"Provincia di Nuoro","BAUNEI","Affittacamere","II Categoria",6,49,25
+2023,"Provincia di Nuoro","BITTI","Affittacamere","II Categoria",2,13,5
+2023,"Provincia di Nuoro","BORORE","Affittacamere","II Categoria",1,4,2
+2023,"Provincia di Nuoro","CARDEDU","Affittacamere","II Categoria",1,8,6
+2023,"Provincia di Nuoro","DESULO","Affittacamere","II Categoria",1,2,1
+2023,"Provincia di Nuoro","DORGALI","Affittacamere","II Categoria",16,123,70
+2023,"Provincia di Nuoro","ELINI","Affittacamere","II Categoria",2,8,4
+2023,"Provincia di Nuoro","FONNI","Affittacamere","II Categoria",4,23,15
+2023,"Provincia di Nuoro","GADONI","Affittacamere","II Categoria",1,16,5
+2023,"Provincia di Nuoro","GAVOI","Affittacamere","II Categoria",1,5,2
+2023,"Provincia di Nuoro","GIRASOLE","Affittacamere","II Categoria",1,12,6
+2023,"Provincia di Nuoro","IRGOLI","Affittacamere","II Categoria",1,4,2
+2023,"Provincia di Nuoro","JERZU","Affittacamere","II Categoria",1,8,3
+2023,"Provincia di Nuoro","LANUSEI","Affittacamere","II Categoria",1,9,5
+2023,"Provincia di Nuoro","LOTZORAI","Affittacamere","II Categoria",4,35,20
+2023,"Provincia di Nuoro","LULA","Affittacamere","II Categoria",1,12,6
+2023,"Provincia di Nuoro","MACOMER","Affittacamere","II Categoria",1,11,6
+2023,"Provincia di Nuoro","MAMOIADA","Affittacamere","II Categoria",1,9,5
+2023,"Provincia di Nuoro","NUORO","Affittacamere","II Categoria",14,79,41
+2023,"Provincia di Nuoro","OLIENA","Affittacamere","II Categoria",1,10,4
+2023,"Provincia di Nuoro","ONIFAI","Affittacamere","II Categoria",1,12,6
+2023,"Provincia di Nuoro","ORANI","Affittacamere","II Categoria",1,6,4
+2023,"Provincia di Nuoro","ORGOSOLO","Affittacamere","II Categoria",4,28,15
+2023,"Provincia di Nuoro","OROSEI","Affittacamere","II Categoria",10,92,42
+2023,"Provincia di Nuoro","OROTELLI","Affittacamere","II Categoria",1,6,3
+2023,"Provincia di Nuoro","POSADA","Affittacamere","II Categoria",15,108,54
+2023,"Provincia di Nuoro","SARULE","Affittacamere","II Categoria",1,4,2
+2023,"Provincia di Nuoro","SINISCOLA","Affittacamere","II Categoria",10,95,48
+2023,"Provincia di Nuoro","SORGONO","Affittacamere","II Categoria",3,17,11
+2023,"Provincia di Nuoro","TALANA","Affittacamere","II Categoria",1,4,2
+2023,"Provincia di Nuoro","TERTENIA","Affittacamere","II Categoria",2,12,7
+2023,"Provincia di Nuoro","TONARA","Affittacamere","II Categoria",1,10,5
+2023,"Provincia di Nuoro","TORPÈ","Affittacamere","II Categoria",2,19,12
+2023,"Provincia di Nuoro","TORTOLÌ","Affittacamere","II Categoria",17,142,77
+2023,"Provincia di Nuoro","TRIEI","Affittacamere","II Categoria",1,5,3
+2023,"Provincia di Nuoro","ULASSAI","Affittacamere","II Categoria",2,17,8
+2023,"Provincia di Nuoro","VILLAGRANDE STRISAILI","Affittacamere","II Categoria",2,17,8
+2023,"Provincia di Oristano","ALES","Affittacamere","II Categoria",3,17,9
+2023,"Provincia di Oristano","ARBOREA","Affittacamere","II Categoria",1,12,5
+2023,"Provincia di Oristano","BARADILI","Affittacamere","II Categoria",2,10,2
+2023,"Provincia di Oristano","BAULADU","Affittacamere","II Categoria",1,4,2
+2023,"Provincia di Oristano","BOSA","Affittacamere","II Categoria",34,282,135
+2023,"Provincia di Oristano","CABRAS","Affittacamere","II Categoria",16,142,69
+2023,"Provincia di Oristano","CUGLIERI","Affittacamere","II Categoria",8,56,31
+2023,"Provincia di Oristano","GHILARZA","Affittacamere","II Categoria",1,4,2
+2023,"Provincia di Oristano","LACONI","Affittacamere","II Categoria",3,14,7
+2023,"Provincia di Oristano","MAGOMADAS","Affittacamere","II Categoria",7,68,34
+2023,"Provincia di Oristano","NARBOLIA","Affittacamere","II Categoria",4,41,19
+2023,"Provincia di Oristano","ORISTANO","Affittacamere","II Categoria",23,182,96
+2023,"Provincia di Oristano","PAULILATINO","Affittacamere","II Categoria",2,16,9
+2023,"Provincia di Oristano","RIOLA SARDO","Affittacamere","II Categoria",3,41,18
+2023,"Provincia di Oristano","SAMUGHEO","Affittacamere","II Categoria",1,9,6
+2023,"Provincia di Oristano","SANTU LUSSURGIU","Affittacamere","II Categoria",1,5,3
+2023,"Provincia di Oristano","SEDILO","Affittacamere","II Categoria",2,13,5
+2023,"Provincia di Oristano","SOLARUSSA","Affittacamere","II Categoria",1,14,5
+2023,"Provincia di Oristano","SORRADILE","Affittacamere","II Categoria",1,6,3
+2023,"Provincia di Oristano","TERRALBA","Affittacamere","II Categoria",1,4,3
+2023,"Provincia di Oristano","TRAMATZA","Affittacamere","II Categoria",1,6,3
+2023,"Provincia di Oristano","TRESNURAGHES","Affittacamere","II Categoria",2,13,6
+2023,"Provincia di Sassari","AGLIENTU","Affittacamere","II Categoria",1,10,5
+2023,"Provincia di Sassari","ALGHERO","Affittacamere","II Categoria",120,877,383
+2023,"Provincia di Sassari","ARZACHENA","Affittacamere","II Categoria",7,54,26
+2023,"Provincia di Sassari","BADESI","Affittacamere","II Categoria",3,11,1
+2023,"Provincia di Sassari","BENETUTTI","Affittacamere","II Categoria",1,11,4
+2023,"Provincia di Sassari","BESSUDE","Affittacamere","II Categoria",1,6,3
+2023,"Provincia di Sassari","BUDONI","Affittacamere","II Categoria",5,47,23
+2023,"Provincia di Sassari","CALANGIANUS","Affittacamere","II Categoria",1,9,5
+2023,"Provincia di Sassari","CASTELSARDO","Affittacamere","II Categoria",7,62,27
+2023,"Provincia di Sassari","CHEREMULE","Affittacamere","II Categoria",1,9,3
+2023,"Provincia di Sassari","CODRONGIANOS","Affittacamere","II Categoria",1,1,1
+2023,"Provincia di Sassari","ITTIRI","Affittacamere","II Categoria",2,20,8
+2023,"Provincia di Sassari","LA MADDALENA","Affittacamere","II Categoria",14,116,43
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Affittacamere","II Categoria",4,29,11
+2023,"Provincia di Sassari","LURAS","Affittacamere","II Categoria",1,11,6
+2023,"Provincia di Sassari","MORES","Affittacamere","II Categoria",1,6,4
+2023,"Provincia di Sassari","NUGHEDU SAN NICOLÒ","Affittacamere","II Categoria",1,6,3
+2023,"Provincia di Sassari","OLBIA","Affittacamere","II Categoria",49,380,172
+2023,"Provincia di Sassari","OLMEDO","Affittacamere","II Categoria",1,5,3
+2023,"Provincia di Sassari","OSILO","Affittacamere","II Categoria",1,3,1
+2023,"Provincia di Sassari","OSSI","Affittacamere","II Categoria",1,4,1
+2023,"Provincia di Sassari","PALAU","Affittacamere","II Categoria",4,30,8
+2023,"Provincia di Sassari","PORTO TORRES","Affittacamere","II Categoria",11,94,44
+2023,"Provincia di Sassari","PUTIFIGARI","Affittacamere","II Categoria",1,10,6
+2023,"Provincia di Sassari","SAN TEODORO","Affittacamere","II Categoria",29,306,88
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Affittacamere","II Categoria",18,154,73
+2023,"Provincia di Sassari","SASSARI","Affittacamere","II Categoria",27,189,93
+2023,"Provincia di Sassari","SORSO","Affittacamere","II Categoria",3,31,15
+2023,"Provincia di Sassari","STINTINO","Affittacamere","II Categoria",8,71,38
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Affittacamere","II Categoria",3,10,5
+2023,"Provincia di Sassari","TERGU","Affittacamere","II Categoria",1,8,4
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Affittacamere","II Categoria",2,10,4
+2023,"Provincia di Sassari","VILLANOVA MONTELEONE","Affittacamere","II Categoria",2,11,6
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Affittacamere","III Categoria",1,10,5
+2023,"Città metropolitana di Cagliari","QUARTUCCIU","Affittacamere","III Categoria",1,9,3
+2023,"Città metropolitana di Cagliari","SARROCH","Affittacamere","III Categoria",1,10,5
+2023,"Città metropolitana di Cagliari","SESTU","Affittacamere","III Categoria",1,8,4
+2023,"Provincia del Sud Sardegna","ARMUNGIA","Affittacamere","III Categoria",1,9,0
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Affittacamere","III Categoria",1,4,2
+2023,"Provincia del Sud Sardegna","GERGEI","Affittacamere","III Categoria",1,7,3
+2023,"Provincia del Sud Sardegna","GESTURI","Affittacamere","III Categoria",1,7,4
+2023,"Provincia del Sud Sardegna","GONNESA","Affittacamere","III Categoria",1,4,2
+2023,"Provincia del Sud Sardegna","IGLESIAS","Affittacamere","III Categoria",1,8,4
+2023,"Provincia del Sud Sardegna","MONASTIR","Affittacamere","III Categoria",1,10,5
+2023,"Provincia del Sud Sardegna","PISCINAS","Affittacamere","III Categoria",1,10,5
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Affittacamere","III Categoria",1,5,3
+2023,"Provincia del Sud Sardegna","TEULADA","Affittacamere","III Categoria",1,5,3
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Affittacamere","III Categoria",1,4,2
+2023,"Provincia di Nuoro","DORGALI","Affittacamere","III Categoria",1,6,3
+2023,"Provincia di Nuoro","POSADA","Affittacamere","III Categoria",1,10,5
+2023,"Provincia di Nuoro","SINISCOLA","Affittacamere","III Categoria",3,18,10
+2023,"Provincia di Nuoro","TORPÈ","Affittacamere","III Categoria",1,8,4
+2023,"Provincia di Oristano","POMPU","Affittacamere","III Categoria",1,7,4
+2023,"Provincia di Oristano","RIOLA SARDO","Affittacamere","III Categoria",1,6,4
+2023,"Provincia di Sassari","AGLIENTU","Affittacamere","III Categoria",1,4,0
+2023,"Provincia di Sassari","ALGHERO","Affittacamere","III Categoria",11,94,39
+2023,"Provincia di Sassari","BERCHIDDA","Affittacamere","III Categoria",1,6,4
+2023,"Provincia di Sassari","BUDDUSÒ","Affittacamere","III Categoria",1,4,2
+2023,"Provincia di Sassari","GOLFO ARANCI","Affittacamere","III Categoria",1,4,0
+2023,"Provincia di Sassari","LA MADDALENA","Affittacamere","III Categoria",1,11,0
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Affittacamere","III Categoria",1,6,0
+2023,"Provincia di Sassari","MONTI","Affittacamere","III Categoria",2,13,4
+2023,"Provincia di Sassari","OLBIA","Affittacamere","III Categoria",5,25,13
+2023,"Provincia di Sassari","OZIERI","Affittacamere","III Categoria",1,13,6
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Affittacamere","III Categoria",1,6,3
+2023,"Provincia di Sassari","SASSARI","Affittacamere","III Categoria",2,12,6
+2023,"Provincia di Sassari","SORSO","Affittacamere","III Categoria",2,12,2
+2023,"Città metropolitana di Cagliari","ASSEMINI","Agriturismo",,3,32,17
+2023,"Città metropolitana di Cagliari","QUARTUCCIU","Agriturismo",,1,6,4
+2023,"Città metropolitana di Cagliari","SESTU","Agriturismo",,1,16,8
+2023,"Provincia del Sud Sardegna","ARBUS","Agriturismo",,14,256,115
+2023,"Provincia del Sud Sardegna","CALASETTA","Agriturismo",,1,10,5
+2023,"Provincia del Sud Sardegna","CARBONIA","Agriturismo",,3,60,21
+2023,"Provincia del Sud Sardegna","CASTIADAS","Agriturismo",,10,167,79
+2023,"Provincia del Sud Sardegna","FLUMINIMAGGIORE","Agriturismo",,6,83,35
+2023,"Provincia del Sud Sardegna","GIBA","Agriturismo",,1,10,5
+2023,"Provincia del Sud Sardegna","GONNESA","Agriturismo",,4,70,38
+2023,"Provincia del Sud Sardegna","GONNOSFANADIGA","Agriturismo",,1,13,7
+2023,"Provincia del Sud Sardegna","GUSPINI","Agriturismo",,4,52,18
+2023,"Provincia del Sud Sardegna","IGLESIAS","Agriturismo",,4,61,32
+2023,"Provincia del Sud Sardegna","MANDAS","Agriturismo",,1,8,4
+2023,"Provincia del Sud Sardegna","MASAINAS","Agriturismo",,1,6,3
+2023,"Provincia del Sud Sardegna","MURAVERA","Agriturismo",,3,38,12
+2023,"Provincia del Sud Sardegna","NARCAO","Agriturismo",,1,4,2
+2023,"Provincia del Sud Sardegna","NURALLAO","Agriturismo",,1,12,6
+2023,"Provincia del Sud Sardegna","NURRI","Agriturismo",,1,6,3
+2023,"Provincia del Sud Sardegna","PAULI ARBAREI","Agriturismo",,1,12,6
+2023,"Provincia del Sud Sardegna","SAN GIOVANNI SUERGIU","Agriturismo",,2,34,14
+2023,"Provincia del Sud Sardegna","SANLURI","Agriturismo",,1,14,5
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Agriturismo",,2,34,8
+2023,"Provincia del Sud Sardegna","SANTADI","Agriturismo",,2,20,11
+2023,"Provincia del Sud Sardegna","SERRI","Agriturismo",,1,6,4
+2023,"Provincia del Sud Sardegna","SEULO","Agriturismo",,1,14,8
+2023,"Provincia del Sud Sardegna","SILIQUA","Agriturismo",,1,11,7
+2023,"Provincia del Sud Sardegna","SUELLI","Agriturismo",,1,13,9
+2023,"Provincia del Sud Sardegna","TEULADA","Agriturismo",,4,52,16
+2023,"Provincia del Sud Sardegna","TRATALIAS","Agriturismo",,5,69,34
+2023,"Provincia del Sud Sardegna","TUILI","Agriturismo",,1,10,5
+2023,"Provincia del Sud Sardegna","TURRI","Agriturismo",,1,16,8
+2023,"Provincia del Sud Sardegna","VILLACIDRO","Agriturismo",,3,28,16
+2023,"Provincia del Sud Sardegna","VILLAMASSARGIA","Agriturismo",,3,30,13
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Agriturismo",,1,12,4
+2023,"Provincia di Nuoro","ARITZO","Agriturismo",,1,15,8
+2023,"Provincia di Nuoro","ATZARA","Agriturismo",,1,12,6
+2023,"Provincia di Nuoro","AUSTIS","Agriturismo",,2,32,15
+2023,"Provincia di Nuoro","BARI SARDO","Agriturismo",,2,34,17
+2023,"Provincia di Nuoro","BELVÌ","Agriturismo",,1,8,4
+2023,"Provincia di Nuoro","BITTI","Agriturismo",,3,45,20
+2023,"Provincia di Nuoro","CARDEDU","Agriturismo",,2,14,7
+2023,"Provincia di Nuoro","DESULO","Agriturismo",,2,36,13
+2023,"Provincia di Nuoro","DORGALI","Agriturismo",,18,266,120
+2023,"Provincia di Nuoro","ELINI","Agriturismo",,1,10,6
+2023,"Provincia di Nuoro","FONNI","Agriturismo",,6,63,30
+2023,"Provincia di Nuoro","GALTELLÌ","Agriturismo",,5,57,33
+2023,"Provincia di Nuoro","GAVOI","Agriturismo",,3,32,13
+2023,"Provincia di Nuoro","GIRASOLE","Agriturismo",,2,15,8
+2023,"Provincia di Nuoro","ILBONO","Agriturismo",,2,32,16
+2023,"Provincia di Nuoro","IRGOLI","Agriturismo",,3,44,16
+2023,"Provincia di Nuoro","JERZU","Agriturismo",,1,10,4
+2023,"Provincia di Nuoro","LOCULI","Agriturismo",,2,24,11
+2023,"Provincia di Nuoro","LODÈ","Agriturismo",,2,24,11
+2023,"Provincia di Nuoro","LULA","Agriturismo",,3,26,12
+2023,"Provincia di Nuoro","MAMOIADA","Agriturismo",,2,17,7
+2023,"Provincia di Nuoro","MEANA SARDO","Agriturismo",,1,8,4
+2023,"Provincia di Nuoro","NUORO","Agriturismo",,4,63,29
+2023,"Provincia di Nuoro","OLIENA","Agriturismo",,2,29,14
+2023,"Provincia di Nuoro","OLLOLAI","Agriturismo",,1,20,11
+2023,"Provincia di Nuoro","OLZAI","Agriturismo",,1,10,5
+2023,"Provincia di Nuoro","ONIFERI","Agriturismo",,1,12,6
+2023,"Provincia di Nuoro","ORANI","Agriturismo",,1,12,6
+2023,"Provincia di Nuoro","ORGOSOLO","Agriturismo",,3,23,11
+2023,"Provincia di Nuoro","OROSEI","Agriturismo",,11,126,60
+2023,"Provincia di Nuoro","OSIDDA","Agriturismo",,1,12,6
+2023,"Provincia di Nuoro","OSINI","Agriturismo",,1,9,4
+2023,"Provincia di Nuoro","OVODDA","Agriturismo",,2,13,6
+2023,"Provincia di Nuoro","POSADA","Agriturismo",,3,40,22
+2023,"Provincia di Nuoro","SARULE","Agriturismo",,1,20,9
+2023,"Provincia di Nuoro","SILANUS","Agriturismo",,1,12,3
+2023,"Provincia di Nuoro","SINDIA","Agriturismo",,2,29,10
+2023,"Provincia di Nuoro","SINISCOLA","Agriturismo",,12,157,80
+2023,"Provincia di Nuoro","SORGONO","Agriturismo",,2,22,10
+2023,"Provincia di Nuoro","TERTENIA","Agriturismo",,1,3,1
+2023,"Provincia di Nuoro","TETI","Agriturismo",,4,50,33
+2023,"Provincia di Nuoro","TONARA","Agriturismo",,3,35,21
+2023,"Provincia di Nuoro","TORPÈ","Agriturismo",,3,45,18
+2023,"Provincia di Nuoro","TORTOLÌ","Agriturismo",,2,30,15
+2023,"Provincia di Nuoro","TRIEI","Agriturismo",,1,21,10
+2023,"Provincia di Nuoro","VILLAGRANDE STRISAILI","Agriturismo",,1,10,5
+2023,"Provincia di Oristano","ABBASANTA","Agriturismo",,1,10,6
+2023,"Provincia di Oristano","ALLAI","Agriturismo",,1,16,8
+2023,"Provincia di Oristano","ASSOLO","Agriturismo",,1,14,7
+2023,"Provincia di Oristano","BAULADU","Agriturismo",,1,9,4
+2023,"Provincia di Oristano","BOSA","Agriturismo",,2,21,6
+2023,"Provincia di Oristano","CABRAS","Agriturismo",,22,371,158
+2023,"Provincia di Oristano","CUGLIERI","Agriturismo",,5,71,36
+2023,"Provincia di Oristano","GONNOSTRAMATZA","Agriturismo",,1,20,7
+2023,"Provincia di Oristano","LACONI","Agriturismo",,1,20,10
+2023,"Provincia di Oristano","MARRUBIU","Agriturismo",,1,12,6
+2023,"Provincia di Oristano","MILIS","Agriturismo",,1,12,6
+2023,"Provincia di Oristano","MORGONGIORI","Agriturismo",,1,12,5
+2023,"Provincia di Oristano","NARBOLIA","Agriturismo",,3,20,10
+2023,"Provincia di Oristano","NEONELI","Agriturismo",,2,25,17
+2023,"Provincia di Oristano","NURACHI","Agriturismo",,3,36,16
+2023,"Provincia di Oristano","ORISTANO","Agriturismo",,4,56,23
+2023,"Provincia di Oristano","PALMAS ARBOREA","Agriturismo",,3,40,20
+2023,"Provincia di Oristano","RIOLA SARDO","Agriturismo",,9,135,61
+2023,"Provincia di Oristano","SAGAMA","Agriturismo",,1,22,7
+2023,"Provincia di Oristano","SAMUGHEO","Agriturismo",,2,22,12
+2023,"Provincia di Oristano","SAN NICOLÒ D'ARCIDANO","Agriturismo",,1,12,5
+2023,"Provincia di Oristano","SAN VERO MILIS","Agriturismo",,9,121,60
+2023,"Provincia di Oristano","SANTA GIUSTA","Agriturismo",,1,3,2
+2023,"Provincia di Oristano","SANTU LUSSURGIU","Agriturismo",,1,24,10
+2023,"Provincia di Oristano","SCANO DI MONTIFERRO","Agriturismo",,1,10,5
+2023,"Provincia di Oristano","SEDILO","Agriturismo",,1,6,2
+2023,"Provincia di Oristano","SENNARIOLO","Agriturismo",,2,34,17
+2023,"Provincia di Oristano","SIAMAGGIORE","Agriturismo",,3,40,18
+2023,"Provincia di Oristano","SIAMANNA","Agriturismo",,1,8,4
+2023,"Provincia di Oristano","SIMAXIS","Agriturismo",,2,22,10
+2023,"Provincia di Oristano","SINI","Agriturismo",,1,8,3
+2023,"Provincia di Oristano","SUNI","Agriturismo",,1,20,10
+2023,"Provincia di Oristano","TRAMATZA","Agriturismo",,1,14,7
+2023,"Provincia di Oristano","TRESNURAGHES","Agriturismo",,2,30,13
+2023,"Provincia di Oristano","URAS","Agriturismo",,2,16,9
+2023,"Provincia di Oristano","VILLA SANT'ANTONIO","Agriturismo",,1,10,5
+2023,"Provincia di Oristano","VILLAURBANA","Agriturismo",,1,10,5
+2023,"Provincia di Oristano","ZEDDIANI","Agriturismo",,1,4,2
+2023,"Provincia di Oristano","ZERFALIU","Agriturismo",,1,16,6
+2023,"Provincia di Sassari","AGGIUS","Agriturismo",,3,38,21
+2023,"Provincia di Sassari","AGLIENTU","Agriturismo",,10,120,55
+2023,"Provincia di Sassari","ALGHERO","Agriturismo",,33,404,191
+2023,"Provincia di Sassari","ANELA","Agriturismo",,1,6,5
+2023,"Provincia di Sassari","ARZACHENA","Agriturismo",,18,210,122
+2023,"Provincia di Sassari","BADESI","Agriturismo",,1,6,4
+2023,"Provincia di Sassari","BENETUTTI","Agriturismo",,1,2,0
+2023,"Provincia di Sassari","BERCHIDDA","Agriturismo",,1,5,5
+2023,"Provincia di Sassari","BESSUDE","Agriturismo",,1,7,4
+2023,"Provincia di Sassari","BONO","Agriturismo",,1,2,1
+2023,"Provincia di Sassari","BONORVA","Agriturismo",,1,6,2
+2023,"Provincia di Sassari","BORTIGIADAS","Agriturismo",,1,9,5
+2023,"Provincia di Sassari","BUDDUSÒ","Agriturismo",,2,30,8
+2023,"Provincia di Sassari","BUDONI","Agriturismo",,4,45,16
+2023,"Provincia di Sassari","BURGOS","Agriturismo",,1,9,3
+2023,"Provincia di Sassari","CALANGIANUS","Agriturismo",,2,36,14
+2023,"Provincia di Sassari","CHIARAMONTI","Agriturismo",,2,20,10
+2023,"Provincia di Sassari","ITTIRI","Agriturismo",,1,16,9
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Agriturismo",,4,39,0
+2023,"Provincia di Sassari","LUOGOSANTO","Agriturismo",,10,113,36
+2023,"Provincia di Sassari","LURAS","Agriturismo",,1,10,5
+2023,"Provincia di Sassari","MARTIS","Agriturismo",,3,26,19
+2023,"Provincia di Sassari","MONTI","Agriturismo",,8,87,32
+2023,"Provincia di Sassari","NULVI","Agriturismo",,7,125,40
+2023,"Provincia di Sassari","OLBIA","Agriturismo",,23,225,85
+2023,"Provincia di Sassari","OLMEDO","Agriturismo",,5,51,21
+2023,"Provincia di Sassari","OZIERI","Agriturismo",,1,11,5
+2023,"Provincia di Sassari","PADRIA","Agriturismo",,1,16,0
+2023,"Provincia di Sassari","PADRU","Agriturismo",,14,178,68
+2023,"Provincia di Sassari","PALAU","Agriturismo",,1,18,0
+2023,"Provincia di Sassari","PATTADA","Agriturismo",,1,12,6
+2023,"Provincia di Sassari","PERFUGAS","Agriturismo",,2,17,9
+2023,"Provincia di Sassari","PORTO TORRES","Agriturismo",,3,43,12
+2023,"Provincia di Sassari","PUTIFIGARI","Agriturismo",,1,8,4
+2023,"Provincia di Sassari","ROMANA","Agriturismo",,1,20,0
+2023,"Provincia di Sassari","SAN TEODORO","Agriturismo",,3,49,19
+2023,"Provincia di Sassari","SANT'ANTONIO DI GALLURA","Agriturismo",,2,15,2
+2023,"Provincia di Sassari","SANTA MARIA COGHINAS","Agriturismo",,2,18,9
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Agriturismo",,4,24,14
+2023,"Provincia di Sassari","SASSARI","Agriturismo",,32,339,122
+2023,"Provincia di Sassari","SEDINI","Agriturismo",,1,7,3
+2023,"Provincia di Sassari","SORSO","Agriturismo",,1,12,6
+2023,"Provincia di Sassari","STINTINO","Agriturismo",,6,74,38
+2023,"Provincia di Sassari","TELTI","Agriturismo",,2,14,7
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Agriturismo",,6,56,27
+2023,"Provincia di Sassari","TERGU","Agriturismo",,1,8,4
+2023,"Provincia di Sassari","THIESI","Agriturismo",,1,4,2
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Agriturismo",,3,59,27
+2023,"Provincia di Sassari","TULA","Agriturismo",,1,20,11
+2023,"Provincia di Sassari","VALLEDORIA","Agriturismo",,6,60,13
+2023,"Provincia di Sassari","VILLANOVA MONTELEONE","Agriturismo",,3,24,11
+2023,"Provincia di Oristano","SAMUGHEO","Agriturismo","Non definito",1,6,3
+2023,"Città metropolitana di Cagliari","CAGLIARI","Albergo","1 Stella",4,75,35
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Albergo","1 Stella",1,18,13
+2023,"Città metropolitana di Cagliari","SARROCH","Albergo","1 Stella",1,25,14
+2023,"Provincia del Sud Sardegna","ARBUS","Albergo","1 Stella",1,14,8
+2023,"Provincia del Sud Sardegna","CARBONIA","Albergo","1 Stella",1,10,7
+2023,"Provincia del Sud Sardegna","FLUMINIMAGGIORE","Albergo","1 Stella",1,18,9
+2023,"Provincia del Sud Sardegna","MURAVERA","Albergo","1 Stella",1,24,16
+2023,"Provincia del Sud Sardegna","SAN GAVINO MONREALE","Albergo","1 Stella",1,19,16
+2023,"Provincia del Sud Sardegna","VALLERMOSA","Albergo","1 Stella",1,24,12
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Albergo","1 Stella",1,20,8
+2023,"Provincia del Sud Sardegna","VILLASOR","Albergo","1 Stella",1,13,11
+2023,"Provincia di Nuoro","DESULO","Albergo","1 Stella",1,19,7
+2023,"Provincia di Nuoro","JERZU","Albergo","1 Stella",1,19,8
+2023,"Provincia di Nuoro","MACOMER","Albergo","1 Stella",1,18,12
+2023,"Provincia di Nuoro","ORTUERI","Albergo","1 Stella",1,13,8
+2023,"Provincia di Nuoro","TONARA","Albergo","1 Stella",1,10,7
+2023,"Provincia di Nuoro","TORTOLÌ","Albergo","1 Stella",1,20,10
+2023,"Provincia di Oristano","BOSA","Albergo","1 Stella",1,24,14
+2023,"Provincia di Oristano","TERRALBA","Albergo","1 Stella",1,9,8
+2023,"Provincia di Sassari","BUDONI","Albergo","1 Stella",2,41,21
+2023,"Provincia di Sassari","OLBIA","Albergo","1 Stella",1,13,7
+2023,"Città metropolitana di Cagliari","CAGLIARI","Albergo","2 Stelle",3,67,37
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Albergo","2 Stelle",1,23,15
+2023,"Città metropolitana di Cagliari","SARROCH","Albergo","2 Stelle",1,24,15
+2023,"Città metropolitana di Cagliari","SETTIMO SAN PIETRO","Albergo","2 Stelle",1,20,7
+2023,"Provincia del Sud Sardegna","ARBUS","Albergo","2 Stelle",2,37,16
+2023,"Provincia del Sud Sardegna","CALASETTA","Albergo","2 Stelle",1,36,20
+2023,"Provincia del Sud Sardegna","CASTIADAS","Albergo","2 Stelle",1,20,7
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Albergo","2 Stelle",1,37,20
+2023,"Provincia del Sud Sardegna","GIBA","Albergo","2 Stelle",1,28,13
+2023,"Provincia del Sud Sardegna","GUSPINI","Albergo","2 Stelle",1,20,17
+2023,"Provincia del Sud Sardegna","ISILI","Albergo","2 Stelle",1,25,14
+2023,"Provincia del Sud Sardegna","MURAVERA","Albergo","2 Stelle",1,26,13
+2023,"Provincia del Sud Sardegna","NURAMINIS","Albergo","2 Stelle",1,37,20
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Albergo","2 Stelle",1,25,15
+2023,"Provincia del Sud Sardegna","SARDARA","Albergo","2 Stelle",2,59,28
+2023,"Provincia del Sud Sardegna","SERRENTI","Albergo","2 Stelle",1,18,11
+2023,"Provincia del Sud Sardegna","SEULO","Albergo","2 Stelle",1,22,10
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Albergo","2 Stelle",1,49,27
+2023,"Provincia di Nuoro","ARITZO","Albergo","2 Stelle",1,40,16
+2023,"Provincia di Nuoro","BAUNEI","Albergo","2 Stelle",1,37,17
+2023,"Provincia di Nuoro","BELVÌ","Albergo","2 Stelle",1,24,12
+2023,"Provincia di Nuoro","DORGALI","Albergo","2 Stelle",3,45,24
+2023,"Provincia di Nuoro","FONNI","Albergo","2 Stelle",1,12,7
+2023,"Provincia di Nuoro","GALTELLÌ","Albergo","2 Stelle",3,37,22
+2023,"Provincia di Nuoro","IRGOLI","Albergo","2 Stelle",1,21,7
+2023,"Provincia di Nuoro","LODÈ","Albergo","2 Stelle",1,22,11
+2023,"Provincia di Nuoro","MACOMER","Albergo","2 Stelle",1,25,15
+2023,"Provincia di Nuoro","NUORO","Albergo","2 Stelle",1,20,13
+2023,"Provincia di Nuoro","ORGOSOLO","Albergo","2 Stelle",2,55,32
+2023,"Provincia di Nuoro","OTTANA","Albergo","2 Stelle",2,39,34
+2023,"Provincia di Nuoro","POSADA","Albergo","2 Stelle",2,43,21
+2023,"Provincia di Nuoro","SORGONO","Albergo","2 Stelle",1,24,14
+2023,"Provincia di Nuoro","TONARA","Albergo","2 Stelle",1,24,14
+2023,"Provincia di Oristano","ARBOREA","Albergo","2 Stelle",4,129,53
+2023,"Provincia di Oristano","BOSA","Albergo","2 Stelle",1,22,12
+2023,"Provincia di Oristano","CABRAS","Albergo","2 Stelle",1,20,10
+2023,"Provincia di Oristano","ORISTANO","Albergo","2 Stelle",1,25,12
+2023,"Provincia di Oristano","SANTU LUSSURGIU","Albergo","2 Stelle",1,22,12
+2023,"Provincia di Oristano","TRAMATZA","Albergo","2 Stelle",1,27,14
+2023,"Provincia di Oristano","TRESNURAGHES","Albergo","2 Stelle",1,16,9
+2023,"Provincia di Sassari","AGLIENTU","Albergo","2 Stelle",1,12,7
+2023,"Provincia di Sassari","ARZACHENA","Albergo","2 Stelle",1,20,10
+2023,"Provincia di Sassari","BADESI","Albergo","2 Stelle",1,12,8
+2023,"Provincia di Sassari","BULTEI","Albergo","2 Stelle",1,25,15
+2023,"Provincia di Sassari","CASTELSARDO","Albergo","2 Stelle",1,22,12
+2023,"Provincia di Sassari","GOLFO ARANCI","Albergo","2 Stelle",2,39,15
+2023,"Provincia di Sassari","OLBIA","Albergo","2 Stelle",1,22,15
+2023,"Provincia di Sassari","PADRU","Albergo","2 Stelle",1,18,9
+2023,"Provincia di Sassari","SAN TEODORO","Albergo","2 Stelle",1,25,0
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Albergo","2 Stelle",1,26,11
+2023,"Provincia di Sassari","SASSARI","Albergo","2 Stelle",2,66,35
+2023,"Provincia di Sassari","SENNORI","Albergo","2 Stelle",1,17,9
+2023,"Provincia di Sassari","STINTINO","Albergo","2 Stelle",1,18,8
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Albergo","2 Stelle",1,14,7
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Albergo","2 Stelle",2,25,17
+2023,"Provincia di Sassari","VALLEDORIA","Albergo","2 Stelle",1,20,10
+2023,"Provincia di Sassari","VILLANOVA MONTELEONE","Albergo","2 Stelle",1,24,11
+2023,"Città metropolitana di Cagliari","CAGLIARI","Albergo","3 Stelle",13,647,337
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Albergo","3 Stelle",2,40,20
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Albergo","3 Stelle",1,30,15
+2023,"Città metropolitana di Cagliari","PULA","Albergo","3 Stelle",6,234,121
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Albergo","3 Stelle",3,57,30
+2023,"Città metropolitana di Cagliari","QUARTUCCIU","Albergo","3 Stelle",2,83,42
+2023,"Città metropolitana di Cagliari","SELARGIUS","Albergo","3 Stelle",1,147,87
+2023,"Città metropolitana di Cagliari","SINNAI","Albergo","3 Stelle",2,79,28
+2023,"Città metropolitana di Cagliari","UTA","Albergo","3 Stelle",1,20,10
+2023,"Città metropolitana di Cagliari","VILLA SAN PIETRO","Albergo","3 Stelle",1,20,10
+2023,"Provincia del Sud Sardegna","ARBUS","Albergo","3 Stelle",5,132,73
+2023,"Provincia del Sud Sardegna","BARUMINI","Albergo","3 Stelle",2,35,17
+2023,"Provincia del Sud Sardegna","BUGGERRU","Albergo","3 Stelle",1,22,11
+2023,"Provincia del Sud Sardegna","CALASETTA","Albergo","3 Stelle",4,283,135
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Albergo","3 Stelle",7,251,135
+2023,"Provincia del Sud Sardegna","CASTIADAS","Albergo","3 Stelle",1,20,10
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Albergo","3 Stelle",2,109,48
+2023,"Provincia del Sud Sardegna","DOMUSNOVAS","Albergo","3 Stelle",1,44,19
+2023,"Provincia del Sud Sardegna","FLUMINIMAGGIORE","Albergo","3 Stelle",1,20,14
+2023,"Provincia del Sud Sardegna","GUSPINI","Albergo","3 Stelle",1,12,9
+2023,"Provincia del Sud Sardegna","IGLESIAS","Albergo","3 Stelle",4,83,48
+2023,"Provincia del Sud Sardegna","MONASTIR","Albergo","3 Stelle",1,46,22
+2023,"Provincia del Sud Sardegna","MURAVERA","Albergo","3 Stelle",3,487,239
+2023,"Provincia del Sud Sardegna","NARCAO","Albergo","3 Stelle",1,17,9
+2023,"Provincia del Sud Sardegna","NURRI","Albergo","3 Stelle",1,20,10
+2023,"Provincia del Sud Sardegna","PORTOSCUSO","Albergo","3 Stelle",2,115,55
+2023,"Provincia del Sud Sardegna","SAN GAVINO MONREALE","Albergo","3 Stelle",1,13,10
+2023,"Provincia del Sud Sardegna","SAN GIOVANNI SUERGIU","Albergo","3 Stelle",1,20,12
+2023,"Provincia del Sud Sardegna","SAN SPERATE","Albergo","3 Stelle",1,23,8
+2023,"Provincia del Sud Sardegna","SANLURI","Albergo","3 Stelle",1,19,11
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Albergo","3 Stelle",4,193,97
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Albergo","3 Stelle",4,112,57
+2023,"Provincia del Sud Sardegna","SARDARA","Albergo","3 Stelle",1,170,83
+2023,"Provincia del Sud Sardegna","SENORBÌ","Albergo","3 Stelle",1,24,12
+2023,"Provincia del Sud Sardegna","TEULADA","Albergo","3 Stelle",2,70,44
+2023,"Provincia del Sud Sardegna","VILLANOVAFORRU","Albergo","3 Stelle",1,72,30
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Albergo","3 Stelle",1,20,20
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Albergo","3 Stelle",24,721,360
+2023,"Provincia di Nuoro","ARITZO","Albergo","3 Stelle",1,50,31
+2023,"Provincia di Nuoro","BARI SARDO","Albergo","3 Stelle",2,81,35
+2023,"Provincia di Nuoro","BAUNEI","Albergo","3 Stelle",5,198,104
+2023,"Provincia di Nuoro","BOLOTANA","Albergo","3 Stelle",1,84,53
+2023,"Provincia di Nuoro","CARDEDU","Albergo","3 Stelle",4,105,47
+2023,"Provincia di Nuoro","DORGALI","Albergo","3 Stelle",15,587,307
+2023,"Provincia di Nuoro","FONNI","Albergo","3 Stelle",1,88,50
+2023,"Provincia di Nuoro","GAVOI","Albergo","3 Stelle",2,117,58
+2023,"Provincia di Nuoro","GIRASOLE","Albergo","3 Stelle",1,18,10
+2023,"Provincia di Nuoro","ILBONO","Albergo","3 Stelle",1,20,13
+2023,"Provincia di Nuoro","JERZU","Albergo","3 Stelle",1,25,11
+2023,"Provincia di Nuoro","LANUSEI","Albergo","3 Stelle",3,55,25
+2023,"Provincia di Nuoro","LOTZORAI","Albergo","3 Stelle",3,163,87
+2023,"Provincia di Nuoro","MACOMER","Albergo","3 Stelle",1,10,9
+2023,"Provincia di Nuoro","NUORO","Albergo","3 Stelle",3,279,145
+2023,"Provincia di Nuoro","OLIENA","Albergo","3 Stelle",1,32,16
+2023,"Provincia di Nuoro","OROSEI","Albergo","3 Stelle",9,355,175
+2023,"Provincia di Nuoro","OSINI","Albergo","3 Stelle",2,38,22
+2023,"Provincia di Nuoro","POSADA","Albergo","3 Stelle",3,96,51
+2023,"Provincia di Nuoro","SINISCOLA","Albergo","3 Stelle",5,150,76
+2023,"Provincia di Nuoro","TALANA","Albergo","3 Stelle",1,20,10
+2023,"Provincia di Nuoro","TERTENIA","Albergo","3 Stelle",2,40,21
+2023,"Provincia di Nuoro","TONARA","Albergo","3 Stelle",1,22,11
+2023,"Provincia di Nuoro","TORTOLÌ","Albergo","3 Stelle",5,251,109
+2023,"Provincia di Nuoro","ULASSAI","Albergo","3 Stelle",1,24,13
+2023,"Provincia di Nuoro","URZULEI","Albergo","3 Stelle",1,70,36
+2023,"Provincia di Nuoro","VILLAGRANDE STRISAILI","Albergo","3 Stelle",1,14,7
+2023,"Provincia di Oristano","ARBOREA","Albergo","3 Stelle",2,274,81
+2023,"Provincia di Oristano","BOSA","Albergo","3 Stelle",4,211,103
+2023,"Provincia di Oristano","CABRAS","Albergo","3 Stelle",2,60,33
+2023,"Provincia di Oristano","CUGLIERI","Albergo","3 Stelle",1,24,12
+2023,"Provincia di Oristano","MAGOMADAS","Albergo","3 Stelle",1,28,15
+2023,"Provincia di Oristano","ORISTANO","Albergo","3 Stelle",3,192,97
+2023,"Provincia di Oristano","RIOLA SARDO","Albergo","3 Stelle",1,17,7
+2023,"Provincia di Oristano","SAN VERO MILIS","Albergo","3 Stelle",1,24,9
+2023,"Provincia di Sassari","AGLIENTU","Albergo","3 Stelle",4,127,31
+2023,"Provincia di Sassari","ALGHERO","Albergo","3 Stelle",14,1403,640
+2023,"Provincia di Sassari","ARZACHENA","Albergo","3 Stelle",21,1462,659
+2023,"Provincia di Sassari","BADESI","Albergo","3 Stelle",3,106,52
+2023,"Provincia di Sassari","BENETUTTI","Albergo","3 Stelle",1,120,61
+2023,"Provincia di Sassari","BERCHIDDA","Albergo","3 Stelle",2,103,55
+2023,"Provincia di Sassari","BONO","Albergo","3 Stelle",1,34,0
+2023,"Provincia di Sassari","BORTIGIADAS","Albergo","3 Stelle",1,21,8
+2023,"Provincia di Sassari","BUDDUSÒ","Albergo","3 Stelle",1,42,26
+2023,"Provincia di Sassari","BUDONI","Albergo","3 Stelle",10,916,451
+2023,"Provincia di Sassari","CASTELSARDO","Albergo","3 Stelle",5,346,146
+2023,"Provincia di Sassari","GOLFO ARANCI","Albergo","3 Stelle",4,150,78
+2023,"Provincia di Sassari","LA MADDALENA","Albergo","3 Stelle",10,1249,588
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Albergo","3 Stelle",2,148,64
+2023,"Provincia di Sassari","LUOGOSANTO","Albergo","3 Stelle",1,128,64
+2023,"Provincia di Sassari","LURAS","Albergo","3 Stelle",1,20,11
+2023,"Provincia di Sassari","MORES","Albergo","3 Stelle",1,20,10
+2023,"Provincia di Sassari","OLBIA","Albergo","3 Stelle",15,839,393
+2023,"Provincia di Sassari","OZIERI","Albergo","3 Stelle",1,28,14
+2023,"Provincia di Sassari","PALAU","Albergo","3 Stelle",6,324,126
+2023,"Provincia di Sassari","PATTADA","Albergo","3 Stelle",2,93,11
+2023,"Provincia di Sassari","PORTO TORRES","Albergo","3 Stelle",2,126,22
+2023,"Provincia di Sassari","SAN TEODORO","Albergo","3 Stelle",14,878,472
+2023,"Provincia di Sassari","SANT'ANTONIO DI GALLURA","Albergo","3 Stelle",1,30,15
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Albergo","3 Stelle",18,3342,1049
+2023,"Provincia di Sassari","SASSARI","Albergo","3 Stelle",3,443,234
+2023,"Provincia di Sassari","SORSO","Albergo","3 Stelle",3,550,236
+2023,"Provincia di Sassari","STINTINO","Albergo","3 Stelle",5,226,113
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Albergo","3 Stelle",4,343,165
+2023,"Provincia di Sassari","THIESI","Albergo","3 Stelle",1,31,15
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Albergo","3 Stelle",2,60,29
+2023,"Provincia di Sassari","URI","Albergo","3 Stelle",1,29,15
+2023,"Provincia di Sassari","VALLEDORIA","Albergo","3 Stelle",3,148,70
+2023,"Città metropolitana di Cagliari","ASSEMINI","Albergo","4 Stelle",1,182,84
+2023,"Città metropolitana di Cagliari","CAGLIARI","Albergo","4 Stelle",8,1351,645
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Albergo","4 Stelle",1,153,71
+2023,"Città metropolitana di Cagliari","PULA","Albergo","4 Stelle",16,2679,1193
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Albergo","4 Stelle",2,845,370
+2023,"Provincia del Sud Sardegna","ARBUS","Albergo","4 Stelle",2,95,52
+2023,"Provincia del Sud Sardegna","BUGGERRU","Albergo","4 Stelle",1,68,28
+2023,"Provincia del Sud Sardegna","CARBONIA","Albergo","4 Stelle",1,132,66
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Albergo","4 Stelle",3,178,86
+2023,"Provincia del Sud Sardegna","CASTIADAS","Albergo","4 Stelle",5,1616,720
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Albergo","4 Stelle",3,1276,563
+2023,"Provincia del Sud Sardegna","IGLESIAS","Albergo","4 Stelle",1,63,26
+2023,"Provincia del Sud Sardegna","MURAVERA","Albergo","4 Stelle",6,1184,520
+2023,"Provincia del Sud Sardegna","PORTOSCUSO","Albergo","4 Stelle",2,114,47
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Albergo","4 Stelle",2,427,187
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Albergo","4 Stelle",2,139,69
+2023,"Provincia del Sud Sardegna","SANTADI","Albergo","4 Stelle",1,33,0
+2023,"Provincia del Sud Sardegna","SARDARA","Albergo","4 Stelle",1,102,51
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Albergo","4 Stelle",6,770,319
+2023,"Provincia di Nuoro","ARITZO","Albergo","4 Stelle",1,113,50
+2023,"Provincia di Nuoro","BARI SARDO","Albergo","4 Stelle",2,221,103
+2023,"Provincia di Nuoro","BAUNEI","Albergo","4 Stelle",2,87,40
+2023,"Provincia di Nuoro","BITTI","Albergo","4 Stelle",1,40,18
+2023,"Provincia di Nuoro","CARDEDU","Albergo","4 Stelle",2,556,200
+2023,"Provincia di Nuoro","DORGALI","Albergo","4 Stelle",10,1272,619
+2023,"Provincia di Nuoro","GAVOI","Albergo","4 Stelle",1,180,90
+2023,"Provincia di Nuoro","LANUSEI","Albergo","4 Stelle",1,164,77
+2023,"Provincia di Nuoro","OLIENA","Albergo","4 Stelle",1,134,67
+2023,"Provincia di Nuoro","OROSEI","Albergo","4 Stelle",8,2263,1044
+2023,"Provincia di Nuoro","POSADA","Albergo","4 Stelle",3,131,71
+2023,"Provincia di Nuoro","SINISCOLA","Albergo","4 Stelle",1,391,184
+2023,"Provincia di Nuoro","TORTOLÌ","Albergo","4 Stelle",6,483,237
+2023,"Provincia di Nuoro","VILLAGRANDE STRISAILI","Albergo","4 Stelle",1,72,24
+2023,"Provincia di Oristano","ABBASANTA","Albergo","4 Stelle",1,25,10
+2023,"Provincia di Oristano","ARBOREA","Albergo","4 Stelle",4,730,321
+2023,"Provincia di Oristano","BOSA","Albergo","4 Stelle",1,254,139
+2023,"Provincia di Oristano","CABRAS","Albergo","4 Stelle",1,22,11
+2023,"Provincia di Oristano","CUGLIERI","Albergo","4 Stelle",1,57,29
+2023,"Provincia di Oristano","FORDONGIANUS","Albergo","4 Stelle",1,200,90
+2023,"Provincia di Oristano","ORISTANO","Albergo","4 Stelle",3,403,210
+2023,"Provincia di Oristano","SAN VERO MILIS","Albergo","4 Stelle",2,96,47
+2023,"Provincia di Sassari","ALGHERO","Albergo","4 Stelle",14,3742,1453
+2023,"Provincia di Sassari","ARZACHENA","Albergo","4 Stelle",31,4536,2020
+2023,"Provincia di Sassari","BADESI","Albergo","4 Stelle",2,44,20
+2023,"Provincia di Sassari","BENETUTTI","Albergo","4 Stelle",1,46,23
+2023,"Provincia di Sassari","BUDDUSÒ","Albergo","4 Stelle",2,57,32
+2023,"Provincia di Sassari","BUDONI","Albergo","4 Stelle",9,3125,1300
+2023,"Provincia di Sassari","CASTELSARDO","Albergo","4 Stelle",6,919,400
+2023,"Provincia di Sassari","GOLFO ARANCI","Albergo","4 Stelle",7,1793,715
+2023,"Provincia di Sassari","LA MADDALENA","Albergo","4 Stelle",2,230,94
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Albergo","4 Stelle",4,341,145
+2023,"Provincia di Sassari","LURAS","Albergo","4 Stelle",1,20,13
+2023,"Provincia di Sassari","OLBIA","Albergo","4 Stelle",33,3610,1623
+2023,"Provincia di Sassari","PALAU","Albergo","4 Stelle",5,1858,723
+2023,"Provincia di Sassari","PORTO TORRES","Albergo","4 Stelle",1,87,36
+2023,"Provincia di Sassari","SAN TEODORO","Albergo","4 Stelle",4,922,374
+2023,"Provincia di Sassari","SANT'ANTONIO DI GALLURA","Albergo","4 Stelle",2,60,36
+2023,"Provincia di Sassari","SANTA MARIA COGHINAS","Albergo","4 Stelle",2,142,60
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Albergo","4 Stelle",6,677,301
+2023,"Provincia di Sassari","SASSARI","Albergo","4 Stelle",3,431,269
+2023,"Provincia di Sassari","SORSO","Albergo","4 Stelle",2,1156,448
+2023,"Provincia di Sassari","STINTINO","Albergo","4 Stelle",5,1589,617
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Albergo","4 Stelle",3,225,78
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Albergo","4 Stelle",4,759,121
+2023,"Provincia di Sassari","VALLEDORIA","Albergo","4 Stelle",2,340,78
+2023,"Provincia di Sassari","ARZACHENA","Albergo","4 Stelle Superior",1,95,42
+2023,"Città metropolitana di Cagliari","CAGLIARI","Albergo","5 Stelle",2,192,94
+2023,"Città metropolitana di Cagliari","PULA","Albergo","5 Stelle",5,1124,475
+2023,"Provincia del Sud Sardegna","CASTIADAS","Albergo","5 Stelle",1,133,61
+2023,"Provincia del Sud Sardegna","DOLIANOVA","Albergo","5 Stelle",1,20,10
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Albergo","5 Stelle",2,228,83
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Albergo","5 Stelle",2,1044,429
+2023,"Provincia di Oristano","NARBOLIA","Albergo","5 Stelle",1,332,109
+2023,"Provincia di Sassari","ALGHERO","Albergo","5 Stelle",2,534,203
+2023,"Provincia di Sassari","ARZACHENA","Albergo","5 Stelle",13,1752,807
+2023,"Provincia di Sassari","LA MADDALENA","Albergo","5 Stelle",1,202,92
+2023,"Provincia di Sassari","OLBIA","Albergo","5 Stelle",2,519,224
+2023,"Provincia di Sassari","PALAU","Albergo","5 Stelle",1,131,65
+2023,"Provincia di Sassari","SAN TEODORO","Albergo","5 Stelle",2,434,178
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Albergo","5 Stelle",3,978,476
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Albergo","5 Stelle",1,621,214
+2023,"Provincia di Sassari","ARZACHENA","Albergo","5 Stelle Lusso",3,621,282
+2023,"Provincia di Sassari","SAN TEODORO","Albergo","5 Stelle Lusso",1,292,0
+2023,"Provincia di Nuoro","DORGALI","Albergo diffuso","2 Stelle",1,12,7
+2023,"Provincia di Sassari","ITTIREDDU","Albergo diffuso","2 Stelle",2,20,13
+2023,"Città metropolitana di Cagliari","CAGLIARI","Albergo diffuso","3 Stelle",1,26,12
+2023,"Provincia del Sud Sardegna","ORROLI","Albergo diffuso","3 Stelle",1,23,11
+2023,"Provincia di Nuoro","LOCERI","Albergo diffuso","3 Stelle",1,16,8
+2023,"Provincia di Oristano","BARESSA","Albergo diffuso","3 Stelle",2,24,12
+2023,"Provincia di Oristano","BOSA","Albergo diffuso","3 Stelle",8,94,38
+2023,"Provincia di Oristano","SANTU LUSSURGIU","Albergo diffuso","3 Stelle",4,67,28
+2023,"Provincia di Oristano","TRESNURAGHES","Albergo diffuso","3 Stelle",4,115,44
+2023,"Provincia di Sassari","LA MADDALENA","Albergo diffuso","3 Stelle",1,12,6
+2023,"Provincia di Sassari","OLBIA","Albergo diffuso","3 Stelle",1,23,9
+2023,"Provincia di Nuoro","OROSEI","Albergo diffuso","4 Stelle",1,44,19
+2023,"Provincia di Oristano","CABRAS","Albergo diffuso","4 Stelle",1,34,16
+2023,"Provincia di Sassari","OLBIA","Albergo diffuso","4 Stelle",3,14,7
+2023,"Città metropolitana di Cagliari","PULA","Albergo residenziale","2 Stelle",2,89,36
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Albergo residenziale","2 Stelle",3,78,34
+2023,"Provincia di Oristano","SAN VERO MILIS","Albergo residenziale","2 Stelle",1,20,11
+2023,"Provincia di Sassari","ALGHERO","Albergo residenziale","2 Stelle",1,275,66
+2023,"Provincia di Sassari","BUDONI","Albergo residenziale","2 Stelle",1,49,18
+2023,"Provincia di Sassari","LA MADDALENA","Albergo residenziale","2 Stelle",1,50,17
+2023,"Città metropolitana di Cagliari","CAGLIARI","Albergo residenziale","3 Stelle",1,298,122
+2023,"Città metropolitana di Cagliari","ELMAS","Albergo residenziale","3 Stelle",1,66,38
+2023,"Città metropolitana di Cagliari","PULA","Albergo residenziale","3 Stelle",4,253,71
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Albergo residenziale","3 Stelle",1,198,83
+2023,"Città metropolitana di Cagliari","SINNAI","Albergo residenziale","3 Stelle",1,114,32
+2023,"Provincia del Sud Sardegna","MURAVERA","Albergo residenziale","3 Stelle",1,302,98
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Albergo residenziale","3 Stelle",9,797,256
+2023,"Provincia di Nuoro","BARI SARDO","Albergo residenziale","3 Stelle",3,165,79
+2023,"Provincia di Nuoro","NUORO","Albergo residenziale","3 Stelle",1,24,11
+2023,"Provincia di Nuoro","OROSEI","Albergo residenziale","3 Stelle",4,887,239
+2023,"Provincia di Nuoro","TORTOLÌ","Albergo residenziale","3 Stelle",2,133,36
+2023,"Provincia di Oristano","BOSA","Albergo residenziale","3 Stelle",1,130,36
+2023,"Provincia di Sassari","AGLIENTU","Albergo residenziale","3 Stelle",1,176,88
+2023,"Provincia di Sassari","ALGHERO","Albergo residenziale","3 Stelle",2,375,72
+2023,"Provincia di Sassari","ARZACHENA","Albergo residenziale","3 Stelle",2,210,38
+2023,"Provincia di Sassari","BUDONI","Albergo residenziale","3 Stelle",4,423,96
+2023,"Provincia di Sassari","CASTELSARDO","Albergo residenziale","3 Stelle",2,170,52
+2023,"Provincia di Sassari","GOLFO ARANCI","Albergo residenziale","3 Stelle",1,432,0
+2023,"Provincia di Sassari","LA MADDALENA","Albergo residenziale","3 Stelle",1,58,19
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Albergo residenziale","3 Stelle",1,98,0
+2023,"Provincia di Sassari","OLBIA","Albergo residenziale","3 Stelle",4,975,170
+2023,"Provincia di Sassari","PALAU","Albergo residenziale","3 Stelle",3,852,260
+2023,"Provincia di Sassari","PORTO TORRES","Albergo residenziale","3 Stelle",1,35,0
+2023,"Provincia di Sassari","SAN TEODORO","Albergo residenziale","3 Stelle",2,755,128
+2023,"Provincia di Sassari","STINTINO","Albergo residenziale","3 Stelle",5,2920,607
+2023,"Provincia di Sassari","VALLEDORIA","Albergo residenziale","3 Stelle",3,621,232
+2023,"Città metropolitana di Cagliari","PULA","Albergo residenziale","4 Stelle",1,173,45
+2023,"Provincia del Sud Sardegna","TEULADA","Albergo residenziale","4 Stelle",1,197,45
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Albergo residenziale","4 Stelle",1,165,45
+2023,"Provincia di Nuoro","CARDEDU","Albergo residenziale","4 Stelle",1,48,12
+2023,"Provincia di Nuoro","OROSEI","Albergo residenziale","4 Stelle",1,391,176
+2023,"Provincia di Nuoro","TERTENIA","Albergo residenziale","4 Stelle",1,20,13
+2023,"Provincia di Sassari","ALGHERO","Albergo residenziale","4 Stelle",1,42,25
+2023,"Provincia di Sassari","ARZACHENA","Albergo residenziale","4 Stelle",8,1757,480
+2023,"Provincia di Sassari","BADESI","Albergo residenziale","4 Stelle",1,280,0
+2023,"Provincia di Sassari","SAN TEODORO","Albergo residenziale","4 Stelle",2,314,979
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Albergo residenziale","4 Stelle",1,216,0
+2023,"Città metropolitana di Cagliari","ASSEMINI","Alloggi privati",,50,260,88
+2023,"Città metropolitana di Cagliari","CAGLIARI","Alloggi privati",,1411,5453,2388
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Alloggi privati",,111,530,233
+2023,"Città metropolitana di Cagliari","DECIMOMANNU","Alloggi privati",,19,62,28
+2023,"Città metropolitana di Cagliari","ELMAS","Alloggi privati",,17,69,33
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Alloggi privati",,200,1257,570
+2023,"Città metropolitana di Cagliari","MONSERRATO","Alloggi privati",,47,176,86
+2023,"Città metropolitana di Cagliari","PULA","Alloggi privati",,520,2691,1256
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Alloggi privati",,772,3512,1525
+2023,"Città metropolitana di Cagliari","QUARTUCCIU","Alloggi privati",,32,133,58
+2023,"Città metropolitana di Cagliari","SARROCH","Alloggi privati",,76,427,200
+2023,"Città metropolitana di Cagliari","SELARGIUS","Alloggi privati",,36,148,65
+2023,"Città metropolitana di Cagliari","SESTU","Alloggi privati",,26,96,50
+2023,"Città metropolitana di Cagliari","SETTIMO SAN PIETRO","Alloggi privati",,3,10,4
+2023,"Città metropolitana di Cagliari","SINNAI","Alloggi privati",,141,793,359
+2023,"Città metropolitana di Cagliari","UTA","Alloggi privati",,3,20,8
+2023,"Città metropolitana di Cagliari","VILLA SAN PIETRO","Alloggi privati",,27,126,62
+2023,"Provincia del Sud Sardegna","ARBUS","Alloggi privati",,144,662,229
+2023,"Provincia del Sud Sardegna","ARMUNGIA","Alloggi privati",,1,6,3
+2023,"Provincia del Sud Sardegna","BUGGERRU","Alloggi privati",,53,230,97
+2023,"Provincia del Sud Sardegna","BURCEI","Alloggi privati",,1,5,3
+2023,"Provincia del Sud Sardegna","CALASETTA","Alloggi privati",,321,1484,469
+2023,"Provincia del Sud Sardegna","CARBONIA","Alloggi privati",,45,197,70
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Alloggi privati",,198,906,316
+2023,"Provincia del Sud Sardegna","CASTIADAS","Alloggi privati",,135,744,322
+2023,"Provincia del Sud Sardegna","COLLINAS","Alloggi privati",,4,11,7
+2023,"Provincia del Sud Sardegna","DOLIANOVA","Alloggi privati",,8,40,17
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Alloggi privati",,247,1266,481
+2023,"Provincia del Sud Sardegna","DOMUSNOVAS","Alloggi privati",,10,53,18
+2023,"Provincia del Sud Sardegna","FLUMINIMAGGIORE","Alloggi privati",,29,146,61
+2023,"Provincia del Sud Sardegna","FURTEI","Alloggi privati",,1,2,1
+2023,"Provincia del Sud Sardegna","GENONI","Alloggi privati",,1,6,3
+2023,"Provincia del Sud Sardegna","GERGEI","Alloggi privati",,3,19,9
+2023,"Provincia del Sud Sardegna","GIBA","Alloggi privati",,24,107,35
+2023,"Provincia del Sud Sardegna","GONNESA","Alloggi privati",,50,248,105
+2023,"Provincia del Sud Sardegna","GONNOSFANADIGA","Alloggi privati",,3,13,7
+2023,"Provincia del Sud Sardegna","GUSPINI","Alloggi privati",,10,44,11
+2023,"Provincia del Sud Sardegna","IGLESIAS","Alloggi privati",,237,948,350
+2023,"Provincia del Sud Sardegna","ISILI","Alloggi privati",,2,6,3
+2023,"Provincia del Sud Sardegna","LUNAMATRONA","Alloggi privati",,1,4,2
+2023,"Provincia del Sud Sardegna","MASAINAS","Alloggi privati",,15,54,24
+2023,"Provincia del Sud Sardegna","MONASTIR","Alloggi privati",,2,10,5
+2023,"Provincia del Sud Sardegna","MURAVERA","Alloggi privati",,349,1731,732
+2023,"Provincia del Sud Sardegna","MUSEI","Alloggi privati",,1,4,2
+2023,"Provincia del Sud Sardegna","NURAMINIS","Alloggi privati",,1,4,2
+2023,"Provincia del Sud Sardegna","NUXIS","Alloggi privati",,2,8,4
+2023,"Provincia del Sud Sardegna","ORROLI","Alloggi privati",,1,6,3
+2023,"Provincia del Sud Sardegna","PABILLONIS","Alloggi privati",,3,14,7
+2023,"Provincia del Sud Sardegna","PERDAXIUS","Alloggi privati",,1,2,0
+2023,"Provincia del Sud Sardegna","PIMENTEL","Alloggi privati",,3,12,6
+2023,"Provincia del Sud Sardegna","PISCINAS","Alloggi privati",,1,4,2
+2023,"Provincia del Sud Sardegna","PORTOSCUSO","Alloggi privati",,82,312,111
+2023,"Provincia del Sud Sardegna","SADALI","Alloggi privati",,1,4,2
+2023,"Provincia del Sud Sardegna","SAMASSI","Alloggi privati",,3,17,4
+2023,"Provincia del Sud Sardegna","SAN GIOVANNI SUERGIU","Alloggi privati",,43,199,82
+2023,"Provincia del Sud Sardegna","SAN SPERATE","Alloggi privati",,11,40,19
+2023,"Provincia del Sud Sardegna","SAN VITO","Alloggi privati",,15,70,36
+2023,"Provincia del Sud Sardegna","SANLURI","Alloggi privati",,3,13,6
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Alloggi privati",,164,777,285
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Alloggi privati",,392,1740,513
+2023,"Provincia del Sud Sardegna","SANTADI","Alloggi privati",,6,29,11
+2023,"Provincia del Sud Sardegna","SARDARA","Alloggi privati",,1,4,2
+2023,"Provincia del Sud Sardegna","SENORBÌ","Alloggi privati",,8,34,19
+2023,"Provincia del Sud Sardegna","SERDIANA","Alloggi privati",,3,13,5
+2023,"Provincia del Sud Sardegna","SERRAMANNA","Alloggi privati",,6,22,8
+2023,"Provincia del Sud Sardegna","SERRI","Alloggi privati",,1,10,4
+2023,"Provincia del Sud Sardegna","SEUI","Alloggi privati",,2,10,4
+2023,"Provincia del Sud Sardegna","SEULO","Alloggi privati",,2,10,5
+2023,"Provincia del Sud Sardegna","SILIUS","Alloggi privati",,1,2,1
+2023,"Provincia del Sud Sardegna","SOLEMINIS","Alloggi privati",,4,12,6
+2023,"Provincia del Sud Sardegna","SUELLI","Alloggi privati",,1,2,1
+2023,"Provincia del Sud Sardegna","TEULADA","Alloggi privati",,150,640,231
+2023,"Provincia del Sud Sardegna","TRATALIAS","Alloggi privati",,2,11,4
+2023,"Provincia del Sud Sardegna","TURRI","Alloggi privati",,1,5,2
+2023,"Provincia del Sud Sardegna","USSANA","Alloggi privati",,4,17,7
+2023,"Provincia del Sud Sardegna","VALLERMOSA","Alloggi privati",,1,4,0
+2023,"Provincia del Sud Sardegna","VILLACIDRO","Alloggi privati",,8,32,11
+2023,"Provincia del Sud Sardegna","VILLAMASSARGIA","Alloggi privati",,8,33,10
+2023,"Provincia del Sud Sardegna","VILLANOVAFORRU","Alloggi privati",,1,5,3
+2023,"Provincia del Sud Sardegna","VILLANOVAFRANCA","Alloggi privati",,1,8,4
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Alloggi privati",,77,388,156
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Alloggi privati",,724,3536,1550
+2023,"Provincia del Sud Sardegna","VILLASOR","Alloggi privati",,3,13,5
+2023,"Provincia del Sud Sardegna","VILLASPECIOSA","Alloggi privati",,1,4,2
+2023,"Provincia di Nuoro","ARITZO","Alloggi privati",,3,11,4
+2023,"Provincia di Nuoro","ARZANA","Alloggi privati",,1,4,2
+2023,"Provincia di Nuoro","ATZARA","Alloggi privati",,4,12,6
+2023,"Provincia di Nuoro","AUSTIS","Alloggi privati",,5,28,12
+2023,"Provincia di Nuoro","BARI SARDO","Alloggi privati",,126,594,272
+2023,"Provincia di Nuoro","BAUNEI","Alloggi privati",,291,1185,560
+2023,"Provincia di Nuoro","BELVÌ","Alloggi privati",,3,14,9
+2023,"Provincia di Nuoro","BOLOTANA","Alloggi privati",,7,40,20
+2023,"Provincia di Nuoro","CARDEDU","Alloggi privati",,77,353,161
+2023,"Provincia di Nuoro","DESULO","Alloggi privati",,5,30,14
+2023,"Provincia di Nuoro","DORGALI","Alloggi privati",,410,1879,863
+2023,"Provincia di Nuoro","FONNI","Alloggi privati",,1,4,1
+2023,"Provincia di Nuoro","GAIRO","Alloggi privati",,4,16,7
+2023,"Provincia di Nuoro","GALTELLÌ","Alloggi privati",,32,160,71
+2023,"Provincia di Nuoro","GAVOI","Alloggi privati",,3,13,6
+2023,"Provincia di Nuoro","GIRASOLE","Alloggi privati",,19,81,39
+2023,"Provincia di Nuoro","ILBONO","Alloggi privati",,4,19,7
+2023,"Provincia di Nuoro","IRGOLI","Alloggi privati",,22,126,49
+2023,"Provincia di Nuoro","JERZU","Alloggi privati",,9,40,18
+2023,"Provincia di Nuoro","LANUSEI","Alloggi privati",,10,41,18
+2023,"Provincia di Nuoro","LOCERI","Alloggi privati",,11,46,19
+2023,"Provincia di Nuoro","LOCULI","Alloggi privati",,7,29,12
+2023,"Provincia di Nuoro","LOTZORAI","Alloggi privati",,76,302,136
+2023,"Provincia di Nuoro","MACOMER","Alloggi privati",,1,2,1
+2023,"Provincia di Nuoro","MAMOIADA","Alloggi privati",,17,103,49
+2023,"Provincia di Nuoro","NUORO","Alloggi privati",,36,143,62
+2023,"Provincia di Nuoro","OLIENA","Alloggi privati",,34,145,63
+2023,"Provincia di Nuoro","ONIFAI","Alloggi privati",,8,45,20
+2023,"Provincia di Nuoro","ORANI","Alloggi privati",,4,12,6
+2023,"Provincia di Nuoro","ORGOSOLO","Alloggi privati",,8,50,20
+2023,"Provincia di Nuoro","OROSEI","Alloggi privati",,565,2662,1204
+2023,"Provincia di Nuoro","ORTUERI","Alloggi privati",,1,4,2
+2023,"Provincia di Nuoro","ORUNE","Alloggi privati",,1,4,2
+2023,"Provincia di Nuoro","OTTANA","Alloggi privati",,1,8,4
+2023,"Provincia di Nuoro","POSADA","Alloggi privati",,105,486,220
+2023,"Provincia di Nuoro","SINDIA","Alloggi privati",,1,6,3
+2023,"Provincia di Nuoro","SINISCOLA","Alloggi privati",,298,1433,638
+2023,"Provincia di Nuoro","TALANA","Alloggi privati",,2,12,6
+2023,"Provincia di Nuoro","TERTENIA","Alloggi privati",,156,791,354
+2023,"Provincia di Nuoro","TONARA","Alloggi privati",,1,5,2
+2023,"Provincia di Nuoro","TORPÈ","Alloggi privati",,15,65,30
+2023,"Provincia di Nuoro","TORTOLÌ","Alloggi privati",,279,1273,558
+2023,"Provincia di Nuoro","TRIEI","Alloggi privati",,9,41,19
+2023,"Provincia di Nuoro","ULASSAI","Alloggi privati",,9,49,22
+2023,"Provincia di Nuoro","URZULEI","Alloggi privati",,6,24,11
+2023,"Provincia di Nuoro","USSASSAI","Alloggi privati",,4,22,9
+2023,"Provincia di Nuoro","VILLAGRANDE STRISAILI","Alloggi privati",,3,14,7
+2023,"Provincia di Oristano","ABBASANTA","Alloggi privati",,4,20,7
+2023,"Provincia di Oristano","AIDOMAGGIORE","Alloggi privati",,1,8,3
+2023,"Provincia di Oristano","ALES","Alloggi privati",,2,10,5
+2023,"Provincia di Oristano","ALLAI","Alloggi privati",,2,10,6
+2023,"Provincia di Oristano","ARBOREA","Alloggi privati",,7,33,15
+2023,"Provincia di Oristano","ARDAULI","Alloggi privati",,1,4,2
+2023,"Provincia di Oristano","ASSOLO","Alloggi privati",,1,4,2
+2023,"Provincia di Oristano","BARATILI SAN PIETRO","Alloggi privati",,17,85,35
+2023,"Provincia di Oristano","BAULADU","Alloggi privati",,1,9,2
+2023,"Provincia di Oristano","BONARCADO","Alloggi privati",,2,8,4
+2023,"Provincia di Oristano","BOSA","Alloggi privati",,142,651,278
+2023,"Provincia di Oristano","BUSACHI","Alloggi privati",,1,4,2
+2023,"Provincia di Oristano","CABRAS","Alloggi privati",,264,1237,549
+2023,"Provincia di Oristano","CUGLIERI","Alloggi privati",,106,536,253
+2023,"Provincia di Oristano","FLUSSIO","Alloggi privati",,7,30,14
+2023,"Provincia di Oristano","FORDONGIANUS","Alloggi privati",,2,8,4
+2023,"Provincia di Oristano","GHILARZA","Alloggi privati",,7,29,10
+2023,"Provincia di Oristano","GONNOSNÒ","Alloggi privati",,2,4,2
+2023,"Provincia di Oristano","GONNOSTRAMATZA","Alloggi privati",,1,5,3
+2023,"Provincia di Oristano","MAGOMADAS","Alloggi privati",,47,215,90
+2023,"Provincia di Oristano","MARRUBIU","Alloggi privati",,9,48,22
+2023,"Provincia di Oristano","MILIS","Alloggi privati",,10,52,25
+2023,"Provincia di Oristano","MODOLO","Alloggi privati",,12,65,30
+2023,"Provincia di Oristano","MOGORO","Alloggi privati",,4,19,9
+2023,"Provincia di Oristano","NARBOLIA","Alloggi privati",,19,86,41
+2023,"Provincia di Oristano","NURACHI","Alloggi privati",,31,160,72
+2023,"Provincia di Oristano","OLLASTRA","Alloggi privati",,2,6,3
+2023,"Provincia di Oristano","ORISTANO","Alloggi privati",,274,1135,503
+2023,"Provincia di Oristano","PALMAS ARBOREA","Alloggi privati",,4,8,5
+2023,"Provincia di Oristano","PAULILATINO","Alloggi privati",,5,19,8
+2023,"Provincia di Oristano","RIOLA SARDO","Alloggi privati",,29,132,58
+2023,"Provincia di Oristano","RUINAS","Alloggi privati",,2,6,2
+2023,"Provincia di Oristano","SAMUGHEO","Alloggi privati",,1,5,3
+2023,"Provincia di Oristano","SAN NICOLÒ D'ARCIDANO","Alloggi privati",,4,14,6
+2023,"Provincia di Oristano","SAN VERO MILIS","Alloggi privati",,158,807,368
+2023,"Provincia di Oristano","SANTA GIUSTA","Alloggi privati",,12,52,24
+2023,"Provincia di Oristano","SANTU LUSSURGIU","Alloggi privati",,11,64,31
+2023,"Provincia di Oristano","SCANO DI MONTIFERRO","Alloggi privati",,19,93,49
+2023,"Provincia di Oristano","SEDILO","Alloggi privati",,1,6,1
+2023,"Provincia di Oristano","SENEGHE","Alloggi privati",,5,25,11
+2023,"Provincia di Oristano","SENNARIOLO","Alloggi privati",,2,12,6
+2023,"Provincia di Oristano","SIAMAGGIORE","Alloggi privati",,3,12,5
+2023,"Provincia di Oristano","SIAMANNA","Alloggi privati",,2,12,5
+2023,"Provincia di Oristano","SIAPICCIA","Alloggi privati",,1,4,2
+2023,"Provincia di Oristano","SIMAXIS","Alloggi privati",,4,18,8
+2023,"Provincia di Oristano","SOLARUSSA","Alloggi privati",,6,30,15
+2023,"Provincia di Oristano","SORRADILE","Alloggi privati",,1,8,3
+2023,"Provincia di Oristano","SUNI","Alloggi privati",,12,59,30
+2023,"Provincia di Oristano","TERRALBA","Alloggi privati",,17,79,34
+2023,"Provincia di Oristano","TRAMATZA","Alloggi privati",,1,4,2
+2023,"Provincia di Oristano","TRESNURAGHES","Alloggi privati",,62,292,134
+2023,"Provincia di Oristano","URAS","Alloggi privati",,1,4,2
+2023,"Provincia di Oristano","VILLANOVA TRUSCHEDU","Alloggi privati",,1,2,1
+2023,"Provincia di Oristano","VILLAURBANA","Alloggi privati",,4,30,12
+2023,"Provincia di Oristano","ZEDDIANI","Alloggi privati",,1,5,3
+2023,"Provincia di Oristano","ZERFALIU","Alloggi privati",,1,7,3
+2023,"Provincia di Sassari","AGGIUS","Alloggi privati",,12,51,25
+2023,"Provincia di Sassari","AGLIENTU","Alloggi privati",,141,788,296
+2023,"Provincia di Sassari","ALGHERO","Alloggi privati",,1728,7914,2398
+2023,"Provincia di Sassari","ALÀ DEI SARDI","Alloggi privati",,4,19,6
+2023,"Provincia di Sassari","ARZACHENA","Alloggi privati",,613,3008,1128
+2023,"Provincia di Sassari","BADESI","Alloggi privati",,109,478,159
+2023,"Provincia di Sassari","BANARI","Alloggi privati",,1,5,20
+2023,"Provincia di Sassari","BERCHIDDA","Alloggi privati",,8,39,11
+2023,"Provincia di Sassari","BESSUDE","Alloggi privati",,1,6,3
+2023,"Provincia di Sassari","BONNANARO","Alloggi privati",,1,8,4
+2023,"Provincia di Sassari","BONO","Alloggi privati",,1,6,0
+2023,"Provincia di Sassari","BONORVA","Alloggi privati",,1,8,4
+2023,"Provincia di Sassari","BORTIGIADAS","Alloggi privati",,1,7,3
+2023,"Provincia di Sassari","BOTTIDDA","Alloggi privati",,1,4,2
+2023,"Provincia di Sassari","BUDONI","Alloggi privati",,605,3010,1103
+2023,"Provincia di Sassari","BULZI","Alloggi privati",,1,2,1
+2023,"Provincia di Sassari","CALANGIANUS","Alloggi privati",,9,43,12
+2023,"Provincia di Sassari","CASTELSARDO","Alloggi privati",,352,1606,502
+2023,"Provincia di Sassari","CHEREMULE","Alloggi privati",,1,6,3
+2023,"Provincia di Sassari","CODRONGIANOS","Alloggi privati",,3,16,7
+2023,"Provincia di Sassari","COSSOINE","Alloggi privati",,1,3,1
+2023,"Provincia di Sassari","FLORINAS","Alloggi privati",,1,12,6
+2023,"Provincia di Sassari","GOLFO ARANCI","Alloggi privati",,305,1610,594
+2023,"Provincia di Sassari","ITTIRI","Alloggi privati",,2,13,5
+2023,"Provincia di Sassari","LA MADDALENA","Alloggi privati",,520,2263,808
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Alloggi privati",,201,995,357
+2023,"Provincia di Sassari","LUOGOSANTO","Alloggi privati",,14,70,34
+2023,"Provincia di Sassari","LURAS","Alloggi privati",,3,8,6
+2023,"Provincia di Sassari","MARTIS","Alloggi privati",,3,22,7
+2023,"Provincia di Sassari","MONTI","Alloggi privati",,3,8,1
+2023,"Provincia di Sassari","NULVI","Alloggi privati",,7,32,13
+2023,"Provincia di Sassari","OLBIA","Alloggi privati",,1678,8591,2669
+2023,"Provincia di Sassari","OLMEDO","Alloggi privati",,40,190,64
+2023,"Provincia di Sassari","OSCHIRI","Alloggi privati",,2,8,1
+2023,"Provincia di Sassari","OSILO","Alloggi privati",,6,41,17
+2023,"Provincia di Sassari","OSSI","Alloggi privati",,3,9,5
+2023,"Provincia di Sassari","OZIERI","Alloggi privati",,5,16,8
+2023,"Provincia di Sassari","PADRIA","Alloggi privati",,1,6,0
+2023,"Provincia di Sassari","PADRU","Alloggi privati",,11,46,22
+2023,"Provincia di Sassari","PALAU","Alloggi privati",,522,2491,899
+2023,"Provincia di Sassari","PERFUGAS","Alloggi privati",,4,22,3
+2023,"Provincia di Sassari","PLOAGHE","Alloggi privati",,1,4,2
+2023,"Provincia di Sassari","PORTO TORRES","Alloggi privati",,152,645,249
+2023,"Provincia di Sassari","POZZOMAGGIORE","Alloggi privati",,2,7,1
+2023,"Provincia di Sassari","PUTIFIGARI","Alloggi privati",,4,25,4
+2023,"Provincia di Sassari","SAN TEODORO","Alloggi privati",,1064,5432,1994
+2023,"Provincia di Sassari","SANT'ANTONIO DI GALLURA","Alloggi privati",,9,42,15
+2023,"Provincia di Sassari","SANTA MARIA COGHINAS","Alloggi privati",,19,82,33
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Alloggi privati",,597,2689,882
+2023,"Provincia di Sassari","SASSARI","Alloggi privati",,280,1191,424
+2023,"Provincia di Sassari","SEDINI","Alloggi privati",,5,26,6
+2023,"Provincia di Sassari","SENNORI","Alloggi privati",,18,80,26
+2023,"Provincia di Sassari","SORSO","Alloggi privati",,126,665,287
+2023,"Provincia di Sassari","STINTINO","Alloggi privati",,329,1643,501
+2023,"Provincia di Sassari","TELTI","Alloggi privati",,24,122,44
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Alloggi privati",,44,201,60
+2023,"Provincia di Sassari","TERGU","Alloggi privati",,8,36,19
+2023,"Provincia di Sassari","THIESI","Alloggi privati",,3,13,5
+2023,"Provincia di Sassari","TISSI","Alloggi privati",,4,12,3
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Alloggi privati",,245,1217,407
+2023,"Provincia di Sassari","URI","Alloggi privati",,6,30,11
+2023,"Provincia di Sassari","USINI","Alloggi privati",,1,2,1
+2023,"Provincia di Sassari","VALLEDORIA","Alloggi privati",,222,1032,347
+2023,"Provincia di Sassari","VIDDALBA","Alloggi privati",,60,282,112
+2023,"Provincia di Sassari","VILLANOVA MONTELEONE","Alloggi privati",,10,52,17
+2023,"Provincia di Oristano","CABRAS","Alloggi privati","1 Stella",1,4,1
+2023,"Provincia di Oristano","ORISTANO","Alloggi privati","1 Stella",2,9,3
+2023,"Provincia di Sassari","STINTINO","Alloggi privati","2 Stelle",1,2,0
+2023,"Città metropolitana di Cagliari","ASSEMINI","Bed and breakfast",,2,9,5
+2023,"Città metropolitana di Cagliari","CAGLIARI","Bed and breakfast",,2,7,4
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Bed and breakfast",,12,60,33
+2023,"Città metropolitana di Cagliari","DECIMOMANNU","Bed and breakfast",,1,5,3
+2023,"Città metropolitana di Cagliari","ELMAS","Bed and breakfast",,1,5,2
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Bed and breakfast",,2,12,6
+2023,"Città metropolitana di Cagliari","MONSERRATO","Bed and breakfast",,2,13,5
+2023,"Città metropolitana di Cagliari","PULA","Bed and breakfast",,19,90,41
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Bed and breakfast",,27,125,68
+2023,"Città metropolitana di Cagliari","QUARTUCCIU","Bed and breakfast",,7,25,11
+2023,"Città metropolitana di Cagliari","SARROCH","Bed and breakfast",,2,11,6
+2023,"Città metropolitana di Cagliari","SELARGIUS","Bed and breakfast",,6,21,13
+2023,"Città metropolitana di Cagliari","SESTU","Bed and breakfast",,1,6,3
+2023,"Città metropolitana di Cagliari","SINNAI","Bed and breakfast",,9,46,14
+2023,"Città metropolitana di Cagliari","UTA","Bed and breakfast",,2,12,6
+2023,"Provincia del Sud Sardegna","CALASETTA","Bed and breakfast",,1,6,2
+2023,"Provincia del Sud Sardegna","FLUMINIMAGGIORE","Bed and breakfast",,1,2,1
+2023,"Provincia del Sud Sardegna","SAN BASILIO","Bed and breakfast",,1,6,0
+2023,"Provincia del Sud Sardegna","SARDARA","Bed and breakfast",,1,4,1
+2023,"Provincia del Sud Sardegna","VILLASALTO","Bed and breakfast",,1,4,2
+2023,"Provincia di Nuoro","ARZANA","Bed and breakfast",,1,3,2
+2023,"Provincia di Nuoro","BARI SARDO","Bed and breakfast",,1,6,3
+2023,"Provincia di Nuoro","DORGALI","Bed and breakfast",,1,4,2
+2023,"Provincia di Nuoro","POSADA","Bed and breakfast",,1,2,1
+2023,"Provincia di Sassari","AGGIUS","Bed and breakfast",,1,4,2
+2023,"Provincia di Sassari","ALGHERO","Bed and breakfast",,13,57,26
+2023,"Provincia di Sassari","ARZACHENA","Bed and breakfast",,1,6,3
+2023,"Provincia di Sassari","BUDDUSÒ","Bed and breakfast",,1,6,3
+2023,"Provincia di Sassari","CASTELSARDO","Bed and breakfast",,1,4,2
+2023,"Provincia di Sassari","LUOGOSANTO","Bed and breakfast",,1,6,3
+2023,"Provincia di Sassari","OLBIA","Bed and breakfast",,5,17,12
+2023,"Provincia di Sassari","PORTO TORRES","Bed and breakfast",,1,5,3
+2023,"Provincia di Sassari","SAN TEODORO","Bed and breakfast",,2,12,6
+2023,"Provincia di Sassari","SANT'ANTONIO DI GALLURA","Bed and breakfast",,1,6,3
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Bed and breakfast",,6,22,8
+2023,"Provincia di Sassari","SASSARI","Bed and breakfast",,1,3,3
+2023,"Provincia di Sassari","TELTI","Bed and breakfast",,1,2,1
+2023,"Provincia di Sassari","USINI","Bed and breakfast",,1,6,3
+2023,"Città metropolitana di Cagliari","ASSEMINI","Bed and breakfast","1 Stella",3,16,6
+2023,"Città metropolitana di Cagliari","CAGLIARI","Bed and breakfast","1 Stella",53,201,99
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Bed and breakfast","1 Stella",3,13,6
+2023,"Città metropolitana di Cagliari","DECIMOMANNU","Bed and breakfast","1 Stella",2,7,4
+2023,"Città metropolitana di Cagliari","ELMAS","Bed and breakfast","1 Stella",1,4,2
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Bed and breakfast","1 Stella",2,8,5
+2023,"Città metropolitana di Cagliari","MONSERRATO","Bed and breakfast","1 Stella",1,5,2
+2023,"Città metropolitana di Cagliari","PULA","Bed and breakfast","1 Stella",1,4,2
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Bed and breakfast","1 Stella",4,11,8
+2023,"Città metropolitana di Cagliari","SARROCH","Bed and breakfast","1 Stella",3,15,6
+2023,"Città metropolitana di Cagliari","SELARGIUS","Bed and breakfast","1 Stella",2,8,4
+2023,"Città metropolitana di Cagliari","SESTU","Bed and breakfast","1 Stella",1,4,3
+2023,"Città metropolitana di Cagliari","SINNAI","Bed and breakfast","1 Stella",2,5,3
+2023,"Provincia del Sud Sardegna","ARBUS","Bed and breakfast","1 Stella",6,29,14
+2023,"Provincia del Sud Sardegna","CARBONIA","Bed and breakfast","1 Stella",2,9,5
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Bed and breakfast","1 Stella",3,11,3
+2023,"Provincia del Sud Sardegna","CASTIADAS","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia del Sud Sardegna","DECIMOPUTZU","Bed and breakfast","1 Stella",1,3,1
+2023,"Provincia del Sud Sardegna","DOLIANOVA","Bed and breakfast","1 Stella",3,14,7
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Bed and breakfast","1 Stella",3,13,7
+2023,"Provincia del Sud Sardegna","DOMUSNOVAS","Bed and breakfast","1 Stella",2,7,4
+2023,"Provincia del Sud Sardegna","ESCALAPLANO","Bed and breakfast","1 Stella",1,3,2
+2023,"Provincia del Sud Sardegna","ESTERZILI","Bed and breakfast","1 Stella",1,3,2
+2023,"Provincia del Sud Sardegna","FLUMINIMAGGIORE","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia del Sud Sardegna","FURTEI","Bed and breakfast","1 Stella",1,3,0
+2023,"Provincia del Sud Sardegna","GESTURI","Bed and breakfast","1 Stella",1,1,1
+2023,"Provincia del Sud Sardegna","GONNESA","Bed and breakfast","1 Stella",3,13,8
+2023,"Provincia del Sud Sardegna","GONNOSFANADIGA","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia del Sud Sardegna","GUSPINI","Bed and breakfast","1 Stella",9,43,22
+2023,"Provincia del Sud Sardegna","IGLESIAS","Bed and breakfast","1 Stella",3,16,7
+2023,"Provincia del Sud Sardegna","ISILI","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia del Sud Sardegna","MANDAS","Bed and breakfast","1 Stella",1,3,2
+2023,"Provincia del Sud Sardegna","MASAINAS","Bed and breakfast","1 Stella",1,5,2
+2023,"Provincia del Sud Sardegna","MONASTIR","Bed and breakfast","1 Stella",1,4,3
+2023,"Provincia del Sud Sardegna","MURAVERA","Bed and breakfast","1 Stella",3,13,7
+2023,"Provincia del Sud Sardegna","MUSEI","Bed and breakfast","1 Stella",1,2,2
+2023,"Provincia del Sud Sardegna","NARCAO","Bed and breakfast","1 Stella",1,2,2
+2023,"Provincia del Sud Sardegna","NURAGUS","Bed and breakfast","1 Stella",1,3,2
+2023,"Provincia del Sud Sardegna","NURAMINIS","Bed and breakfast","1 Stella",1,3,3
+2023,"Provincia del Sud Sardegna","PABILLONIS","Bed and breakfast","1 Stella",1,5,3
+2023,"Provincia del Sud Sardegna","PISCINAS","Bed and breakfast","1 Stella",1,6,2
+2023,"Provincia del Sud Sardegna","PORTOSCUSO","Bed and breakfast","1 Stella",5,22,10
+2023,"Provincia del Sud Sardegna","SAN GAVINO MONREALE","Bed and breakfast","1 Stella",2,6,4
+2023,"Provincia del Sud Sardegna","SAN GIOVANNI SUERGIU","Bed and breakfast","1 Stella",4,12,5
+2023,"Provincia del Sud Sardegna","SAN VITO","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Bed and breakfast","1 Stella",2,10,5
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Bed and breakfast","1 Stella",7,33,16
+2023,"Provincia del Sud Sardegna","SARDARA","Bed and breakfast","1 Stella",2,10,6
+2023,"Provincia del Sud Sardegna","SENORBÌ","Bed and breakfast","1 Stella",1,5,2
+2023,"Provincia del Sud Sardegna","SERRENTI","Bed and breakfast","1 Stella",1,3,0
+2023,"Provincia del Sud Sardegna","SEUI","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia del Sud Sardegna","SEULO","Bed and breakfast","1 Stella",1,4,3
+2023,"Provincia del Sud Sardegna","TEULADA","Bed and breakfast","1 Stella",2,8,4
+2023,"Provincia del Sud Sardegna","TUILI","Bed and breakfast","1 Stella",1,3,2
+2023,"Provincia del Sud Sardegna","VILLACIDRO","Bed and breakfast","1 Stella",2,7,2
+2023,"Provincia del Sud Sardegna","VILLANOVA TULO","Bed and breakfast","1 Stella",1,3,2
+2023,"Provincia del Sud Sardegna","VILLANOVAFRANCA","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Bed and breakfast","1 Stella",2,7,4
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Bed and breakfast","1 Stella",3,13,7
+2023,"Provincia del Sud Sardegna","VILLASOR","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia del Sud Sardegna","VILLASPECIOSA","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia di Nuoro","ARITZO","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Nuoro","ARZANA","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Nuoro","ATZARA","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Nuoro","BARI SARDO","Bed and breakfast","1 Stella",1,5,3
+2023,"Provincia di Nuoro","BAUNEI","Bed and breakfast","1 Stella",3,11,6
+2023,"Provincia di Nuoro","BITTI","Bed and breakfast","1 Stella",2,8,5
+2023,"Provincia di Nuoro","CARDEDU","Bed and breakfast","1 Stella",4,17,7
+2023,"Provincia di Nuoro","DORGALI","Bed and breakfast","1 Stella",14,47,30
+2023,"Provincia di Nuoro","FONNI","Bed and breakfast","1 Stella",3,16,7
+2023,"Provincia di Nuoro","GADONI","Bed and breakfast","1 Stella",2,11,5
+2023,"Provincia di Nuoro","GALTELLÌ","Bed and breakfast","1 Stella",2,7,4
+2023,"Provincia di Nuoro","GAVOI","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Nuoro","IRGOLI","Bed and breakfast","1 Stella",2,11,6
+2023,"Provincia di Nuoro","JERZU","Bed and breakfast","1 Stella",1,4,3
+2023,"Provincia di Nuoro","LANUSEI","Bed and breakfast","1 Stella",5,23,14
+2023,"Provincia di Nuoro","LOCERI","Bed and breakfast","1 Stella",11,40,20
+2023,"Provincia di Nuoro","LODINE","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Nuoro","LOTZORAI","Bed and breakfast","1 Stella",2,5,4
+2023,"Provincia di Nuoro","MACOMER","Bed and breakfast","1 Stella",1,3,2
+2023,"Provincia di Nuoro","MAMOIADA","Bed and breakfast","1 Stella",2,12,6
+2023,"Provincia di Nuoro","MEANA SARDO","Bed and breakfast","1 Stella",2,12,6
+2023,"Provincia di Nuoro","NUORO","Bed and breakfast","1 Stella",7,26,14
+2023,"Provincia di Nuoro","OLIENA","Bed and breakfast","1 Stella",2,6,4
+2023,"Provincia di Nuoro","OLLOLAI","Bed and breakfast","1 Stella",1,4,1
+2023,"Provincia di Nuoro","ORANI","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Nuoro","ORGOSOLO","Bed and breakfast","1 Stella",5,25,13
+2023,"Provincia di Nuoro","OROSEI","Bed and breakfast","1 Stella",5,19,11
+2023,"Provincia di Nuoro","OSINI","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Nuoro","PERDASDEFOGU","Bed and breakfast","1 Stella",2,10,5
+2023,"Provincia di Nuoro","POSADA","Bed and breakfast","1 Stella",3,13,6
+2023,"Provincia di Nuoro","SARULE","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Nuoro","SINISCOLA","Bed and breakfast","1 Stella",8,32,17
+2023,"Provincia di Nuoro","SORGONO","Bed and breakfast","1 Stella",1,5,3
+2023,"Provincia di Nuoro","TORPÈ","Bed and breakfast","1 Stella",3,9,5
+2023,"Provincia di Nuoro","TORTOLÌ","Bed and breakfast","1 Stella",9,36,21
+2023,"Provincia di Nuoro","ULASSAI","Bed and breakfast","1 Stella",2,10,5
+2023,"Provincia di Nuoro","URZULEI","Bed and breakfast","1 Stella",2,8,5
+2023,"Provincia di Nuoro","USSASSAI","Bed and breakfast","1 Stella",4,21,10
+2023,"Provincia di Nuoro","VILLAGRANDE STRISAILI","Bed and breakfast","1 Stella",2,9,5
+2023,"Provincia di Oristano","ALES","Bed and breakfast","1 Stella",2,8,5
+2023,"Provincia di Oristano","ARBOREA","Bed and breakfast","1 Stella",2,7,4
+2023,"Provincia di Oristano","BARATILI SAN PIETRO","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia di Oristano","BARESSA","Bed and breakfast","1 Stella",1,3,2
+2023,"Provincia di Oristano","BOSA","Bed and breakfast","1 Stella",6,26,14
+2023,"Provincia di Oristano","BUSACHI","Bed and breakfast","1 Stella",2,12,4
+2023,"Provincia di Oristano","CABRAS","Bed and breakfast","1 Stella",3,20,6
+2023,"Provincia di Oristano","GHILARZA","Bed and breakfast","1 Stella",2,9,5
+2023,"Provincia di Oristano","GONNOSTRAMATZA","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Oristano","LACONI","Bed and breakfast","1 Stella",2,9,4
+2023,"Provincia di Oristano","MAGOMADAS","Bed and breakfast","1 Stella",1,2,2
+2023,"Provincia di Oristano","MARRUBIU","Bed and breakfast","1 Stella",5,21,11
+2023,"Provincia di Oristano","MASULLAS","Bed and breakfast","1 Stella",1,5,3
+2023,"Provincia di Oristano","MILIS","Bed and breakfast","1 Stella",1,4,3
+2023,"Provincia di Oristano","MODOLO","Bed and breakfast","1 Stella",2,11,5
+2023,"Provincia di Oristano","MOGORO","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Oristano","NUGHEDU SANTA VITTORIA","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia di Oristano","NURACHI","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Oristano","ORISTANO","Bed and breakfast","1 Stella",7,24,11
+2023,"Provincia di Oristano","PALMAS ARBOREA","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia di Oristano","RIOLA SARDO","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia di Oristano","SAGAMA","Bed and breakfast","1 Stella",1,5,2
+2023,"Provincia di Oristano","SAMUGHEO","Bed and breakfast","1 Stella",4,11,8
+2023,"Provincia di Oristano","SAN NICOLÒ D'ARCIDANO","Bed and breakfast","1 Stella",1,4,3
+2023,"Provincia di Oristano","SAN VERO MILIS","Bed and breakfast","1 Stella",2,6,5
+2023,"Provincia di Oristano","SANTA GIUSTA","Bed and breakfast","1 Stella",1,3,2
+2023,"Provincia di Oristano","SANTU LUSSURGIU","Bed and breakfast","1 Stella",1,2,2
+2023,"Provincia di Oristano","SEDILO","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia di Oristano","SENEGHE","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Oristano","SIMAXIS","Bed and breakfast","1 Stella",2,7,3
+2023,"Provincia di Oristano","SINI","Bed and breakfast","1 Stella",1,7,3
+2023,"Provincia di Oristano","TERRALBA","Bed and breakfast","1 Stella",6,22,13
+2023,"Provincia di Oristano","TRESNURAGHES","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Oristano","URAS","Bed and breakfast","1 Stella",3,10,6
+2023,"Provincia di Sassari","ALGHERO","Bed and breakfast","1 Stella",73,281,143
+2023,"Provincia di Sassari","ARZACHENA","Bed and breakfast","1 Stella",8,38,21
+2023,"Provincia di Sassari","BENETUTTI","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Sassari","BERCHIDDA","Bed and breakfast","1 Stella",2,5,3
+2023,"Provincia di Sassari","BESSUDE","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia di Sassari","BONNANARO","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Sassari","BOTTIDDA","Bed and breakfast","1 Stella",2,9,32
+2023,"Provincia di Sassari","BUDONI","Bed and breakfast","1 Stella",1,4,0
+2023,"Provincia di Sassari","CALANGIANUS","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia di Sassari","CASTELSARDO","Bed and breakfast","1 Stella",3,17,7
+2023,"Provincia di Sassari","COSSOINE","Bed and breakfast","1 Stella",1,5,3
+2023,"Provincia di Sassari","ERULA","Bed and breakfast","1 Stella",1,5,2
+2023,"Provincia di Sassari","GOLFO ARANCI","Bed and breakfast","1 Stella",2,7,3
+2023,"Provincia di Sassari","LA MADDALENA","Bed and breakfast","1 Stella",4,22,11
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Bed and breakfast","1 Stella",2,6,3
+2023,"Provincia di Sassari","OLBIA","Bed and breakfast","1 Stella",26,115,52
+2023,"Provincia di Sassari","OLMEDO","Bed and breakfast","1 Stella",3,11,7
+2023,"Provincia di Sassari","OZIERI","Bed and breakfast","1 Stella",3,11,6
+2023,"Provincia di Sassari","PALAU","Bed and breakfast","1 Stella",4,16,4
+2023,"Provincia di Sassari","PERFUGAS","Bed and breakfast","1 Stella",1,5,3
+2023,"Provincia di Sassari","PLOAGHE","Bed and breakfast","1 Stella",3,14,5
+2023,"Provincia di Sassari","PORTO TORRES","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Sassari","POZZOMAGGIORE","Bed and breakfast","1 Stella",2,11,6
+2023,"Provincia di Sassari","SAN TEODORO","Bed and breakfast","1 Stella",5,19,6
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Bed and breakfast","1 Stella",4,18,4
+2023,"Provincia di Sassari","SASSARI","Bed and breakfast","1 Stella",14,62,32
+2023,"Provincia di Sassari","SEDINI","Bed and breakfast","1 Stella",1,4,2
+2023,"Provincia di Sassari","SORSO","Bed and breakfast","1 Stella",2,16,6
+2023,"Provincia di Sassari","STINTINO","Bed and breakfast","1 Stella",2,6,4
+2023,"Provincia di Sassari","TELTI","Bed and breakfast","1 Stella",3,14,5
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Bed and breakfast","1 Stella",5,23,14
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Bed and breakfast","1 Stella",1,1,1
+2023,"Provincia di Sassari","TULA","Bed and breakfast","1 Stella",1,5,3
+2023,"Provincia di Sassari","USINI","Bed and breakfast","1 Stella",1,6,3
+2023,"Provincia di Sassari","VALLEDORIA","Bed and breakfast","1 Stella",3,14,7
+2023,"Città metropolitana di Cagliari","CAGLIARI","Bed and breakfast","2 Stelle",36,175,83
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Bed and breakfast","2 Stelle",1,4,3
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Bed and breakfast","2 Stelle",2,10,5
+2023,"Città metropolitana di Cagliari","PULA","Bed and breakfast","2 Stelle",2,13,6
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Bed and breakfast","2 Stelle",2,6,3
+2023,"Città metropolitana di Cagliari","QUARTUCCIU","Bed and breakfast","2 Stelle",1,4,2
+2023,"Città metropolitana di Cagliari","SESTU","Bed and breakfast","2 Stelle",1,3,2
+2023,"Città metropolitana di Cagliari","SETTIMO SAN PIETRO","Bed and breakfast","2 Stelle",1,3,1
+2023,"Città metropolitana di Cagliari","SINNAI","Bed and breakfast","2 Stelle",1,6,2
+2023,"Città metropolitana di Cagliari","UTA","Bed and breakfast","2 Stelle",1,6,3
+2023,"Città metropolitana di Cagliari","VILLA SAN PIETRO","Bed and breakfast","2 Stelle",1,3,1
+2023,"Provincia del Sud Sardegna","ARBUS","Bed and breakfast","2 Stelle",4,19,11
+2023,"Provincia del Sud Sardegna","BALLAO","Bed and breakfast","2 Stelle",1,8,3
+2023,"Provincia del Sud Sardegna","BUGGERRU","Bed and breakfast","2 Stelle",1,6,2
+2023,"Provincia del Sud Sardegna","CALASETTA","Bed and breakfast","2 Stelle",3,14,8
+2023,"Provincia del Sud Sardegna","CARBONIA","Bed and breakfast","2 Stelle",2,11,5
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Bed and breakfast","2 Stelle",4,16,9
+2023,"Provincia del Sud Sardegna","CASTIADAS","Bed and breakfast","2 Stelle",3,16,8
+2023,"Provincia del Sud Sardegna","DECIMOPUTZU","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia del Sud Sardegna","DOLIANOVA","Bed and breakfast","2 Stelle",2,12,5
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Bed and breakfast","2 Stelle",3,16,8
+2023,"Provincia del Sud Sardegna","FLUMINIMAGGIORE","Bed and breakfast","2 Stelle",1,4,3
+2023,"Provincia del Sud Sardegna","GIBA","Bed and breakfast","2 Stelle",0,8,3
+2023,"Provincia del Sud Sardegna","GONNESA","Bed and breakfast","2 Stelle",2,9,1
+2023,"Provincia del Sud Sardegna","GONNOSFANADIGA","Bed and breakfast","2 Stelle",1,4,2
+2023,"Provincia del Sud Sardegna","GUAMAGGIORE","Bed and breakfast","2 Stelle",1,7,3
+2023,"Provincia del Sud Sardegna","IGLESIAS","Bed and breakfast","2 Stelle",3,10,3
+2023,"Provincia del Sud Sardegna","MURAVERA","Bed and breakfast","2 Stelle",9,39,23
+2023,"Provincia del Sud Sardegna","ORROLI","Bed and breakfast","2 Stelle",2,12,6
+2023,"Provincia del Sud Sardegna","PORTOSCUSO","Bed and breakfast","2 Stelle",2,10,4
+2023,"Provincia del Sud Sardegna","SAN SPERATE","Bed and breakfast","2 Stelle",2,9,4
+2023,"Provincia del Sud Sardegna","SAN VITO","Bed and breakfast","2 Stelle",1,2,0
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Bed and breakfast","2 Stelle",5,24,13
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Bed and breakfast","2 Stelle",10,44,20
+2023,"Provincia del Sud Sardegna","SANTADI","Bed and breakfast","2 Stelle",1,6,2
+2023,"Provincia del Sud Sardegna","SENORBÌ","Bed and breakfast","2 Stelle",2,9,5
+2023,"Provincia del Sud Sardegna","SERDIANA","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia del Sud Sardegna","SERRI","Bed and breakfast","2 Stelle",1,4,3
+2023,"Provincia del Sud Sardegna","SUELLI","Bed and breakfast","2 Stelle",2,6,3
+2023,"Provincia del Sud Sardegna","TEULADA","Bed and breakfast","2 Stelle",3,12,5
+2023,"Provincia del Sud Sardegna","TUILI","Bed and breakfast","2 Stelle",2,7,4
+2023,"Provincia del Sud Sardegna","VILLACIDRO","Bed and breakfast","2 Stelle",2,12,5
+2023,"Provincia del Sud Sardegna","VILLAMASSARGIA","Bed and breakfast","2 Stelle",3,12,6
+2023,"Provincia del Sud Sardegna","VILLANOVAFORRU","Bed and breakfast","2 Stelle",1,2,1
+2023,"Provincia del Sud Sardegna","VILLAPERUCCIO","Bed and breakfast","2 Stelle",1,8,3
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Bed and breakfast","2 Stelle",6,32,15
+2023,"Provincia di Nuoro","AUSTIS","Bed and breakfast","2 Stelle",2,6,4
+2023,"Provincia di Nuoro","BARI SARDO","Bed and breakfast","2 Stelle",2,15,6
+2023,"Provincia di Nuoro","BAUNEI","Bed and breakfast","2 Stelle",2,6,3
+2023,"Provincia di Nuoro","BOLOTANA","Bed and breakfast","2 Stelle",2,9,5
+2023,"Provincia di Nuoro","DORGALI","Bed and breakfast","2 Stelle",12,55,29
+2023,"Provincia di Nuoro","FONNI","Bed and breakfast","2 Stelle",6,31,14
+2023,"Provincia di Nuoro","GAIRO","Bed and breakfast","2 Stelle",1,7,3
+2023,"Provincia di Nuoro","GALTELLÌ","Bed and breakfast","2 Stelle",4,21,9
+2023,"Provincia di Nuoro","GAVOI","Bed and breakfast","2 Stelle",2,14,6
+2023,"Provincia di Nuoro","ILBONO","Bed and breakfast","2 Stelle",1,5,3
+2023,"Provincia di Nuoro","LANUSEI","Bed and breakfast","2 Stelle",2,8,4
+2023,"Provincia di Nuoro","LOCERI","Bed and breakfast","2 Stelle",3,15,5
+2023,"Provincia di Nuoro","LOCULI","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Nuoro","LOTZORAI","Bed and breakfast","2 Stelle",2,9,5
+2023,"Provincia di Nuoro","LULA","Bed and breakfast","2 Stelle",1,5,2
+2023,"Provincia di Nuoro","MACOMER","Bed and breakfast","2 Stelle",1,8,3
+2023,"Provincia di Nuoro","MAMOIADA","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Nuoro","NUORO","Bed and breakfast","2 Stelle",9,47,21
+2023,"Provincia di Nuoro","OLIENA","Bed and breakfast","2 Stelle",6,34,16
+2023,"Provincia di Nuoro","OLLOLAI","Bed and breakfast","2 Stelle",1,3,2
+2023,"Provincia di Nuoro","ORGOSOLO","Bed and breakfast","2 Stelle",4,22,11
+2023,"Provincia di Nuoro","OROSEI","Bed and breakfast","2 Stelle",6,29,15
+2023,"Provincia di Nuoro","OSIDDA","Bed and breakfast","2 Stelle",1,8,3
+2023,"Provincia di Nuoro","PERDASDEFOGU","Bed and breakfast","2 Stelle",1,2,1
+2023,"Provincia di Nuoro","POSADA","Bed and breakfast","2 Stelle",5,22,11
+2023,"Provincia di Nuoro","SARULE","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Nuoro","SINISCOLA","Bed and breakfast","2 Stelle",8,39,19
+2023,"Provincia di Nuoro","SORGONO","Bed and breakfast","2 Stelle",3,8,6
+2023,"Provincia di Nuoro","TONARA","Bed and breakfast","2 Stelle",1,2,2
+2023,"Provincia di Nuoro","TORPÈ","Bed and breakfast","2 Stelle",3,13,8
+2023,"Provincia di Nuoro","TORTOLÌ","Bed and breakfast","2 Stelle",4,16,10
+2023,"Provincia di Nuoro","TRIEI","Bed and breakfast","2 Stelle",2,7,5
+2023,"Provincia di Nuoro","ULASSAI","Bed and breakfast","2 Stelle",2,8,4
+2023,"Provincia di Nuoro","VILLAGRANDE STRISAILI","Bed and breakfast","2 Stelle",1,5,3
+2023,"Provincia di Oristano","ABBASANTA","Bed and breakfast","2 Stelle",1,4,2
+2023,"Provincia di Oristano","BARATILI SAN PIETRO","Bed and breakfast","2 Stelle",1,5,2
+2023,"Provincia di Oristano","BOSA","Bed and breakfast","2 Stelle",7,34,18
+2023,"Provincia di Oristano","CABRAS","Bed and breakfast","2 Stelle",6,25,13
+2023,"Provincia di Oristano","CUGLIERI","Bed and breakfast","2 Stelle",2,9,6
+2023,"Provincia di Oristano","GHILARZA","Bed and breakfast","2 Stelle",1,4,1
+2023,"Provincia di Oristano","LACONI","Bed and breakfast","2 Stelle",2,8,4
+2023,"Provincia di Oristano","MARRUBIU","Bed and breakfast","2 Stelle",3,14,8
+2023,"Provincia di Oristano","NARBOLIA","Bed and breakfast","2 Stelle",1,9,3
+2023,"Provincia di Oristano","NURACHI","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Oristano","ORISTANO","Bed and breakfast","2 Stelle",4,19,9
+2023,"Provincia di Oristano","PAULILATINO","Bed and breakfast","2 Stelle",1,2,1
+2023,"Provincia di Oristano","RIOLA SARDO","Bed and breakfast","2 Stelle",1,7,3
+2023,"Provincia di Oristano","SANTA GIUSTA","Bed and breakfast","2 Stelle",1,7,2
+2023,"Provincia di Oristano","SANTU LUSSURGIU","Bed and breakfast","2 Stelle",3,14,9
+2023,"Provincia di Oristano","SENNARIOLO","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Oristano","SUNI","Bed and breakfast","2 Stelle",1,4,2
+2023,"Provincia di Sassari","AGGIUS","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Sassari","AGLIENTU","Bed and breakfast","2 Stelle",1,4,2
+2023,"Provincia di Sassari","ALGHERO","Bed and breakfast","2 Stelle",109,464,248
+2023,"Provincia di Sassari","ALÀ DEI SARDI","Bed and breakfast","2 Stelle",1,2,2
+2023,"Provincia di Sassari","ARDARA","Bed and breakfast","2 Stelle",1,4,3
+2023,"Provincia di Sassari","ARZACHENA","Bed and breakfast","2 Stelle",2,10,5
+2023,"Provincia di Sassari","BADESI","Bed and breakfast","2 Stelle",2,8,2
+2023,"Provincia di Sassari","BANARI","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Sassari","BENETUTTI","Bed and breakfast","2 Stelle",2,11,5
+2023,"Provincia di Sassari","BERCHIDDA","Bed and breakfast","2 Stelle",2,8,2
+2023,"Provincia di Sassari","BESSUDE","Bed and breakfast","2 Stelle",1,3,2
+2023,"Provincia di Sassari","BONORVA","Bed and breakfast","2 Stelle",2,12,6
+2023,"Provincia di Sassari","BORTIGIADAS","Bed and breakfast","2 Stelle",1,5,2
+2023,"Provincia di Sassari","BUDONI","Bed and breakfast","2 Stelle",4,19,10
+2023,"Provincia di Sassari","CALANGIANUS","Bed and breakfast","2 Stelle",1,2,1
+2023,"Provincia di Sassari","CASTELSARDO","Bed and breakfast","2 Stelle",15,82,37
+2023,"Provincia di Sassari","CHEREMULE","Bed and breakfast","2 Stelle",1,6,2
+2023,"Provincia di Sassari","CHIARAMONTI","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Sassari","CODRONGIANOS","Bed and breakfast","2 Stelle",1,4,2
+2023,"Provincia di Sassari","COSSOINE","Bed and breakfast","2 Stelle",3,17,6
+2023,"Provincia di Sassari","GIAVE","Bed and breakfast","2 Stelle",1,7,3
+2023,"Provincia di Sassari","ITTIRI","Bed and breakfast","2 Stelle",1,4,3
+2023,"Provincia di Sassari","LA MADDALENA","Bed and breakfast","2 Stelle",12,57,28
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Bed and breakfast","2 Stelle",4,22,5
+2023,"Provincia di Sassari","LUOGOSANTO","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Sassari","MUROS","Bed and breakfast","2 Stelle",1,2,1
+2023,"Provincia di Sassari","NULVI","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Sassari","OLBIA","Bed and breakfast","2 Stelle",28,130,54
+2023,"Provincia di Sassari","OLMEDO","Bed and breakfast","2 Stelle",5,24,13
+2023,"Provincia di Sassari","OSCHIRI","Bed and breakfast","2 Stelle",1,5,3
+2023,"Provincia di Sassari","OSSI","Bed and breakfast","2 Stelle",1,1,1
+2023,"Provincia di Sassari","OZIERI","Bed and breakfast","2 Stelle",5,24,13
+2023,"Provincia di Sassari","PADRU","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Sassari","PALAU","Bed and breakfast","2 Stelle",4,20,7
+2023,"Provincia di Sassari","PERFUGAS","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Sassari","PORTO TORRES","Bed and breakfast","2 Stelle",5,22,11
+2023,"Provincia di Sassari","POZZOMAGGIORE","Bed and breakfast","2 Stelle",2,11,5
+2023,"Provincia di Sassari","SAN TEODORO","Bed and breakfast","2 Stelle",9,47,14
+2023,"Provincia di Sassari","SANT'ANTONIO DI GALLURA","Bed and breakfast","2 Stelle",1,9,3
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Bed and breakfast","2 Stelle",10,59,21
+2023,"Provincia di Sassari","SASSARI","Bed and breakfast","2 Stelle",23,100,50
+2023,"Provincia di Sassari","SEDINI","Bed and breakfast","2 Stelle",1,9,3
+2023,"Provincia di Sassari","SENNORI","Bed and breakfast","2 Stelle",2,10,4
+2023,"Provincia di Sassari","SORSO","Bed and breakfast","2 Stelle",4,30,11
+2023,"Provincia di Sassari","STINTINO","Bed and breakfast","2 Stelle",6,26,14
+2023,"Provincia di Sassari","TELTI","Bed and breakfast","2 Stelle",6,36,9
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Bed and breakfast","2 Stelle",7,31,13
+2023,"Provincia di Sassari","THIESI","Bed and breakfast","2 Stelle",1,6,3
+2023,"Provincia di Sassari","TORRALBA","Bed and breakfast","2 Stelle",1,2,2
+2023,"Provincia di Sassari","TULA","Bed and breakfast","2 Stelle",2,5,6
+2023,"Provincia di Sassari","URI","Bed and breakfast","2 Stelle",2,10,5
+2023,"Provincia di Sassari","USINI","Bed and breakfast","2 Stelle",1,2,1
+2023,"Provincia di Sassari","VALLEDORIA","Bed and breakfast","2 Stelle",1,2,1
+2023,"Città metropolitana di Cagliari","ASSEMINI","Bed and breakfast","3 Stelle",4,23,10
+2023,"Città metropolitana di Cagliari","CAGLIARI","Bed and breakfast","3 Stelle",49,222,105
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Bed and breakfast","3 Stelle",13,67,33
+2023,"Città metropolitana di Cagliari","ELMAS","Bed and breakfast","3 Stelle",3,12,7
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Bed and breakfast","3 Stelle",1,2,2
+2023,"Città metropolitana di Cagliari","MONSERRATO","Bed and breakfast","3 Stelle",1,1,1
+2023,"Città metropolitana di Cagliari","PULA","Bed and breakfast","3 Stelle",3,12,6
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Bed and breakfast","3 Stelle",10,58,27
+2023,"Città metropolitana di Cagliari","QUARTUCCIU","Bed and breakfast","3 Stelle",1,5,3
+2023,"Città metropolitana di Cagliari","SARROCH","Bed and breakfast","3 Stelle",2,15,6
+2023,"Città metropolitana di Cagliari","SELARGIUS","Bed and breakfast","3 Stelle",2,5,3
+2023,"Città metropolitana di Cagliari","SESTU","Bed and breakfast","3 Stelle",1,5,3
+2023,"Città metropolitana di Cagliari","SETTIMO SAN PIETRO","Bed and breakfast","3 Stelle",1,5,2
+2023,"Città metropolitana di Cagliari","SINNAI","Bed and breakfast","3 Stelle",2,10,5
+2023,"Città metropolitana di Cagliari","UTA","Bed and breakfast","3 Stelle",1,6,3
+2023,"Città metropolitana di Cagliari","VILLA SAN PIETRO","Bed and breakfast","3 Stelle",4,24,9
+2023,"Provincia del Sud Sardegna","ARBUS","Bed and breakfast","3 Stelle",4,21,11
+2023,"Provincia del Sud Sardegna","ARMUNGIA","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia del Sud Sardegna","BARUMINI","Bed and breakfast","3 Stelle",1,2,1
+2023,"Provincia del Sud Sardegna","BUGGERRU","Bed and breakfast","3 Stelle",3,13,8
+2023,"Provincia del Sud Sardegna","CALASETTA","Bed and breakfast","3 Stelle",5,37,14
+2023,"Provincia del Sud Sardegna","CARBONIA","Bed and breakfast","3 Stelle",4,27,12
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Bed and breakfast","3 Stelle",9,43,20
+2023,"Provincia del Sud Sardegna","CASTIADAS","Bed and breakfast","3 Stelle",3,16,8
+2023,"Provincia del Sud Sardegna","DOLIANOVA","Bed and breakfast","3 Stelle",4,18,9
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Bed and breakfast","3 Stelle",9,48,24
+2023,"Provincia del Sud Sardegna","ESCALAPLANO","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia del Sud Sardegna","FLUMINIMAGGIORE","Bed and breakfast","3 Stelle",1,6,0
+2023,"Provincia del Sud Sardegna","FURTEI","Bed and breakfast","3 Stelle",1,3,1
+2023,"Provincia del Sud Sardegna","GENURI","Bed and breakfast","3 Stelle",1,3,1
+2023,"Provincia del Sud Sardegna","GERGEI","Bed and breakfast","3 Stelle",1,2,1
+2023,"Provincia del Sud Sardegna","GESTURI","Bed and breakfast","3 Stelle",2,11,6
+2023,"Provincia del Sud Sardegna","GONNESA","Bed and breakfast","3 Stelle",2,16,6
+2023,"Provincia del Sud Sardegna","GUSPINI","Bed and breakfast","3 Stelle",6,27,10
+2023,"Provincia del Sud Sardegna","IGLESIAS","Bed and breakfast","3 Stelle",9,50,22
+2023,"Provincia del Sud Sardegna","ISILI","Bed and breakfast","3 Stelle",1,2,1
+2023,"Provincia del Sud Sardegna","LAS PLASSAS","Bed and breakfast","3 Stelle",1,3,1
+2023,"Provincia del Sud Sardegna","LUNAMATRONA","Bed and breakfast","3 Stelle",1,3,2
+2023,"Provincia del Sud Sardegna","MANDAS","Bed and breakfast","3 Stelle",2,9,2
+2023,"Provincia del Sud Sardegna","MONASTIR","Bed and breakfast","3 Stelle",2,8,3
+2023,"Provincia del Sud Sardegna","MURAVERA","Bed and breakfast","3 Stelle",4,21,10
+2023,"Provincia del Sud Sardegna","NURALLAO","Bed and breakfast","3 Stelle",2,11,4
+2023,"Provincia del Sud Sardegna","ORROLI","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia del Sud Sardegna","PORTOSCUSO","Bed and breakfast","3 Stelle",5,26,13
+2023,"Provincia del Sud Sardegna","SAN GAVINO MONREALE","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia del Sud Sardegna","SAN GIOVANNI SUERGIU","Bed and breakfast","3 Stelle",1,10,3
+2023,"Provincia del Sud Sardegna","SAN SPERATE","Bed and breakfast","3 Stelle",2,9,5
+2023,"Provincia del Sud Sardegna","SAN VITO","Bed and breakfast","3 Stelle",7,40,19
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Bed and breakfast","3 Stelle",4,18,9
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Bed and breakfast","3 Stelle",16,94,44
+2023,"Provincia del Sud Sardegna","SANTADI","Bed and breakfast","3 Stelle",1,7,3
+2023,"Provincia del Sud Sardegna","SARDARA","Bed and breakfast","3 Stelle",4,17,6
+2023,"Provincia del Sud Sardegna","SEULO","Bed and breakfast","3 Stelle",1,6,2
+2023,"Provincia del Sud Sardegna","SILIQUA","Bed and breakfast","3 Stelle",1,7,2
+2023,"Provincia del Sud Sardegna","SIURGUS DONIGALA","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia del Sud Sardegna","SOLEMINIS","Bed and breakfast","3 Stelle",1,2,1
+2023,"Provincia del Sud Sardegna","TEULADA","Bed and breakfast","3 Stelle",15,91,39
+2023,"Provincia del Sud Sardegna","VALLERMOSA","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia del Sud Sardegna","VILLAMAR","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia del Sud Sardegna","VILLAMASSARGIA","Bed and breakfast","3 Stelle",1,2,1
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Bed and breakfast","3 Stelle",2,9,5
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Bed and breakfast","3 Stelle",13,67,32
+2023,"Provincia di Nuoro","ARITZO","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia di Nuoro","BARI SARDO","Bed and breakfast","3 Stelle",1,10,6
+2023,"Provincia di Nuoro","BAUNEI","Bed and breakfast","3 Stelle",8,42,22
+2023,"Provincia di Nuoro","BOLOTANA","Bed and breakfast","3 Stelle",1,2,1
+2023,"Provincia di Nuoro","BORTIGALI","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Nuoro","CARDEDU","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia di Nuoro","DESULO","Bed and breakfast","3 Stelle",1,4,3
+2023,"Provincia di Nuoro","DORGALI","Bed and breakfast","3 Stelle",6,31,15
+2023,"Provincia di Nuoro","FONNI","Bed and breakfast","3 Stelle",1,4,1
+2023,"Provincia di Nuoro","GALTELLÌ","Bed and breakfast","3 Stelle",2,14,6
+2023,"Provincia di Nuoro","GAVOI","Bed and breakfast","3 Stelle",1,5,3
+2023,"Provincia di Nuoro","GIRASOLE","Bed and breakfast","3 Stelle",2,5,3
+2023,"Provincia di Nuoro","ILBONO","Bed and breakfast","3 Stelle",2,11,6
+2023,"Provincia di Nuoro","IRGOLI","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia di Nuoro","JERZU","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia di Nuoro","LOCERI","Bed and breakfast","3 Stelle",1,7,3
+2023,"Provincia di Nuoro","LODINE","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Nuoro","LOTZORAI","Bed and breakfast","3 Stelle",3,12,6
+2023,"Provincia di Nuoro","LULA","Bed and breakfast","3 Stelle",1,5,2
+2023,"Provincia di Nuoro","MACOMER","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia di Nuoro","MAMOIADA","Bed and breakfast","3 Stelle",1,8,3
+2023,"Provincia di Nuoro","NUORO","Bed and breakfast","3 Stelle",4,12,5
+2023,"Provincia di Nuoro","OLIENA","Bed and breakfast","3 Stelle",5,34,14
+2023,"Provincia di Nuoro","OLLOLAI","Bed and breakfast","3 Stelle",3,15,8
+2023,"Provincia di Nuoro","ORGOSOLO","Bed and breakfast","3 Stelle",1,4,3
+2023,"Provincia di Nuoro","OROSEI","Bed and breakfast","3 Stelle",4,27,12
+2023,"Provincia di Nuoro","OSINI","Bed and breakfast","3 Stelle",1,2,1
+2023,"Provincia di Nuoro","OVODDA","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Nuoro","POSADA","Bed and breakfast","3 Stelle",8,42,22
+2023,"Provincia di Nuoro","SILANUS","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Nuoro","SINISCOLA","Bed and breakfast","3 Stelle",16,76,35
+2023,"Provincia di Nuoro","SORGONO","Bed and breakfast","3 Stelle",3,11,7
+2023,"Provincia di Nuoro","TORPÈ","Bed and breakfast","3 Stelle",3,16,8
+2023,"Provincia di Nuoro","TORTOLÌ","Bed and breakfast","3 Stelle",17,93,44
+2023,"Provincia di Nuoro","ULASSAI","Bed and breakfast","3 Stelle",1,6,2
+2023,"Provincia di Nuoro","URZULEI","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia di Oristano","ARBOREA","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia di Oristano","BAULADU","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Oristano","BOSA","Bed and breakfast","3 Stelle",9,52,23
+2023,"Provincia di Oristano","CABRAS","Bed and breakfast","3 Stelle",19,106,53
+2023,"Provincia di Oristano","FORDONGIANUS","Bed and breakfast","3 Stelle",1,3,2
+2023,"Provincia di Oristano","GHILARZA","Bed and breakfast","3 Stelle",1,5,2
+2023,"Provincia di Oristano","MARRUBIU","Bed and breakfast","3 Stelle",2,10,5
+2023,"Provincia di Oristano","MODOLO","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Oristano","NURACHI","Bed and breakfast","3 Stelle",2,12,6
+2023,"Provincia di Oristano","NURECI","Bed and breakfast","3 Stelle",1,8,3
+2023,"Provincia di Oristano","ORISTANO","Bed and breakfast","3 Stelle",12,55,27
+2023,"Provincia di Oristano","RIOLA SARDO","Bed and breakfast","3 Stelle",1,3,3
+2023,"Provincia di Oristano","SAN VERO MILIS","Bed and breakfast","3 Stelle",4,20,10
+2023,"Provincia di Oristano","SANTU LUSSURGIU","Bed and breakfast","3 Stelle",3,14,6
+2023,"Provincia di Oristano","SCANO DI MONTIFERRO","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Oristano","SEDILO","Bed and breakfast","3 Stelle",1,4,1
+2023,"Provincia di Oristano","SENEGHE","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Oristano","SUNI","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Oristano","TRAMATZA","Bed and breakfast","3 Stelle",1,2,2
+2023,"Provincia di Oristano","URAS","Bed and breakfast","3 Stelle",1,8,3
+2023,"Provincia di Oristano","ZEDDIANI","Bed and breakfast","3 Stelle",1,4,2
+2023,"Provincia di Sassari","AGGIUS","Bed and breakfast","3 Stelle",2,15,6
+2023,"Provincia di Sassari","ALGHERO","Bed and breakfast","3 Stelle",47,233,127
+2023,"Provincia di Sassari","ARZACHENA","Bed and breakfast","3 Stelle",13,77,31
+2023,"Provincia di Sassari","BONO","Bed and breakfast","3 Stelle",2,14,6
+2023,"Provincia di Sassari","BONORVA","Bed and breakfast","3 Stelle",1,5,2
+2023,"Provincia di Sassari","BUDONI","Bed and breakfast","3 Stelle",4,25,12
+2023,"Provincia di Sassari","CASTELSARDO","Bed and breakfast","3 Stelle",12,62,32
+2023,"Provincia di Sassari","GOLFO ARANCI","Bed and breakfast","3 Stelle",1,4,3
+2023,"Provincia di Sassari","LA MADDALENA","Bed and breakfast","3 Stelle",8,41,21
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Bed and breakfast","3 Stelle",7,35,18
+2023,"Provincia di Sassari","MARA","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Sassari","MONTELEONE ROCCA DORIA","Bed and breakfast","3 Stelle",2,11,2
+2023,"Provincia di Sassari","OLBIA","Bed and breakfast","3 Stelle",22,100,48
+2023,"Provincia di Sassari","OLMEDO","Bed and breakfast","3 Stelle",4,22,10
+2023,"Provincia di Sassari","OZIERI","Bed and breakfast","3 Stelle",3,16,8
+2023,"Provincia di Sassari","PALAU","Bed and breakfast","3 Stelle",11,59,20
+2023,"Provincia di Sassari","PERFUGAS","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Sassari","PLOAGHE","Bed and breakfast","3 Stelle",2,12,6
+2023,"Provincia di Sassari","PORTO TORRES","Bed and breakfast","3 Stelle",3,12,6
+2023,"Provincia di Sassari","POZZOMAGGIORE","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Sassari","SAN TEODORO","Bed and breakfast","3 Stelle",22,125,42
+2023,"Provincia di Sassari","SANTA MARIA COGHINAS","Bed and breakfast","3 Stelle",3,20,8
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Bed and breakfast","3 Stelle",13,64,28
+2023,"Provincia di Sassari","SASSARI","Bed and breakfast","3 Stelle",11,69,29
+2023,"Provincia di Sassari","SORSO","Bed and breakfast","3 Stelle",6,35,13
+2023,"Provincia di Sassari","STINTINO","Bed and breakfast","3 Stelle",5,25,11
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Sassari","THIESI","Bed and breakfast","3 Stelle",1,2,1
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Bed and breakfast","3 Stelle",1,6,3
+2023,"Provincia di Sassari","USINI","Bed and breakfast","3 Stelle",1,2,1
+2023,"Provincia di Sassari","VALLEDORIA","Bed and breakfast","3 Stelle",1,10,3
+2023,"Provincia di Sassari","VILLANOVA MONTELEONE","Bed and breakfast","3 Stelle",1,6,3
+2023,"Città metropolitana di Cagliari","CAGLIARI","Boat and Breakfast",,3,9,3
+2023,"Provincia di Nuoro","TORTOLÌ","Boat and Breakfast",,3,18,9
+2023,"Provincia di Oristano","BOSA","Boat and Breakfast",,1,4,2
+2023,"Provincia di Oristano","ORISTANO","Boat and Breakfast",,1,6,3
+2023,"Provincia di Sassari","ALGHERO","Boat and Breakfast",,3,22,10
+2023,"Provincia di Sassari","OLBIA","Boat and Breakfast",,1,3,1
+2023,"Provincia di Sassari","STINTINO","Boat and Breakfast",,2,8,4
+2023,"Provincia del Sud Sardegna","MURAVERA","Campeggio",,1,224,56
+2023,"Provincia di Nuoro","BARI SARDO","Campeggio","1 Stella",1,140,50
+2023,"Provincia di Nuoro","LOTZORAI","Campeggio","1 Stella",1,250,125
+2023,"Provincia di Nuoro","OROSEI","Campeggio","1 Stella",1,394,88
+2023,"Provincia di Nuoro","TONARA","Campeggio","1 Stella",1,210,55
+2023,"Provincia di Nuoro","ULASSAI","Campeggio","1 Stella",1,75,25
+2023,"Provincia di Nuoro","URZULEI","Campeggio","1 Stella",1,44,11
+2023,"Provincia di Oristano","ORISTANO","Campeggio","1 Stella",1,200,50
+2023,"Provincia di Sassari","AGLIENTU","Campeggio","1 Stella",1,250,50
+2023,"Provincia di Sassari","BADESI","Campeggio","1 Stella",1,129,0
+2023,"Provincia di Sassari","LA MADDALENA","Campeggio","1 Stella",1,45,0
+2023,"Provincia di Sassari","OLBIA","Campeggio","1 Stella",1,36,9
+2023,"Provincia di Sassari","PERFUGAS","Campeggio","1 Stella",1,12,5
+2023,"Città metropolitana di Cagliari","PULA","Campeggio","2 Stelle",1,720,159
+2023,"Provincia del Sud Sardegna","BUGGERRU","Campeggio","2 Stelle",1,40,5
+2023,"Provincia del Sud Sardegna","CALASETTA","Campeggio","2 Stelle",1,366,103
+2023,"Provincia di Nuoro","OROSEI","Campeggio","2 Stelle",1,340,82
+2023,"Provincia di Nuoro","POSADA","Campeggio","2 Stelle",1,552,138
+2023,"Provincia di Sassari","BERCHIDDA","Campeggio","2 Stelle",1,272,68
+2023,"Provincia di Sassari","LA MADDALENA","Campeggio","2 Stelle",1,540,116
+2023,"Provincia del Sud Sardegna","ARBUS","Campeggio","3 Stelle",1,147,47
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Campeggio","3 Stelle",1,420,108
+2023,"Provincia del Sud Sardegna","LUNAMATRONA","Campeggio","3 Stelle",1,256,90
+2023,"Provincia del Sud Sardegna","MURAVERA","Campeggio","3 Stelle",2,899,205
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Campeggio","3 Stelle",1,708,176
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Campeggio","3 Stelle",1,959,214
+2023,"Provincia di Nuoro","BARI SARDO","Campeggio","3 Stelle",1,320,85
+2023,"Provincia di Nuoro","GAIRO","Campeggio","3 Stelle",1,400,172
+2023,"Provincia di Nuoro","LOTZORAI","Campeggio","3 Stelle",4,1580,439
+2023,"Provincia di Nuoro","OROSEI","Campeggio","3 Stelle",2,1880,570
+2023,"Provincia di Nuoro","SINISCOLA","Campeggio","3 Stelle",3,1620,519
+2023,"Provincia di Nuoro","TERTENIA","Campeggio","3 Stelle",1,85,40
+2023,"Provincia di Nuoro","TORTOLÌ","Campeggio","3 Stelle",2,1112,279
+2023,"Provincia di Oristano","ARBOREA","Campeggio","3 Stelle",1,654,170
+2023,"Provincia di Oristano","CABRAS","Campeggio","3 Stelle",1,660,165
+2023,"Provincia di Oristano","CUGLIERI","Campeggio","3 Stelle",1,1198,300
+2023,"Provincia di Oristano","NARBOLIA","Campeggio","3 Stelle",2,1456,416
+2023,"Provincia di Oristano","NORBELLO","Campeggio","3 Stelle",1,204,54
+2023,"Provincia di Sassari","ALGHERO","Campeggio","3 Stelle",1,500,125
+2023,"Provincia di Sassari","ARZACHENA","Campeggio","3 Stelle",1,259,258
+2023,"Provincia di Sassari","BADESI","Campeggio","3 Stelle",1,500,116
+2023,"Provincia di Sassari","BUDONI","Campeggio","3 Stelle",2,800,278
+2023,"Provincia di Sassari","LA MADDALENA","Campeggio","3 Stelle",1,380,80
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Campeggio","3 Stelle",1,1280,269
+2023,"Provincia di Sassari","NUGHEDU SAN NICOLÒ","Campeggio","3 Stelle",1,105,0
+2023,"Provincia di Sassari","OLBIA","Campeggio","3 Stelle",1,644,120
+2023,"Provincia di Sassari","PALAU","Campeggio","3 Stelle",4,3426,1029
+2023,"Provincia di Sassari","SAN TEODORO","Campeggio","3 Stelle",3,1770,586
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Campeggio","3 Stelle",3,1324,579
+2023,"Provincia di Sassari","VALLEDORIA","Campeggio","3 Stelle",1,560,140
+2023,"Provincia del Sud Sardegna","MURAVERA","Campeggio","4 Stelle",1,1108,286
+2023,"Provincia di Nuoro","BARI SARDO","Campeggio","4 Stelle",1,320,103
+2023,"Provincia di Nuoro","DORGALI","Campeggio","4 Stelle",1,1200,300
+2023,"Provincia di Nuoro","TORTOLÌ","Campeggio","4 Stelle",1,656,206
+2023,"Provincia di Sassari","AGLIENTU","Campeggio","4 Stelle",2,3449,993
+2023,"Provincia di Sassari","ALGHERO","Campeggio","4 Stelle",1,2432,612
+2023,"Provincia di Sassari","ARZACHENA","Campeggio","4 Stelle",1,2904,600
+2023,"Provincia di Sassari","SORSO","Campeggio","4 Stelle",2,1997,685
+2023,"Provincia di Sassari","VALLEDORIA","Campeggio","4 Stelle",1,1000,261
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Case e appartamenti per vacanze",,1,14,5
+2023,"Provincia del Sud Sardegna","CASTIADAS","Case e appartamenti per vacanze",,1,137,32
+2023,"Provincia del Sud Sardegna","MURAVERA","Case e appartamenti per vacanze",,4,192,102
+2023,"Provincia del Sud Sardegna","SAN VITO","Case e appartamenti per vacanze",,1,7,4
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Case e appartamenti per vacanze",,2,215,104
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Case e appartamenti per vacanze",,1,10,3
+2023,"Provincia di Nuoro","BARI SARDO","Case e appartamenti per vacanze",,1,28,15
+2023,"Provincia di Nuoro","DORGALI","Case e appartamenti per vacanze",,1,21,16
+2023,"Provincia di Nuoro","OROSEI","Case e appartamenti per vacanze",,4,22,8
+2023,"Provincia di Nuoro","SINISCOLA","Case e appartamenti per vacanze",,1,8,5
+2023,"Provincia di Nuoro","TORTOLÌ","Case e appartamenti per vacanze",,1,20,20
+2023,"Provincia di Oristano","CABRAS","Case e appartamenti per vacanze",,1,6,3
+2023,"Provincia di Sassari","ALGHERO","Case e appartamenti per vacanze",,11,208,99
+2023,"Provincia di Sassari","ARZACHENA","Case e appartamenti per vacanze",,7,174,15
+2023,"Provincia di Sassari","BUDONI","Case e appartamenti per vacanze",,9,243,29
+2023,"Provincia di Sassari","CASTELSARDO","Case e appartamenti per vacanze",,1,6,3
+2023,"Provincia di Sassari","GOLFO ARANCI","Case e appartamenti per vacanze",,6,284,34
+2023,"Provincia di Sassari","LA MADDALENA","Case e appartamenti per vacanze",,6,286,99
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Case e appartamenti per vacanze",,2,16,6
+2023,"Provincia di Sassari","OLBIA","Case e appartamenti per vacanze",,18,281,101
+2023,"Provincia di Sassari","PALAU","Case e appartamenti per vacanze",,2,231,77
+2023,"Provincia di Sassari","SAN TEODORO","Case e appartamenti per vacanze",,7,181,55
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Case e appartamenti per vacanze",,5,90,26
+2023,"Provincia di Sassari","STINTINO","Case e appartamenti per vacanze",,5,365,126
+2023,"Provincia di Sassari","TERGU","Case e appartamenti per vacanze",,1,77,43
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Case e appartamenti per vacanze",,1,44,0
+2023,"Provincia di Sassari","VALLEDORIA","Case e appartamenti per vacanze",,4,102,36
+2023,"Provincia di Nuoro","OROSEI","Case e appartamenti per vacanze","1 Stella",1,24,8
+2023,"Città metropolitana di Cagliari","PULA","Case e appartamenti per vacanze","I Categoria",1,23,12
+2023,"Provincia del Sud Sardegna","MURAVERA","Case e appartamenti per vacanze","I Categoria",1,72,36
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Case e appartamenti per vacanze","I Categoria",1,12,6
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Case e appartamenti per vacanze","I Categoria",1,10,5
+2023,"Provincia di Nuoro","ARITZO","Case e appartamenti per vacanze","I Categoria",1,14,10
+2023,"Provincia di Nuoro","OROSEI","Case e appartamenti per vacanze","I Categoria",1,15,6
+2023,"Provincia di Nuoro","TORTOLÌ","Case e appartamenti per vacanze","I Categoria",3,62,20
+2023,"Provincia di Oristano","NARBOLIA","Case e appartamenti per vacanze","I Categoria",1,108,27
+2023,"Provincia di Sassari","ALGHERO","Case e appartamenti per vacanze","I Categoria",1,8,4
+2023,"Provincia di Sassari","ARZACHENA","Case e appartamenti per vacanze","I Categoria",9,395,95
+2023,"Provincia di Sassari","BADESI","Case e appartamenti per vacanze","I Categoria",3,87,0
+2023,"Provincia di Sassari","BUDONI","Case e appartamenti per vacanze","I Categoria",7,231,57
+2023,"Provincia di Sassari","CASTELSARDO","Case e appartamenti per vacanze","I Categoria",1,11,6
+2023,"Provincia di Sassari","GOLFO ARANCI","Case e appartamenti per vacanze","I Categoria",2,52,8
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Case e appartamenti per vacanze","I Categoria",2,47,20
+2023,"Provincia di Sassari","OLBIA","Case e appartamenti per vacanze","I Categoria",5,773,101
+2023,"Provincia di Sassari","PALAU","Case e appartamenti per vacanze","I Categoria",2,96,32
+2023,"Provincia di Sassari","SAN TEODORO","Case e appartamenti per vacanze","I Categoria",11,664,74
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Case e appartamenti per vacanze","I Categoria",2,29,0
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Case e appartamenti per vacanze","I Categoria",1,48,22
+2023,"Provincia di Sassari","VALLEDORIA","Case e appartamenti per vacanze","I Categoria",1,115,1
+2023,"Città metropolitana di Cagliari","CAGLIARI","Case e appartamenti per vacanze","II Categoria",21,284,146
+2023,"Città metropolitana di Cagliari","CAPOTERRA","Case e appartamenti per vacanze","II Categoria",1,16,8
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Case e appartamenti per vacanze","II Categoria",1,44,13
+2023,"Città metropolitana di Cagliari","PULA","Case e appartamenti per vacanze","II Categoria",4,676,217
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Case e appartamenti per vacanze","II Categoria",2,19,6
+2023,"Provincia del Sud Sardegna","ARBUS","Case e appartamenti per vacanze","II Categoria",2,61,22
+2023,"Provincia del Sud Sardegna","BUGGERRU","Case e appartamenti per vacanze","II Categoria",2,24,9
+2023,"Provincia del Sud Sardegna","CALASETTA","Case e appartamenti per vacanze","II Categoria",6,120,31
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Case e appartamenti per vacanze","II Categoria",2,42,16
+2023,"Provincia del Sud Sardegna","CASTIADAS","Case e appartamenti per vacanze","II Categoria",2,81,26
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Case e appartamenti per vacanze","II Categoria",12,228,46
+2023,"Provincia del Sud Sardegna","GONNESA","Case e appartamenti per vacanze","II Categoria",2,19,7
+2023,"Provincia del Sud Sardegna","IGLESIAS","Case e appartamenti per vacanze","II Categoria",3,43,16
+2023,"Provincia del Sud Sardegna","MURAVERA","Case e appartamenti per vacanze","II Categoria",14,520,196
+2023,"Provincia del Sud Sardegna","SAN GIOVANNI SUERGIU","Case e appartamenti per vacanze","II Categoria",1,9,4
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Case e appartamenti per vacanze","II Categoria",2,54,13
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Case e appartamenti per vacanze","II Categoria",6,175,94
+2023,"Provincia del Sud Sardegna","TEULADA","Case e appartamenti per vacanze","II Categoria",3,72,23
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Case e appartamenti per vacanze","II Categoria",1,22,8
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Case e appartamenti per vacanze","II Categoria",7,421,144
+2023,"Provincia di Nuoro","BARI SARDO","Case e appartamenti per vacanze","II Categoria",3,36,21
+2023,"Provincia di Nuoro","BAUNEI","Case e appartamenti per vacanze","II Categoria",7,77,44
+2023,"Provincia di Nuoro","CARDEDU","Case e appartamenti per vacanze","II Categoria",22,75,49
+2023,"Provincia di Nuoro","DORGALI","Case e appartamenti per vacanze","II Categoria",7,58,32
+2023,"Provincia di Nuoro","GALTELLÌ","Case e appartamenti per vacanze","II Categoria",1,12,6
+2023,"Provincia di Nuoro","GIRASOLE","Case e appartamenti per vacanze","II Categoria",1,10,6
+2023,"Provincia di Nuoro","NUORO","Case e appartamenti per vacanze","II Categoria",2,39,18
+2023,"Provincia di Nuoro","OROSEI","Case e appartamenti per vacanze","II Categoria",21,343,140
+2023,"Provincia di Nuoro","POSADA","Case e appartamenti per vacanze","II Categoria",5,39,18
+2023,"Provincia di Nuoro","SINISCOLA","Case e appartamenti per vacanze","II Categoria",3,49,21
+2023,"Provincia di Nuoro","TERTENIA","Case e appartamenti per vacanze","II Categoria",1,108,54
+2023,"Provincia di Nuoro","TORTOLÌ","Case e appartamenti per vacanze","II Categoria",11,172,80
+2023,"Provincia di Oristano","ALES","Case e appartamenti per vacanze","II Categoria",3,12,3
+2023,"Provincia di Oristano","BOSA","Case e appartamenti per vacanze","II Categoria",11,157,76
+2023,"Provincia di Oristano","CABRAS","Case e appartamenti per vacanze","II Categoria",3,45,19
+2023,"Provincia di Oristano","CUGLIERI","Case e appartamenti per vacanze","II Categoria",1,37,21
+2023,"Provincia di Oristano","GHILARZA","Case e appartamenti per vacanze","II Categoria",1,20,5
+2023,"Provincia di Oristano","MAGOMADAS","Case e appartamenti per vacanze","II Categoria",1,27,9
+2023,"Provincia di Oristano","NURACHI","Case e appartamenti per vacanze","II Categoria",1,18,6
+2023,"Provincia di Oristano","ORISTANO","Case e appartamenti per vacanze","II Categoria",5,84,48
+2023,"Provincia di Oristano","RIOLA SARDO","Case e appartamenti per vacanze","II Categoria",1,23,7
+2023,"Provincia di Oristano","SANTU LUSSURGIU","Case e appartamenti per vacanze","II Categoria",2,13,7
+2023,"Provincia di Oristano","TRESNURAGHES","Case e appartamenti per vacanze","II Categoria",1,18,9
+2023,"Provincia di Sassari","AGGIUS","Case e appartamenti per vacanze","II Categoria",1,8,3
+2023,"Provincia di Sassari","AGLIENTU","Case e appartamenti per vacanze","II Categoria",2,71,26
+2023,"Provincia di Sassari","ALGHERO","Case e appartamenti per vacanze","II Categoria",42,1049,280
+2023,"Provincia di Sassari","ARZACHENA","Case e appartamenti per vacanze","II Categoria",6,148,12
+2023,"Provincia di Sassari","BADESI","Case e appartamenti per vacanze","II Categoria",9,933,199
+2023,"Provincia di Sassari","BUDONI","Case e appartamenti per vacanze","II Categoria",27,1484,354
+2023,"Provincia di Sassari","CASTELSARDO","Case e appartamenti per vacanze","II Categoria",4,253,84
+2023,"Provincia di Sassari","GOLFO ARANCI","Case e appartamenti per vacanze","II Categoria",15,993,145
+2023,"Provincia di Sassari","LA MADDALENA","Case e appartamenti per vacanze","II Categoria",3,85,24
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Case e appartamenti per vacanze","II Categoria",10,445,35
+2023,"Provincia di Sassari","OLBIA","Case e appartamenti per vacanze","II Categoria",29,648,271
+2023,"Provincia di Sassari","OZIERI","Case e appartamenti per vacanze","II Categoria",1,12,0
+2023,"Provincia di Sassari","PALAU","Case e appartamenti per vacanze","II Categoria",12,904,139
+2023,"Provincia di Sassari","PORTO TORRES","Case e appartamenti per vacanze","II Categoria",4,42,4
+2023,"Provincia di Sassari","SAN TEODORO","Case e appartamenti per vacanze","II Categoria",37,1967,661
+2023,"Provincia di Sassari","SANTA MARIA COGHINAS","Case e appartamenti per vacanze","II Categoria",3,104,20
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Case e appartamenti per vacanze","II Categoria",12,329,182
+2023,"Provincia di Sassari","SASSARI","Case e appartamenti per vacanze","II Categoria",5,33,14
+2023,"Provincia di Sassari","SORSO","Case e appartamenti per vacanze","II Categoria",2,38,12
+2023,"Provincia di Sassari","STINTINO","Case e appartamenti per vacanze","II Categoria",6,169,67
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Case e appartamenti per vacanze","II Categoria",2,45,14
+2023,"Provincia di Sassari","TERGU","Case e appartamenti per vacanze","II Categoria",1,84,28
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Case e appartamenti per vacanze","II Categoria",10,1831,615
+2023,"Provincia di Sassari","VALLEDORIA","Case e appartamenti per vacanze","II Categoria",5,511,18
+2023,"Provincia di Sassari","VIDDALBA","Case e appartamenti per vacanze","II Categoria",1,22,7
+2023,"Provincia del Sud Sardegna","CARLOFORTE","Case e appartamenti per vacanze","III Categoria",1,10,4
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Case e appartamenti per vacanze","III Categoria",1,4,3
+2023,"Provincia del Sud Sardegna","MURAVERA","Case e appartamenti per vacanze","III Categoria",1,8,4
+2023,"Provincia del Sud Sardegna","SAN GIOVANNI SUERGIU","Case e appartamenti per vacanze","III Categoria",3,60,26
+2023,"Provincia del Sud Sardegna","TEULADA","Case e appartamenti per vacanze","III Categoria",1,9,4
+2023,"Provincia di Nuoro","CARDEDU","Case e appartamenti per vacanze","III Categoria",2,48,26
+2023,"Provincia di Nuoro","DORGALI","Case e appartamenti per vacanze","III Categoria",3,14,6
+2023,"Provincia di Nuoro","OROSEI","Case e appartamenti per vacanze","III Categoria",9,20,15
+2023,"Provincia di Nuoro","SINISCOLA","Case e appartamenti per vacanze","III Categoria",1,20,12
+2023,"Provincia di Sassari","AGLIENTU","Case e appartamenti per vacanze","III Categoria",2,33,14
+2023,"Provincia di Sassari","ALGHERO","Case e appartamenti per vacanze","III Categoria",8,255,134
+2023,"Provincia di Sassari","BADESI","Case e appartamenti per vacanze","III Categoria",2,384,127
+2023,"Provincia di Sassari","NULVI","Case e appartamenti per vacanze","III Categoria",1,16,0
+2023,"Provincia di Sassari","OLBIA","Case e appartamenti per vacanze","III Categoria",1,9,5
+2023,"Provincia di Sassari","OLMEDO","Case e appartamenti per vacanze","III Categoria",1,10,5
+2023,"Provincia di Sassari","SAN TEODORO","Case e appartamenti per vacanze","III Categoria",1,9,6
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Case e appartamenti per vacanze","III Categoria",1,60,180
+2023,"Provincia di Sassari","SASSARI","Case e appartamenti per vacanze","III Categoria",1,43,12
+2023,"Provincia di Sassari","STINTINO","Case e appartamenti per vacanze","III Categoria",1,40,14
+2023,"Provincia di Sassari","TERGU","Case e appartamenti per vacanze","III Categoria",1,9,3
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Case e appartamenti per vacanze","III Categoria",1,60,0
+2023,"Provincia di Sassari","VALLEDORIA","Case e appartamenti per vacanze","III Categoria",1,53,0
+2023,"Provincia di Sassari","ALGHERO","Case per ferie",,1,20,7
+2023,"Provincia di Sassari","OLBIA","Case per ferie",,1,4,2
+2023,"Città metropolitana di Cagliari","SINNAI","Case per ferie","III Categoria",1,38,20
+2023,"Provincia del Sud Sardegna","ARBUS","Case per ferie","III Categoria",1,9,5
+2023,"Provincia del Sud Sardegna","CARBONIA","Case per ferie","III Categoria",1,22,10
+2023,"Provincia del Sud Sardegna","CASTIADAS","Case per ferie","III Categoria",1,16,8
+2023,"Provincia del Sud Sardegna","FLUMINIMAGGIORE","Case per ferie","III Categoria",1,11,10
+2023,"Provincia del Sud Sardegna","IGLESIAS","Case per ferie","III Categoria",3,18,11
+2023,"Provincia del Sud Sardegna","VILLACIDRO","Case per ferie","III Categoria",1,11,4
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Case per ferie","III Categoria",1,17,9
+2023,"Provincia di Nuoro","LANUSEI","Case per ferie","III Categoria",1,69,30
+2023,"Provincia di Oristano","ARBOREA","Case per ferie","III Categoria",1,40,15
+2023,"Provincia di Oristano","LACONI","Case per ferie","III Categoria",1,31,22
+2023,"Provincia di Oristano","ORISTANO","Case per ferie","III Categoria",1,40,10
+2023,"Provincia di Oristano","PAULILATINO","Case per ferie","III Categoria",1,7,4
+2023,"Provincia di Sassari","ALGHERO","Case per ferie","III Categoria",4,142,87
+2023,"Provincia di Sassari","BONORVA","Case per ferie","III Categoria",1,24,14
+2023,"Provincia di Sassari","SASSARI","Case per ferie","III Categoria",2,35,29
+2023,"Città metropolitana di Cagliari","CAGLIARI","Locanda",,2,18,9
+2023,"Provincia del Sud Sardegna","SIURGUS DONIGALA","Locanda",,1,14,6
+2023,"Provincia di Nuoro","OLIENA","Locanda",,1,8,4
+2023,"Provincia di Nuoro","ORANI","Locanda",,1,10,5
+2023,"Provincia di Sassari","OLBIA","Locanda",,1,11,0
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Locanda",,1,5,3
+2023,"Provincia del Sud Sardegna","SANT'ANNA ARRESI","Locanda","I Categoria",1,10,6
+2023,"Provincia di Nuoro","DORGALI","Locanda","I Categoria",1,8,3
+2023,"Provincia di Sassari","CASTELSARDO","Locanda","I Categoria",1,11,5
+2023,"Provincia di Sassari","PALAU","Locanda","I Categoria",1,13,6
+2023,"Provincia del Sud Sardegna","MURAVERA","Locanda","II Categoria",1,15,6
+2023,"Provincia del Sud Sardegna","VILLAPERUCCIO","Locanda","II Categoria",1,6,3
+2023,"Provincia di Nuoro","BAUNEI","Locanda","II Categoria",1,12,6
+2023,"Provincia di Nuoro","IRGOLI","Locanda","II Categoria",1,12,6
+2023,"Provincia di Nuoro","OLIENA","Locanda","II Categoria",1,13,6
+2023,"Provincia di Nuoro","ORGOSOLO","Locanda","II Categoria",2,11,6
+2023,"Provincia di Nuoro","SINISCOLA","Locanda","II Categoria",2,16,8
+2023,"Provincia di Nuoro","TORTOLÌ","Locanda","II Categoria",3,35,17
+2023,"Provincia di Oristano","BARADILI","Locanda","II Categoria",1,14,6
+2023,"Provincia di Oristano","SENNARIOLO","Locanda","II Categoria",1,12,6
+2023,"Provincia di Oristano","SIAMAGGIORE","Locanda","II Categoria",1,9,4
+2023,"Provincia di Sassari","ARZACHENA","Locanda","II Categoria",1,0,0
+2023,"Provincia di Sassari","LUOGOSANTO","Locanda","II Categoria",1,12,5
+2023,"Provincia di Sassari","OLBIA","Locanda","II Categoria",1,8,3
+2023,"Provincia di Sassari","SANT'ANTONIO DI GALLURA","Locanda","II Categoria",1,8,3
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Locanda","II Categoria",1,6,3
+2023,"Provincia di Sassari","VALLEDORIA","Locanda","II Categoria",1,11,4
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Locanda","III Categoria",1,7,4
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Locanda","III Categoria",1,12,4
+2023,"Provincia di Sassari","ARZACHENA","Marina Resort",,1,1220,305
+2023,"Provincia di Sassari","CASTELSARDO","Marina Resort",,1,550,550
+2023,"Provincia del Sud Sardegna","SANT'ANTIOCO","Ostelli per la gioventù",,1,89,32
+2023,"Provincia di Nuoro","BAUNEI","Ostelli per la gioventù",,1,29,18
+2023,"Provincia di Nuoro","NUORO","Ostelli per la gioventù",,2,24,14
+2023,"Provincia di Sassari","ALGHERO","Ostelli per la gioventù",,1,76,43
+2023,"Città metropolitana di Cagliari","CAGLIARI","Ostelli per la gioventù","III Categoria",1,125,35
+2023,"Città metropolitana di Cagliari","PULA","Ostelli per la gioventù","III Categoria",1,83,0
+2023,"Provincia del Sud Sardegna","BUGGERRU","Ostelli per la gioventù","III Categoria",1,18,0
+2023,"Provincia del Sud Sardegna","IGLESIAS","Ostelli per la gioventù","III Categoria",1,20,6
+2023,"Provincia del Sud Sardegna","TUILI","Ostelli per la gioventù","III Categoria",1,25,13
+2023,"Provincia di Nuoro","ILBONO","Ostelli per la gioventù","III Categoria",1,48,23
+2023,"Provincia di Nuoro","LANUSEI","Ostelli per la gioventù","III Categoria",1,24,6
+2023,"Provincia di Nuoro","SINISCOLA","Ostelli per la gioventù","III Categoria",1,29,7
+2023,"Provincia di Oristano","MARRUBIU","Ostelli per la gioventù","III Categoria",1,20,6
+2023,"Provincia di Oristano","ORISTANO","Ostelli per la gioventù","III Categoria",1,138,69
+2023,"Provincia di Sassari","ALGHERO","Ostelli per la gioventù","III Categoria",1,132,30
+2023,"Provincia di Sassari","CASTELSARDO","Ostelli per la gioventù","III Categoria",1,65,19
+2023,"Provincia di Sassari","PORTO TORRES","Ostelli per la gioventù","III Categoria",1,20,4
+2023,"Provincia di Sassari","SASSARI","Ostelli per la gioventù","III Categoria",1,60,30
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Residence",,1,81,30
+2023,"Provincia di Sassari","ARZACHENA","Residence",,1,120,28
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Residence",,1,114,0
+2023,"Provincia del Sud Sardegna","MURAVERA","Residence","I Categoria",1,16,8
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Residence","I Categoria",1,81,35
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Residence","I Categoria",1,164,43
+2023,"Provincia di Nuoro","CARDEDU","Residence","I Categoria",1,68,42
+2023,"Provincia di Nuoro","NUORO","Residence","I Categoria",1,55,15
+2023,"Provincia di Nuoro","TORTOLÌ","Residence","I Categoria",1,32,11
+2023,"Provincia di Oristano","CABRAS","Residence","I Categoria",1,20,10
+2023,"Provincia di Sassari","ARZACHENA","Residence","I Categoria",2,267,73
+2023,"Provincia di Sassari","LA MADDALENA","Residence","I Categoria",1,203,57
+2023,"Provincia di Sassari","TRINITÀ D'AGULTU E VIGNOLA","Residence","I Categoria",1,345,115
+2023,"Città metropolitana di Cagliari","ASSEMINI","Residence","II Categoria",1,50,25
+2023,"Città metropolitana di Cagliari","CAGLIARI","Residence","II Categoria",1,50,25
+2023,"Città metropolitana di Cagliari","VILLA SAN PIETRO","Residence","II Categoria",1,12,7
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Residence","II Categoria",1,60,24
+2023,"Provincia del Sud Sardegna","VILLAPUTZU","Residence","II Categoria",1,59,27
+2023,"Provincia di Nuoro","BARI SARDO","Residence","II Categoria",2,38,16
+2023,"Provincia di Nuoro","OROSEI","Residence","II Categoria",2,261,94
+2023,"Provincia di Nuoro","SINISCOLA","Residence","II Categoria",1,16,8
+2023,"Provincia di Oristano","ORISTANO","Residence","II Categoria",1,24,10
+2023,"Provincia di Sassari","ARZACHENA","Residence","II Categoria",5,531,72
+2023,"Provincia di Sassari","BADESI","Residence","II Categoria",1,203,86
+2023,"Provincia di Sassari","BUDONI","Residence","II Categoria",1,36,0
+2023,"Provincia di Sassari","GOLFO ARANCI","Residence","II Categoria",1,48,187
+2023,"Provincia di Sassari","OLBIA","Residence","II Categoria",1,141,70
+2023,"Provincia di Sassari","PALAU","Residence","II Categoria",2,277,15
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Residence","II Categoria",3,336,28
+2023,"Provincia di Sassari","SASSARI","Residence","II Categoria",1,13,13
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Residence","III Categoria",1,140,46
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Residence","III Categoria",1,100,0
+2023,"Provincia di Sassari","OLBIA","Residence","III Categoria",1,120,0
+2023,"Provincia di Sassari","SAN TEODORO","Residence","III Categoria",1,57,0
+2023,"Città metropolitana di Cagliari","PULA","Turismo Rurale","1 Stella",1,13,7
+2023,"Provincia del Sud Sardegna","CALASETTA","Turismo Rurale","1 Stella",1,16,8
+2023,"Provincia del Sud Sardegna","CASTIADAS","Turismo Rurale","1 Stella",1,20,12
+2023,"Provincia del Sud Sardegna","GUASILA","Turismo Rurale","1 Stella",1,12,8
+2023,"Provincia del Sud Sardegna","ORROLI","Turismo Rurale","1 Stella",1,18,9
+2023,"Provincia di Nuoro","SINISCOLA","Turismo Rurale","1 Stella",1,20,10
+2023,"Provincia di Sassari","ALGHERO","Turismo Rurale","1 Stella",1,7,7
+2023,"Provincia di Sassari","ARZACHENA","Turismo Rurale","1 Stella",1,20,13
+2023,"Provincia di Sassari","BUDONI","Turismo Rurale","1 Stella",1,10,5
+2023,"Provincia di Sassari","OLBIA","Turismo Rurale","1 Stella",1,20,10
+2023,"Provincia del Sud Sardegna","DOLIANOVA","Turismo Rurale","2 Stelle",1,20,11
+2023,"Provincia del Sud Sardegna","ORROLI","Turismo Rurale","2 Stelle",1,20,7
+2023,"Provincia di Nuoro","DORGALI","Turismo Rurale","2 Stelle",3,40,23
+2023,"Provincia di Sassari","ARZACHENA","Turismo Rurale","2 Stelle",1,14,7
+2023,"Provincia di Sassari","BUDONI","Turismo Rurale","2 Stelle",1,18,7
+2023,"Provincia di Sassari","OSCHIRI","Turismo Rurale","2 Stelle",1,15,7
+2023,"Provincia di Sassari","STINTINO","Turismo Rurale","2 Stelle",1,20,9
+2023,"Provincia di Sassari","VALLEDORIA","Turismo Rurale","2 Stelle",1,14,7
+2023,"Città metropolitana di Cagliari","PULA","Turismo Rurale","3 Stelle",1,67,32
+2023,"Città metropolitana di Cagliari","QUARTU SANT'ELENA","Turismo Rurale","3 Stelle",1,78,39
+2023,"Provincia del Sud Sardegna","ARBUS","Turismo Rurale","3 Stelle",1,19,11
+2023,"Provincia del Sud Sardegna","BURCEI","Turismo Rurale","3 Stelle",1,10,7
+2023,"Provincia del Sud Sardegna","CASTIADAS","Turismo Rurale","3 Stelle",1,20,10
+2023,"Provincia del Sud Sardegna","DOLIANOVA","Turismo Rurale","3 Stelle",1,20,10
+2023,"Provincia del Sud Sardegna","MURAVERA","Turismo Rurale","3 Stelle",2,42,24
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Turismo Rurale","3 Stelle",1,20,10
+2023,"Provincia di Nuoro","DORGALI","Turismo Rurale","3 Stelle",3,46,25
+2023,"Provincia di Nuoro","FONNI","Turismo Rurale","3 Stelle",1,20,20
+2023,"Provincia di Nuoro","OROSEI","Turismo Rurale","3 Stelle",1,23,12
+2023,"Provincia di Nuoro","SINISCOLA","Turismo Rurale","3 Stelle",1,16,7
+2023,"Provincia di Nuoro","TORPÈ","Turismo Rurale","3 Stelle",4,45,23
+2023,"Provincia di Oristano","NARBOLIA","Turismo Rurale","3 Stelle",9,24,9
+2023,"Provincia di Oristano","TRESNURAGHES","Turismo Rurale","3 Stelle",1,48,22
+2023,"Provincia di Sassari","ALGHERO","Turismo Rurale","3 Stelle",7,246,79
+2023,"Provincia di Sassari","ARZACHENA","Turismo Rurale","3 Stelle",2,30,8
+2023,"Provincia di Sassari","GOLFO ARANCI","Turismo Rurale","3 Stelle",1,20,10
+2023,"Provincia di Sassari","LOIRI PORTO SAN PAOLO","Turismo Rurale","3 Stelle",1,19,10
+2023,"Provincia di Sassari","LUOGOSANTO","Turismo Rurale","3 Stelle",1,20,12
+2023,"Provincia di Sassari","OLBIA","Turismo Rurale","3 Stelle",2,38,19
+2023,"Provincia di Sassari","PALAU","Turismo Rurale","3 Stelle",1,16,8
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Turismo Rurale","3 Stelle",1,12,8
+2023,"Provincia di Sassari","SORSO","Turismo Rurale","3 Stelle",1,20,15
+2023,"Provincia di Sassari","TEMPIO PAUSANIA","Turismo Rurale","3 Stelle",2,33,16
+2023,"Provincia di Sassari","TERGU","Turismo Rurale","3 Stelle",1,18,12
+2023,"Provincia di Sassari","TULA","Turismo Rurale","3 Stelle",1,20,12
+2023,"Città metropolitana di Cagliari","PULA","Turismo Rurale","4 Stelle",1,20,14
+2023,"Provincia di Sassari","ALGHERO","Turismo Rurale","4 Stelle",2,112,45
+2023,"Provincia di Sassari","ARZACHENA","Turismo Rurale","4 Stelle",2,24,2
+2023,"Provincia di Sassari","OLBIA","Turismo Rurale","4 Stelle",2,40,24
+2023,"Provincia di Sassari","ARZACHENA","Turismo Rurale","5 Stelle",1,46,19
+2023,"Provincia del Sud Sardegna","NARCAO","Villaggi turistici","2 Stelle",1,37,23
+2023,"Provincia di Nuoro","MEANA SARDO","Villaggi turistici","2 Stelle",1,32,5
+2023,"Provincia di Nuoro","SINISCOLA","Villaggi turistici","2 Stelle",1,12,4
+2023,"Provincia di Sassari","LA MADDALENA","Villaggi turistici","2 Stelle",1,202,25
+2023,"Città metropolitana di Cagliari","PULA","Villaggi turistici","3 Stelle",1,399,100
+2023,"Provincia di Nuoro","TORTOLÌ","Villaggi turistici","3 Stelle",2,1024,234
+2023,"Provincia di Oristano","BOSA","Villaggi turistici","3 Stelle",1,24,12
+2023,"Provincia di Oristano","CUGLIERI","Villaggi turistici","3 Stelle",1,88,21
+2023,"Provincia di Sassari","ALGHERO","Villaggi turistici","3 Stelle",2,297,61
+2023,"Provincia di Sassari","LA MADDALENA","Villaggi turistici","3 Stelle",1,227,74
+2023,"Provincia del Sud Sardegna","MURAVERA","Villaggi turistici","4 Stelle",1,1536,384
+2023,"Provincia di Nuoro","BARI SARDO","Villaggi turistici","4 Stelle",1,850,195
+2023,"Provincia di Oristano","ORISTANO","Villaggi turistici","4 Stelle",1,441,151
+2023,"Provincia di Sassari","ALGHERO","Villaggi turistici","4 Stelle",1,800,270
+2023,"Provincia di Sassari","BUDONI","Villaggi turistici","4 Stelle",1,434,116
+2023,"Provincia di Sassari","OLBIA","Villaggio albergo","2 Stelle",1,130,0
+2023,"Provincia del Sud Sardegna","CARBONIA","Villaggio albergo","3 Stelle",1,48,24
+2023,"Provincia di Nuoro","BARI SARDO","Villaggio albergo","3 Stelle",1,40,20
+2023,"Provincia di Oristano","BONARCADO","Villaggio albergo","3 Stelle",1,67,22
+2023,"Provincia di Sassari","AGLIENTU","Villaggio albergo","3 Stelle",1,598,155
+2023,"Provincia di Sassari","BUDONI","Villaggio albergo","3 Stelle",1,179,90
+2023,"Città metropolitana di Cagliari","MARACALAGONIS","Villaggio albergo","4 Stelle",1,989,369
+2023,"Provincia del Sud Sardegna","CASTIADAS","Villaggio albergo","4 Stelle",4,663,330
+2023,"Provincia del Sud Sardegna","GUSPINI","Villaggio albergo","4 Stelle",1,115,11
+2023,"Provincia del Sud Sardegna","MURAVERA","Villaggio albergo","4 Stelle",2,1418,530
+2023,"Provincia del Sud Sardegna","VILLASIMIUS","Villaggio albergo","4 Stelle",1,2865,914
+2023,"Provincia di Nuoro","CARDEDU","Villaggio albergo","4 Stelle",1,357,170
+2023,"Provincia di Nuoro","DORGALI","Villaggio albergo","4 Stelle",1,885,427
+2023,"Provincia di Nuoro","OROSEI","Villaggio albergo","4 Stelle",2,872,391
+2023,"Provincia di Nuoro","SINISCOLA","Villaggio albergo","4 Stelle",1,40,20
+2023,"Provincia di Nuoro","TERTENIA","Villaggio albergo","4 Stelle",1,83,43
+2023,"Provincia di Nuoro","TORTOLÌ","Villaggio albergo","4 Stelle",3,2301,991
+2023,"Provincia di Sassari","BADESI","Villaggio albergo","4 Stelle",2,2412,870
+2023,"Provincia di Sassari","BUDONI","Villaggio albergo","4 Stelle",2,180,79
+2023,"Provincia di Sassari","SAN TEODORO","Villaggio albergo","4 Stelle",2,648,242
+2023,"Provincia del Sud Sardegna","DOMUS DE MARIA","Villaggio albergo","5 Stelle",1,170,77
+2023,"Provincia di Sassari","ARZACHENA","Villaggio albergo","5 Stelle",1,151,32
+2023,"Provincia di Sassari","SANTA TERESA GALLURA","Villaggio albergo","5 Stelle",1,280,123

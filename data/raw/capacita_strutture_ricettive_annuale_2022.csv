@@ -1,0 +1,1877 @@
+anno,Provincia,Comune,Tipologia,Stelle,Numero Strutture,letti,camere
+2022,Provincia di Oristano,ABBASANTA,Agriturismo,NULL,1,10,6
+2022,Provincia di Oristano,ABBASANTA,Albergo,3 Stelle,1,91,31
+2022,Provincia di Oristano,ABBASANTA,Albergo,4 Stelle,1,25,10
+2022,Provincia di Oristano,ABBASANTA,Alloggi privati,NULL,2,9,3
+2022,Provincia di Oristano,ABBASANTA,Bed and breakfast,2 Stelle,1,4,2
+2022,Provincia di Sassari,AGGIUS,Agriturismo,NULL,3,38,21
+2022,Provincia di Sassari,AGGIUS,Alloggi privati,NULL,7,32,17
+2022,Provincia di Sassari,AGGIUS,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Sassari,AGGIUS,Bed and breakfast,3 Stelle,2,15,6
+2022,Provincia di Sassari,AGGIUS,Case e appartamenti per vacanze,II Categoria,1,8,3
+2022,Provincia di Sassari,AGLIENTU,Affittacamere,III Categoria,1,4,1
+2022,Provincia di Sassari,AGLIENTU,Agriturismo,NULL,10,118,44
+2022,Provincia di Sassari,AGLIENTU,Albergo,2 Stelle,1,12,7
+2022,Provincia di Sassari,AGLIENTU,Albergo,3 Stelle,5,725,284
+2022,Provincia di Sassari,AGLIENTU,Albergo residenziale,3 Stelle,1,176,88
+2022,Provincia di Sassari,AGLIENTU,Alloggi privati,NULL,113,633,259
+2022,Provincia di Sassari,AGLIENTU,Bed and breakfast,2 Stelle,1,4,2
+2022,Provincia di Sassari,AGLIENTU,Campeggio,1 Stella,1,250,50
+2022,Provincia di Sassari,AGLIENTU,Campeggio,4 Stelle,2,3449,993
+2022,Provincia di Sassari,AGLIENTU,Case e appartamenti per vacanze,II Categoria,2,72,33
+2022,Provincia di Sassari,AGLIENTU,Case e appartamenti per vacanze,III Categoria,1,26,8
+2022,Provincia di Sassari,ALÀ DEI SARDI,Alloggi privati,NULL,4,19,8
+2022,Provincia di Sassari,ALÀ DEI SARDI,Bed and breakfast,2 Stelle,1,2,2
+2022,Provincia di Oristano,ALES,Affittacamere,II Categoria,3,17,9
+2022,Provincia di Oristano,ALES,Alloggi privati,NULL,2,10,5
+2022,Provincia di Oristano,ALES,Bed and breakfast,1 Stella,2,8,5
+2022,Provincia di Oristano,ALES,Case e appartamenti per vacanze,II Categoria,3,9,3
+2022,Provincia di Sassari,ALGHERO,Affittacamere,NULL,36,262,126
+2022,Provincia di Sassari,ALGHERO,Affittacamere,I Categoria,11,81,44
+2022,Provincia di Sassari,ALGHERO,Affittacamere,II Categoria,97,734,350
+2022,Provincia di Sassari,ALGHERO,Affittacamere,III Categoria,11,93,45
+2022,Provincia di Sassari,ALGHERO,Agriturismo,NULL,32,384,185
+2022,Provincia di Sassari,ALGHERO,Albergo,3 Stelle,14,1403,640
+2022,Provincia di Sassari,ALGHERO,Albergo,4 Stelle,15,3791,1473
+2022,Provincia di Sassari,ALGHERO,Albergo,5 Stelle,2,534,203
+2022,Provincia di Sassari,ALGHERO,Albergo residenziale,2 Stelle,1,275,66
+2022,Provincia di Sassari,ALGHERO,Albergo residenziale,3 Stelle,3,411,116
+2022,Provincia di Sassari,ALGHERO,Albergo residenziale,4 Stelle,1,42,25
+2022,Provincia di Sassari,ALGHERO,Alloggi privati,NULL,1223,5702,2459
+2022,Provincia di Sassari,ALGHERO,Bed and breakfast,NULL,6,27,15
+2022,Provincia di Sassari,ALGHERO,Bed and breakfast,1 Stella,72,275,145
+2022,Provincia di Sassari,ALGHERO,Bed and breakfast,2 Stelle,105,452,212
+2022,Provincia di Sassari,ALGHERO,Bed and breakfast,3 Stelle,47,225,125
+2022,Provincia di Sassari,ALGHERO,Boat and Breakfast,NULL,2,10,4
+2022,Provincia di Sassari,ALGHERO,Campeggio,3 Stelle,1,500,125
+2022,Provincia di Sassari,ALGHERO,Campeggio,4 Stelle,1,2432,612
+2022,Provincia di Sassari,ALGHERO,Case e appartamenti per vacanze,NULL,10,180,90
+2022,Provincia di Sassari,ALGHERO,Case e appartamenti per vacanze,I Categoria,1,8,4
+2022,Provincia di Sassari,ALGHERO,Case e appartamenti per vacanze,II Categoria,39,948,381
+2022,Provincia di Sassari,ALGHERO,Case e appartamenti per vacanze,III Categoria,7,246,105
+2022,Provincia di Sassari,ALGHERO,Case per ferie,NULL,1,20,7
+2022,Provincia di Sassari,ALGHERO,Case per ferie,III Categoria,4,142,87
+2022,Provincia di Sassari,ALGHERO,Ostelli per la gioventù,NULL,1,76,24
+2022,Provincia di Sassari,ALGHERO,Ostelli per la gioventù,III Categoria,2,152,38
+2022,Provincia di Sassari,ALGHERO,Turismo Rurale,1 Stella,1,7,7
+2022,Provincia di Sassari,ALGHERO,Turismo Rurale,3 Stelle,7,246,110
+2022,Provincia di Sassari,ALGHERO,Turismo Rurale,4 Stelle,1,49,22
+2022,Provincia di Sassari,ALGHERO,Villaggi turistici,3 Stelle,1,200,30
+2022,Provincia di Sassari,ALGHERO,Villaggi turistici,4 Stelle,1,800,270
+2022,Provincia di Oristano,ALLAI,Agriturismo,NULL,1,16,8
+2022,Provincia di Oristano,ALLAI,Alloggi privati,NULL,2,10,6
+2022,Provincia di Sassari,ANELA,Agriturismo,NULL,1,6,5
+2022,Provincia di Sassari,ANELA,Alloggi privati,NULL,1,4,1
+2022,Provincia di Oristano,ARBOREA,Affittacamere,II Categoria,1,12,5
+2022,Provincia di Oristano,ARBOREA,Albergo,2 Stelle,4,129,53
+2022,Provincia di Oristano,ARBOREA,Albergo,3 Stelle,2,274,81
+2022,Provincia di Oristano,ARBOREA,Albergo,4 Stelle,4,730,321
+2022,Provincia di Oristano,ARBOREA,Alloggi privati,NULL,6,29,12
+2022,Provincia di Oristano,ARBOREA,Bed and breakfast,1 Stella,2,7,4
+2022,Provincia di Oristano,ARBOREA,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia di Oristano,ARBOREA,Campeggio,3 Stelle,1,654,170
+2022,Provincia di Oristano,ARBOREA,Case per ferie,III Categoria,2,66,22
+2022,Provincia del Sud Sardegna,ARBUS,Affittacamere,NULL,1,6,3
+2022,Provincia del Sud Sardegna,ARBUS,Agriturismo,NULL,15,257,117
+2022,Provincia del Sud Sardegna,ARBUS,Albergo,1 Stella,1,14,8
+2022,Provincia del Sud Sardegna,ARBUS,Albergo,2 Stelle,1,24,9
+2022,Provincia del Sud Sardegna,ARBUS,Albergo,3 Stelle,6,196,105
+2022,Provincia del Sud Sardegna,ARBUS,Albergo,4 Stelle,2,95,52
+2022,Provincia del Sud Sardegna,ARBUS,Alloggi privati,NULL,98,445,198
+2022,Provincia del Sud Sardegna,ARBUS,Bed and breakfast,1 Stella,6,24,13
+2022,Provincia del Sud Sardegna,ARBUS,Bed and breakfast,2 Stelle,4,19,11
+2022,Provincia del Sud Sardegna,ARBUS,Bed and breakfast,3 Stelle,6,34,17
+2022,Provincia del Sud Sardegna,ARBUS,Campeggio,3 Stelle,1,147,6
+2022,Provincia del Sud Sardegna,ARBUS,Case e appartamenti per vacanze,II Categoria,2,61,22
+2022,Provincia del Sud Sardegna,ARBUS,Case per ferie,III Categoria,1,9,5
+2022,Provincia del Sud Sardegna,ARBUS,Locanda,III Categoria,1,12,4
+2022,Provincia del Sud Sardegna,ARBUS,Turismo Rurale,3 Stelle,1,19,11
+2022,Provincia di Sassari,ARDARA,Bed and breakfast,2 Stelle,1,4,3
+2022,Provincia di Nuoro,ARITZO,Affittacamere,II Categoria,1,4,2
+2022,Provincia di Nuoro,ARITZO,Agriturismo,NULL,1,15,8
+2022,Provincia di Nuoro,ARITZO,Albergo,2 Stelle,1,40,16
+2022,Provincia di Nuoro,ARITZO,Albergo,3 Stelle,1,50,31
+2022,Provincia di Nuoro,ARITZO,Albergo,4 Stelle,1,113,50
+2022,Provincia di Nuoro,ARITZO,Alloggi privati,NULL,3,11,4
+2022,Provincia di Nuoro,ARITZO,Bed and breakfast,1 Stella,2,10,5
+2022,Provincia di Nuoro,ARITZO,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia di Nuoro,ARITZO,Case e appartamenti per vacanze,I Categoria,1,14,10
+2022,Provincia del Sud Sardegna,ARMUNGIA,Affittacamere,III Categoria,1,9,4
+2022,Provincia del Sud Sardegna,ARMUNGIA,Bed and breakfast,1 Stella,1,5,3
+2022,Provincia del Sud Sardegna,ARMUNGIA,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Sassari,ARZACHENA,Affittacamere,NULL,6,50,23
+2022,Provincia di Sassari,ARZACHENA,Affittacamere,I Categoria,5,52,23
+2022,Provincia di Sassari,ARZACHENA,Affittacamere,II Categoria,7,54,28
+2022,Provincia di Sassari,ARZACHENA,Affittacamere,III Categoria,1,4,3
+2022,Provincia di Sassari,ARZACHENA,Agriturismo,NULL,16,194,104
+2022,Provincia di Sassari,ARZACHENA,Albergo,2 Stelle,1,20,10
+2022,Provincia di Sassari,ARZACHENA,Albergo,3 Stelle,19,1374,609
+2022,Provincia di Sassari,ARZACHENA,Albergo,4 Stelle,33,4717,2097
+2022,Provincia di Sassari,ARZACHENA,Albergo,5 Stelle,13,1755,804
+2022,Provincia di Sassari,ARZACHENA,Albergo,5 Stelle Lusso,3,621,282
+2022,Provincia di Sassari,ARZACHENA,Albergo residenziale,3 Stelle,2,210,81
+2022,Provincia di Sassari,ARZACHENA,Albergo residenziale,4 Stelle,6,1242,523
+2022,Provincia di Sassari,ARZACHENA,Alloggi privati,NULL,433,2102,836
+2022,Provincia di Sassari,ARZACHENA,Bed and breakfast,1 Stella,7,36,18
+2022,Provincia di Sassari,ARZACHENA,Bed and breakfast,2 Stelle,3,13,8
+2022,Provincia di Sassari,ARZACHENA,Bed and breakfast,3 Stelle,12,71,30
+2022,Provincia di Sassari,ARZACHENA,Campeggio,3 Stelle,1,259,628
+2022,Provincia di Sassari,ARZACHENA,Campeggio,4 Stelle,1,2904,600
+2022,Provincia di Sassari,ARZACHENA,Case e appartamenti per vacanze,NULL,6,148,17
+2022,Provincia di Sassari,ARZACHENA,Case e appartamenti per vacanze,I Categoria,8,303,101
+2022,Provincia di Sassari,ARZACHENA,Case e appartamenti per vacanze,II Categoria,6,460,142
+2022,Provincia di Sassari,ARZACHENA,Locanda,II Categoria,1,0,0
+2022,Provincia di Sassari,ARZACHENA,Marina Resort,NULL,1,3624,305
+2022,Provincia di Sassari,ARZACHENA,Residence,I Categoria,2,267,73
+2022,Provincia di Sassari,ARZACHENA,Residence,II Categoria,4,185,45
+2022,Provincia di Sassari,ARZACHENA,Turismo Rurale,2 Stelle,1,20,13
+2022,Provincia di Sassari,ARZACHENA,Turismo Rurale,3 Stelle,1,20,10
+2022,Provincia di Sassari,ARZACHENA,Turismo Rurale,4 Stelle,2,24,12
+2022,Provincia di Sassari,ARZACHENA,Turismo Rurale,5 Stelle,1,36,14
+2022,Provincia di Sassari,ARZACHENA,Villaggio albergo,5 Stelle,1,151,66
+2022,Provincia di Nuoro,ARZANA,Albergo,3 Stelle,1,73,29
+2022,Città metropolitana di Cagliari,ASSEMINI,Affittacamere,NULL,1,5,3
+2022,Città metropolitana di Cagliari,ASSEMINI,Affittacamere,II Categoria,2,15,7
+2022,Città metropolitana di Cagliari,ASSEMINI,Agriturismo,NULL,3,27,14
+2022,Città metropolitana di Cagliari,ASSEMINI,Albergo,3 Stelle,1,103,55
+2022,Città metropolitana di Cagliari,ASSEMINI,Albergo,4 Stelle,1,182,84
+2022,Città metropolitana di Cagliari,ASSEMINI,Alloggi privati,NULL,37,225,72
+2022,Città metropolitana di Cagliari,ASSEMINI,Bed and breakfast,NULL,2,9,5
+2022,Città metropolitana di Cagliari,ASSEMINI,Bed and breakfast,1 Stella,3,16,6
+2022,Città metropolitana di Cagliari,ASSEMINI,Bed and breakfast,3 Stelle,4,23,10
+2022,Città metropolitana di Cagliari,ASSEMINI,Residence,II Categoria,1,50,25
+2022,Provincia di Oristano,ASSOLO,Agriturismo,NULL,1,14,7
+2022,Provincia di Oristano,ASSOLO,Alloggi privati,NULL,1,4,2
+2022,Provincia di Nuoro,ATZARA,Agriturismo,NULL,1,12,6
+2022,Provincia di Nuoro,ATZARA,Alloggi privati,NULL,4,12,6
+2022,Provincia di Nuoro,AUSTIS,Agriturismo,NULL,2,32,15
+2022,Provincia di Nuoro,AUSTIS,Alloggi privati,NULL,1,10,3
+2022,Provincia di Nuoro,AUSTIS,Bed and breakfast,2 Stelle,2,6,4
+2022,Provincia di Sassari,BADESI,Affittacamere,NULL,1,6,3
+2022,Provincia di Sassari,BADESI,Affittacamere,II Categoria,3,11,3
+2022,Provincia di Sassari,BADESI,Agriturismo,NULL,1,6,4
+2022,Provincia di Sassari,BADESI,Albergo,2 Stelle,1,12,8
+2022,Provincia di Sassari,BADESI,Albergo,3 Stelle,2,86,42
+2022,Provincia di Sassari,BADESI,Albergo,4 Stelle,4,1563,509
+2022,Provincia di Sassari,BADESI,Alloggi privati,NULL,68,285,97
+2022,Provincia di Sassari,BADESI,Bed and breakfast,2 Stelle,2,8,4
+2022,Provincia di Sassari,BADESI,Campeggio,1 Stella,1,129,33
+2022,Provincia di Sassari,BADESI,Campeggio,3 Stelle,1,500,38
+2022,Provincia di Sassari,BADESI,Case e appartamenti per vacanze,I Categoria,3,87,24
+2022,Provincia di Sassari,BADESI,Case e appartamenti per vacanze,II Categoria,8,900,337
+2022,Provincia di Sassari,BADESI,Case e appartamenti per vacanze,III Categoria,2,210,11
+2022,Provincia di Sassari,BADESI,Residence,II Categoria,1,203,86
+2022,Provincia di Sassari,BADESI,Turismo Rurale,3 Stelle,1,20,10
+2022,Provincia di Sassari,BADESI,Villaggio albergo,4 Stelle,1,927,363
+2022,Provincia del Sud Sardegna,BALLAO,Bed and breakfast,2 Stelle,1,8,3
+2022,Provincia di Sassari,BANARI,Alloggi privati,NULL,1,5,20
+2022,Provincia di Sassari,BANARI,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Oristano,BARADILI,Affittacamere,II Categoria,2,10,2
+2022,Provincia di Oristano,BARADILI,Locanda,II Categoria,1,14,6
+2022,Provincia di Oristano,BARATILI SAN PIETRO,Alloggi privati,NULL,17,83,34
+2022,Provincia di Oristano,BARATILI SAN PIETRO,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia di Oristano,BARATILI SAN PIETRO,Bed and breakfast,2 Stelle,1,5,2
+2022,Provincia di Oristano,BARESSA,Albergo diffuso,3 Stelle,2,24,12
+2022,Provincia di Oristano,BARESSA,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia di Nuoro,BARI SARDO,Affittacamere,I Categoria,1,20,6
+2022,Provincia di Nuoro,BARI SARDO,Affittacamere,II Categoria,1,19,6
+2022,Provincia di Nuoro,BARI SARDO,Agriturismo,NULL,2,34,17
+2022,Provincia di Nuoro,BARI SARDO,Albergo,3 Stelle,2,81,35
+2022,Provincia di Nuoro,BARI SARDO,Albergo,4 Stelle,2,221,103
+2022,Provincia di Nuoro,BARI SARDO,Albergo residenziale,3 Stelle,3,145,62
+2022,Provincia di Nuoro,BARI SARDO,Alloggi privati,NULL,107,527,248
+2022,Provincia di Nuoro,BARI SARDO,Bed and breakfast,NULL,1,6,3
+2022,Provincia di Nuoro,BARI SARDO,Bed and breakfast,1 Stella,1,5,3
+2022,Provincia di Nuoro,BARI SARDO,Bed and breakfast,2 Stelle,2,13,5
+2022,Provincia di Nuoro,BARI SARDO,Bed and breakfast,3 Stelle,1,10,6
+2022,Provincia di Nuoro,BARI SARDO,Campeggio,1 Stella,1,140,50
+2022,Provincia di Nuoro,BARI SARDO,Campeggio,3 Stelle,1,320,85
+2022,Provincia di Nuoro,BARI SARDO,Campeggio,4 Stelle,1,320,103
+2022,Provincia di Nuoro,BARI SARDO,Case e appartamenti per vacanze,II Categoria,3,36,21
+2022,Provincia di Nuoro,BARI SARDO,Residence,II Categoria,2,38,16
+2022,Provincia di Nuoro,BARI SARDO,Villaggi turistici,4 Stelle,1,850,195
+2022,Provincia di Nuoro,BARI SARDO,Villaggio albergo,3 Stelle,1,40,20
+2022,Provincia del Sud Sardegna,BARUMINI,Affittacamere,II Categoria,1,11,6
+2022,Provincia del Sud Sardegna,BARUMINI,Albergo,3 Stelle,2,35,17
+2022,Provincia del Sud Sardegna,BARUMINI,Bed and breakfast,3 Stelle,1,2,1
+2022,Provincia di Oristano,BAULADU,Affittacamere,II Categoria,1,4,2
+2022,Provincia di Oristano,BAULADU,Agriturismo,NULL,1,9,4
+2022,Provincia di Oristano,BAULADU,Alloggi privati,NULL,1,9,2
+2022,Provincia di Oristano,BAULADU,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Nuoro,BAUNEI,Affittacamere,I Categoria,2,23,12
+2022,Provincia di Nuoro,BAUNEI,Affittacamere,II Categoria,5,33,17
+2022,Provincia di Nuoro,BAUNEI,Albergo,2 Stelle,1,37,17
+2022,Provincia di Nuoro,BAUNEI,Albergo,3 Stelle,5,198,104
+2022,Provincia di Nuoro,BAUNEI,Albergo,4 Stelle,2,87,40
+2022,Provincia di Nuoro,BAUNEI,Alloggi privati,NULL,261,1071,503
+2022,Provincia di Nuoro,BAUNEI,Bed and breakfast,1 Stella,3,11,6
+2022,Provincia di Nuoro,BAUNEI,Bed and breakfast,2 Stelle,2,6,3
+2022,Provincia di Nuoro,BAUNEI,Bed and breakfast,3 Stelle,8,42,22
+2022,Provincia di Nuoro,BAUNEI,Case e appartamenti per vacanze,II Categoria,4,67,38
+2022,Provincia di Nuoro,BAUNEI,Locanda,II Categoria,1,12,6
+2022,Provincia di Nuoro,BAUNEI,Ostelli per la gioventù,NULL,1,29,18
+2022,Provincia di Nuoro,BELVÌ,Agriturismo,NULL,1,8,4
+2022,Provincia di Nuoro,BELVÌ,Albergo,2 Stelle,1,24,12
+2022,Provincia di Nuoro,BELVÌ,Alloggi privati,NULL,3,14,9
+2022,Provincia di Sassari,BENETUTTI,Agriturismo,NULL,1,2,0
+2022,Provincia di Sassari,BENETUTTI,Albergo,3 Stelle,1,120,61
+2022,Provincia di Sassari,BENETUTTI,Albergo,4 Stelle,1,46,23
+2022,Provincia di Sassari,BENETUTTI,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Sassari,BENETUTTI,Bed and breakfast,2 Stelle,2,11,5
+2022,Provincia di Sassari,BERCHIDDA,Affittacamere,I Categoria,2,16,8
+2022,Provincia di Sassari,BERCHIDDA,Affittacamere,III Categoria,1,6,4
+2022,Provincia di Sassari,BERCHIDDA,Agriturismo,NULL,1,5,3
+2022,Provincia di Sassari,BERCHIDDA,Albergo,3 Stelle,2,103,55
+2022,Provincia di Sassari,BERCHIDDA,Alloggi privati,NULL,7,34,16
+2022,Provincia di Sassari,BERCHIDDA,Bed and breakfast,1 Stella,1,2,1
+2022,Provincia di Sassari,BERCHIDDA,Bed and breakfast,2 Stelle,2,8,4
+2022,Provincia di Sassari,BERCHIDDA,Campeggio,2 Stelle,1,272,68
+2022,Provincia di Sassari,BESSUDE,Affittacamere,II Categoria,1,6,3
+2022,Provincia di Sassari,BESSUDE,Agriturismo,NULL,1,7,4
+2022,Provincia di Sassari,BESSUDE,Alloggi privati,NULL,1,6,3
+2022,Provincia di Sassari,BESSUDE,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia di Sassari,BESSUDE,Bed and breakfast,2 Stelle,1,3,2
+2022,Provincia di Nuoro,BITTI,Affittacamere,II Categoria,2,13,5
+2022,Provincia di Nuoro,BITTI,Agriturismo,NULL,3,45,20
+2022,Provincia di Nuoro,BITTI,Albergo,4 Stelle,1,40,18
+2022,Provincia di Nuoro,BITTI,Bed and breakfast,1 Stella,2,8,5
+2022,Provincia di Nuoro,BOLOTANA,Albergo,3 Stelle,1,84,53
+2022,Provincia di Nuoro,BOLOTANA,Alloggi privati,NULL,6,32,16
+2022,Provincia di Nuoro,BOLOTANA,Bed and breakfast,2 Stelle,2,9,5
+2022,Provincia di Nuoro,BOLOTANA,Bed and breakfast,3 Stelle,1,2,1
+2022,Provincia di Oristano,BONARCADO,Alloggi privati,NULL,2,8,4
+2022,Provincia di Oristano,BONARCADO,Villaggio albergo,3 Stelle,1,67,22
+2022,Provincia di Sassari,BONNANARO,Alloggi privati,NULL,1,8,4
+2022,Provincia di Sassari,BONNANARO,Bed and breakfast,1 Stella,2,8,5
+2022,Provincia di Sassari,BONO,Agriturismo,NULL,1,2,1
+2022,Provincia di Sassari,BONO,Albergo,3 Stelle,1,34,32
+2022,Provincia di Sassari,BONO,Alloggi privati,NULL,1,6,3
+2022,Provincia di Sassari,BONO,Bed and breakfast,3 Stelle,2,14,6
+2022,Provincia di Sassari,BONORVA,Agriturismo,NULL,1,6,2
+2022,Provincia di Sassari,BONORVA,Alloggi privati,NULL,1,8,4
+2022,Provincia di Sassari,BONORVA,Bed and breakfast,2 Stelle,2,12,6
+2022,Provincia di Sassari,BONORVA,Bed and breakfast,3 Stelle,1,5,2
+2022,Provincia di Sassari,BONORVA,Case per ferie,III Categoria,1,24,14
+2022,Provincia di Nuoro,BORTIGALI,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Sassari,BORTIGIADAS,Agriturismo,NULL,1,9,5
+2022,Provincia di Sassari,BORTIGIADAS,Albergo,3 Stelle,1,21,8
+2022,Provincia di Sassari,BORTIGIADAS,Alloggi privati,NULL,1,7,3
+2022,Provincia di Sassari,BORTIGIADAS,Bed and breakfast,2 Stelle,1,5,2
+2022,Provincia di Sassari,BORUTTA,Bed and breakfast,1 Stella,1,4,1
+2022,Provincia di Oristano,BOSA,Affittacamere,II Categoria,30,275,128
+2022,Provincia di Oristano,BOSA,Agriturismo,NULL,2,21,6
+2022,Provincia di Oristano,BOSA,Albergo,1 Stella,2,40,23
+2022,Provincia di Oristano,BOSA,Albergo,2 Stelle,1,22,12
+2022,Provincia di Oristano,BOSA,Albergo,3 Stelle,4,216,103
+2022,Provincia di Oristano,BOSA,Albergo,4 Stelle,1,254,139
+2022,Provincia di Oristano,BOSA,Albergo diffuso,3 Stelle,10,122,45
+2022,Provincia di Oristano,BOSA,Albergo residenziale,3 Stelle,2,177,49
+2022,Provincia di Oristano,BOSA,Alloggi privati,NULL,119,557,237
+2022,Provincia di Oristano,BOSA,Bed and breakfast,1 Stella,8,35,18
+2022,Provincia di Oristano,BOSA,Bed and breakfast,2 Stelle,7,34,18
+2022,Provincia di Oristano,BOSA,Bed and breakfast,3 Stelle,12,64,29
+2022,Provincia di Oristano,BOSA,Boat and Breakfast,NULL,1,4,2
+2022,Provincia di Oristano,BOSA,Case e appartamenti per vacanze,II Categoria,22,200,360
+2022,Provincia di Oristano,BOSA,Villaggi turistici,3 Stelle,1,24,12
+2022,Provincia di Sassari,BOTTIDDA,Agriturismo,NULL,1,4,2
+2022,Provincia di Sassari,BOTTIDDA,Alloggi privati,NULL,1,4,2
+2022,Provincia di Sassari,BOTTIDDA,Bed and breakfast,NULL,1,6,4
+2022,Provincia di Sassari,BOTTIDDA,Bed and breakfast,1 Stella,1,4,30
+2022,Provincia di Sassari,BUDDUSÒ,Affittacamere,III Categoria,1,4,2
+2022,Provincia di Sassari,BUDDUSÒ,Agriturismo,NULL,2,30,13
+2022,Provincia di Sassari,BUDDUSÒ,Albergo,3 Stelle,1,42,26
+2022,Provincia di Sassari,BUDDUSÒ,Albergo,4 Stelle,1,34,14
+2022,Provincia di Sassari,BUDONI,Affittacamere,NULL,3,13,7
+2022,Provincia di Sassari,BUDONI,Affittacamere,II Categoria,4,40,19
+2022,Provincia di Sassari,BUDONI,Agriturismo,NULL,2,25,12
+2022,Provincia di Sassari,BUDONI,Albergo,1 Stella,1,13,7
+2022,Provincia di Sassari,BUDONI,Albergo,3 Stelle,13,1159,585
+2022,Provincia di Sassari,BUDONI,Albergo,4 Stelle,7,2192,1245
+2022,Provincia di Sassari,BUDONI,Albergo residenziale,2 Stelle,1,49,18
+2022,Provincia di Sassari,BUDONI,Albergo residenziale,3 Stelle,4,423,149
+2022,Provincia di Sassari,BUDONI,Albergo residenziale,4 Stelle,1,36,0
+2022,Provincia di Sassari,BUDONI,Alloggi privati,NULL,424,2140,815
+2022,Provincia di Sassari,BUDONI,Bed and breakfast,1 Stella,2,4,2
+2022,Provincia di Sassari,BUDONI,Bed and breakfast,2 Stelle,5,25,13
+2022,Provincia di Sassari,BUDONI,Bed and breakfast,3 Stelle,4,25,11
+2022,Provincia di Sassari,BUDONI,Campeggio,3 Stelle,2,800,249
+2022,Provincia di Sassari,BUDONI,Case e appartamenti per vacanze,NULL,8,201,51
+2022,Provincia di Sassari,BUDONI,Case e appartamenti per vacanze,I Categoria,8,269,62
+2022,Provincia di Sassari,BUDONI,Case e appartamenti per vacanze,II Categoria,21,852,156
+2022,Provincia di Sassari,BUDONI,Residence,II Categoria,1,36,13
+2022,Provincia di Sassari,BUDONI,Turismo Rurale,1 Stella,1,10,5
+2022,Provincia di Sassari,BUDONI,Turismo Rurale,2 Stelle,1,18,7
+2022,Provincia di Sassari,BUDONI,Turismo Rurale,4 Stelle,1,20,15
+2022,Provincia di Sassari,BUDONI,Villaggi turistici,4 Stelle,1,434,158
+2022,Provincia di Sassari,BUDONI,Villaggio albergo,4 Stelle,3,839,315
+2022,Provincia del Sud Sardegna,BUGGERRU,Affittacamere,II Categoria,1,15,4
+2022,Provincia del Sud Sardegna,BUGGERRU,Albergo,3 Stelle,1,22,11
+2022,Provincia del Sud Sardegna,BUGGERRU,Albergo,4 Stelle,1,68,28
+2022,Provincia del Sud Sardegna,BUGGERRU,Alloggi privati,NULL,43,193,82
+2022,Provincia del Sud Sardegna,BUGGERRU,Bed and breakfast,2 Stelle,1,6,2
+2022,Provincia del Sud Sardegna,BUGGERRU,Bed and breakfast,3 Stelle,3,13,8
+2022,Provincia del Sud Sardegna,BUGGERRU,Campeggio,1 Stella,1,20,5
+2022,Provincia del Sud Sardegna,BUGGERRU,Case e appartamenti per vacanze,II Categoria,2,24,10
+2022,Provincia del Sud Sardegna,BUGGERRU,Ostelli per la gioventù,III Categoria,1,18,11
+2022,Provincia di Sassari,BULTEI,Albergo,2 Stelle,1,25,15
+2022,Provincia di Sassari,BULZI,Alloggi privati,NULL,1,2,1
+2022,Provincia del Sud Sardegna,BURCEI,Albergo,3 Stelle,1,20,9
+2022,Provincia del Sud Sardegna,BURCEI,Turismo Rurale,3 Stelle,1,10,7
+2022,Provincia di Sassari,BURGOS,Agriturismo,NULL,1,9,3
+2022,Provincia di Oristano,BUSACHI,Affittacamere,II Categoria,1,6,3
+2022,Provincia di Oristano,BUSACHI,Alloggi privati,NULL,1,4,2
+2022,Provincia di Oristano,BUSACHI,Bed and breakfast,1 Stella,2,12,4
+2022,Provincia di Oristano,CABRAS,Affittacamere,NULL,1,8,4
+2022,Provincia di Oristano,CABRAS,Affittacamere,II Categoria,13,114,55
+2022,Provincia di Oristano,CABRAS,Agriturismo,NULL,24,386,168
+2022,Provincia di Oristano,CABRAS,Albergo,2 Stelle,1,20,10
+2022,Provincia di Oristano,CABRAS,Albergo,3 Stelle,2,65,37
+2022,Provincia di Oristano,CABRAS,Albergo,4 Stelle,2,62,31
+2022,Provincia di Oristano,CABRAS,Albergo diffuso,4 Stelle,1,34,16
+2022,Provincia di Oristano,CABRAS,Alloggi privati,NULL,228,1100,490
+2022,Provincia di Oristano,CABRAS,Bed and breakfast,1 Stella,2,12,4
+2022,Provincia di Oristano,CABRAS,Bed and breakfast,2 Stelle,5,21,12
+2022,Provincia di Oristano,CABRAS,Bed and breakfast,3 Stelle,21,109,56
+2022,Provincia di Oristano,CABRAS,Campeggio,3 Stelle,1,660,165
+2022,Provincia di Oristano,CABRAS,Case e appartamenti per vacanze,NULL,1,6,3
+2022,Provincia di Oristano,CABRAS,Case e appartamenti per vacanze,II Categoria,2,27,17
+2022,Provincia di Oristano,CABRAS,Residence,I Categoria,2,48,17
+2022,Città metropolitana di Cagliari,CAGLIARI,Affittacamere,NULL,6,48,25
+2022,Città metropolitana di Cagliari,CAGLIARI,Affittacamere,I Categoria,19,166,82
+2022,Città metropolitana di Cagliari,CAGLIARI,Affittacamere,II Categoria,182,1416,716
+2022,Città metropolitana di Cagliari,CAGLIARI,Affittacamere,III Categoria,1,8,6
+2022,Città metropolitana di Cagliari,CAGLIARI,Albergo,1 Stella,4,75,35
+2022,Città metropolitana di Cagliari,CAGLIARI,Albergo,2 Stelle,3,67,37
+2022,Città metropolitana di Cagliari,CAGLIARI,Albergo,3 Stelle,15,680,362
+2022,Città metropolitana di Cagliari,CAGLIARI,Albergo,4 Stelle,8,1351,645
+2022,Città metropolitana di Cagliari,CAGLIARI,Albergo diffuso,2 Stelle,1,21,13
+2022,Città metropolitana di Cagliari,CAGLIARI,Albergo residenziale,3 Stelle,1,298,122
+2022,Città metropolitana di Cagliari,CAGLIARI,Alloggi privati,NULL,1065,4195,1861
+2022,Città metropolitana di Cagliari,CAGLIARI,Bed and breakfast,NULL,1,1,1
+2022,Città metropolitana di Cagliari,CAGLIARI,Bed and breakfast,1 Stella,60,232,123
+2022,Città metropolitana di Cagliari,CAGLIARI,Bed and breakfast,2 Stelle,35,179,87
+2022,Città metropolitana di Cagliari,CAGLIARI,Bed and breakfast,3 Stelle,53,232,117
+2022,Città metropolitana di Cagliari,CAGLIARI,Boat and Breakfast,NULL,3,9,3
+2022,Città metropolitana di Cagliari,CAGLIARI,Case e appartamenti per vacanze,II Categoria,18,253,124
+2022,Città metropolitana di Cagliari,CAGLIARI,Case per ferie,NULL,4,807,461
+2022,Città metropolitana di Cagliari,CAGLIARI,Case per ferie,III Categoria,4,285,226
+2022,Città metropolitana di Cagliari,CAGLIARI,Locanda,NULL,2,18,9
+2022,Città metropolitana di Cagliari,CAGLIARI,Ostelli per la gioventù,III Categoria,1,125,35
+2022,Città metropolitana di Cagliari,CAGLIARI,Residence,II Categoria,1,50,25
+2022,Provincia di Sassari,CALANGIANUS,Affittacamere,II Categoria,1,6,3
+2022,Provincia di Sassari,CALANGIANUS,Agriturismo,NULL,2,36,14
+2022,Provincia di Sassari,CALANGIANUS,Alloggi privati,NULL,6,28,10
+2022,Provincia di Sassari,CALANGIANUS,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia di Sassari,CALANGIANUS,Bed and breakfast,2 Stelle,1,2,0
+2022,Provincia del Sud Sardegna,CALASETTA,Affittacamere,II Categoria,2,15,7
+2022,Provincia del Sud Sardegna,CALASETTA,Agriturismo,NULL,1,10,5
+2022,Provincia del Sud Sardegna,CALASETTA,Albergo,2 Stelle,2,58,32
+2022,Provincia del Sud Sardegna,CALASETTA,Albergo,3 Stelle,4,283,135
+2022,Provincia del Sud Sardegna,CALASETTA,Alloggi privati,NULL,287,1347,599
+2022,Provincia del Sud Sardegna,CALASETTA,Bed and breakfast,2 Stelle,3,14,8
+2022,Provincia del Sud Sardegna,CALASETTA,Bed and breakfast,3 Stelle,5,34,13
+2022,Provincia del Sud Sardegna,CALASETTA,Campeggio,2 Stelle,1,366,103
+2022,Provincia del Sud Sardegna,CALASETTA,Case e appartamenti per vacanze,II Categoria,6,120,35
+2022,Città metropolitana di Cagliari,CAPOTERRA,Affittacamere,NULL,2,15,7
+2022,Città metropolitana di Cagliari,CAPOTERRA,Affittacamere,I Categoria,1,12,3
+2022,Città metropolitana di Cagliari,CAPOTERRA,Affittacamere,II Categoria,5,43,22
+2022,Città metropolitana di Cagliari,CAPOTERRA,Albergo,3 Stelle,2,40,20
+2022,Città metropolitana di Cagliari,CAPOTERRA,Albergo,4 Stelle,1,127,71
+2022,Città metropolitana di Cagliari,CAPOTERRA,Alloggi privati,NULL,79,364,166
+2022,Città metropolitana di Cagliari,CAPOTERRA,Bed and breakfast,NULL,15,74,40
+2022,Città metropolitana di Cagliari,CAPOTERRA,Bed and breakfast,1 Stella,4,19,9
+2022,Città metropolitana di Cagliari,CAPOTERRA,Bed and breakfast,2 Stelle,1,4,3
+2022,Città metropolitana di Cagliari,CAPOTERRA,Bed and breakfast,3 Stelle,13,68,34
+2022,Città metropolitana di Cagliari,CAPOTERRA,Case e appartamenti per vacanze,II Categoria,2,32,12
+2022,Provincia del Sud Sardegna,CARBONIA,Affittacamere,II Categoria,2,20,10
+2022,Provincia del Sud Sardegna,CARBONIA,Agriturismo,NULL,3,60,28
+2022,Provincia del Sud Sardegna,CARBONIA,Albergo,1 Stella,1,10,7
+2022,Provincia del Sud Sardegna,CARBONIA,Albergo,4 Stelle,1,132,66
+2022,Provincia del Sud Sardegna,CARBONIA,Alloggi privati,NULL,35,156,74
+2022,Provincia del Sud Sardegna,CARBONIA,Bed and breakfast,1 Stella,2,9,5
+2022,Provincia del Sud Sardegna,CARBONIA,Bed and breakfast,2 Stelle,2,11,5
+2022,Provincia del Sud Sardegna,CARBONIA,Bed and breakfast,3 Stelle,4,27,12
+2022,Provincia del Sud Sardegna,CARBONIA,Case per ferie,III Categoria,1,22,10
+2022,Provincia del Sud Sardegna,CARBONIA,Villaggio albergo,3 Stelle,1,48,24
+2022,Provincia di Nuoro,CARDEDU,Affittacamere,II Categoria,1,8,6
+2022,Provincia di Nuoro,CARDEDU,Agriturismo,NULL,2,14,7
+2022,Provincia di Nuoro,CARDEDU,Albergo,3 Stelle,5,133,60
+2022,Provincia di Nuoro,CARDEDU,Albergo,4 Stelle,2,556,200
+2022,Provincia di Nuoro,CARDEDU,Albergo residenziale,4 Stelle,1,48,12
+2022,Provincia di Nuoro,CARDEDU,Alloggi privati,NULL,63,295,136
+2022,Provincia di Nuoro,CARDEDU,Bed and breakfast,1 Stella,4,17,7
+2022,Provincia di Nuoro,CARDEDU,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia di Nuoro,CARDEDU,Case e appartamenti per vacanze,III Categoria,1,33,11
+2022,Provincia di Nuoro,CARDEDU,Residence,I Categoria,1,68,42
+2022,Provincia di Nuoro,CARDEDU,Villaggio albergo,4 Stelle,1,357,170
+2022,Provincia del Sud Sardegna,CARLOFORTE,Affittacamere,I Categoria,3,36,13
+2022,Provincia del Sud Sardegna,CARLOFORTE,Affittacamere,II Categoria,7,70,33
+2022,Provincia del Sud Sardegna,CARLOFORTE,Affittacamere,III Categoria,1,4,2
+2022,Provincia del Sud Sardegna,CARLOFORTE,Albergo,3 Stelle,7,251,135
+2022,Provincia del Sud Sardegna,CARLOFORTE,Albergo,4 Stelle,3,193,84
+2022,Provincia del Sud Sardegna,CARLOFORTE,Alloggi privati,NULL,143,654,300
+2022,Provincia del Sud Sardegna,CARLOFORTE,Bed and breakfast,1 Stella,4,15,7
+2022,Provincia del Sud Sardegna,CARLOFORTE,Bed and breakfast,2 Stelle,4,16,9
+2022,Provincia del Sud Sardegna,CARLOFORTE,Bed and breakfast,3 Stelle,9,46,22
+2022,Provincia del Sud Sardegna,CARLOFORTE,Case e appartamenti per vacanze,NULL,1,14,5
+2022,Provincia del Sud Sardegna,CARLOFORTE,Case e appartamenti per vacanze,II Categoria,2,31,10
+2022,Provincia del Sud Sardegna,CARLOFORTE,Case e appartamenti per vacanze,III Categoria,1,10,4
+2022,Provincia di Sassari,CASTELSARDO,Affittacamere,NULL,4,43,22
+2022,Provincia di Sassari,CASTELSARDO,Affittacamere,I Categoria,1,8,4
+2022,Provincia di Sassari,CASTELSARDO,Affittacamere,II Categoria,5,47,21
+2022,Provincia di Sassari,CASTELSARDO,Albergo,2 Stelle,2,46,24
+2022,Provincia di Sassari,CASTELSARDO,Albergo,3 Stelle,6,366,166
+2022,Provincia di Sassari,CASTELSARDO,Albergo,4 Stelle,6,919,400
+2022,Provincia di Sassari,CASTELSARDO,Albergo residenziale,3 Stelle,2,170,52
+2022,Provincia di Sassari,CASTELSARDO,Alloggi privati,NULL,222,1035,399
+2022,Provincia di Sassari,CASTELSARDO,Bed and breakfast,1 Stella,4,23,10
+2022,Provincia di Sassari,CASTELSARDO,Bed and breakfast,2 Stelle,16,87,39
+2022,Provincia di Sassari,CASTELSARDO,Bed and breakfast,3 Stelle,13,68,35
+2022,Provincia di Sassari,CASTELSARDO,Case e appartamenti per vacanze,NULL,1,6,3
+2022,Provincia di Sassari,CASTELSARDO,Case e appartamenti per vacanze,I Categoria,1,11,6
+2022,Provincia di Sassari,CASTELSARDO,Case e appartamenti per vacanze,II Categoria,5,204,81
+2022,Provincia di Sassari,CASTELSARDO,Locanda,I Categoria,1,11,5
+2022,Provincia di Sassari,CASTELSARDO,Ostelli per la gioventù,III Categoria,1,65,19
+2022,Provincia di Sassari,CASTELSARDO,Villaggi turistici,4 Stelle,1,351,117
+2022,Provincia del Sud Sardegna,CASTIADAS,Affittacamere,NULL,1,6,2
+2022,Provincia del Sud Sardegna,CASTIADAS,Affittacamere,I Categoria,2,22,11
+2022,Provincia del Sud Sardegna,CASTIADAS,Affittacamere,II Categoria,1,7,4
+2022,Provincia del Sud Sardegna,CASTIADAS,Agriturismo,NULL,10,167,79
+2022,Provincia del Sud Sardegna,CASTIADAS,Albergo,1 Stella,1,20,8
+2022,Provincia del Sud Sardegna,CASTIADAS,Albergo,2 Stelle,1,20,7
+2022,Provincia del Sud Sardegna,CASTIADAS,Albergo,3 Stelle,1,20,10
+2022,Provincia del Sud Sardegna,CASTIADAS,Albergo,4 Stelle,5,1616,720
+2022,Provincia del Sud Sardegna,CASTIADAS,Albergo,5 Stelle,1,133,61
+2022,Provincia del Sud Sardegna,CASTIADAS,Albergo residenziale,2 Stelle,1,25,8
+2022,Provincia del Sud Sardegna,CASTIADAS,Alloggi privati,NULL,107,556,241
+2022,Provincia del Sud Sardegna,CASTIADAS,Bed and breakfast,1 Stella,3,16,9
+2022,Provincia del Sud Sardegna,CASTIADAS,Bed and breakfast,2 Stelle,4,22,9
+2022,Provincia del Sud Sardegna,CASTIADAS,Bed and breakfast,3 Stelle,4,22,11
+2022,Provincia del Sud Sardegna,CASTIADAS,Case e appartamenti per vacanze,NULL,1,137,32
+2022,Provincia del Sud Sardegna,CASTIADAS,Case e appartamenti per vacanze,II Categoria,2,81,26
+2022,Provincia del Sud Sardegna,CASTIADAS,Case per ferie,III Categoria,1,16,8
+2022,Provincia del Sud Sardegna,CASTIADAS,Turismo Rurale,1 Stella,1,20,12
+2022,Provincia del Sud Sardegna,CASTIADAS,Turismo Rurale,3 Stelle,1,20,10
+2022,Provincia del Sud Sardegna,CASTIADAS,Villaggio albergo,4 Stelle,5,864,433
+2022,Provincia di Sassari,CHEREMULE,Alloggi privati,NULL,1,6,3
+2022,Provincia di Sassari,CHEREMULE,Bed and breakfast,2 Stelle,1,6,2
+2022,Provincia di Sassari,CHIARAMONTI,Agriturismo,NULL,2,20,10
+2022,Provincia di Sassari,CHIARAMONTI,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Sassari,CODRONGIANOS,Affittacamere,II Categoria,1,1,1
+2022,Provincia di Sassari,CODRONGIANOS,Alloggi privati,NULL,2,10,5
+2022,Provincia di Sassari,CODRONGIANOS,Bed and breakfast,2 Stelle,1,4,2
+2022,Provincia del Sud Sardegna,COLLINAS,Alloggi privati,NULL,5,15,9
+2022,Provincia di Sassari,COSSOINE,Bed and breakfast,2 Stelle,3,17,8
+2022,Provincia di Oristano,CUGLIERI,Affittacamere,II Categoria,9,62,33
+2022,Provincia di Oristano,CUGLIERI,Agriturismo,NULL,5,71,36
+2022,Provincia di Oristano,CUGLIERI,Albergo,3 Stelle,1,24,12
+2022,Provincia di Oristano,CUGLIERI,Albergo,4 Stelle,1,57,29
+2022,Provincia di Oristano,CUGLIERI,Alloggi privati,NULL,90,443,214
+2022,Provincia di Oristano,CUGLIERI,Bed and breakfast,2 Stelle,2,9,6
+2022,Provincia di Oristano,CUGLIERI,Campeggio,3 Stelle,1,1198,300
+2022,Provincia di Oristano,CUGLIERI,Case e appartamenti per vacanze,II Categoria,1,36,18
+2022,Provincia di Oristano,CUGLIERI,Villaggi turistici,3 Stelle,1,88,21
+2022,Città metropolitana di Cagliari,DECIMOMANNU,Alloggi privati,NULL,11,38,16
+2022,Città metropolitana di Cagliari,DECIMOMANNU,Bed and breakfast,NULL,1,5,3
+2022,Città metropolitana di Cagliari,DECIMOMANNU,Bed and breakfast,1 Stella,2,7,4
+2022,Provincia del Sud Sardegna,DECIMOPUTZU,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Nuoro,DESULO,Affittacamere,II Categoria,1,2,1
+2022,Provincia di Nuoro,DESULO,Agriturismo,NULL,2,36,13
+2022,Provincia di Nuoro,DESULO,Albergo,1 Stella,1,19,7
+2022,Provincia di Nuoro,DESULO,Alloggi privati,NULL,4,26,13
+2022,Provincia di Nuoro,DESULO,Bed and breakfast,3 Stelle,1,4,3
+2022,Provincia di Nuoro,DOLIANOVA,Albergo,5 Stelle,1,20,10
+2022,Provincia di Nuoro,DOLIANOVA,Alloggi privati,NULL,6,31,14
+2022,Provincia di Nuoro,DOLIANOVA,Bed and breakfast,NULL,2,5,3
+2022,Provincia di Nuoro,DOLIANOVA,Bed and breakfast,1 Stella,3,14,7
+2022,Provincia di Nuoro,DOLIANOVA,Bed and breakfast,2 Stelle,2,12,4
+2022,Provincia di Nuoro,DOLIANOVA,Bed and breakfast,3 Stelle,3,12,8
+2022,Provincia di Nuoro,DOLIANOVA,Turismo Rurale,2 Stelle,1,20,11
+2022,Provincia di Nuoro,DOLIANOVA,Turismo Rurale,3 Stelle,1,20,10
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Affittacamere,I Categoria,2,18,9
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Affittacamere,II Categoria,3,30,12
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Albergo,2 Stelle,1,37,20
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Albergo,3 Stelle,2,109,48
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Albergo,4 Stelle,3,1276,563
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Albergo,5 Stelle,2,228,83
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Alloggi privati,NULL,183,974,441
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Bed and breakfast,1 Stella,3,13,7
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Bed and breakfast,2 Stelle,3,16,8
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Bed and breakfast,3 Stelle,9,48,24
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Campeggio,3 Stelle,1,420,108
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Case e appartamenti per vacanze,II Categoria,11,224,58
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Case e appartamenti per vacanze,III Categoria,2,10,6
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Residence,II Categoria,1,60,24
+2022,Provincia del Sud Sardegna,DOMUS DE MARIA,Villaggio albergo,5 Stelle,1,170,77
+2022,Provincia del Sud Sardegna,DOMUSNOVAS,Affittacamere,II Categoria,1,4,2
+2022,Provincia del Sud Sardegna,DOMUSNOVAS,Albergo,3 Stelle,1,44,19
+2022,Provincia del Sud Sardegna,DOMUSNOVAS,Alloggi privati,NULL,8,42,18
+2022,Provincia del Sud Sardegna,DOMUSNOVAS,Bed and breakfast,1 Stella,2,7,4
+2022,Provincia di Nuoro,DORGALI,Affittacamere,I Categoria,3,22,11
+2022,Provincia di Nuoro,DORGALI,Affittacamere,II Categoria,16,123,70
+2022,Provincia di Nuoro,DORGALI,Affittacamere,III Categoria,1,6,3
+2022,Provincia di Nuoro,DORGALI,Agriturismo,NULL,16,241,113
+2022,Provincia di Nuoro,DORGALI,Albergo,2 Stelle,2,39,21
+2022,Provincia di Nuoro,DORGALI,Albergo,3 Stelle,15,581,307
+2022,Provincia di Nuoro,DORGALI,Albergo,4 Stelle,10,1272,619
+2022,Provincia di Nuoro,DORGALI,Albergo diffuso,2 Stelle,1,12,13
+2022,Provincia di Nuoro,DORGALI,Alloggi privati,NULL,353,1600,736
+2022,Provincia di Nuoro,DORGALI,Bed and breakfast,NULL,1,4,2
+2022,Provincia di Nuoro,DORGALI,Bed and breakfast,1 Stella,13,45,29
+2022,Provincia di Nuoro,DORGALI,Bed and breakfast,2 Stelle,12,55,29
+2022,Provincia di Nuoro,DORGALI,Bed and breakfast,3 Stelle,7,37,18
+2022,Provincia di Nuoro,DORGALI,Campeggio,4 Stelle,1,1200,300
+2022,Provincia di Nuoro,DORGALI,Case e appartamenti per vacanze,NULL,1,21,16
+2022,Provincia di Nuoro,DORGALI,Case e appartamenti per vacanze,II Categoria,7,58,32
+2022,Provincia di Nuoro,DORGALI,Locanda,I Categoria,1,8,3
+2022,Provincia di Nuoro,DORGALI,Turismo Rurale,2 Stelle,4,64,35
+2022,Provincia di Nuoro,DORGALI,Turismo Rurale,3 Stelle,3,46,25
+2022,Provincia di Nuoro,DORGALI,Villaggio albergo,4 Stelle,1,885,427
+2022,Provincia di Nuoro,ELINI,Affittacamere,II Categoria,2,8,4
+2022,Provincia di Nuoro,ELINI,Agriturismo,NULL,1,10,6
+2022,Città metropolitana di Cagliari,ELMAS,Affittacamere,II Categoria,1,4,2
+2022,Città metropolitana di Cagliari,ELMAS,Albergo residenziale,3 Stelle,1,66,38
+2022,Città metropolitana di Cagliari,ELMAS,Alloggi privati,NULL,8,28,15
+2022,Città metropolitana di Cagliari,ELMAS,Bed and breakfast,NULL,1,5,2
+2022,Città metropolitana di Cagliari,ELMAS,Bed and breakfast,3 Stelle,2,8,4
+2022,Provincia di Sassari,ERULA,Bed and breakfast,1 Stella,1,5,2
+2022,Provincia del Sud Sardegna,ESCALAPLANO,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia del Sud Sardegna,ESCALAPLANO,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia del Sud Sardegna,ESCOLCA,Affittacamere,II Categoria,1,9,4
+2022,Provincia del Sud Sardegna,ESTERZILI,Albergo,3 Stelle,1,20,10
+2022,Provincia del Sud Sardegna,ESTERZILI,Bed and breakfast,1 Stella,2,5,3
+2022,Provincia di Sassari,FLORINAS,Alloggi privati,NULL,1,12,6
+2022,Provincia del Sud Sardegna,FLUMINIMAGGIORE,Agriturismo,NULL,6,83,35
+2022,Provincia del Sud Sardegna,FLUMINIMAGGIORE,Albergo,1 Stella,1,18,9
+2022,Provincia del Sud Sardegna,FLUMINIMAGGIORE,Albergo,3 Stelle,1,20,14
+2022,Provincia del Sud Sardegna,FLUMINIMAGGIORE,Alloggi privati,NULL,21,105,46
+2022,Provincia del Sud Sardegna,FLUMINIMAGGIORE,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia del Sud Sardegna,FLUMINIMAGGIORE,Bed and breakfast,2 Stelle,1,4,3
+2022,Provincia del Sud Sardegna,FLUMINIMAGGIORE,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Oristano,FLUSSIO,Alloggi privati,NULL,5,22,11
+2022,Provincia di Nuoro,FONNI,Affittacamere,II Categoria,1,6,5
+2022,Provincia di Nuoro,FONNI,Agriturismo,NULL,6,63,28
+2022,Provincia di Nuoro,FONNI,Albergo,2 Stelle,1,12,7
+2022,Provincia di Nuoro,FONNI,Albergo,3 Stelle,1,88,50
+2022,Provincia di Nuoro,FONNI,Alloggi privati,NULL,1,4,1
+2022,Provincia di Nuoro,FONNI,Bed and breakfast,1 Stella,2,10,5
+2022,Provincia di Nuoro,FONNI,Bed and breakfast,2 Stelle,6,31,14
+2022,Provincia di Nuoro,FONNI,Bed and breakfast,3 Stelle,1,4,1
+2022,Provincia di Nuoro,FONNI,Turismo Rurale,3 Stelle,1,20,20
+2022,Provincia di Oristano,FORDONGIANUS,Albergo,4 Stelle,1,180,90
+2022,Provincia di Oristano,FORDONGIANUS,Alloggi privati,NULL,2,9,4
+2022,Provincia di Oristano,FORDONGIANUS,Bed and breakfast,3 Stelle,1,3,2
+2022,Provincia del Sud Sardegna,FURTEI,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia del Sud Sardegna,FURTEI,Bed and breakfast,3 Stelle,1,3,1
+2022,Provincia di Nuoro,GADONI,Affittacamere,II Categoria,1,16,5
+2022,Provincia di Nuoro,GADONI,Bed and breakfast,1 Stella,2,11,5
+2022,Provincia di Nuoro,GAIRO,Alloggi privati,NULL,2,6,2
+2022,Provincia di Nuoro,GAIRO,Bed and breakfast,2 Stelle,1,7,3
+2022,Provincia di Nuoro,GAIRO,Campeggio,3 Stelle,1,400,172
+2022,Provincia di Nuoro,GALTELLÌ,Agriturismo,NULL,5,57,33
+2022,Provincia di Nuoro,GALTELLÌ,Albergo,2 Stelle,3,31,22
+2022,Provincia di Nuoro,GALTELLÌ,Alloggi privati,NULL,32,164,74
+2022,Provincia di Nuoro,GALTELLÌ,Bed and breakfast,1 Stella,2,7,5
+2022,Provincia di Nuoro,GALTELLÌ,Bed and breakfast,2 Stelle,4,21,11
+2022,Provincia di Nuoro,GALTELLÌ,Bed and breakfast,3 Stelle,2,14,6
+2022,Provincia di Nuoro,GALTELLÌ,Case e appartamenti per vacanze,II Categoria,1,12,6
+2022,Provincia di Nuoro,GAVOI,Agriturismo,NULL,3,32,13
+2022,Provincia di Nuoro,GAVOI,Albergo,3 Stelle,2,117,58
+2022,Provincia di Nuoro,GAVOI,Albergo,4 Stelle,1,180,90
+2022,Provincia di Nuoro,GAVOI,Alloggi privati,NULL,2,9,4
+2022,Provincia di Nuoro,GAVOI,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Nuoro,GAVOI,Bed and breakfast,2 Stelle,2,14,6
+2022,Provincia di Nuoro,GAVOI,Bed and breakfast,3 Stelle,1,5,3
+2022,Provincia del Sud Sardegna,GENONI,Agriturismo,NULL,1,18,9
+2022,Provincia del Sud Sardegna,GENONI,Alloggi privati,NULL,1,4,2
+2022,Provincia del Sud Sardegna,GENURI,Bed and breakfast,3 Stelle,1,3,1
+2022,Provincia del Sud Sardegna,GERGEI,Affittacamere,NULL,1,9,4
+2022,Provincia del Sud Sardegna,GERGEI,Affittacamere,III Categoria,1,7,3
+2022,Provincia del Sud Sardegna,GERGEI,Alloggi privati,NULL,2,13,6
+2022,Provincia del Sud Sardegna,GERGEI,Bed and breakfast,NULL,1,5,2
+2022,Provincia del Sud Sardegna,GERGEI,Bed and breakfast,1 Stella,1,2,1
+2022,Provincia del Sud Sardegna,GERGEI,Bed and breakfast,3 Stelle,1,2,1
+2022,Provincia del Sud Sardegna,GESTURI,Affittacamere,III Categoria,1,7,4
+2022,Provincia del Sud Sardegna,GESTURI,Bed and breakfast,1 Stella,1,1,1
+2022,Provincia del Sud Sardegna,GESTURI,Bed and breakfast,3 Stelle,2,11,6
+2022,Provincia di Oristano,GHILARZA,Affittacamere,II Categoria,1,4,2
+2022,Provincia di Oristano,GHILARZA,Alloggi privati,NULL,6,25,8
+2022,Provincia di Oristano,GHILARZA,Bed and breakfast,1 Stella,3,16,8
+2022,Provincia di Oristano,GHILARZA,Bed and breakfast,3 Stelle,1,5,2
+2022,Provincia di Sassari,GIAVE,Alloggi privati,NULL,1,8,4
+2022,Provincia di Sassari,GIAVE,Bed and breakfast,2 Stelle,1,7,3
+2022,Provincia del Sud Sardegna,GIBA,Agriturismo,NULL,1,10,5
+2022,Provincia del Sud Sardegna,GIBA,Albergo,2 Stelle,1,28,13
+2022,Provincia del Sud Sardegna,GIBA,Alloggi privati,NULL,18,93,42
+2022,Provincia del Sud Sardegna,GIBA,Bed and breakfast,2 Stelle,0,8,3
+2022,Provincia di Nuoro,GIRASOLE,Affittacamere,II Categoria,1,12,6
+2022,Provincia di Nuoro,GIRASOLE,Agriturismo,NULL,2,15,8
+2022,Provincia di Nuoro,GIRASOLE,Albergo,3 Stelle,1,18,10
+2022,Provincia di Nuoro,GIRASOLE,Alloggi privati,NULL,18,70,33
+2022,Provincia di Nuoro,GIRASOLE,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia di Nuoro,GIRASOLE,Bed and breakfast,3 Stelle,2,5,3
+2022,Provincia di Sassari,GOLFO ARANCI,Affittacamere,NULL,2,26,10
+2022,Provincia di Sassari,GOLFO ARANCI,Affittacamere,III Categoria,1,4,2
+2022,Provincia di Sassari,GOLFO ARANCI,Albergo,2 Stelle,2,68,24
+2022,Provincia di Sassari,GOLFO ARANCI,Albergo,3 Stelle,4,123,67
+2022,Provincia di Sassari,GOLFO ARANCI,Albergo,4 Stelle,7,1793,715
+2022,Provincia di Sassari,GOLFO ARANCI,Albergo residenziale,3 Stelle,1,432,111
+2022,Provincia di Sassari,GOLFO ARANCI,Alloggi privati,NULL,186,997,386
+2022,Provincia di Sassari,GOLFO ARANCI,Bed and breakfast,1 Stella,2,7,3
+2022,Provincia di Sassari,GOLFO ARANCI,Bed and breakfast,3 Stelle,1,4,3
+2022,Provincia di Sassari,GOLFO ARANCI,Case e appartamenti per vacanze,NULL,4,250,6
+2022,Provincia di Sassari,GOLFO ARANCI,Case e appartamenti per vacanze,I Categoria,2,42,5
+2022,Provincia di Sassari,GOLFO ARANCI,Case e appartamenti per vacanze,II Categoria,13,977,120
+2022,Provincia di Sassari,GOLFO ARANCI,Residence,II Categoria,1,48,48
+2022,Provincia di Sassari,GOLFO ARANCI,Turismo Rurale,3 Stelle,1,20,10
+2022,Provincia del Sud Sardegna,GONNESA,Affittacamere,II Categoria,2,14,8
+2022,Provincia del Sud Sardegna,GONNESA,Affittacamere,III Categoria,1,4,2
+2022,Provincia del Sud Sardegna,GONNESA,Agriturismo,NULL,4,70,38
+2022,Provincia del Sud Sardegna,GONNESA,Alloggi privati,NULL,34,166,73
+2022,Provincia del Sud Sardegna,GONNESA,Bed and breakfast,1 Stella,3,13,8
+2022,Provincia del Sud Sardegna,GONNESA,Bed and breakfast,2 Stelle,2,9,3
+2022,Provincia del Sud Sardegna,GONNESA,Bed and breakfast,3 Stelle,4,20,8
+2022,Provincia del Sud Sardegna,GONNESA,Case e appartamenti per vacanze,II Categoria,2,19,7
+2022,Provincia del Sud Sardegna,GONNOSFANADIGA,Affittacamere,II Categoria,2,5,4
+2022,Provincia del Sud Sardegna,GONNOSFANADIGA,Agriturismo,NULL,1,13,7
+2022,Provincia del Sud Sardegna,GONNOSFANADIGA,Alloggi privati,NULL,2,10,4
+2022,Provincia del Sud Sardegna,GONNOSFANADIGA,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia del Sud Sardegna,GONNOSFANADIGA,Bed and breakfast,2 Stelle,1,4,2
+2022,Provincia di Oristano,GONNOSNÒ,Alloggi privati,NULL,1,2,1
+2022,Provincia di Oristano,GONNOSTRAMATZA,Agriturismo,NULL,1,20,7
+2022,Provincia di Oristano,GONNOSTRAMATZA,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia del Sud Sardegna,GUAMAGGIORE,Bed and breakfast,2 Stelle,1,7,3
+2022,Provincia del Sud Sardegna,GUASILA,Turismo Rurale,1 Stella,1,12,8
+2022,Provincia del Sud Sardegna,GUSPINI,Affittacamere,II Categoria,2,10,8
+2022,Provincia del Sud Sardegna,GUSPINI,Agriturismo,NULL,4,54,19
+2022,Provincia del Sud Sardegna,GUSPINI,Albergo,3 Stelle,1,12,9
+2022,Provincia del Sud Sardegna,GUSPINI,Albergo,4 Stelle,2,135,28
+2022,Provincia del Sud Sardegna,GUSPINI,Alloggi privati,NULL,5,24,12
+2022,Provincia del Sud Sardegna,GUSPINI,Bed and breakfast,1 Stella,7,35,17
+2022,Provincia del Sud Sardegna,GUSPINI,Bed and breakfast,3 Stelle,6,27,11
+2022,Provincia del Sud Sardegna,IGLESIAS,Affittacamere,NULL,2,19,9
+2022,Provincia del Sud Sardegna,IGLESIAS,Affittacamere,I Categoria,2,20,10
+2022,Provincia del Sud Sardegna,IGLESIAS,Affittacamere,II Categoria,10,69,36
+2022,Provincia del Sud Sardegna,IGLESIAS,Affittacamere,III Categoria,1,8,4
+2022,Provincia del Sud Sardegna,IGLESIAS,Agriturismo,NULL,4,61,32
+2022,Provincia del Sud Sardegna,IGLESIAS,Albergo,3 Stelle,5,96,59
+2022,Provincia del Sud Sardegna,IGLESIAS,Albergo,4 Stelle,1,63,26
+2022,Provincia del Sud Sardegna,IGLESIAS,Alloggi privati,NULL,180,752,330
+2022,Provincia del Sud Sardegna,IGLESIAS,Bed and breakfast,1 Stella,3,16,7
+2022,Provincia del Sud Sardegna,IGLESIAS,Bed and breakfast,2 Stelle,4,13,6
+2022,Provincia del Sud Sardegna,IGLESIAS,Bed and breakfast,3 Stelle,10,56,25
+2022,Provincia del Sud Sardegna,IGLESIAS,Case e appartamenti per vacanze,II Categoria,3,43,16
+2022,Provincia del Sud Sardegna,IGLESIAS,Case per ferie,III Categoria,2,9,6
+2022,Provincia del Sud Sardegna,IGLESIAS,Ostelli per la gioventù,III Categoria,1,20,6
+2022,Provincia di Nuoro,ILBONO,Agriturismo,NULL,2,32,16
+2022,Provincia di Nuoro,ILBONO,Alloggi privati,NULL,1,7,2
+2022,Provincia di Nuoro,ILBONO,Bed and breakfast,2 Stelle,1,5,3
+2022,Provincia di Nuoro,ILBONO,Bed and breakfast,3 Stelle,2,11,6
+2022,Provincia di Nuoro,ILBONO,Ostelli per la gioventù,III Categoria,1,48,23
+2022,Provincia di Nuoro,IRGOLI,Affittacamere,II Categoria,1,4,2
+2022,Provincia di Nuoro,IRGOLI,Agriturismo,NULL,3,44,16
+2022,Provincia di Nuoro,IRGOLI,Albergo,2 Stelle,1,21,7
+2022,Provincia di Nuoro,IRGOLI,Alloggi privati,NULL,17,110,42
+2022,Provincia di Nuoro,IRGOLI,Bed and breakfast,1 Stella,2,11,6
+2022,Provincia di Nuoro,IRGOLI,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia di Nuoro,IRGOLI,Locanda,II Categoria,1,12,6
+2022,Provincia del Sud Sardegna,ISILI,Affittacamere,II Categoria,1,3,2
+2022,Provincia del Sud Sardegna,ISILI,Albergo,2 Stelle,1,25,14
+2022,Provincia del Sud Sardegna,ISILI,Alloggi privati,NULL,1,2,1
+2022,Provincia del Sud Sardegna,ISILI,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia del Sud Sardegna,ISILI,Bed and breakfast,2 Stelle,1,4,3
+2022,Provincia del Sud Sardegna,ISILI,Bed and breakfast,3 Stelle,1,2,1
+2022,Provincia di Sassari,ITTIREDDU,Albergo diffuso,2 Stelle,1,9,6
+2022,Provincia di Sassari,ITTIRI,Affittacamere,II Categoria,2,20,8
+2022,Provincia di Sassari,ITTIRI,Agriturismo,NULL,1,16,9
+2022,Provincia di Sassari,ITTIRI,Alloggi privati,NULL,2,13,5
+2022,Provincia di Sassari,ITTIRI,Bed and breakfast,2 Stelle,1,4,3
+2022,Provincia di Nuoro,JERZU,Affittacamere,II Categoria,1,8,3
+2022,Provincia di Nuoro,JERZU,Agriturismo,NULL,1,10,4
+2022,Provincia di Nuoro,JERZU,Albergo,1 Stella,1,19,8
+2022,Provincia di Nuoro,JERZU,Albergo,3 Stelle,1,25,11
+2022,Provincia di Nuoro,JERZU,Albergo residenziale,3 Stelle,1,20,11
+2022,Provincia di Nuoro,JERZU,Alloggi privati,NULL,6,27,12
+2022,Provincia di Nuoro,JERZU,Bed and breakfast,1 Stella,1,4,3
+2022,Provincia di Nuoro,JERZU,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia di Sassari,LA MADDALENA,Affittacamere,NULL,4,28,12
+2022,Provincia di Sassari,LA MADDALENA,Affittacamere,I Categoria,4,49,22
+2022,Provincia di Sassari,LA MADDALENA,Affittacamere,II Categoria,10,85,33
+2022,Provincia di Sassari,LA MADDALENA,Affittacamere,III Categoria,1,11,5
+2022,Provincia di Sassari,LA MADDALENA,Albergo,3 Stelle,10,1244,563
+2022,Provincia di Sassari,LA MADDALENA,Albergo,4 Stelle,2,230,101
+2022,Provincia di Sassari,LA MADDALENA,Albergo,5 Stelle,1,202,92
+2022,Provincia di Sassari,LA MADDALENA,Albergo diffuso,3 Stelle,1,13,8
+2022,Provincia di Sassari,LA MADDALENA,Albergo residenziale,2 Stelle,1,50,18
+2022,Provincia di Sassari,LA MADDALENA,Albergo residenziale,3 Stelle,1,58,19
+2022,Provincia di Sassari,LA MADDALENA,Alloggi privati,NULL,374,1615,671
+2022,Provincia di Sassari,LA MADDALENA,Bed and breakfast,1 Stella,4,22,10
+2022,Provincia di Sassari,LA MADDALENA,Bed and breakfast,2 Stelle,13,62,33
+2022,Provincia di Sassari,LA MADDALENA,Bed and breakfast,3 Stelle,8,41,19
+2022,Provincia di Sassari,LA MADDALENA,Campeggio,1 Stella,1,45,15
+2022,Provincia di Sassari,LA MADDALENA,Campeggio,2 Stelle,1,540,116
+2022,Provincia di Sassari,LA MADDALENA,Campeggio,3 Stelle,1,380,80
+2022,Provincia di Sassari,LA MADDALENA,Case e appartamenti per vacanze,NULL,6,281,46
+2022,Provincia di Sassari,LA MADDALENA,Case e appartamenti per vacanze,I Categoria,1,14,0
+2022,Provincia di Sassari,LA MADDALENA,Case e appartamenti per vacanze,II Categoria,2,61,0
+2022,Provincia di Sassari,LA MADDALENA,Villaggi turistici,2 Stelle,1,202,19
+2022,Provincia di Sassari,LA MADDALENA,Villaggi turistici,3 Stelle,1,227,74
+2022,Provincia di Oristano,LACONI,Affittacamere,I Categoria,2,14,7
+2022,Provincia di Oristano,LACONI,Affittacamere,II Categoria,1,6,3
+2022,Provincia di Oristano,LACONI,Agriturismo,NULL,1,20,10
+2022,Provincia di Oristano,LACONI,Bed and breakfast,NULL,3,16,9
+2022,Provincia di Oristano,LACONI,Bed and breakfast,1 Stella,1,3,1
+2022,Provincia di Oristano,LACONI,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Nuoro,LANUSEI,Affittacamere,II Categoria,1,9,5
+2022,Provincia di Nuoro,LANUSEI,Albergo,3 Stelle,3,55,25
+2022,Provincia di Nuoro,LANUSEI,Albergo,4 Stelle,1,164,77
+2022,Provincia di Nuoro,LANUSEI,Alloggi privati,NULL,10,42,18
+2022,Provincia di Nuoro,LANUSEI,Bed and breakfast,1 Stella,5,23,14
+2022,Provincia di Nuoro,LANUSEI,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Nuoro,LANUSEI,Case per ferie,III Categoria,1,69,30
+2022,Provincia del Sud Sardegna,LAS PLASSAS,Bed and breakfast,3 Stelle,1,3,1
+2022,Provincia di Nuoro,LOCERI,Albergo diffuso,3 Stelle,1,16,8
+2022,Provincia di Nuoro,LOCERI,Alloggi privati,NULL,4,17,7
+2022,Provincia di Nuoro,LOCERI,Bed and breakfast,1 Stella,13,47,23
+2022,Provincia di Nuoro,LOCERI,Bed and breakfast,2 Stelle,3,15,5
+2022,Provincia di Nuoro,LOCERI,Bed and breakfast,3 Stelle,1,7,3
+2022,Provincia di Nuoro,LOCULI,Agriturismo,NULL,2,24,11
+2022,Provincia di Nuoro,LOCULI,Alloggi privati,NULL,5,21,9
+2022,Provincia di Nuoro,LOCULI,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Nuoro,LODÈ,Agriturismo,NULL,2,24,11
+2022,Provincia di Nuoro,LODÈ,Albergo,2 Stelle,1,20,11
+2022,Provincia di Nuoro,LODINE,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Nuoro,LODINE,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Affittacamere,NULL,2,24,11
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Affittacamere,II Categoria,5,34,15
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Affittacamere,III Categoria,1,6,3
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Agriturismo,NULL,4,39,20
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Albergo,3 Stelle,2,148,64
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Albergo,4 Stelle,4,341,145
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Albergo residenziale,3 Stelle,1,98,35
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Alloggi privati,NULL,139,699,314
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Bed and breakfast,1 Stella,2,6,3
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Bed and breakfast,2 Stelle,4,22,11
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Bed and breakfast,3 Stelle,9,45,23
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Campeggio,3 Stelle,1,1280,269
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Case e appartamenti per vacanze,NULL,2,16,6
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Case e appartamenti per vacanze,I Categoria,2,30,18
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Case e appartamenti per vacanze,II Categoria,10,445,42
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Residence,NULL,1,114,20
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Residence,III Categoria,1,100,0
+2022,Provincia di Sassari,LOIRI PORTO SAN PAOLO,Turismo Rurale,3 Stelle,1,19,10
+2022,Provincia di Nuoro,LOTZORAI,Affittacamere,II Categoria,3,26,14
+2022,Provincia di Nuoro,LOTZORAI,Albergo,3 Stelle,3,163,87
+2022,Provincia di Nuoro,LOTZORAI,Alloggi privati,NULL,42,208,93
+2022,Provincia di Nuoro,LOTZORAI,Bed and breakfast,1 Stella,2,5,4
+2022,Provincia di Nuoro,LOTZORAI,Bed and breakfast,2 Stelle,3,13,7
+2022,Provincia di Nuoro,LOTZORAI,Bed and breakfast,3 Stelle,5,19,10
+2022,Provincia di Nuoro,LOTZORAI,Campeggio,1 Stella,1,250,125
+2022,Provincia di Nuoro,LOTZORAI,Campeggio,3 Stelle,4,1580,439
+2022,Provincia di Nuoro,LULA,Affittacamere,I Categoria,1,4,2
+2022,Provincia di Nuoro,LULA,Affittacamere,II Categoria,1,12,6
+2022,Provincia di Nuoro,LULA,Agriturismo,NULL,3,26,12
+2022,Provincia di Nuoro,LULA,Bed and breakfast,2 Stelle,1,5,2
+2022,Provincia di Nuoro,LULA,Bed and breakfast,3 Stelle,1,5,2
+2022,Provincia del Sud Sardegna,LUNAMATRONA,Alloggi privati,NULL,2,8,4
+2022,Provincia del Sud Sardegna,LUNAMATRONA,Bed and breakfast,3 Stelle,1,3,3
+2022,Provincia del Sud Sardegna,LUNAMATRONA,Campeggio,3 Stelle,1,256,90
+2022,Provincia di Sassari,LUOGOSANTO,Agriturismo,NULL,9,92,40
+2022,Provincia di Sassari,LUOGOSANTO,Albergo,3 Stelle,1,128,64
+2022,Provincia di Sassari,LUOGOSANTO,Alloggi privati,NULL,8,44,22
+2022,Provincia di Sassari,LUOGOSANTO,Bed and breakfast,2 Stelle,1,6,2
+2022,Provincia di Sassari,LUOGOSANTO,Locanda,II Categoria,1,12,5
+2022,Provincia di Sassari,LUOGOSANTO,Turismo Rurale,3 Stelle,1,20,12
+2022,Provincia di Sassari,LURAS,Affittacamere,NULL,1,4,2
+2022,Provincia di Sassari,LURAS,Affittacamere,II Categoria,1,11,6
+2022,Provincia di Sassari,LURAS,Agriturismo,NULL,1,10,5
+2022,Provincia di Sassari,LURAS,Albergo,4 Stelle,1,20,13
+2022,Provincia di Sassari,LURAS,Turismo Rurale,3 Stelle,1,20,11
+2022,Provincia di Nuoro,MACOMER,Affittacamere,II Categoria,1,11,6
+2022,Provincia di Nuoro,MACOMER,Albergo,1 Stella,1,18,12
+2022,Provincia di Nuoro,MACOMER,Albergo,2 Stelle,1,25,15
+2022,Provincia di Nuoro,MACOMER,Albergo,3 Stelle,1,10,9
+2022,Provincia di Nuoro,MACOMER,Alloggi privati,NULL,1,2,1
+2022,Provincia di Nuoro,MACOMER,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia di Nuoro,MACOMER,Bed and breakfast,2 Stelle,1,8,3
+2022,Provincia di Nuoro,MACOMER,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia di Oristano,MAGOMADAS,Affittacamere,II Categoria,8,74,37
+2022,Provincia di Oristano,MAGOMADAS,Albergo,3 Stelle,1,28,15
+2022,Provincia di Oristano,MAGOMADAS,Alloggi privati,NULL,40,181,77
+2022,Provincia di Oristano,MAGOMADAS,Bed and breakfast,1 Stella,1,2,2
+2022,Provincia di Oristano,MAGOMADAS,Bed and breakfast,2 Stelle,1,4,2
+2022,Provincia di Oristano,MAGOMADAS,Case e appartamenti per vacanze,II Categoria,1,27,9
+2022,Provincia di Nuoro,MAMOIADA,Affittacamere,I Categoria,2,20,11
+2022,Provincia di Nuoro,MAMOIADA,Affittacamere,II Categoria,1,9,5
+2022,Provincia di Nuoro,MAMOIADA,Agriturismo,NULL,2,17,7
+2022,Provincia di Nuoro,MAMOIADA,Alloggi privati,NULL,8,62,27
+2022,Provincia di Nuoro,MAMOIADA,Bed and breakfast,1 Stella,4,23,11
+2022,Provincia di Nuoro,MAMOIADA,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Nuoro,MAMOIADA,Bed and breakfast,3 Stelle,1,8,3
+2022,Provincia del Sud Sardegna,MANDAS,Affittacamere,I Categoria,1,12,5
+2022,Provincia del Sud Sardegna,MANDAS,Agriturismo,NULL,1,8,4
+2022,Provincia del Sud Sardegna,MANDAS,Bed and breakfast,NULL,1,3,2
+2022,Provincia del Sud Sardegna,MANDAS,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia del Sud Sardegna,MANDAS,Bed and breakfast,3 Stelle,2,9,5
+2022,Provincia di Sassari,MARA,Bed and breakfast,3 Stelle,1,6,3
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Affittacamere,NULL,1,5,4
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Affittacamere,II Categoria,1,2,2
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Albergo,3 Stelle,1,30,15
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Alloggi privati,NULL,161,1003,464
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Bed and breakfast,NULL,2,12,6
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Bed and breakfast,1 Stella,2,8,5
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Bed and breakfast,2 Stelle,2,10,5
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Bed and breakfast,3 Stelle,1,2,2
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Case e appartamenti per vacanze,NULL,1,184,0
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Case e appartamenti per vacanze,II Categoria,1,44,10
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Residence,III Categoria,1,140,46
+2022,Città metropolitana di Cagliari,MARACALAGONIS,Villaggio albergo,4 Stelle,1,989,369
+2022,Provincia di Oristano,MARRUBIU,Agriturismo,NULL,1,12,6
+2022,Provincia di Oristano,MARRUBIU,Alloggi privati,NULL,6,29,15
+2022,Provincia di Oristano,MARRUBIU,Bed and breakfast,1 Stella,6,27,13
+2022,Provincia di Oristano,MARRUBIU,Bed and breakfast,2 Stelle,3,14,8
+2022,Provincia di Oristano,MARRUBIU,Bed and breakfast,3 Stelle,2,10,5
+2022,Provincia di Oristano,MARRUBIU,Ostelli per la gioventù,III Categoria,1,20,6
+2022,Provincia di Sassari,MARTIS,Agriturismo,NULL,2,16,6
+2022,Provincia di Sassari,MARTIS,Alloggi privati,NULL,3,22,7
+2022,Provincia del Sud Sardegna,MASAINAS,Affittacamere,II Categoria,1,12,6
+2022,Provincia del Sud Sardegna,MASAINAS,Agriturismo,NULL,1,6,3
+2022,Provincia del Sud Sardegna,MASAINAS,Alloggi privati,NULL,12,44,20
+2022,Provincia del Sud Sardegna,MASAINAS,Bed and breakfast,1 Stella,1,5,3
+2022,Provincia del Sud Sardegna,MASAINAS,Bed and breakfast,3 Stelle,1,8,3
+2022,Provincia di Oristano,MASULLAS,Bed and breakfast,1 Stella,1,5,3
+2022,Provincia di Nuoro,MEANA SARDO,Agriturismo,NULL,1,8,4
+2022,Provincia di Nuoro,MEANA SARDO,Bed and breakfast,1 Stella,2,12,6
+2022,Provincia di Nuoro,MEANA SARDO,Villaggi turistici,2 Stelle,1,32,5
+2022,Provincia di Oristano,MILIS,Agriturismo,NULL,1,12,6
+2022,Provincia di Oristano,MILIS,Alloggi privati,NULL,7,34,15
+2022,Provincia di Oristano,MILIS,Bed and breakfast,1 Stella,1,4,3
+2022,Provincia di Oristano,MODOLO,Alloggi privati,NULL,12,64,31
+2022,Provincia di Oristano,MODOLO,Bed and breakfast,1 Stella,2,11,5
+2022,Provincia di Oristano,MODOLO,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Oristano,MOGORO,Alloggi privati,NULL,3,16,8
+2022,Provincia di Oristano,MOGORO,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia del Sud Sardegna,MONASTIR,Affittacamere,III Categoria,1,10,5
+2022,Provincia del Sud Sardegna,MONASTIR,Albergo,3 Stelle,1,46,22
+2022,Provincia del Sud Sardegna,MONASTIR,Alloggi privati,NULL,1,6,3
+2022,Provincia del Sud Sardegna,MONASTIR,Bed and breakfast,1 Stella,1,4,3
+2022,Provincia del Sud Sardegna,MONASTIR,Bed and breakfast,3 Stelle,2,8,3
+2022,Città metropolitana di Cagliari,MONSERRATO,Affittacamere,II Categoria,3,25,12
+2022,Città metropolitana di Cagliari,MONSERRATO,Alloggi privati,NULL,29,107,55
+2022,Città metropolitana di Cagliari,MONSERRATO,Bed and breakfast,NULL,3,15,6
+2022,Città metropolitana di Cagliari,MONSERRATO,Bed and breakfast,1 Stella,1,5,2
+2022,Città metropolitana di Cagliari,MONSERRATO,Bed and breakfast,3 Stelle,2,5,3
+2022,Provincia di Sassari,MONTELEONE ROCCA DORIA,Bed and breakfast,3 Stelle,2,11,2
+2022,Provincia di Sassari,MONTI,Affittacamere,III Categoria,2,13,8
+2022,Provincia di Sassari,MONTI,Agriturismo,NULL,8,87,43
+2022,Provincia di Sassari,MONTI,Alloggi privati,NULL,2,4,2
+2022,Provincia di Sassari,MORES,Affittacamere,II Categoria,1,6,4
+2022,Provincia di Sassari,MORES,Albergo,3 Stelle,1,20,10
+2022,Provincia di Oristano,MORGONGIORI,Agriturismo,NULL,1,12,5
+2022,Provincia del Sud Sardegna,MURAVERA,Affittacamere,NULL,1,13,6
+2022,Provincia del Sud Sardegna,MURAVERA,Affittacamere,II Categoria,3,34,16
+2022,Provincia del Sud Sardegna,MURAVERA,Affittacamere,III Categoria,1,12,6
+2022,Provincia del Sud Sardegna,MURAVERA,Agriturismo,NULL,3,38,16
+2022,Provincia del Sud Sardegna,MURAVERA,Albergo,1 Stella,1,24,16
+2022,Provincia del Sud Sardegna,MURAVERA,Albergo,2 Stelle,1,26,13
+2022,Provincia del Sud Sardegna,MURAVERA,Albergo,3 Stelle,4,502,245
+2022,Provincia del Sud Sardegna,MURAVERA,Albergo,4 Stelle,6,1137,521
+2022,Provincia del Sud Sardegna,MURAVERA,Albergo residenziale,3 Stelle,1,302,98
+2022,Provincia del Sud Sardegna,MURAVERA,Alloggi privati,NULL,265,1284,541
+2022,Provincia del Sud Sardegna,MURAVERA,Bed and breakfast,NULL,1,6,2
+2022,Provincia del Sud Sardegna,MURAVERA,Bed and breakfast,1 Stella,3,13,7
+2022,Provincia del Sud Sardegna,MURAVERA,Bed and breakfast,2 Stelle,9,39,23
+2022,Provincia del Sud Sardegna,MURAVERA,Bed and breakfast,3 Stelle,5,27,13
+2022,Provincia del Sud Sardegna,MURAVERA,Campeggio,NULL,1,224,56
+2022,Provincia del Sud Sardegna,MURAVERA,Campeggio,3 Stelle,3,1535,364
+2022,Provincia del Sud Sardegna,MURAVERA,Campeggio,4 Stelle,1,1108,286
+2022,Provincia del Sud Sardegna,MURAVERA,Case e appartamenti per vacanze,NULL,3,131,51
+2022,Provincia del Sud Sardegna,MURAVERA,Case e appartamenti per vacanze,I Categoria,1,72,36
+2022,Provincia del Sud Sardegna,MURAVERA,Case e appartamenti per vacanze,II Categoria,14,504,183
+2022,Provincia del Sud Sardegna,MURAVERA,Case e appartamenti per vacanze,III Categoria,1,8,4
+2022,Provincia del Sud Sardegna,MURAVERA,Locanda,II Categoria,1,15,6
+2022,Provincia del Sud Sardegna,MURAVERA,Residence,I Categoria,1,16,8
+2022,Provincia del Sud Sardegna,MURAVERA,Turismo Rurale,3 Stelle,1,20,15
+2022,Provincia del Sud Sardegna,MURAVERA,Turismo Rurale,4 Stelle,1,19,10
+2022,Provincia del Sud Sardegna,MURAVERA,Villaggi turistici,4 Stelle,1,1536,315
+2022,Provincia del Sud Sardegna,MURAVERA,Villaggio albergo,4 Stelle,2,1418,530
+2022,Provincia di Sassari,MUROS,Bed and breakfast,2 Stelle,1,2,1
+2022,Provincia di Oristano,NARBOLIA,Affittacamere,II Categoria,4,41,19
+2022,Provincia di Oristano,NARBOLIA,Agriturismo,NULL,3,22,11
+2022,Provincia di Oristano,NARBOLIA,Albergo,3 Stelle,9,24,9
+2022,Provincia di Oristano,NARBOLIA,Albergo,5 Stelle,1,332,109
+2022,Provincia di Oristano,NARBOLIA,Alloggi privati,NULL,15,73,31
+2022,Provincia di Oristano,NARBOLIA,Bed and breakfast,2 Stelle,1,9,3
+2022,Provincia di Oristano,NARBOLIA,Campeggio,3 Stelle,2,1436,416
+2022,Provincia di Oristano,NARBOLIA,Case e appartamenti per vacanze,I Categoria,1,108,15
+2022,Provincia del Sud Sardegna,NARCAO,Agriturismo,NULL,1,4,2
+2022,Provincia del Sud Sardegna,NARCAO,Albergo,3 Stelle,1,17,9
+2022,Provincia del Sud Sardegna,NARCAO,Bed and breakfast,1 Stella,1,2,2
+2022,Provincia del Sud Sardegna,NARCAO,Villaggi turistici,2 Stelle,1,37,23
+2022,Provincia di Oristano,NEONELI,Agriturismo,NULL,2,25,17
+2022,Provincia di Oristano,NORBELLO,Campeggio,3 Stelle,1,204,54
+2022,Provincia di Sassari,NUGHEDU SAN NICOLÒ,Campeggio,3 Stelle,1,105,29
+2022,Provincia di Oristano,NUGHEDU SANTA VITTORIA,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia di Sassari,NULVI,Agriturismo,NULL,6,78,37
+2022,Provincia di Sassari,NULVI,Alloggi privati,NULL,4,20,7
+2022,Provincia di Sassari,NULVI,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Sassari,NULVI,Case e appartamenti per vacanze,III Categoria,1,16,4
+2022,Provincia di Nuoro,NUORO,Affittacamere,I Categoria,1,4,2
+2022,Provincia di Nuoro,NUORO,Affittacamere,II Categoria,15,86,44
+2022,Provincia di Nuoro,NUORO,Agriturismo,NULL,4,63,29
+2022,Provincia di Nuoro,NUORO,Albergo,2 Stelle,1,20,13
+2022,Provincia di Nuoro,NUORO,Albergo,3 Stelle,3,279,145
+2022,Provincia di Nuoro,NUORO,Albergo residenziale,3 Stelle,1,24,11
+2022,Provincia di Nuoro,NUORO,Alloggi privati,NULL,29,124,53
+2022,Provincia di Nuoro,NUORO,Bed and breakfast,1 Stella,6,25,13
+2022,Provincia di Nuoro,NUORO,Bed and breakfast,2 Stelle,9,47,21
+2022,Provincia di Nuoro,NUORO,Bed and breakfast,3 Stelle,4,12,5
+2022,Provincia di Nuoro,NUORO,Case e appartamenti per vacanze,II Categoria,2,39,18
+2022,Provincia di Nuoro,NUORO,Ostelli per la gioventù,NULL,2,24,14
+2022,Provincia di Nuoro,NUORO,Residence,I Categoria,1,55,15
+2022,Provincia di Oristano,NURACHI,Affittacamere,I Categoria,1,7,4
+2022,Provincia di Oristano,NURACHI,Agriturismo,NULL,3,36,16
+2022,Provincia di Oristano,NURACHI,Alloggi privati,NULL,26,140,63
+2022,Provincia di Oristano,NURACHI,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Oristano,NURACHI,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Oristano,NURACHI,Bed and breakfast,3 Stelle,2,12,5
+2022,Provincia di Oristano,NURACHI,Case e appartamenti per vacanze,II Categoria,1,18,6
+2022,Provincia del Sud Sardegna,NURAGUS,Bed and breakfast,NULL,1,5,3
+2022,Provincia del Sud Sardegna,NURAGUS,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia del Sud Sardegna,NURALLAO,Agriturismo,NULL,1,12,6
+2022,Provincia del Sud Sardegna,NURALLAO,Bed and breakfast,3 Stelle,2,11,4
+2022,Provincia del Sud Sardegna,NURAMINIS,Albergo,2 Stelle,1,20,10
+2022,Provincia del Sud Sardegna,NURAMINIS,Alloggi privati,NULL,1,4,2
+2022,Provincia del Sud Sardegna,NURAMINIS,Bed and breakfast,1 Stella,1,3,3
+2022,Provincia di Oristano,NURECI,Bed and breakfast,3 Stelle,1,8,3
+2022,Provincia del Sud Sardegna,NURRI,Agriturismo,NULL,1,6,3
+2022,Provincia del Sud Sardegna,NURRI,Albergo,3 Stelle,1,20,10
+2022,Provincia del Sud Sardegna,NUXIS,Alloggi privati,NULL,1,6,3
+2022,Provincia di Sassari,OLBIA,Affittacamere,NULL,28,222,99
+2022,Provincia di Sassari,OLBIA,Affittacamere,I Categoria,10,75,42
+2022,Provincia di Sassari,OLBIA,Affittacamere,II Categoria,34,257,134
+2022,Provincia di Sassari,OLBIA,Affittacamere,III Categoria,3,13,8
+2022,Provincia di Sassari,OLBIA,Agriturismo,NULL,23,225,116
+2022,Provincia di Sassari,OLBIA,Albergo,1 Stella,1,13,7
+2022,Provincia di Sassari,OLBIA,Albergo,2 Stelle,2,42,22
+2022,Provincia di Sassari,OLBIA,Albergo,3 Stelle,16,911,432
+2022,Provincia di Sassari,OLBIA,Albergo,4 Stelle,32,3610,1909
+2022,Provincia di Sassari,OLBIA,Albergo,5 Stelle,2,519,247
+2022,Provincia di Sassari,OLBIA,Albergo diffuso,3 Stelle,1,23,9
+2022,Provincia di Sassari,OLBIA,Albergo diffuso,4 Stelle,1,14,7
+2022,Provincia di Sassari,OLBIA,Albergo residenziale,3 Stelle,4,903,235
+2022,Provincia di Sassari,OLBIA,Alloggi privati,NULL,1115,6077,2258
+2022,Provincia di Sassari,OLBIA,Bed and breakfast,NULL,1,4,3
+2022,Provincia di Sassari,OLBIA,Bed and breakfast,1 Stella,24,109,54
+2022,Provincia di Sassari,OLBIA,Bed and breakfast,2 Stelle,32,146,69
+2022,Provincia di Sassari,OLBIA,Bed and breakfast,3 Stelle,24,116,56
+2022,Provincia di Sassari,OLBIA,Boat and Breakfast,NULL,1,3,1
+2022,Provincia di Sassari,OLBIA,Campeggio,1 Stella,1,36,9
+2022,Provincia di Sassari,OLBIA,Campeggio,3 Stelle,1,644,120
+2022,Provincia di Sassari,OLBIA,Case e appartamenti per vacanze,NULL,11,184,49
+2022,Provincia di Sassari,OLBIA,Case e appartamenti per vacanze,I Categoria,6,849,9
+2022,Provincia di Sassari,OLBIA,Case e appartamenti per vacanze,II Categoria,23,460,95
+2022,Provincia di Sassari,OLBIA,Locanda,NULL,1,11,6
+2022,Provincia di Sassari,OLBIA,Locanda,II Categoria,1,8,3
+2022,Provincia di Sassari,OLBIA,Residence,II Categoria,1,292,31
+2022,Provincia di Sassari,OLBIA,Residence,III Categoria,1,120,24
+2022,Provincia di Sassari,OLBIA,Turismo Rurale,1 Stella,1,20,10
+2022,Provincia di Sassari,OLBIA,Turismo Rurale,3 Stelle,2,38,19
+2022,Provincia di Sassari,OLBIA,Turismo Rurale,4 Stelle,2,40,24
+2022,Provincia di Sassari,OLBIA,Villaggio albergo,2 Stelle,1,130,0
+2022,Provincia di Nuoro,OLIENA,Affittacamere,II Categoria,1,10,4
+2022,Provincia di Nuoro,OLIENA,Agriturismo,NULL,2,29,14
+2022,Provincia di Nuoro,OLIENA,Albergo,3 Stelle,1,32,16
+2022,Provincia di Nuoro,OLIENA,Albergo,4 Stelle,1,134,67
+2022,Provincia di Nuoro,OLIENA,Alloggi privati,NULL,40,165,74
+2022,Provincia di Nuoro,OLIENA,Bed and breakfast,1 Stella,2,6,4
+2022,Provincia di Nuoro,OLIENA,Bed and breakfast,2 Stelle,5,32,15
+2022,Provincia di Nuoro,OLIENA,Bed and breakfast,3 Stelle,6,38,15
+2022,Provincia di Nuoro,OLIENA,Locanda,NULL,1,8,4
+2022,Provincia di Nuoro,OLIENA,Locanda,II Categoria,1,13,6
+2022,Provincia di Oristano,OLLASTRA,Alloggi privati,NULL,2,6,3
+2022,Provincia di Nuoro,OLLOLAI,Agriturismo,NULL,1,20,11
+2022,Provincia di Nuoro,OLLOLAI,Bed and breakfast,1 Stella,1,4,1
+2022,Provincia di Nuoro,OLLOLAI,Bed and breakfast,2 Stelle,1,3,2
+2022,Provincia di Nuoro,OLLOLAI,Bed and breakfast,3 Stelle,3,15,8
+2022,Provincia di Sassari,OLMEDO,Affittacamere,II Categoria,2,12,9
+2022,Provincia di Sassari,OLMEDO,Agriturismo,NULL,5,51,27
+2022,Provincia di Sassari,OLMEDO,Alloggi privati,NULL,28,136,57
+2022,Provincia di Sassari,OLMEDO,Bed and breakfast,1 Stella,3,11,7
+2022,Provincia di Sassari,OLMEDO,Bed and breakfast,2 Stelle,6,28,15
+2022,Provincia di Sassari,OLMEDO,Bed and breakfast,3 Stelle,3,14,7
+2022,Provincia di Sassari,OLMEDO,Case e appartamenti per vacanze,III Categoria,1,10,5
+2022,Provincia di Nuoro,OLZAI,Agriturismo,NULL,1,10,5
+2022,Provincia di Nuoro,ONIFAI,Affittacamere,II Categoria,1,12,6
+2022,Provincia di Nuoro,ONIFAI,Alloggi privati,NULL,10,53,24
+2022,Provincia di Nuoro,ONIFERI,Agriturismo,NULL,1,12,6
+2022,Provincia di Nuoro,ONIFERI,Bed and breakfast,NULL,1,6,3
+2022,Provincia di Nuoro,ORANI,Agriturismo,NULL,1,12,6
+2022,Provincia di Nuoro,ORANI,Alloggi privati,NULL,3,8,4
+2022,Provincia di Nuoro,ORANI,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Nuoro,ORANI,Locanda,NULL,1,10,5
+2022,Provincia di Nuoro,ORGOSOLO,Affittacamere,I Categoria,1,11,4
+2022,Provincia di Nuoro,ORGOSOLO,Affittacamere,II Categoria,3,22,12
+2022,Provincia di Nuoro,ORGOSOLO,Agriturismo,NULL,3,23,11
+2022,Provincia di Nuoro,ORGOSOLO,Albergo,2 Stelle,2,55,32
+2022,Provincia di Nuoro,ORGOSOLO,Alloggi privati,NULL,8,49,19
+2022,Provincia di Nuoro,ORGOSOLO,Bed and breakfast,1 Stella,4,19,10
+2022,Provincia di Nuoro,ORGOSOLO,Bed and breakfast,2 Stelle,4,22,11
+2022,Provincia di Nuoro,ORGOSOLO,Bed and breakfast,3 Stelle,1,4,3
+2022,Provincia di Nuoro,ORGOSOLO,Locanda,II Categoria,2,11,6
+2022,Provincia di Oristano,ORISTANO,Affittacamere,I Categoria,1,17,6
+2022,Provincia di Oristano,ORISTANO,Affittacamere,II Categoria,21,169,89
+2022,Provincia di Oristano,ORISTANO,Agriturismo,NULL,3,54,23
+2022,Provincia di Oristano,ORISTANO,Albergo,3 Stelle,3,192,97
+2022,Provincia di Oristano,ORISTANO,Albergo,4 Stelle,3,403,210
+2022,Provincia di Oristano,ORISTANO,Alloggi privati,NULL,234,962,430
+2022,Provincia di Oristano,ORISTANO,Bed and breakfast,1 Stella,8,27,13
+2022,Provincia di Oristano,ORISTANO,Bed and breakfast,2 Stelle,5,24,12
+2022,Provincia di Oristano,ORISTANO,Bed and breakfast,3 Stelle,13,57,28
+2022,Provincia di Oristano,ORISTANO,Boat and Breakfast,NULL,1,6,3
+2022,Provincia di Oristano,ORISTANO,Campeggio,1 Stella,1,200,50
+2022,Provincia di Oristano,ORISTANO,Case e appartamenti per vacanze,II Categoria,12,55,34
+2022,Provincia di Oristano,ORISTANO,Case per ferie,III Categoria,1,40,10
+2022,Provincia di Oristano,ORISTANO,Ostelli per la gioventù,III Categoria,1,138,69
+2022,Provincia di Oristano,ORISTANO,Residence,II Categoria,1,24,10
+2022,Provincia di Oristano,ORISTANO,Villaggi turistici,4 Stelle,1,390,100
+2022,Provincia di Nuoro,OROSEI,Affittacamere,I Categoria,2,23,12
+2022,Provincia di Nuoro,OROSEI,Affittacamere,II Categoria,9,86,39
+2022,Provincia di Nuoro,OROSEI,Agriturismo,NULL,10,117,54
+2022,Provincia di Nuoro,OROSEI,Albergo,3 Stelle,9,346,168
+2022,Provincia di Nuoro,OROSEI,Albergo,4 Stelle,7,2199,1017
+2022,Provincia di Nuoro,OROSEI,Albergo diffuso,4 Stelle,1,44,19
+2022,Provincia di Nuoro,OROSEI,Albergo residenziale,3 Stelle,5,907,249
+2022,Provincia di Nuoro,OROSEI,Albergo residenziale,4 Stelle,1,391,176
+2022,Provincia di Nuoro,OROSEI,Alloggi privati,NULL,476,2295,1037
+2022,Provincia di Nuoro,OROSEI,Bed and breakfast,1 Stella,2,8,4
+2022,Provincia di Nuoro,OROSEI,Bed and breakfast,2 Stelle,5,24,13
+2022,Provincia di Nuoro,OROSEI,Bed and breakfast,3 Stelle,5,34,15
+2022,Provincia di Nuoro,OROSEI,Campeggio,1 Stella,1,394,88
+2022,Provincia di Nuoro,OROSEI,Campeggio,2 Stelle,1,340,82
+2022,Provincia di Nuoro,OROSEI,Campeggio,3 Stelle,2,1880,570
+2022,Provincia di Nuoro,OROSEI,Case e appartamenti per vacanze,NULL,1,12,5
+2022,Provincia di Nuoro,OROSEI,Case e appartamenti per vacanze,I Categoria,1,15,6
+2022,Provincia di Nuoro,OROSEI,Case e appartamenti per vacanze,II Categoria,12,278,116
+2022,Provincia di Nuoro,OROSEI,Residence,II Categoria,2,261,94
+2022,Provincia di Nuoro,OROSEI,Turismo Rurale,3 Stelle,1,21,12
+2022,Provincia di Nuoro,OROSEI,Villaggio albergo,4 Stelle,2,872,391
+2022,Provincia di Nuoro,OROTELLI,Affittacamere,II Categoria,2,8,4
+2022,Provincia del Sud Sardegna,ORROLI,Albergo diffuso,3 Stelle,1,23,11
+2022,Provincia del Sud Sardegna,ORROLI,Alloggi privati,NULL,1,6,3
+2022,Provincia del Sud Sardegna,ORROLI,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia del Sud Sardegna,ORROLI,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia del Sud Sardegna,ORROLI,Turismo Rurale,1 Stella,1,18,9
+2022,Provincia del Sud Sardegna,ORROLI,Turismo Rurale,2 Stelle,1,20,7
+2022,Provincia di Nuoro,ORTUERI,Albergo,1 Stella,1,13,8
+2022,Provincia di Sassari,OSCHIRI,Affittacamere,I Categoria,1,7,3
+2022,Provincia di Sassari,OSCHIRI,Alloggi privati,NULL,2,8,2
+2022,Provincia di Sassari,OSCHIRI,Bed and breakfast,2 Stelle,1,8,3
+2022,Provincia di Sassari,OSCHIRI,Turismo Rurale,2 Stelle,1,15,8
+2022,Provincia di Nuoro,OSIDDA,Agriturismo,NULL,1,12,6
+2022,Provincia di Nuoro,OSIDDA,Bed and breakfast,2 Stelle,1,8,3
+2022,Provincia di Sassari,OSILO,Affittacamere,NULL,1,11,6
+2022,Provincia di Sassari,OSILO,Affittacamere,II Categoria,2,5,2
+2022,Provincia di Sassari,OSILO,Alloggi privati,NULL,2,9,4
+2022,Provincia di Sassari,OSILO,Bed and breakfast,NULL,1,14,0
+2022,Provincia di Nuoro,OSINI,Agriturismo,NULL,1,9,4
+2022,Provincia di Nuoro,OSINI,Albergo,3 Stelle,2,38,22
+2022,Provincia di Nuoro,OSINI,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Nuoro,OSINI,Bed and breakfast,3 Stelle,1,2,1
+2022,Provincia di Nuoro,OSINI,Campeggio,2 Stelle,1,80,20
+2022,Provincia di Sassari,OSSI,Affittacamere,NULL,2,15,6
+2022,Provincia di Sassari,OSSI,Affittacamere,II Categoria,1,4,1
+2022,Provincia di Sassari,OSSI,Alloggi privati,NULL,1,5,1
+2022,Provincia di Sassari,OSSI,Bed and breakfast,2 Stelle,1,1,1
+2022,Provincia di Nuoro,OTTANA,Albergo,2 Stelle,2,39,34
+2022,Provincia di Nuoro,OTTANA,Alloggi privati,NULL,1,8,4
+2022,Provincia di Nuoro,OVODDA,Agriturismo,NULL,2,13,6
+2022,Provincia di Nuoro,OVODDA,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Sassari,OZIERI,Affittacamere,III Categoria,1,13,6
+2022,Provincia di Sassari,OZIERI,Agriturismo,NULL,1,11,5
+2022,Provincia di Sassari,OZIERI,Albergo,3 Stelle,1,28,14
+2022,Provincia di Sassari,OZIERI,Alloggi privati,NULL,2,6,5
+2022,Provincia di Sassari,OZIERI,Bed and breakfast,1 Stella,2,7,4
+2022,Provincia di Sassari,OZIERI,Bed and breakfast,2 Stelle,5,24,13
+2022,Provincia di Sassari,OZIERI,Bed and breakfast,3 Stelle,3,16,8
+2022,Provincia di Sassari,OZIERI,Case e appartamenti per vacanze,II Categoria,1,12,3
+2022,Provincia del Sud Sardegna,PABILLONIS,Alloggi privati,NULL,1,6,3
+2022,Provincia del Sud Sardegna,PABILLONIS,Bed and breakfast,1 Stella,2,11,5
+2022,Provincia di Sassari,PADRIA,Agriturismo,NULL,1,16,4
+2022,Provincia di Sassari,PADRIA,Alloggi privati,NULL,1,6,3
+2022,Provincia di Sassari,PADRU,Agriturismo,NULL,13,167,88
+2022,Provincia di Sassari,PADRU,Albergo,2 Stelle,1,18,9
+2022,Provincia di Sassari,PADRU,Alloggi privati,NULL,7,32,15
+2022,Provincia di Sassari,PADRU,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Sassari,PALAU,Affittacamere,I Categoria,4,26,13
+2022,Provincia di Sassari,PALAU,Affittacamere,II Categoria,4,30,14
+2022,Provincia di Sassari,PALAU,Affittacamere,III Categoria,1,8,6
+2022,Provincia di Sassari,PALAU,Agriturismo,NULL,1,18,8
+2022,Provincia di Sassari,PALAU,Albergo,3 Stelle,6,321,153
+2022,Provincia di Sassari,PALAU,Albergo,4 Stelle,5,1865,723
+2022,Provincia di Sassari,PALAU,Albergo,5 Stelle,1,200,64
+2022,Provincia di Sassari,PALAU,Albergo residenziale,3 Stelle,3,338,47
+2022,Provincia di Sassari,PALAU,Alloggi privati,NULL,411,1981,761
+2022,Provincia di Sassari,PALAU,Bed and breakfast,1 Stella,4,18,8
+2022,Provincia di Sassari,PALAU,Bed and breakfast,2 Stelle,4,18,9
+2022,Provincia di Sassari,PALAU,Bed and breakfast,3 Stelle,12,65,31
+2022,Provincia di Sassari,PALAU,Campeggio,3 Stelle,4,3426,975
+2022,Provincia di Sassari,PALAU,Case e appartamenti per vacanze,NULL,2,231,77
+2022,Provincia di Sassari,PALAU,Case e appartamenti per vacanze,I Categoria,2,96,10
+2022,Provincia di Sassari,PALAU,Case e appartamenti per vacanze,II Categoria,12,1002,38
+2022,Provincia di Sassari,PALAU,Locanda,I Categoria,1,13,6
+2022,Provincia di Sassari,PALAU,Residence,II Categoria,2,277,70
+2022,Provincia di Sassari,PALAU,Turismo Rurale,3 Stelle,1,16,8
+2022,Provincia di Oristano,PALMAS ARBOREA,Agriturismo,NULL,3,40,20
+2022,Provincia di Oristano,PALMAS ARBOREA,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia di Sassari,PATTADA,Agriturismo,NULL,1,12,6
+2022,Provincia di Sassari,PATTADA,Albergo,3 Stelle,2,93,39
+2022,Provincia del Sud Sardegna,PAULI ARBAREI,Affittacamere,II Categoria,1,12,5
+2022,Provincia del Sud Sardegna,PAULI ARBAREI,Agriturismo,NULL,1,12,6
+2022,Provincia di Oristano,PAULILATINO,Affittacamere,II Categoria,2,16,9
+2022,Provincia di Oristano,PAULILATINO,Alloggi privati,NULL,4,15,7
+2022,Provincia di Oristano,PAULILATINO,Bed and breakfast,2 Stelle,1,2,1
+2022,Provincia di Oristano,PAULILATINO,Case per ferie,III Categoria,1,7,4
+2022,Provincia di Nuoro,PERDASDEFOGU,Bed and breakfast,1 Stella,2,10,5
+2022,Provincia di Nuoro,PERDASDEFOGU,Bed and breakfast,2 Stelle,1,2,1
+2022,Provincia del Sud Sardegna,PERDAXIUS,Alloggi privati,NULL,1,2,1
+2022,Provincia di Sassari,PERFUGAS,Agriturismo,NULL,2,17,9
+2022,Provincia di Sassari,PERFUGAS,Albergo,2 Stelle,1,18,9
+2022,Provincia di Sassari,PERFUGAS,Alloggi privati,NULL,3,19,6
+2022,Provincia di Sassari,PERFUGAS,Bed and breakfast,1 Stella,1,5,3
+2022,Provincia di Sassari,PERFUGAS,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Sassari,PERFUGAS,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia del Sud Sardegna,PISCINAS,Affittacamere,II Categoria,2,15,7
+2022,Provincia del Sud Sardegna,PISCINAS,Affittacamere,III Categoria,1,10,5
+2022,Provincia del Sud Sardegna,PISCINAS,Bed and breakfast,1 Stella,1,6,2
+2022,Provincia di Sassari,PLOAGHE,Alloggi privati,NULL,1,4,2
+2022,Provincia di Sassari,PLOAGHE,Bed and breakfast,1 Stella,3,14,5
+2022,Provincia di Sassari,PLOAGHE,Bed and breakfast,3 Stelle,2,12,6
+2022,Provincia di Sassari,PORTO TORRES,Affittacamere,NULL,7,50,28
+2022,Provincia di Sassari,PORTO TORRES,Affittacamere,I Categoria,3,20,10
+2022,Provincia di Sassari,PORTO TORRES,Affittacamere,II Categoria,8,63,33
+2022,Provincia di Sassari,PORTO TORRES,Agriturismo,NULL,3,43,20
+2022,Provincia di Sassari,PORTO TORRES,Albergo,3 Stelle,2,126,64
+2022,Provincia di Sassari,PORTO TORRES,Albergo,4 Stelle,1,87,36
+2022,Provincia di Sassari,PORTO TORRES,Albergo residenziale,3 Stelle,1,35,12
+2022,Provincia di Sassari,PORTO TORRES,Alloggi privati,NULL,90,398,167
+2022,Provincia di Sassari,PORTO TORRES,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Sassari,PORTO TORRES,Bed and breakfast,2 Stelle,6,28,12
+2022,Provincia di Sassari,PORTO TORRES,Bed and breakfast,3 Stelle,3,9,6
+2022,Provincia di Sassari,PORTO TORRES,Case e appartamenti per vacanze,II Categoria,4,85,31
+2022,Provincia di Sassari,PORTO TORRES,Ostelli per la gioventù,III Categoria,1,20,4
+2022,Provincia del Sud Sardegna,PORTOSCUSO,Affittacamere,I Categoria,1,8,4
+2022,Provincia del Sud Sardegna,PORTOSCUSO,Affittacamere,II Categoria,1,9,5
+2022,Provincia del Sud Sardegna,PORTOSCUSO,Albergo,3 Stelle,2,115,55
+2022,Provincia del Sud Sardegna,PORTOSCUSO,Albergo,4 Stelle,2,80,41
+2022,Provincia del Sud Sardegna,PORTOSCUSO,Alloggi privati,NULL,45,186,82
+2022,Provincia del Sud Sardegna,PORTOSCUSO,Bed and breakfast,1 Stella,5,22,10
+2022,Provincia del Sud Sardegna,PORTOSCUSO,Bed and breakfast,2 Stelle,2,10,4
+2022,Provincia del Sud Sardegna,PORTOSCUSO,Bed and breakfast,3 Stelle,5,26,13
+2022,Provincia di Nuoro,POSADA,Affittacamere,I Categoria,2,18,11
+2022,Provincia di Nuoro,POSADA,Affittacamere,II Categoria,8,50,26
+2022,Provincia di Nuoro,POSADA,Affittacamere,III Categoria,1,10,5
+2022,Provincia di Nuoro,POSADA,Agriturismo,NULL,3,40,22
+2022,Provincia di Nuoro,POSADA,Albergo,2 Stelle,2,43,21
+2022,Provincia di Nuoro,POSADA,Albergo,3 Stelle,3,96,51
+2022,Provincia di Nuoro,POSADA,Albergo,4 Stelle,2,126,67
+2022,Provincia di Nuoro,POSADA,Alloggi privati,NULL,61,277,131
+2022,Provincia di Nuoro,POSADA,Bed and breakfast,NULL,1,2,1
+2022,Provincia di Nuoro,POSADA,Bed and breakfast,1 Stella,4,16,8
+2022,Provincia di Nuoro,POSADA,Bed and breakfast,2 Stelle,5,22,11
+2022,Provincia di Nuoro,POSADA,Bed and breakfast,3 Stelle,7,40,21
+2022,Provincia di Nuoro,POSADA,Campeggio,2 Stelle,1,552,138
+2022,Provincia di Nuoro,POSADA,Case e appartamenti per vacanze,II Categoria,1,19,12
+2022,Provincia di Sassari,POZZOMAGGIORE,Alloggi privati,NULL,2,7,2
+2022,Provincia di Sassari,POZZOMAGGIORE,Bed and breakfast,1 Stella,2,11,5
+2022,Provincia di Sassari,POZZOMAGGIORE,Bed and breakfast,2 Stelle,1,4,2
+2022,Provincia di Sassari,POZZOMAGGIORE,Bed and breakfast,3 Stelle,1,6,3
+2022,Città metropolitana di Cagliari,PULA,Affittacamere,II Categoria,10,68,39
+2022,Città metropolitana di Cagliari,PULA,Agriturismo,NULL,2,17,11
+2022,Città metropolitana di Cagliari,PULA,Albergo,1 Stella,2,27,16
+2022,Città metropolitana di Cagliari,PULA,Albergo,3 Stelle,6,232,118
+2022,Città metropolitana di Cagliari,PULA,Albergo,4 Stelle,16,2679,1196
+2022,Città metropolitana di Cagliari,PULA,Albergo,5 Stelle,5,1124,475
+2022,Città metropolitana di Cagliari,PULA,Albergo residenziale,2 Stelle,1,64,26
+2022,Città metropolitana di Cagliari,PULA,Albergo residenziale,3 Stelle,4,242,68
+2022,Città metropolitana di Cagliari,PULA,Albergo residenziale,4 Stelle,1,173,45
+2022,Città metropolitana di Cagliari,PULA,Alloggi privati,NULL,415,2122,996
+2022,Città metropolitana di Cagliari,PULA,Bed and breakfast,NULL,20,93,47
+2022,Città metropolitana di Cagliari,PULA,Bed and breakfast,1 Stella,1,4,2
+2022,Città metropolitana di Cagliari,PULA,Bed and breakfast,2 Stelle,2,13,6
+2022,Città metropolitana di Cagliari,PULA,Bed and breakfast,3 Stelle,2,10,5
+2022,Città metropolitana di Cagliari,PULA,Campeggio,NULL,1,350,90
+2022,Città metropolitana di Cagliari,PULA,Campeggio,2 Stelle,1,720,159
+2022,Città metropolitana di Cagliari,PULA,Campeggio,3 Stelle,1,399,119
+2022,Città metropolitana di Cagliari,PULA,Case e appartamenti per vacanze,NULL,1,23,12
+2022,Città metropolitana di Cagliari,PULA,Case e appartamenti per vacanze,II Categoria,3,660,158
+2022,Città metropolitana di Cagliari,PULA,Ostelli per la gioventù,III Categoria,1,83,21
+2022,Città metropolitana di Cagliari,PULA,Turismo Rurale,2 Stelle,1,25,10
+2022,Città metropolitana di Cagliari,PULA,Turismo Rurale,3 Stelle,1,67,32
+2022,Provincia di Sassari,PUTIFIGARI,Affittacamere,I Categoria,1,6,3
+2022,Provincia di Sassari,PUTIFIGARI,Agriturismo,NULL,1,8,4
+2022,Provincia di Sassari,PUTIFIGARI,Alloggi privati,NULL,3,19,8
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Affittacamere,NULL,1,5,3
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Affittacamere,I Categoria,7,74,30
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Affittacamere,II Categoria,14,98,51
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Affittacamere,III Categoria,2,19,10
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Agriturismo,NULL,1,4,2
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Albergo,1 Stella,1,18,13
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Albergo,2 Stelle,2,31,22
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Albergo,3 Stelle,2,40,22
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Albergo,4 Stelle,3,1215,522
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Albergo residenziale,3 Stelle,1,198,83
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Alloggi privati,NULL,531,2499,1094
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Bed and breakfast,NULL,37,165,88
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Bed and breakfast,1 Stella,6,20,12
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Bed and breakfast,3 Stelle,7,39,18
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Campeggio,3 Stelle,1,400,113
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Case e appartamenti per vacanze,II Categoria,3,91,38
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Residence,NULL,1,81,30
+2022,Città metropolitana di Cagliari,QUARTU SANT'ELENA,Turismo Rurale,3 Stelle,1,78,39
+2022,Città metropolitana di Cagliari,QUARTUCCIU,Affittacamere,NULL,1,17,5
+2022,Città metropolitana di Cagliari,QUARTUCCIU,Affittacamere,II Categoria,2,19,7
+2022,Città metropolitana di Cagliari,QUARTUCCIU,Agriturismo,NULL,1,6,4
+2022,Città metropolitana di Cagliari,QUARTUCCIU,Albergo,3 Stelle,2,83,42
+2022,Città metropolitana di Cagliari,QUARTUCCIU,Alloggi privati,NULL,17,81,40
+2022,Città metropolitana di Cagliari,QUARTUCCIU,Bed and breakfast,NULL,10,35,17
+2022,Città metropolitana di Cagliari,QUARTUCCIU,Bed and breakfast,1 Stella,1,3,2
+2022,Città metropolitana di Cagliari,QUARTUCCIU,Bed and breakfast,2 Stelle,1,4,2
+2022,Città metropolitana di Cagliari,QUARTUCCIU,Bed and breakfast,3 Stelle,1,5,3
+2022,Provincia di Oristano,RIOLA SARDO,Affittacamere,II Categoria,2,24,12
+2022,Provincia di Oristano,RIOLA SARDO,Affittacamere,III Categoria,1,6,4
+2022,Provincia di Oristano,RIOLA SARDO,Agriturismo,NULL,9,135,61
+2022,Provincia di Oristano,RIOLA SARDO,Albergo,3 Stelle,1,17,7
+2022,Provincia di Oristano,RIOLA SARDO,Alloggi privati,NULL,27,123,54
+2022,Provincia di Oristano,RIOLA SARDO,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia di Oristano,RIOLA SARDO,Bed and breakfast,3 Stelle,1,3,3
+2022,Provincia di Oristano,RIOLA SARDO,Case e appartamenti per vacanze,II Categoria,1,23,7
+2022,Provincia di Sassari,ROMANA,Agriturismo,NULL,1,20,12
+2022,Provincia di Oristano,RUINAS,Alloggi privati,NULL,2,6,2
+2022,Provincia del Sud Sardegna,SADALI,Affittacamere,I Categoria,1,12,5
+2022,Provincia del Sud Sardegna,SADALI,Affittacamere,II Categoria,2,26,12
+2022,Provincia del Sud Sardegna,SADALI,Alloggi privati,NULL,1,4,2
+2022,Provincia di Oristano,SAGAMA,Agriturismo,NULL,1,22,7
+2022,Provincia di Oristano,SAGAMA,Alloggi privati,NULL,1,4,2
+2022,Provincia di Oristano,SAGAMA,Bed and breakfast,1 Stella,1,5,2
+2022,Provincia del Sud Sardegna,SAMASSI,Alloggi privati,NULL,1,6,3
+2022,Provincia di Oristano,SAMUGHEO,Affittacamere,II Categoria,1,9,6
+2022,Provincia di Oristano,SAMUGHEO,Agriturismo,NULL,2,22,12
+2022,Provincia di Oristano,SAMUGHEO,Alloggi privati,NULL,1,5,3
+2022,Provincia di Oristano,SAMUGHEO,Bed and breakfast,1 Stella,4,11,6
+2022,Provincia del Sud Sardegna,SAN BASILIO,Bed and breakfast,NULL,1,6,0
+2022,Provincia del Sud Sardegna,SAN GAVINO MONREALE,Albergo,1 Stella,1,19,16
+2022,Provincia del Sud Sardegna,SAN GAVINO MONREALE,Albergo,3 Stelle,1,13,10
+2022,Provincia del Sud Sardegna,SAN GAVINO MONREALE,Bed and breakfast,1 Stella,2,6,4
+2022,Provincia del Sud Sardegna,SAN GAVINO MONREALE,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia del Sud Sardegna,SAN GIOVANNI SUERGIU,Agriturismo,NULL,2,34,14
+2022,Provincia del Sud Sardegna,SAN GIOVANNI SUERGIU,Albergo,3 Stelle,1,20,12
+2022,Provincia del Sud Sardegna,SAN GIOVANNI SUERGIU,Alloggi privati,NULL,31,146,71
+2022,Provincia del Sud Sardegna,SAN GIOVANNI SUERGIU,Bed and breakfast,1 Stella,2,3,3
+2022,Provincia del Sud Sardegna,SAN GIOVANNI SUERGIU,Bed and breakfast,3 Stelle,1,10,3
+2022,Provincia del Sud Sardegna,SAN GIOVANNI SUERGIU,Case e appartamenti per vacanze,II Categoria,1,9,4
+2022,Provincia del Sud Sardegna,SAN GIOVANNI SUERGIU,Case e appartamenti per vacanze,III Categoria,2,48,18
+2022,Provincia di Oristano,SAN NICOLÒ D'ARCIDANO,Agriturismo,NULL,1,12,5
+2022,Provincia di Oristano,SAN NICOLÒ D'ARCIDANO,Alloggi privati,NULL,3,9,4
+2022,Provincia del Sud Sardegna,SAN NICOLÒ GERREI,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia del Sud Sardegna,SAN SPERATE,Albergo,3 Stelle,1,23,15
+2022,Provincia del Sud Sardegna,SAN SPERATE,Alloggi privati,NULL,8,32,16
+2022,Provincia del Sud Sardegna,SAN SPERATE,Bed and breakfast,NULL,3,16,8
+2022,Provincia del Sud Sardegna,SAN SPERATE,Bed and breakfast,2 Stelle,1,2,1
+2022,Provincia del Sud Sardegna,SAN SPERATE,Bed and breakfast,3 Stelle,1,7,3
+2022,Provincia di Sassari,SAN TEODORO,Affittacamere,NULL,14,110,46
+2022,Provincia di Sassari,SAN TEODORO,Affittacamere,I Categoria,9,84,39
+2022,Provincia di Sassari,SAN TEODORO,Affittacamere,II Categoria,22,244,71
+2022,Provincia di Sassari,SAN TEODORO,Agriturismo,NULL,3,49,30
+2022,Provincia di Sassari,SAN TEODORO,Albergo,2 Stelle,1,25,15
+2022,Provincia di Sassari,SAN TEODORO,Albergo,3 Stelle,14,861,486
+2022,Provincia di Sassari,SAN TEODORO,Albergo,4 Stelle,5,1099,470
+2022,Provincia di Sassari,SAN TEODORO,Albergo,5 Stelle,2,434,176
+2022,Provincia di Sassari,SAN TEODORO,Albergo,5 Stelle Lusso,1,292,100
+2022,Provincia di Sassari,SAN TEODORO,Albergo residenziale,3 Stelle,2,929,225
+2022,Provincia di Sassari,SAN TEODORO,Albergo residenziale,4 Stelle,2,314,203
+2022,Provincia di Sassari,SAN TEODORO,Alloggi privati,NULL,821,4223,1614
+2022,Provincia di Sassari,SAN TEODORO,Bed and breakfast,1 Stella,6,26,11
+2022,Provincia di Sassari,SAN TEODORO,Bed and breakfast,2 Stelle,10,51,25
+2022,Provincia di Sassari,SAN TEODORO,Bed and breakfast,3 Stelle,18,100,40
+2022,Provincia di Sassari,SAN TEODORO,Campeggio,3 Stelle,3,1770,596
+2022,Provincia di Sassari,SAN TEODORO,Case e appartamenti per vacanze,NULL,8,222,65
+2022,Provincia di Sassari,SAN TEODORO,Case e appartamenti per vacanze,I Categoria,11,659,112
+2022,Provincia di Sassari,SAN TEODORO,Case e appartamenti per vacanze,II Categoria,30,1646,421
+2022,Provincia di Sassari,SAN TEODORO,Residence,III Categoria,1,57,0
+2022,Provincia di Sassari,SAN TEODORO,Villaggio albergo,4 Stelle,1,328,127
+2022,Provincia di Oristano,SAN VERO MILIS,Agriturismo,NULL,10,128,63
+2022,Provincia di Oristano,SAN VERO MILIS,Albergo,3 Stelle,1,24,9
+2022,Provincia di Oristano,SAN VERO MILIS,Albergo,4 Stelle,2,96,47
+2022,Provincia di Oristano,SAN VERO MILIS,Albergo residenziale,2 Stelle,1,20,11
+2022,Provincia di Oristano,SAN VERO MILIS,Alloggi privati,NULL,152,771,356
+2022,Provincia di Oristano,SAN VERO MILIS,Bed and breakfast,1 Stella,2,6,5
+2022,Provincia di Oristano,SAN VERO MILIS,Bed and breakfast,3 Stelle,4,20,10
+2022,Provincia di Oristano,SAN VERO MILIS,Case e appartamenti per vacanze,II Categoria,1,10,5
+2022,Provincia di Oristano,SAN VERO MILIS,Locanda,II Categoria,1,14,5
+2022,Provincia del Sud Sardegna,SAN VITO,Affittacamere,I Categoria,2,17,10
+2022,Provincia del Sud Sardegna,SAN VITO,Albergo,2 Stelle,1,48,25
+2022,Provincia del Sud Sardegna,SAN VITO,Alloggi privati,NULL,11,57,28
+2022,Provincia del Sud Sardegna,SAN VITO,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia del Sud Sardegna,SAN VITO,Bed and breakfast,2 Stelle,1,2,1
+2022,Provincia del Sud Sardegna,SAN VITO,Bed and breakfast,3 Stelle,7,36,17
+2022,Provincia del Sud Sardegna,SAN VITO,Case e appartamenti per vacanze,NULL,1,7,4
+2022,Provincia del Sud Sardegna,SANLURI,Affittacamere,II Categoria,1,4,3
+2022,Provincia del Sud Sardegna,SANLURI,Agriturismo,NULL,1,14,5
+2022,Provincia del Sud Sardegna,SANLURI,Albergo,3 Stelle,2,93,51
+2022,Provincia del Sud Sardegna,SANLURI,Alloggi privati,NULL,2,14,7
+2022,Provincia di Oristano,SANTA GIUSTA,Agriturismo,NULL,2,13,7
+2022,Provincia di Oristano,SANTA GIUSTA,Alloggi privati,NULL,7,29,12
+2022,Provincia di Oristano,SANTA GIUSTA,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia di Oristano,SANTA GIUSTA,Bed and breakfast,2 Stelle,2,12,5
+2022,Provincia di Sassari,SANTA MARIA COGHINAS,Agriturismo,NULL,2,18,9
+2022,Provincia di Sassari,SANTA MARIA COGHINAS,Albergo,4 Stelle,2,142,60
+2022,Provincia di Sassari,SANTA MARIA COGHINAS,Alloggi privati,NULL,7,40,15
+2022,Provincia di Sassari,SANTA MARIA COGHINAS,Bed and breakfast,3 Stelle,2,14,5
+2022,Provincia di Sassari,SANTA MARIA COGHINAS,Case e appartamenti per vacanze,II Categoria,2,68,26
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Affittacamere,NULL,5,30,15
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Affittacamere,I Categoria,7,60,27
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Affittacamere,II Categoria,12,104,49
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Agriturismo,NULL,4,24,14
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Albergo,2 Stelle,2,50,26
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Albergo,3 Stelle,16,3294,1007
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Albergo,4 Stelle,7,1336,490
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Albergo,5 Stelle,3,850,390
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Albergo residenziale,4 Stelle,1,216,52
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Alloggi privati,NULL,495,2219,821
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Alloggi privati,1 Stella,1,4,3
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Alloggi privati,2 Stelle,1,6,3
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Bed and breakfast,1 Stella,4,18,7
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Bed and breakfast,2 Stelle,9,54,22
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Bed and breakfast,3 Stelle,13,62,31
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Campeggio,3 Stelle,2,1324,266
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Case e appartamenti per vacanze,NULL,4,93,26
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Case e appartamenti per vacanze,I Categoria,2,29,0
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Case e appartamenti per vacanze,II Categoria,10,294,101
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Case e appartamenti per vacanze,III Categoria,1,60,180
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Locanda,II Categoria,1,6,3
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Residence,II Categoria,3,336,0
+2022,Provincia di Sassari,SANTA TERESA GALLURA,Turismo Rurale,3 Stelle,1,12,8
+2022,Provincia del Sud Sardegna,SANTADI,Agriturismo,NULL,2,20,11
+2022,Provincia del Sud Sardegna,SANTADI,Albergo,4 Stelle,1,33,11
+2022,Provincia del Sud Sardegna,SANTADI,Alloggi privati,NULL,3,16,8
+2022,Provincia del Sud Sardegna,SANTADI,Bed and breakfast,2 Stelle,1,6,2
+2022,Provincia del Sud Sardegna,SANTADI,Bed and breakfast,3 Stelle,1,7,3
+2022,Provincia del Sud Sardegna,SANT'ANDREA FRIUS,Bed and breakfast,NULL,1,5,3
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Affittacamere,II Categoria,4,31,18
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Albergo,3 Stelle,4,193,101
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Albergo,4 Stelle,2,427,201
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Alloggi privati,NULL,132,595,272
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Bed and breakfast,1 Stella,3,13,7
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Bed and breakfast,2 Stelle,4,20,11
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Bed and breakfast,3 Stelle,4,18,9
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Campeggio,1 Stella,1,360,98
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Case e appartamenti per vacanze,I Categoria,1,12,6
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Case e appartamenti per vacanze,II Categoria,2,55,18
+2022,Provincia del Sud Sardegna,SANT'ANNA ARRESI,Locanda,I Categoria,1,10,6
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Affittacamere,I Categoria,1,12,6
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Affittacamere,II Categoria,10,62,36
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Agriturismo,NULL,2,34,18
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Albergo,2 Stelle,1,25,15
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Albergo,3 Stelle,6,186,92
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Albergo,4 Stelle,2,139,69
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Alloggi privati,NULL,341,1529,675
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Bed and breakfast,1 Stella,10,46,22
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Bed and breakfast,2 Stelle,10,44,20
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Bed and breakfast,3 Stelle,18,104,49
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Campeggio,3 Stelle,1,708,176
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Case e appartamenti per vacanze,II Categoria,5,157,83
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Locanda,III Categoria,1,7,4
+2022,Provincia del Sud Sardegna,SANT'ANTIOCO,Ostelli per la gioventù,NULL,1,89,32
+2022,Provincia di Sassari,SANT'ANTONIO DI GALLURA,Agriturismo,NULL,2,15,6
+2022,Provincia di Sassari,SANT'ANTONIO DI GALLURA,Albergo,3 Stelle,1,30,15
+2022,Provincia di Sassari,SANT'ANTONIO DI GALLURA,Albergo,4 Stelle,2,60,36
+2022,Provincia di Sassari,SANT'ANTONIO DI GALLURA,Alloggi privati,NULL,5,24,10
+2022,Provincia di Sassari,SANT'ANTONIO DI GALLURA,Locanda,II Categoria,1,8,3
+2022,Provincia di Oristano,SANTU LUSSURGIU,Agriturismo,NULL,1,24,10
+2022,Provincia di Oristano,SANTU LUSSURGIU,Albergo,2 Stelle,1,22,12
+2022,Provincia di Oristano,SANTU LUSSURGIU,Albergo diffuso,3 Stelle,4,67,28
+2022,Provincia di Oristano,SANTU LUSSURGIU,Alloggi privati,NULL,13,67,32
+2022,Provincia di Oristano,SANTU LUSSURGIU,Bed and breakfast,1 Stella,1,2,2
+2022,Provincia di Oristano,SANTU LUSSURGIU,Bed and breakfast,2 Stelle,3,14,9
+2022,Provincia di Oristano,SANTU LUSSURGIU,Bed and breakfast,3 Stelle,3,14,6
+2022,Provincia di Oristano,SANTU LUSSURGIU,Case e appartamenti per vacanze,II Categoria,2,16,7
+2022,Provincia del Sud Sardegna,SARDARA,Albergo,2 Stelle,2,59,28
+2022,Provincia del Sud Sardegna,SARDARA,Albergo,3 Stelle,2,280,135
+2022,Provincia del Sud Sardegna,SARDARA,Albergo,4 Stelle,1,15,7
+2022,Provincia del Sud Sardegna,SARDARA,Alloggi privati,NULL,2,7,4
+2022,Provincia del Sud Sardegna,SARDARA,Bed and breakfast,1 Stella,2,10,6
+2022,Provincia del Sud Sardegna,SARDARA,Bed and breakfast,3 Stelle,4,17,7
+2022,Città metropolitana di Cagliari,SARROCH,Affittacamere,III Categoria,1,10,5
+2022,Città metropolitana di Cagliari,SARROCH,Albergo,1 Stella,1,25,14
+2022,Città metropolitana di Cagliari,SARROCH,Albergo,2 Stelle,1,24,15
+2022,Città metropolitana di Cagliari,SARROCH,Alloggi privati,NULL,61,356,171
+2022,Città metropolitana di Cagliari,SARROCH,Bed and breakfast,NULL,2,11,6
+2022,Città metropolitana di Cagliari,SARROCH,Bed and breakfast,1 Stella,2,13,5
+2022,Città metropolitana di Cagliari,SARROCH,Bed and breakfast,3 Stelle,3,23,9
+2022,Città metropolitana di Cagliari,SARROCH,Case e appartamenti per vacanze,II Categoria,1,10,6
+2022,Provincia di Nuoro,SARULE,Affittacamere,II Categoria,1,4,2
+2022,Provincia di Nuoro,SARULE,Agriturismo,NULL,1,20,9
+2022,Provincia di Nuoro,SARULE,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Nuoro,SARULE,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Sassari,SASSARI,Affittacamere,NULL,9,67,33
+2022,Provincia di Sassari,SASSARI,Affittacamere,I Categoria,5,43,18
+2022,Provincia di Sassari,SASSARI,Affittacamere,II Categoria,21,150,77
+2022,Provincia di Sassari,SASSARI,Affittacamere,III Categoria,1,6,3
+2022,Provincia di Sassari,SASSARI,Agriturismo,NULL,31,315,162
+2022,Provincia di Sassari,SASSARI,Albergo,2 Stelle,2,66,35
+2022,Provincia di Sassari,SASSARI,Albergo,3 Stelle,3,443,234
+2022,Provincia di Sassari,SASSARI,Albergo,4 Stelle,3,431,269
+2022,Provincia di Sassari,SASSARI,Alloggi privati,NULL,185,819,353
+2022,Provincia di Sassari,SASSARI,Bed and breakfast,1 Stella,11,47,24
+2022,Provincia di Sassari,SASSARI,Bed and breakfast,2 Stelle,22,96,48
+2022,Provincia di Sassari,SASSARI,Bed and breakfast,3 Stelle,12,75,30
+2022,Provincia di Sassari,SASSARI,Case e appartamenti per vacanze,II Categoria,3,30,15
+2022,Provincia di Sassari,SASSARI,Case e appartamenti per vacanze,III Categoria,1,43,12
+2022,Provincia di Sassari,SASSARI,Case per ferie,III Categoria,2,35,29
+2022,Provincia di Sassari,SASSARI,Ostelli per la gioventù,III Categoria,1,60,30
+2022,Provincia di Sassari,SASSARI,Residence,II Categoria,1,13,13
+2022,Provincia di Oristano,SCANO DI MONTIFERRO,Agriturismo,NULL,1,10,5
+2022,Provincia di Oristano,SCANO DI MONTIFERRO,Alloggi privati,NULL,12,64,34
+2022,Provincia di Oristano,SCANO DI MONTIFERRO,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Oristano,SEDILO,Affittacamere,II Categoria,2,13,6
+2022,Provincia di Oristano,SEDILO,Alloggi privati,NULL,1,3,1
+2022,Provincia di Oristano,SEDILO,Bed and breakfast,1 Stella,3,14,8
+2022,Provincia di Sassari,SEDINI,Agriturismo,NULL,1,7,3
+2022,Provincia di Sassari,SEDINI,Alloggi privati,NULL,5,26,12
+2022,Provincia di Sassari,SEDINI,Bed and breakfast,2 Stelle,1,9,3
+2022,Città metropolitana di Cagliari,SELARGIUS,Affittacamere,II Categoria,2,10,6
+2022,Città metropolitana di Cagliari,SELARGIUS,Albergo,3 Stelle,1,147,87
+2022,Città metropolitana di Cagliari,SELARGIUS,Albergo,4 Stelle,1,117,63
+2022,Città metropolitana di Cagliari,SELARGIUS,Alloggi privati,NULL,25,102,48
+2022,Città metropolitana di Cagliari,SELARGIUS,Bed and breakfast,NULL,6,21,13
+2022,Città metropolitana di Cagliari,SELARGIUS,Bed and breakfast,1 Stella,1,4,2
+2022,Città metropolitana di Cagliari,SELARGIUS,Bed and breakfast,2 Stelle,1,2,1
+2022,Città metropolitana di Cagliari,SELARGIUS,Bed and breakfast,3 Stelle,1,1,1
+2022,Provincia di Oristano,SENEGHE,Alloggi privati,NULL,5,25,11
+2022,Provincia di Oristano,SENEGHE,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Oristano,SENEGHE,Bed and breakfast,2 Stelle,1,4,2
+2022,Provincia di Oristano,SENEGHE,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Oristano,SENNARIOLO,Agriturismo,NULL,2,34,17
+2022,Provincia di Oristano,SENNARIOLO,Alloggi privati,NULL,2,12,6
+2022,Provincia di Oristano,SENNARIOLO,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Oristano,SENNARIOLO,Locanda,II Categoria,1,12,6
+2022,Provincia di Sassari,SENNORI,Albergo,2 Stelle,1,17,9
+2022,Provincia di Sassari,SENNORI,Alloggi privati,NULL,10,49,18
+2022,Provincia di Sassari,SENNORI,Bed and breakfast,2 Stelle,2,10,4
+2022,Provincia del Sud Sardegna,SENORBÌ,Albergo,3 Stelle,1,24,12
+2022,Provincia del Sud Sardegna,SENORBÌ,Alloggi privati,NULL,4,16,8
+2022,Provincia del Sud Sardegna,SENORBÌ,Bed and breakfast,1 Stella,1,5,2
+2022,Provincia del Sud Sardegna,SENORBÌ,Bed and breakfast,2 Stelle,3,12,7
+2022,Provincia del Sud Sardegna,SERDIANA,Alloggi privati,NULL,3,13,5
+2022,Provincia del Sud Sardegna,SERDIANA,Bed and breakfast,NULL,1,1,1
+2022,Provincia del Sud Sardegna,SERDIANA,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia del Sud Sardegna,SERRAMANNA,Alloggi privati,NULL,4,16,8
+2022,Provincia del Sud Sardegna,SERRENTI,Albergo,2 Stelle,1,18,11
+2022,Provincia del Sud Sardegna,SERRENTI,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia del Sud Sardegna,SERRI,Affittacamere,II Categoria,1,8,4
+2022,Provincia del Sud Sardegna,SERRI,Agriturismo,NULL,1,6,4
+2022,Provincia del Sud Sardegna,SERRI,Alloggi privati,NULL,1,10,4
+2022,Provincia del Sud Sardegna,SERRI,Bed and breakfast,NULL,2,9,5
+2022,Provincia del Sud Sardegna,SERRI,Bed and breakfast,2 Stelle,1,4,3
+2022,Città metropolitana di Cagliari,SESTU,Affittacamere,II Categoria,4,18,11
+2022,Città metropolitana di Cagliari,SESTU,Agriturismo,NULL,1,16,8
+2022,Città metropolitana di Cagliari,SESTU,Alloggi privati,NULL,13,52,26
+2022,Città metropolitana di Cagliari,SESTU,Bed and breakfast,NULL,2,9,5
+2022,Città metropolitana di Cagliari,SESTU,Bed and breakfast,1 Stella,2,8,6
+2022,Città metropolitana di Cagliari,SETTIMO SAN PIETRO,Albergo,2 Stelle,1,20,7
+2022,Città metropolitana di Cagliari,SETTIMO SAN PIETRO,Alloggi privati,NULL,3,14,5
+2022,Città metropolitana di Cagliari,SETTIMO SAN PIETRO,Bed and breakfast,2 Stelle,1,3,1
+2022,Città metropolitana di Cagliari,SETTIMO SAN PIETRO,Bed and breakfast,3 Stelle,1,5,3
+2022,Provincia del Sud Sardegna,SEUI,Alloggi privati,NULL,1,4,2
+2022,Provincia del Sud Sardegna,SEUI,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia del Sud Sardegna,SEULO,Agriturismo,NULL,1,14,8
+2022,Provincia del Sud Sardegna,SEULO,Albergo,2 Stelle,1,22,10
+2022,Provincia del Sud Sardegna,SEULO,Alloggi privati,NULL,1,8,4
+2022,Provincia del Sud Sardegna,SEULO,Bed and breakfast,3 Stelle,1,6,2
+2022,Provincia di Oristano,SIAMAGGIORE,Agriturismo,NULL,3,40,18
+2022,Provincia di Oristano,SIAMAGGIORE,Alloggi privati,NULL,2,8,3
+2022,Provincia di Oristano,SIAMAGGIORE,Locanda,II Categoria,1,9,4
+2022,Provincia di Oristano,SIAMANNA,Agriturismo,NULL,1,8,4
+2022,Provincia di Oristano,SIAMANNA,Alloggi privati,NULL,2,12,5
+2022,Provincia di Oristano,SIAPICCIA,Alloggi privati,NULL,2,10,5
+2022,Provincia del Sud Sardegna,SIDDI,Affittacamere,II Categoria,1,6,3
+2022,Provincia di Nuoro,SILANUS,Agriturismo,NULL,1,12,3
+2022,Provincia di Nuoro,SILANUS,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia del Sud Sardegna,SILIQUA,Agriturismo,NULL,1,11,7
+2022,Provincia del Sud Sardegna,SILIQUA,Alloggi privati,NULL,1,6,3
+2022,Provincia del Sud Sardegna,SILIQUA,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia del Sud Sardegna,SILIQUA,Bed and breakfast,3 Stelle,1,7,2
+2022,Provincia di Oristano,SIMAXIS,Agriturismo,NULL,2,22,10
+2022,Provincia di Oristano,SIMAXIS,Alloggi privati,NULL,5,22,10
+2022,Provincia di Oristano,SIMAXIS,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia di Nuoro,SINDIA,Agriturismo,NULL,2,29,10
+2022,Provincia di Oristano,SINI,Agriturismo,NULL,1,8,3
+2022,Provincia di Oristano,SINI,Bed and breakfast,1 Stella,2,13,6
+2022,Provincia di Nuoro,SINISCOLA,Affittacamere,NULL,1,12,6
+2022,Provincia di Nuoro,SINISCOLA,Affittacamere,II Categoria,10,88,47
+2022,Provincia di Nuoro,SINISCOLA,Affittacamere,III Categoria,2,15,8
+2022,Provincia di Nuoro,SINISCOLA,Agriturismo,NULL,12,157,80
+2022,Provincia di Nuoro,SINISCOLA,Albergo,3 Stelle,5,150,76
+2022,Provincia di Nuoro,SINISCOLA,Albergo,4 Stelle,1,391,184
+2022,Provincia di Nuoro,SINISCOLA,Alloggi privati,NULL,198,929,415
+2022,Provincia di Nuoro,SINISCOLA,Bed and breakfast,NULL,2,10,5
+2022,Provincia di Nuoro,SINISCOLA,Bed and breakfast,1 Stella,7,28,14
+2022,Provincia di Nuoro,SINISCOLA,Bed and breakfast,2 Stelle,8,41,20
+2022,Provincia di Nuoro,SINISCOLA,Bed and breakfast,3 Stelle,18,82,39
+2022,Provincia di Nuoro,SINISCOLA,Campeggio,3 Stelle,3,1620,519
+2022,Provincia di Nuoro,SINISCOLA,Case e appartamenti per vacanze,NULL,1,8,5
+2022,Provincia di Nuoro,SINISCOLA,Case e appartamenti per vacanze,II Categoria,2,39,16
+2022,Provincia di Nuoro,SINISCOLA,Case e appartamenti per vacanze,III Categoria,1,20,12
+2022,Provincia di Nuoro,SINISCOLA,Locanda,II Categoria,2,16,8
+2022,Provincia di Nuoro,SINISCOLA,Ostelli per la gioventù,III Categoria,1,29,7
+2022,Provincia di Nuoro,SINISCOLA,Residence,II Categoria,1,16,8
+2022,Provincia di Nuoro,SINISCOLA,Turismo Rurale,3 Stelle,3,56,24
+2022,Provincia di Nuoro,SINISCOLA,Villaggi turistici,2 Stelle,1,12,4
+2022,Provincia di Nuoro,SINISCOLA,Villaggio albergo,4 Stelle,1,40,20
+2022,Città metropolitana di Cagliari,SINNAI,Affittacamere,I Categoria,1,3,3
+2022,Città metropolitana di Cagliari,SINNAI,Affittacamere,II Categoria,4,40,16
+2022,Città metropolitana di Cagliari,SINNAI,Agriturismo,NULL,1,4,5
+2022,Città metropolitana di Cagliari,SINNAI,Albergo,3 Stelle,3,143,54
+2022,Città metropolitana di Cagliari,SINNAI,Albergo residenziale,3 Stelle,1,114,32
+2022,Città metropolitana di Cagliari,SINNAI,Alloggi privati,NULL,108,617,279
+2022,Città metropolitana di Cagliari,SINNAI,Bed and breakfast,NULL,11,57,31
+2022,Città metropolitana di Cagliari,SINNAI,Bed and breakfast,1 Stella,2,4,3
+2022,Città metropolitana di Cagliari,SINNAI,Bed and breakfast,3 Stelle,2,10,5
+2022,Città metropolitana di Cagliari,SINNAI,Case per ferie,III Categoria,2,136,50
+2022,Provincia del Sud Sardegna,SIURGUS DONIGALA,Bed and breakfast,3 Stelle,1,6,2
+2022,Provincia del Sud Sardegna,SIURGUS DONIGALA,Locanda,NULL,1,14,6
+2022,Provincia di Oristano,SOLARUSSA,Affittacamere,II Categoria,2,21,7
+2022,Provincia di Oristano,SOLARUSSA,Alloggi privati,NULL,4,21,10
+2022,Provincia del Sud Sardegna,SOLEMINIS,Alloggi privati,NULL,3,10,5
+2022,Provincia di Nuoro,SORGONO,Affittacamere,II Categoria,3,17,11
+2022,Provincia di Nuoro,SORGONO,Agriturismo,NULL,2,22,10
+2022,Provincia di Nuoro,SORGONO,Albergo,2 Stelle,1,24,14
+2022,Provincia di Nuoro,SORGONO,Bed and breakfast,1 Stella,1,5,2
+2022,Provincia di Nuoro,SORGONO,Bed and breakfast,2 Stelle,3,8,6
+2022,Provincia di Nuoro,SORGONO,Bed and breakfast,3 Stelle,4,14,9
+2022,Provincia di Oristano,SORRADILE,Affittacamere,II Categoria,1,6,3
+2022,Provincia di Sassari,SORSO,Affittacamere,NULL,3,34,16
+2022,Provincia di Sassari,SORSO,Affittacamere,I Categoria,1,13,6
+2022,Provincia di Sassari,SORSO,Affittacamere,II Categoria,3,29,15
+2022,Provincia di Sassari,SORSO,Affittacamere,III Categoria,2,12,3
+2022,Provincia di Sassari,SORSO,Agriturismo,NULL,1,12,6
+2022,Provincia di Sassari,SORSO,Albergo,3 Stelle,3,550,236
+2022,Provincia di Sassari,SORSO,Albergo,4 Stelle,2,1156,448
+2022,Provincia di Sassari,SORSO,Alloggi privati,NULL,79,435,211
+2022,Provincia di Sassari,SORSO,Bed and breakfast,1 Stella,2,16,6
+2022,Provincia di Sassari,SORSO,Bed and breakfast,2 Stelle,3,23,8
+2022,Provincia di Sassari,SORSO,Bed and breakfast,3 Stelle,6,35,13
+2022,Provincia di Sassari,SORSO,Campeggio,4 Stelle,2,1997,685
+2022,Provincia di Sassari,SORSO,Case e appartamenti per vacanze,II Categoria,3,54,20
+2022,Provincia di Sassari,SORSO,Turismo Rurale,3 Stelle,1,20,18
+2022,Provincia di Sassari,STINTINO,Affittacamere,NULL,7,54,30
+2022,Provincia di Sassari,STINTINO,Affittacamere,I Categoria,1,9,6
+2022,Provincia di Sassari,STINTINO,Affittacamere,II Categoria,6,49,28
+2022,Provincia di Sassari,STINTINO,Agriturismo,NULL,5,54,29
+2022,Provincia di Sassari,STINTINO,Albergo,2 Stelle,1,18,8
+2022,Provincia di Sassari,STINTINO,Albergo,3 Stelle,5,226,113
+2022,Provincia di Sassari,STINTINO,Albergo,4 Stelle,5,1589,515
+2022,Provincia di Sassari,STINTINO,Albergo residenziale,3 Stelle,5,2920,622
+2022,Provincia di Sassari,STINTINO,Alloggi privati,NULL,252,1231,515
+2022,Provincia di Sassari,STINTINO,Alloggi privati,2 Stelle,1,2,1
+2022,Provincia di Sassari,STINTINO,Bed and breakfast,1 Stella,2,6,4
+2022,Provincia di Sassari,STINTINO,Bed and breakfast,2 Stelle,7,32,17
+2022,Provincia di Sassari,STINTINO,Bed and breakfast,3 Stelle,5,25,11
+2022,Provincia di Sassari,STINTINO,Boat and Breakfast,NULL,2,8,4
+2022,Provincia di Sassari,STINTINO,Case e appartamenti per vacanze,NULL,5,365,126
+2022,Provincia di Sassari,STINTINO,Case e appartamenti per vacanze,II Categoria,3,59,25
+2022,Provincia di Sassari,STINTINO,Case e appartamenti per vacanze,III Categoria,1,40,14
+2022,Provincia di Sassari,STINTINO,Turismo Rurale,2 Stelle,1,20,9
+2022,Provincia del Sud Sardegna,SUELLI,Agriturismo,NULL,1,13,9
+2022,Provincia del Sud Sardegna,SUELLI,Alloggi privati,NULL,1,2,1
+2022,Provincia del Sud Sardegna,SUELLI,Bed and breakfast,2 Stelle,2,6,3
+2022,Provincia di Oristano,SUNI,Agriturismo,NULL,1,20,10
+2022,Provincia di Oristano,SUNI,Alloggi privati,NULL,9,44,23
+2022,Provincia di Oristano,SUNI,Bed and breakfast,2 Stelle,1,4,2
+2022,Provincia di Oristano,SUNI,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Nuoro,TALANA,Affittacamere,II Categoria,2,10,4
+2022,Provincia di Nuoro,TALANA,Albergo,3 Stelle,1,20,10
+2022,Provincia di Nuoro,TALANA,Alloggi privati,NULL,1,6,3
+2022,Provincia di Sassari,TELTI,Agriturismo,NULL,2,14,7
+2022,Provincia di Sassari,TELTI,Alloggi privati,NULL,14,72,27
+2022,Provincia di Sassari,TELTI,Bed and breakfast,1 Stella,3,14,7
+2022,Provincia di Sassari,TELTI,Bed and breakfast,2 Stelle,6,36,14
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Affittacamere,NULL,1,3,6
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Affittacamere,I Categoria,1,12,6
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Affittacamere,II Categoria,2,8,6
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Agriturismo,NULL,6,56,29
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Albergo,3 Stelle,4,270,129
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Albergo,4 Stelle,1,41,18
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Alloggi privati,NULL,37,169,69
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Bed and breakfast,1 Stella,4,18,11
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Bed and breakfast,2 Stelle,7,31,13
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Case e appartamenti per vacanze,II Categoria,2,45,0
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Locanda,III Categoria,1,12,4
+2022,Provincia di Sassari,TEMPIO PAUSANIA,Turismo Rurale,3 Stelle,3,47,20
+2022,Provincia di Sassari,TERGU,Affittacamere,II Categoria,1,9,5
+2022,Provincia di Sassari,TERGU,Agriturismo,NULL,1,8,4
+2022,Provincia di Sassari,TERGU,Alloggi privati,NULL,4,20,14
+2022,Provincia di Sassari,TERGU,Case e appartamenti per vacanze,NULL,1,77,43
+2022,Provincia di Sassari,TERGU,Case e appartamenti per vacanze,II Categoria,1,84,28
+2022,Provincia di Sassari,TERGU,Case e appartamenti per vacanze,III Categoria,1,9,3
+2022,Provincia di Sassari,TERGU,Turismo Rurale,3 Stelle,1,18,12
+2022,Provincia di Oristano,TERRALBA,Affittacamere,I Categoria,1,12,6
+2022,Provincia di Oristano,TERRALBA,Albergo,1 Stella,1,9,8
+2022,Provincia di Oristano,TERRALBA,Albergo,2 Stelle,1,14,9
+2022,Provincia di Oristano,TERRALBA,Alloggi privati,NULL,10,45,22
+2022,Provincia di Oristano,TERRALBA,Bed and breakfast,1 Stella,6,22,13
+2022,Provincia di Nuoro,TERTENIA,Agriturismo,NULL,1,3,1
+2022,Provincia di Nuoro,TERTENIA,Albergo,3 Stelle,2,40,21
+2022,Provincia di Nuoro,TERTENIA,Albergo residenziale,4 Stelle,1,20,13
+2022,Provincia di Nuoro,TERTENIA,Alloggi privati,NULL,101,497,229
+2022,Provincia di Nuoro,TERTENIA,Campeggio,3 Stelle,1,85,40
+2022,Provincia di Nuoro,TERTENIA,Case e appartamenti per vacanze,II Categoria,1,108,54
+2022,Provincia di Nuoro,TERTENIA,Villaggio albergo,4 Stelle,1,83,43
+2022,Provincia di Nuoro,TETI,Affittacamere,I Categoria,1,6,3
+2022,Provincia di Nuoro,TETI,Agriturismo,NULL,4,50,33
+2022,Provincia del Sud Sardegna,TEULADA,Affittacamere,II Categoria,4,24,13
+2022,Provincia del Sud Sardegna,TEULADA,Agriturismo,NULL,3,36,18
+2022,Provincia del Sud Sardegna,TEULADA,Albergo,3 Stelle,3,116,65
+2022,Provincia del Sud Sardegna,TEULADA,Albergo residenziale,4 Stelle,1,197,45
+2022,Provincia del Sud Sardegna,TEULADA,Alloggi privati,NULL,102,453,203
+2022,Provincia del Sud Sardegna,TEULADA,Bed and breakfast,1 Stella,2,9,4
+2022,Provincia del Sud Sardegna,TEULADA,Bed and breakfast,2 Stelle,3,12,5
+2022,Provincia del Sud Sardegna,TEULADA,Bed and breakfast,3 Stelle,17,102,48
+2022,Provincia del Sud Sardegna,TEULADA,Case e appartamenti per vacanze,II Categoria,3,72,22
+2022,Provincia del Sud Sardegna,TEULADA,Case e appartamenti per vacanze,III Categoria,1,9,4
+2022,Provincia di Sassari,THIESI,Agriturismo,NULL,1,4,2
+2022,Provincia di Sassari,THIESI,Albergo,3 Stelle,1,31,15
+2022,Provincia di Sassari,THIESI,Alloggi privati,NULL,2,9,4
+2022,Provincia di Sassari,THIESI,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia di Sassari,THIESI,Bed and breakfast,3 Stelle,1,2,1
+2022,Provincia di Sassari,TISSI,Alloggi privati,NULL,2,6,3
+2022,Provincia di Nuoro,TONARA,Affittacamere,I Categoria,1,8,5
+2022,Provincia di Nuoro,TONARA,Agriturismo,NULL,3,35,21
+2022,Provincia di Nuoro,TONARA,Albergo,1 Stella,1,10,7
+2022,Provincia di Nuoro,TONARA,Albergo,2 Stelle,1,24,14
+2022,Provincia di Nuoro,TONARA,Albergo,3 Stelle,1,22,11
+2022,Provincia di Nuoro,TONARA,Alloggi privati,NULL,1,5,2
+2022,Provincia di Nuoro,TONARA,Bed and breakfast,2 Stelle,1,2,2
+2022,Provincia di Nuoro,TONARA,Campeggio,1 Stella,1,210,55
+2022,Provincia di Nuoro,TORPÈ,Affittacamere,NULL,1,12,6
+2022,Provincia di Nuoro,TORPÈ,Affittacamere,I Categoria,1,2,2
+2022,Provincia di Nuoro,TORPÈ,Affittacamere,II Categoria,2,22,12
+2022,Provincia di Nuoro,TORPÈ,Affittacamere,III Categoria,1,8,4
+2022,Provincia di Nuoro,TORPÈ,Agriturismo,NULL,3,45,18
+2022,Provincia di Nuoro,TORPÈ,Alloggi privati,NULL,11,58,26
+2022,Provincia di Nuoro,TORPÈ,Bed and breakfast,1 Stella,3,9,5
+2022,Provincia di Nuoro,TORPÈ,Bed and breakfast,2 Stelle,3,13,7
+2022,Provincia di Nuoro,TORPÈ,Bed and breakfast,3 Stelle,2,12,6
+2022,Provincia di Nuoro,TORPÈ,Turismo Rurale,3 Stelle,4,45,23
+2022,Provincia di Sassari,TORRALBA,Bed and breakfast,2 Stelle,1,2,2
+2022,Provincia di Nuoro,TORTOLÌ,Affittacamere,I Categoria,1,12,6
+2022,Provincia di Nuoro,TORTOLÌ,Affittacamere,II Categoria,15,124,68
+2022,Provincia di Nuoro,TORTOLÌ,Agriturismo,NULL,2,30,15
+2022,Provincia di Nuoro,TORTOLÌ,Albergo,2 Stelle,1,28,14
+2022,Provincia di Nuoro,TORTOLÌ,Albergo,3 Stelle,7,296,129
+2022,Provincia di Nuoro,TORTOLÌ,Albergo,4 Stelle,6,483,237
+2022,Provincia di Nuoro,TORTOLÌ,Albergo residenziale,3 Stelle,2,133,36
+2022,Provincia di Nuoro,TORTOLÌ,Alloggi privati,NULL,196,915,404
+2022,Provincia di Nuoro,TORTOLÌ,Bed and breakfast,1 Stella,10,42,24
+2022,Provincia di Nuoro,TORTOLÌ,Bed and breakfast,2 Stelle,4,16,10
+2022,Provincia di Nuoro,TORTOLÌ,Bed and breakfast,3 Stelle,17,93,44
+2022,Provincia di Nuoro,TORTOLÌ,Boat and Breakfast,NULL,2,10,5
+2022,Provincia di Nuoro,TORTOLÌ,Campeggio,3 Stelle,2,1112,279
+2022,Provincia di Nuoro,TORTOLÌ,Campeggio,4 Stelle,1,656,206
+2022,Provincia di Nuoro,TORTOLÌ,Case e appartamenti per vacanze,I Categoria,3,62,20
+2022,Provincia di Nuoro,TORTOLÌ,Case e appartamenti per vacanze,II Categoria,10,142,56
+2022,Provincia di Nuoro,TORTOLÌ,Locanda,II Categoria,3,35,17
+2022,Provincia di Nuoro,TORTOLÌ,Residence,I Categoria,1,32,11
+2022,Provincia di Nuoro,TORTOLÌ,Villaggi turistici,3 Stelle,2,1024,234
+2022,Provincia di Nuoro,TORTOLÌ,Villaggio albergo,4 Stelle,3,2301,991
+2022,Provincia di Oristano,TRAMATZA,Affittacamere,II Categoria,1,6,3
+2022,Provincia di Oristano,TRAMATZA,Agriturismo,NULL,1,14,7
+2022,Provincia di Oristano,TRAMATZA,Albergo,2 Stelle,1,27,14
+2022,Provincia di Oristano,TRAMATZA,Alloggi privati,NULL,1,11,5
+2022,Provincia di Oristano,TRAMATZA,Bed and breakfast,3 Stelle,1,2,2
+2022,Provincia del Sud Sardegna,TRATALIAS,Agriturismo,NULL,5,69,34
+2022,Provincia del Sud Sardegna,TRATALIAS,Alloggi privati,NULL,3,10,4
+2022,Provincia del Sud Sardegna,TRATALIAS,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia di Oristano,TRESNURAGHES,Affittacamere,II Categoria,1,10,3
+2022,Provincia di Oristano,TRESNURAGHES,Agriturismo,NULL,2,30,13
+2022,Provincia di Oristano,TRESNURAGHES,Albergo,2 Stelle,1,16,9
+2022,Provincia di Oristano,TRESNURAGHES,Albergo,3 Stelle,1,48,22
+2022,Provincia di Oristano,TRESNURAGHES,Albergo diffuso,3 Stelle,4,110,44
+2022,Provincia di Oristano,TRESNURAGHES,Alloggi privati,NULL,58,281,133
+2022,Provincia di Oristano,TRESNURAGHES,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Oristano,TRESNURAGHES,Case e appartamenti per vacanze,II Categoria,1,18,9
+2022,Provincia di Nuoro,TRIEI,Affittacamere,II Categoria,1,5,3
+2022,Provincia di Nuoro,TRIEI,Agriturismo,NULL,1,21,10
+2022,Provincia di Nuoro,TRIEI,Alloggi privati,NULL,8,38,17
+2022,Provincia di Nuoro,TRIEI,Bed and breakfast,2 Stelle,3,12,8
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Affittacamere,II Categoria,2,10,6
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Agriturismo,NULL,2,47,17
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Albergo,2 Stelle,2,25,17
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Albergo,3 Stelle,2,60,29
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Albergo,4 Stelle,4,740,305
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Albergo,5 Stelle,1,662,219
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Alloggi privati,NULL,153,767,289
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Bed and breakfast,1 Stella,1,1,1
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Bed and breakfast,3 Stelle,1,4,0
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Case e appartamenti per vacanze,NULL,1,44,0
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Case e appartamenti per vacanze,I Categoria,1,48,22
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Case e appartamenti per vacanze,II Categoria,8,1723,591
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Case e appartamenti per vacanze,III Categoria,1,60,0
+2022,Provincia di Sassari,TRINITÀ D'AGULTU E VIGNOLA,Residence,I Categoria,1,345,115
+2022,Provincia del Sud Sardegna,TUILI,Agriturismo,NULL,1,10,5
+2022,Provincia del Sud Sardegna,TUILI,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia del Sud Sardegna,TUILI,Bed and breakfast,2 Stelle,3,13,6
+2022,Provincia di Sassari,TULA,Agriturismo,NULL,2,32,14
+2022,Provincia di Sassari,TULA,Bed and breakfast,1 Stella,1,5,3
+2022,Provincia di Sassari,TULA,Bed and breakfast,2 Stelle,2,5,6
+2022,Provincia di Sassari,TULA,Turismo Rurale,3 Stelle,1,20,12
+2022,Provincia del Sud Sardegna,TURRI,Agriturismo,NULL,1,16,8
+2022,Provincia di Oristano,ULÀ TIRSO,Agriturismo,NULL,1,10,5
+2022,Provincia di Nuoro,ULASSAI,Affittacamere,II Categoria,2,13,8
+2022,Provincia di Nuoro,ULASSAI,Albergo,3 Stelle,1,24,13
+2022,Provincia di Nuoro,ULASSAI,Alloggi privati,NULL,8,45,19
+2022,Provincia di Nuoro,ULASSAI,Bed and breakfast,1 Stella,2,10,5
+2022,Provincia di Nuoro,ULASSAI,Bed and breakfast,2 Stelle,1,4,2
+2022,Provincia di Nuoro,ULASSAI,Campeggio,1 Stella,1,75,25
+2022,Provincia di Oristano,URAS,Agriturismo,NULL,2,16,9
+2022,Provincia di Oristano,URAS,Alloggi privati,NULL,1,4,2
+2022,Provincia di Oristano,URAS,Bed and breakfast,1 Stella,3,10,6
+2022,Provincia di Oristano,URAS,Bed and breakfast,3 Stelle,1,8,3
+2022,Provincia di Sassari,URI,Albergo,3 Stelle,1,29,15
+2022,Provincia di Sassari,URI,Alloggi privati,NULL,2,9,4
+2022,Provincia di Sassari,URI,Bed and breakfast,2 Stelle,2,10,5
+2022,Provincia di Nuoro,URZULEI,Albergo,3 Stelle,1,70,36
+2022,Provincia di Nuoro,URZULEI,Alloggi privati,NULL,4,15,7
+2022,Provincia di Nuoro,URZULEI,Bed and breakfast,1 Stella,2,8,5
+2022,Provincia di Nuoro,URZULEI,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia di Nuoro,URZULEI,Campeggio,1 Stella,1,44,11
+2022,Provincia di Sassari,USINI,Alloggi privati,NULL,1,2,1
+2022,Provincia di Sassari,USINI,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Sassari,USINI,Bed and breakfast,2 Stelle,1,2,1
+2022,Provincia di Sassari,USINI,Bed and breakfast,3 Stelle,1,2,1
+2022,Provincia del Sud Sardegna,USSANA,Alloggi privati,NULL,2,9,4
+2022,Provincia del Sud Sardegna,USSANA,Bed and breakfast,NULL,1,4,2
+2022,Provincia di Nuoro,USSASSAI,Alloggi privati,NULL,1,5,2
+2022,Provincia di Nuoro,USSASSAI,Bed and breakfast,1 Stella,4,21,10
+2022,Città metropolitana di Cagliari,UTA,Agriturismo,NULL,1,8,4
+2022,Città metropolitana di Cagliari,UTA,Albergo,3 Stelle,1,20,10
+2022,Città metropolitana di Cagliari,UTA,Alloggi privati,NULL,2,15,5
+2022,Città metropolitana di Cagliari,UTA,Bed and breakfast,NULL,2,12,6
+2022,Città metropolitana di Cagliari,UTA,Bed and breakfast,2 Stelle,1,6,3
+2022,Città metropolitana di Cagliari,UTA,Bed and breakfast,3 Stelle,1,6,3
+2022,Città metropolitana di Cagliari,UTA,Turismo Rurale,2 Stelle,1,13,7
+2022,Provincia di Sassari,VALLEDORIA,Affittacamere,I Categoria,1,12,6
+2022,Provincia di Sassari,VALLEDORIA,Agriturismo,NULL,6,60,27
+2022,Provincia di Sassari,VALLEDORIA,Albergo,2 Stelle,1,20,10
+2022,Provincia di Sassari,VALLEDORIA,Albergo,3 Stelle,3,148,70
+2022,Provincia di Sassari,VALLEDORIA,Albergo,4 Stelle,2,340,147
+2022,Provincia di Sassari,VALLEDORIA,Albergo residenziale,3 Stelle,2,546,232
+2022,Provincia di Sassari,VALLEDORIA,Alloggi privati,NULL,148,725,291
+2022,Provincia di Sassari,VALLEDORIA,Bed and breakfast,1 Stella,3,14,7
+2022,Provincia di Sassari,VALLEDORIA,Bed and breakfast,2 Stelle,1,2,1
+2022,Provincia di Sassari,VALLEDORIA,Bed and breakfast,3 Stelle,1,10,3
+2022,Provincia di Sassari,VALLEDORIA,Campeggio,3 Stelle,1,560,140
+2022,Provincia di Sassari,VALLEDORIA,Campeggio,4 Stelle,1,1000,261
+2022,Provincia di Sassari,VALLEDORIA,Case e appartamenti per vacanze,NULL,3,90,44
+2022,Provincia di Sassari,VALLEDORIA,Case e appartamenti per vacanze,I Categoria,1,115,66
+2022,Provincia di Sassari,VALLEDORIA,Case e appartamenti per vacanze,II Categoria,4,493,129
+2022,Provincia di Sassari,VALLEDORIA,Locanda,NULL,1,11,4
+2022,Provincia di Sassari,VALLEDORIA,Turismo Rurale,2 Stelle,1,14,7
+2022,Provincia del Sud Sardegna,VALLERMOSA,Albergo,1 Stella,1,24,12
+2022,Provincia del Sud Sardegna,VALLERMOSA,Alloggi privati,NULL,1,4,2
+2022,Provincia del Sud Sardegna,VALLERMOSA,Bed and breakfast,3 Stelle,1,6,3
+2022,Provincia di Sassari,VIDDALBA,Alloggi privati,NULL,38,177,82
+2022,Provincia di Sassari,VIDDALBA,Case e appartamenti per vacanze,II Categoria,1,22,7
+2022,Provincia del Sud Sardegna,VILLA SAN PIETRO,Affittacamere,II Categoria,1,5,4
+2022,Provincia del Sud Sardegna,VILLA SAN PIETRO,Albergo,3 Stelle,1,20,10
+2022,Provincia del Sud Sardegna,VILLA SAN PIETRO,Alloggi privati,NULL,22,106,50
+2022,Provincia del Sud Sardegna,VILLA SAN PIETRO,Bed and breakfast,2 Stelle,1,3,1
+2022,Provincia del Sud Sardegna,VILLA SAN PIETRO,Bed and breakfast,3 Stelle,4,24,9
+2022,Provincia del Sud Sardegna,VILLA SAN PIETRO,Residence,II Categoria,1,12,7
+2022,Provincia di Oristano,VILLA SANT'ANTONIO,Agriturismo,NULL,1,10,5
+2022,Provincia del Sud Sardegna,VILLACIDRO,Agriturismo,NULL,3,28,16
+2022,Provincia del Sud Sardegna,VILLACIDRO,Albergo,3 Stelle,1,42,26
+2022,Provincia del Sud Sardegna,VILLACIDRO,Alloggi privati,NULL,7,27,9
+2022,Provincia del Sud Sardegna,VILLACIDRO,Bed and breakfast,1 Stella,2,7,4
+2022,Provincia del Sud Sardegna,VILLACIDRO,Bed and breakfast,2 Stelle,2,12,5
+2022,Provincia del Sud Sardegna,VILLACIDRO,Case per ferie,III Categoria,1,11,4
+2022,Provincia di Nuoro,VILLAGRANDE STRISAILI,Affittacamere,II Categoria,2,17,8
+2022,Provincia di Nuoro,VILLAGRANDE STRISAILI,Agriturismo,NULL,1,10,5
+2022,Provincia di Nuoro,VILLAGRANDE STRISAILI,Albergo,3 Stelle,1,14,7
+2022,Provincia di Nuoro,VILLAGRANDE STRISAILI,Albergo,4 Stelle,1,72,24
+2022,Provincia di Nuoro,VILLAGRANDE STRISAILI,Alloggi privati,NULL,1,6,3
+2022,Provincia di Nuoro,VILLAGRANDE STRISAILI,Bed and breakfast,1 Stella,2,9,5
+2022,Provincia di Nuoro,VILLAGRANDE STRISAILI,Bed and breakfast,2 Stelle,1,5,3
+2022,Provincia del Sud Sardegna,VILLAMAR,Affittacamere,II Categoria,1,8,4
+2022,Provincia del Sud Sardegna,VILLAMAR,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia del Sud Sardegna,VILLAMASSARGIA,Agriturismo,NULL,3,30,13
+2022,Provincia del Sud Sardegna,VILLAMASSARGIA,Alloggi privati,NULL,6,26,10
+2022,Provincia del Sud Sardegna,VILLAMASSARGIA,Bed and breakfast,2 Stelle,2,12,5
+2022,Provincia del Sud Sardegna,VILLAMASSARGIA,Bed and breakfast,3 Stelle,1,2,1
+2022,Provincia di Sassari,VILLANOVA MONTELEONE,Affittacamere,NULL,1,0,0
+2022,Provincia di Sassari,VILLANOVA MONTELEONE,Affittacamere,II Categoria,1,7,4
+2022,Provincia di Sassari,VILLANOVA MONTELEONE,Agriturismo,NULL,3,18,8
+2022,Provincia di Sassari,VILLANOVA MONTELEONE,Albergo,2 Stelle,1,24,11
+2022,Provincia di Sassari,VILLANOVA MONTELEONE,Alloggi privati,NULL,8,42,19
+2022,Provincia di Sassari,VILLANOVA MONTELEONE,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia di Oristano,VILLANOVA TRUSCHEDU,Alloggi privati,NULL,1,2,1
+2022,Provincia del Sud Sardegna,VILLANOVA TULO,Bed and breakfast,1 Stella,1,3,2
+2022,Provincia del Sud Sardegna,VILLANOVAFORRU,Affittacamere,II Categoria,1,9,4
+2022,Provincia del Sud Sardegna,VILLANOVAFORRU,Albergo,3 Stelle,1,72,30
+2022,Provincia del Sud Sardegna,VILLANOVAFORRU,Bed and breakfast,2 Stelle,1,2,1
+2022,Provincia del Sud Sardegna,VILLANOVAFRANCA,Affittacamere,II Categoria,1,2,1
+2022,Provincia del Sud Sardegna,VILLANOVAFRANCA,Alloggi privati,NULL,1,8,4
+2022,Provincia del Sud Sardegna,VILLANOVAFRANCA,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia del Sud Sardegna,VILLAPERUCCIO,Agriturismo,NULL,1,6,3
+2022,Provincia del Sud Sardegna,VILLAPERUCCIO,Bed and breakfast,2 Stelle,1,8,3
+2022,Provincia del Sud Sardegna,VILLAPERUCCIO,Locanda,II Categoria,1,6,3
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Affittacamere,II Categoria,2,16,10
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Agriturismo,NULL,2,32,15
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Albergo,3 Stelle,1,20,16
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Alloggi privati,NULL,64,331,140
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Bed and breakfast,NULL,1,4,1
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Bed and breakfast,1 Stella,3,9,5
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Bed and breakfast,2 Stelle,1,6,3
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Bed and breakfast,3 Stelle,2,9,5
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Campeggio,3 Stelle,1,1000,232
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Case e appartamenti per vacanze,NULL,2,160,65
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Case e appartamenti per vacanze,II Categoria,1,22,8
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Residence,I Categoria,1,81,27
+2022,Provincia del Sud Sardegna,VILLAPUTZU,Residence,II Categoria,1,59,27
+2022,Provincia del Sud Sardegna,VILLASALTO,Bed and breakfast,NULL,1,4,2
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Affittacamere,NULL,2,7,5
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Affittacamere,I Categoria,6,48,22
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Affittacamere,II Categoria,14,103,54
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Affittacamere,III Categoria,1,4,2
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Albergo,1 Stella,1,12,7
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Albergo,2 Stelle,2,69,35
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Albergo,3 Stelle,26,758,379
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Albergo,4 Stelle,6,746,309
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Albergo,5 Stelle,2,1044,429
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Albergo residenziale,2 Stelle,3,78,34
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Albergo residenziale,3 Stelle,9,797,256
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Albergo residenziale,4 Stelle,1,165,45
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Alloggi privati,NULL,709,3473,1550
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Bed and breakfast,NULL,1,4,3
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Bed and breakfast,1 Stella,4,13,7
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Bed and breakfast,2 Stelle,5,25,12
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Bed and breakfast,3 Stelle,14,75,36
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Campeggio,3 Stelle,1,959,214
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Case e appartamenti per vacanze,NULL,1,10,3
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Case e appartamenti per vacanze,I Categoria,1,10,5
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Case e appartamenti per vacanze,II Categoria,7,421,139
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Case per ferie,III Categoria,1,17,9
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Residence,I Categoria,1,164,43
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Turismo Rurale,3 Stelle,1,20,10
+2022,Provincia del Sud Sardegna,VILLASIMIUS,Villaggio albergo,4 Stelle,1,2865,914
+2022,Provincia del Sud Sardegna,VILLASOR,Alloggi privati,NULL,1,4,2
+2022,Provincia del Sud Sardegna,VILLASOR,Bed and breakfast,1 Stella,1,6,3
+2022,Provincia del Sud Sardegna,VILLASPECIOSA,Bed and breakfast,1 Stella,1,4,2
+2022,Provincia di Oristano,VILLAURBANA,Agriturismo,NULL,1,10,5
+2022,Provincia di Oristano,VILLAURBANA,Alloggi privati,NULL,3,24,9
+2022,Provincia di Oristano,ZEDDIANI,Agriturismo,NULL,1,4,2
+2022,Provincia di Oristano,ZEDDIANI,Bed and breakfast,3 Stelle,1,4,2
+2022,Provincia di Oristano,ZERFALIU,Agriturismo,NULL,1,16,6
+2022,Provincia di Oristano,ZERFALIU,Alloggi privati,NULL,1,7,3
