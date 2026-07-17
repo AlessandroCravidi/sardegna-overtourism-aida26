@@ -1,0 +1,110 @@
+schema,tabella,colonna,tipo_dato,descrizione,unita_misura,fonte_originale,frequenza_aggiornamento
+presentation,indicatori_comune_anno,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,anno,INTEGER,Anno di riferimento,anno,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,popolazione_residente,BIGINT,Popolazione residente ISTAT,persone,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,superficie_kmq,DOUBLE,Superficie comunale,km²,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,arrivi_totali,DOUBLE,Numero di arrivi turistici (persone che iniziano un soggiorno in struttura censita),persone/anno,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,presenze_totali,HUGEINT,Numero di presenze (notti di pernottamento totali),notti/anno,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,numero_strutture_totali,HUGEINT,Numero totale di strutture ricettive attive,strutture,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,letti_totali,HUGEINT,Numero totale di posti letto disponibili,letti,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,camere_totali,HUGEINT,Numero totale di camere disponibili,camere,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,abitazioni_occupate,BIGINT,Abitazioni occupate da residenti abituali,abitazioni,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,abitazioni_non_occupate,BIGINT,"Abitazioni non occupate da residenti (vuote o abitate solo part-time, es. seconde case) - Censimento 2021 per anno 2022, Censimento 2023 per 2023-2025",abitazioni,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,abitazioni_totali,BIGINT,Totale abitazioni censite (occupate + non occupate),abitazioni,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,presenze_per_residente,DOUBLE,Presenze turistiche annue per ogni residente - indicatore di pressione turistica,notti/residente,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,presenze_per_kmq,DOUBLE,Presenze turistiche annue per km² - intensità territoriale,notti/km²,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,tasso_occupazione_media,DOUBLE,Presenze reali / posti letto teorici disponibili nell'anno (diluito su 365 giorni),rapporto 0-1,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,permanenza_media_giorni,DOUBLE,Notti medie di soggiorno per arrivo (presenze/arrivi),notti,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,crescita_presenze_yoy_pct,DOUBLE,Variazione % presenze rispetto all'anno precedente (NULL per il primo anno 2022),%,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,crescita_letti_yoy_pct,DOUBLE,Variazione % letti totali rispetto all'anno precedente (NULL per il primo anno 2022),%,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,letti_per_struttura,DOUBLE,Dimensione media delle strutture ricettive,letti/struttura,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,letti_per_residente,DOUBLE,Capacità ricettiva ufficiale per residente,letti/residente,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,quota_abitazioni_non_occupate_pct,DOUBLE,Percentuale di abitazioni non occupate da residenti sul totale - proxy seconde case/affitti brevi,%,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,posti_letto_informali_stimati,"DECIMAL(21,0)",Stima posti letto informali: abitazioni_non_occupate × 2.3 persone/abitazione (coefficiente ISTAT dichiarato),posti stimati,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,pressione_potenziale_totale,DOUBLE,(letti ufficiali + posti letto informali stimati) / popolazione residente,posti/residente,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,densita_abitanti_kmq,DOUBLE,Popolazione residente / superficie comunale,abitanti/km²,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,gini_stagionalita,DOUBLE,Indice di Gini di stagionalità (versione zero-filled) nella tabella finale,indice 0-1,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,gini_stagionalita_solo_mesi_attivi,DOUBLE,Indice di Gini di stagionalità (versione solo mesi attivi) nella tabella finale,indice 0-1,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,indicatori_comune_anno,n_mesi_con_dati_turismo,BIGINT,"Come n_mesi_con_dati, nella tabella finale",1-12,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+raw,abitazioni_non_occupate,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
+raw,abitazioni_non_occupate,anno,BIGINT,Anno di riferimento,anno,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
+raw,abitazioni_non_occupate,abitazioni_totali,BIGINT,Totale abitazioni censite (occupate + non occupate),abitazioni,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
+raw,abitazioni_non_occupate,abitazioni_occupate,BIGINT,Abitazioni occupate da residenti abituali,abitazioni,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
+raw,abitazioni_non_occupate,abitazioni_non_occupate,BIGINT,"Abitazioni non occupate da residenti (vuote o abitate solo part-time, es. seconde case) - Censimento 2021 per anno 2022, Censimento 2023 per 2023-2025",abitazioni,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
+raw,abitazioni_non_occupate,somma_controllo,BIGINT,"Colonna di servizio per verifica coerenza (occupate+non_occupate) - CANDIDATA ALLA RIMOZIONE, non usare in analisi",-,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
+raw,abitazioni_non_occupate,differenza,BIGINT,"Colonna di servizio per verifica coerenza (totale - somma_controllo, atteso 0) - CANDIDATA ALLA RIMOZIONE, non usare in analisi",-,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
+raw,anagrafica_comuni,codice_istat_comune,BIGINT,Codice ISTAT alfanumerico del comune,codice,ISTAT - Elenco comuni italiani,"statica, aggiornamento raro"
+raw,anagrafica_comuni,codice_istat_numerico,BIGINT,Codice ISTAT numerico del comune,codice,ISTAT - Elenco comuni italiani,"statica, aggiornamento raro"
+raw,anagrafica_comuni,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,ISTAT - Elenco comuni italiani,"statica, aggiornamento raro"
+raw,anagrafica_comuni,provincia_sigla,VARCHAR,"Sigla della provincia (CA, SS, NU, OR, SU)",testo,ISTAT - Elenco comuni italiani,"statica, aggiornamento raro"
+raw,anagrafica_comuni,codice_provincia,BIGINT,Codice numerico storico della provincia,codice,ISTAT - Elenco comuni italiani,"statica, aggiornamento raro"
+raw,anagrafica_comuni,ripartizione_geografica,VARCHAR,Ripartizione geografica ISTAT (sempre 'Isole' per la Sardegna),testo,ISTAT - Elenco comuni italiani,"statica, aggiornamento raro"
+raw,arrivi_presenze_sired,anno,BIGINT,Anno di riferimento,anno,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),mensile
+raw,arrivi_presenze_sired,provincia,VARCHAR,"Nome provincia/città metropolitana (fonte originale, non normalizzato)",testo,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),mensile
+raw,arrivi_presenze_sired,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),mensile
+raw,arrivi_presenze_sired,mese,VARCHAR,Mese di riferimento,1-12,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),mensile
+raw,arrivi_presenze_sired,macro-tipologia,VARCHAR,Categoria struttura ricettiva (Alberghiero / Extra-alberghiero: Esercizi complementari / Extra-alberghiero: Alloggi privati in affitto),testo,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),mensile
+raw,arrivi_presenze_sired,provenienza,VARCHAR,Paese o regione italiana di provenienza del turista,testo,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),mensile
+raw,arrivi_presenze_sired,arrivi,DOUBLE,Numero di arrivi turistici grezzi (fonte originale),persone,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),mensile
+raw,arrivi_presenze_sired,presenze,BIGINT,Numero di presenze grezze (fonte originale),notti,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),mensile
+raw,capacita_ricettiva,anno,BIGINT,Anno di riferimento,anno,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),annuale
+raw,capacita_ricettiva,provincia,VARCHAR,"Nome provincia/città metropolitana (fonte originale, non normalizzato)",testo,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),annuale
+raw,capacita_ricettiva,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),annuale
+raw,capacita_ricettiva,tipologia,VARCHAR,"Tipologia struttura (Albergo, Agriturismo, B&B, ecc.)",testo,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),annuale
+raw,capacita_ricettiva,categoria,VARCHAR,"Categoria/classificazione struttura (es. stelle, quando applicabile)",testo,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),annuale
+raw,capacita_ricettiva,numero_strutture,BIGINT,"Numero di strutture (fonte originale, per tipologia/categoria)",strutture,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),annuale
+raw,capacita_ricettiva,letti,BIGINT,"Numero posti letto (fonte originale, per tipologia/categoria)",letti,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),annuale
+raw,capacita_ricettiva,camere,BIGINT,"Numero camere (fonte originale, per tipologia/categoria)",camere,Regione Sardegna - Osservatorio Turismo (SIRED/Ross1000),annuale
+raw,popolazione_residente,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,ISTAT - Bilancio demografico comunale,annuale
+raw,popolazione_residente,popolazione_residente,BIGINT,Popolazione residente ISTAT,persone,ISTAT - Bilancio demografico comunale,annuale
+raw,popolazione_residente,anno,BIGINT,Anno di riferimento,anno,ISTAT - Bilancio demografico comunale,annuale
+raw,porti_aeroporti,data,DATE,Data giornaliera del dato,YYYY-MM-DD,Regione Sardegna - sardegnamobilita.it,giornaliera
+raw,porti_aeroporti,porto/aeroporto,VARCHAR,Tipo di scalo: 'Porto' o 'Aeroporto',testo,Regione Sardegna - sardegnamobilita.it,giornaliera
+raw,porti_aeroporti,nome,VARCHAR,"Nome dello scalo (es. Cagliari, Olbia, Alghero...)",testo,Regione Sardegna - sardegnamobilita.it,giornaliera
+raw,porti_aeroporti,arrivi,BIGINT,Numero di arrivi turistici grezzi (fonte originale),persone,Regione Sardegna - sardegnamobilita.it,giornaliera
+raw,porti_aeroporti,partenze,BIGINT,Numero partenze giornaliere dallo scalo,persone/giorno,Regione Sardegna - sardegnamobilita.it,giornaliera
+raw,superficie_comunale,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,ISTAT - Statistiche geografiche sui comuni,statica
+raw,superficie_comunale,superficie_kmq,DOUBLE,Superficie comunale,km²,ISTAT - Statistiche geografiche sui comuni,statica
+staging,abitazioni,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Derivata da raw.abitazioni_non_occupate (pulizia + filtro Sardegna),2019/2021/2023
+staging,abitazioni,anno,INTEGER,Anno di riferimento,anno,Derivata da raw.abitazioni_non_occupate (pulizia + filtro Sardegna),2019/2021/2023
+staging,abitazioni,abitazioni_occupate,BIGINT,Abitazioni occupate da residenti abituali,abitazioni,Derivata da raw.abitazioni_non_occupate (pulizia + filtro Sardegna),2019/2021/2023
+staging,abitazioni,abitazioni_non_occupate,BIGINT,"Abitazioni non occupate da residenti (vuote o abitate solo part-time, es. seconde case) - Censimento 2021 per anno 2022, Censimento 2023 per 2023-2025",abitazioni,Derivata da raw.abitazioni_non_occupate (pulizia + filtro Sardegna),2019/2021/2023
+staging,abitazioni,abitazioni_totali,BIGINT,Totale abitazioni censite (occupate + non occupate),abitazioni,Derivata da raw.abitazioni_non_occupate (pulizia + filtro Sardegna),2019/2021/2023
+staging,arrivi_presenze_annuale,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Derivata da raw.arrivi_presenze_sired (aggregazione),annuale
+staging,arrivi_presenze_annuale,anno,BIGINT,Anno di riferimento,anno,Derivata da raw.arrivi_presenze_sired (aggregazione),annuale
+staging,arrivi_presenze_annuale,arrivi_totali,DOUBLE,Numero di arrivi turistici (persone che iniziano un soggiorno in struttura censita),persone/anno,Derivata da raw.arrivi_presenze_sired (aggregazione),annuale
+staging,arrivi_presenze_annuale,presenze_totali,HUGEINT,Numero di presenze (notti di pernottamento totali),notti/anno,Derivata da raw.arrivi_presenze_sired (aggregazione),annuale
+staging,capacita_annuale,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Derivata da raw.capacita_ricettiva (aggregazione),annuale
+staging,capacita_annuale,anno,BIGINT,Anno di riferimento,anno,Derivata da raw.capacita_ricettiva (aggregazione),annuale
+staging,capacita_annuale,numero_strutture_totali,HUGEINT,Numero totale di strutture ricettive attive,strutture,Derivata da raw.capacita_ricettiva (aggregazione),annuale
+staging,capacita_annuale,letti_totali,HUGEINT,Numero totale di posti letto disponibili,letti,Derivata da raw.capacita_ricettiva (aggregazione),annuale
+staging,capacita_annuale,camere_totali,HUGEINT,Numero totale di camere disponibili,camere,Derivata da raw.capacita_ricettiva (aggregazione),annuale
+staging,comuni_riferimento,codice_istat_comune,BIGINT,Codice ISTAT alfanumerico del comune,codice,Derivata da raw.anagrafica_comuni,statica
+staging,comuni_riferimento,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Derivata da raw.anagrafica_comuni,statica
+staging,comuni_riferimento,provincia_sigla,VARCHAR,"Sigla della provincia (CA, SS, NU, OR, SU)",testo,Derivata da raw.anagrafica_comuni,statica
+staging,comuni_riferimento,ripartizione_geografica,VARCHAR,Ripartizione geografica ISTAT (sempre 'Isole' per la Sardegna),testo,Derivata da raw.anagrafica_comuni,statica
+staging,comuni_riferimento,chiave_comune,VARCHAR,"Chiave normalizzata (minuscolo, apostrofi uniformati) usata SOLO per i join tra fonti diverse, non per la visualizzazione",testo,Derivata da raw.anagrafica_comuni,statica
+staging,flusso_non_catturato_annuale,anno,BIGINT,Anno di riferimento,anno,Calcolata da staging.arrivi_presenze_annuale + raw.porti_aeroporti,annuale
+staging,flusso_non_catturato_annuale,arrivi_porti_aeroporti,HUGEINT,Arrivi annuali totali via porto/aeroporto (flusso fisico di ingresso nell'isola),persone/anno,Calcolata da staging.arrivi_presenze_annuale + raw.porti_aeroporti,annuale
+staging,flusso_non_catturato_annuale,arrivi_sired,DOUBLE,Arrivi annuali registrati in strutture ricettive censite (SIRED),persone/anno,Calcolata da staging.arrivi_presenze_annuale + raw.porti_aeroporti,annuale
+staging,flusso_non_catturato_annuale,flusso_non_catturato,DOUBLE,"Differenza arrivi_porti_aeroporti - arrivi_sired: flusso non spiegato da SIRED. ATTENZIONE: include insieme escursionisti, alloggi non censiti, residenti in transito, pendolari - non scorporabile",persone/anno,Calcolata da staging.arrivi_presenze_annuale + raw.porti_aeroporti,annuale
+staging,flusso_non_catturato_annuale,quota_non_catturata_pct,DOUBLE,Percentuale di flusso non catturato sul totale arrivi porti/aeroporti,%,Calcolata da staging.arrivi_presenze_annuale + raw.porti_aeroporti,annuale
+staging,flusso_regionale_giornaliero,data,DATE,Data giornaliera del dato,YYYY-MM-DD,Derivata da raw.porti_aeroporti (aggregazione),giornaliera
+staging,flusso_regionale_giornaliero,arrivi_aeroporti,HUGEINT,Arrivi giornalieri sommati sui 3 aeroporti sardi,persone/giorno,Derivata da raw.porti_aeroporti (aggregazione),giornaliera
+staging,flusso_regionale_giornaliero,arrivi_porti,HUGEINT,Arrivi giornalieri sommati sui porti sardi,persone/giorno,Derivata da raw.porti_aeroporti (aggregazione),giornaliera
+staging,flusso_regionale_giornaliero,arrivi_totali_sardegna,HUGEINT,Arrivi giornalieri totali Sardegna (porti+aeroporti sommati),persone/giorno,Derivata da raw.porti_aeroporti (aggregazione),giornaliera
+staging,flusso_regionale_giornaliero,partenze_totali_sardegna,HUGEINT,Partenze giornaliere totali Sardegna,persone/giorno,Derivata da raw.porti_aeroporti (aggregazione),giornaliera
+staging,gini_stagionalita,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Calcolata in Python da staging.presenze_mensili,annuale
+staging,gini_stagionalita,anno,BIGINT,Anno di riferimento,anno,Calcolata in Python da staging.presenze_mensili,annuale
+staging,gini_stagionalita,gini_zero_filled,DOUBLE,"Indice di Gini di stagionalità, mesi mancanti trattati come zero presenze",indice 0-1,Calcolata in Python da staging.presenze_mensili,annuale
+staging,gini_stagionalita,gini_solo_mesi_attivi,DOUBLE,Indice di Gini calcolato solo sui mesi con dati reali (NULL se <3 mesi disponibili),indice 0-1,Calcolata in Python da staging.presenze_mensili,annuale
+staging,gini_stagionalita,n_mesi_con_dati,BIGINT,Numero di mesi su 12 con almeno un dato di presenze reale,1-12,Calcolata in Python da staging.presenze_mensili,annuale
+staging,popolazione,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Derivata da raw.popolazione_residente (pulizia + filtro Sardegna),annuale
+staging,popolazione,anno,BIGINT,Anno di riferimento,anno,Derivata da raw.popolazione_residente (pulizia + filtro Sardegna),annuale
+staging,popolazione,popolazione_residente,BIGINT,Popolazione residente ISTAT,persone,Derivata da raw.popolazione_residente (pulizia + filtro Sardegna),annuale
+staging,presenze_mensili,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Derivata da raw.arrivi_presenze_sired (aggregazione mensile),mensile
+staging,presenze_mensili,anno,BIGINT,Anno di riferimento,anno,Derivata da raw.arrivi_presenze_sired (aggregazione mensile),mensile
+staging,presenze_mensili,mese,INTEGER,Mese di riferimento,1-12,Derivata da raw.arrivi_presenze_sired (aggregazione mensile),mensile
+staging,presenze_mensili,presenze_mese,HUGEINT,"Presenze mensili reali per comune (dato SIRED, non stimato)",notti/mese,Derivata da raw.arrivi_presenze_sired (aggregazione mensile),mensile
+staging,superficie,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,Derivata da raw.superficie_comunale (pulizia + filtro Sardegna),statica
+staging,superficie,superficie_kmq,DOUBLE,Superficie comunale,km²,Derivata da raw.superficie_comunale (pulizia + filtro Sardegna),statica
