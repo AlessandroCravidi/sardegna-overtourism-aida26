@@ -1,0 +1,378 @@
+comune,provincia_sigla,correlazione_regionale,n_mesi_validi,profilo,metodo_disaggregazione,scali_riferimento
+Aggius,SS,0.873,10.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Alà dei Sardi,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Alghero,SS,0.981,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Anela,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Ardara,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Arzachena,SS,0.979,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Banari,SS,0.789,10.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Benetutti,SS,0.821,12.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Berchidda,SS,0.965,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Bessude,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Bonnanaro,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Bono,SS,0.701,12.0,Non allineato (urbano/atipico),uniforme,"['Alghero', 'Porto Torres']"
+Bonorva,SS,0.629,12.0,Non allineato (urbano/atipico),uniforme,"['Alghero', 'Porto Torres']"
+Bortigiadas,SS,0.91,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Borutta,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Bottidda,SS,0.728,12.0,Non allineato (urbano/atipico),uniforme,"['Alghero', 'Porto Torres']"
+Buddusò,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Bultei,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Bulzi,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Burgos,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Calangianus,SS,0.923,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Cargeghe,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Castelsardo,SS,0.982,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Cheremule,SS,0.859,10.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Chiaramonti,SS,0.653,11.0,Non allineato (urbano/atipico),uniforme,"['Alghero', 'Porto Torres']"
+Codrongianos,SS,0.813,9.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Cossoine,SS,0.808,9.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Esporlatu,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Florinas,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Giave,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Illorai,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Ittireddu,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Ittiri,SS,0.818,12.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Laerru,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+La Maddalena,SS,0.973,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Luogosanto,SS,0.974,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Luras,SS,0.898,12.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Mara,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Martis,SS,0.897,9.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Monteleone Rocca Doria,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Monti,SS,0.843,9.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Mores,SS,0.948,10.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Muros,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Nughedu San Nicolò,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Nule,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Nulvi,SS,0.985,11.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Olbia,SS,0.99,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Olmedo,SS,0.966,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Oschiri,SS,0.643,9.0,Non allineato (urbano/atipico),uniforme,"['Alghero', 'Porto Torres']"
+Osilo,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Ossi,SS,0.941,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Ozieri,SS,0.606,12.0,Non allineato (urbano/atipico),uniforme,"['Alghero', 'Porto Torres']"
+Padria,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Palau,SS,0.989,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Pattada,SS,0.717,8.0,Non allineato (urbano/atipico),uniforme,"['Alghero', 'Porto Torres']"
+Perfugas,SS,0.921,11.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Ploaghe,SS,0.88,11.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Porto Torres,SS,0.982,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Pozzomaggiore,SS,0.927,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Putifigari,SS,0.855,8.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Romana,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Aglientu,SS,0.96,11.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Santa Teresa Gallura,SS,0.98,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Sassari,SS,0.91,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Sedini,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Semestene,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Sennori,SS,0.851,11.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Siligo,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Sorso,SS,0.982,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Tempio Pausania,SS,0.975,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Thiesi,SS,0.053,12.0,Non allineato (urbano/atipico),uniforme,"['Alghero', 'Porto Torres']"
+Tissi,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Torralba,SS,0.084,10.0,Non allineato (urbano/atipico),uniforme,"['Alghero', 'Porto Torres']"
+Trinità d'Agultu e Vignola,SS,0.967,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Tula,SS,0.948,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Uri,SS,0.816,12.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Usini,SS,0.891,12.0,Parzialmente allineato (misto),curva_regionale,"['Alghero', 'Porto Torres']"
+Villanova Monteleone,SS,0.949,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Valledoria,SS,0.979,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Telti,SS,0.933,11.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Badesi,SS,0.976,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Viddalba,SS,0.926,10.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Golfo Aranci,SS,0.984,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Loiri Porto San Paolo,SS,0.986,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Sant'Antonio di Gallura,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Tergu,SS,0.972,8.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Santa Maria Coghinas,SS,0.928,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Erula,SS,,,Dati insufficienti,uniforme,"['Alghero', 'Porto Torres']"
+Stintino,SS,0.979,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Padru,SS,0.916,11.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Budoni,SS,0.985,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+San Teodoro,SS,0.986,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Alghero', 'Porto Torres']"
+Aritzo,NU,0.785,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Arzana,NU,0.812,10.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Atzara,NU,0.395,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Austis,NU,0.657,11.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Bari Sardo,NU,0.979,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Baunei,NU,0.979,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Belvì,NU,0.394,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Birori,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Bitti,NU,0.897,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Bolotana,NU,0.8,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Borore,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Bortigali,NU,-0.145,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Desulo,NU,0.828,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Dorgali,NU,0.986,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Dualchi,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Elini,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Fonni,NU,0.479,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Gadoni,NU,0.523,11.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Gairo,NU,0.979,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Galtellì,NU,0.974,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Gavoi,NU,0.428,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Girasole,NU,0.946,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Ilbono,NU,0.822,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Irgoli,NU,0.945,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Jerzu,NU,0.913,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Lanusei,NU,0.878,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Lei,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Loceri,NU,0.944,11.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Loculi,NU,0.765,8.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Lodè,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Lotzorai,NU,0.978,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Lula,NU,0.208,9.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Macomer,NU,0.553,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Mamoiada,NU,0.769,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Meana Sardo,NU,0.61,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Noragugume,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Nuoro,NU,0.776,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Oliena,NU,0.909,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Ollolai,NU,0.666,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Olzai,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Onanì,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Onifai,NU,0.942,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Oniferi,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Orani,NU,0.729,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Orgosolo,NU,0.861,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Orosei,NU,0.986,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Orotelli,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Ortueri,NU,0.014,9.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Orune,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Osidda,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Osini,NU,0.728,10.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Ottana,NU,-0.41,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Ovodda,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Perdasdefogu,NU,0.527,10.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Posada,NU,0.967,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Sarule,NU,0.722,11.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Silanus,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Sindia,NU,0.89,8.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Siniscola,NU,0.964,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Sorgono,NU,0.835,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Talana,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Tertenia,NU,0.977,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Teti,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Tiana,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Tonara,NU,0.489,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Torpè,NU,0.924,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Tortolì,NU,0.972,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Triei,NU,0.977,11.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Ulassai,NU,0.721,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Urzulei,NU,0.811,12.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Ussassai,NU,0.613,12.0,Non allineato (urbano/atipico),uniforme,"['Olbia', 'Arbatax']"
+Villagrande Strisaili,NU,0.821,10.0,Parzialmente allineato (misto),curva_regionale,"['Olbia', 'Arbatax']"
+Cardedu,NU,0.989,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Olbia', 'Arbatax']"
+Lodine,NU,,,Dati insufficienti,uniforme,"['Olbia', 'Arbatax']"
+Assemini,CA,0.916,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Cagliari,CA,0.95,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Capoterra,CA,0.972,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Decimomannu,CA,0.897,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Maracalagonis,CA,0.977,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Pula,CA,0.987,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Quartu Sant'Elena,CA,0.98,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Sarroch,CA,0.977,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Selargius,CA,0.958,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Sestu,CA,0.963,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Settimo San Pietro,CA,0.78,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Sinnai,CA,0.975,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Uta,CA,0.774,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Villa San Pietro,CA,0.955,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Quartucciu,CA,0.972,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Elmas,CA,0.936,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Monserrato,CA,0.953,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Abbasanta,OR,0.712,12.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Aidomaggiore,OR,0.699,8.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Albagiara,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Ales,OR,0.834,12.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Allai,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Arborea,OR,0.968,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Ardauli,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Assolo,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Asuni,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Baradili,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Baratili San Pietro,OR,0.947,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Baressa,OR,0.747,11.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Bauladu,OR,0.881,11.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Bidonì,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Bonarcado,OR,0.905,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Boroneddu,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Busachi,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Cabras,OR,0.974,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Cuglieri,OR,0.989,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Fordongianus,OR,-0.838,12.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Ghilarza,OR,0.835,12.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Gonnoscodina,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Gonnosnò,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Gonnostramatza,OR,0.735,9.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Marrubiu,OR,0.869,12.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Masullas,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Milis,OR,0.907,11.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Mogorella,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Mogoro,OR,0.862,11.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Morgongiori,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Narbolia,OR,0.947,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Neoneli,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Norbello,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Nughedu Santa Vittoria,OR,0.577,12.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Nurachi,OR,0.958,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Nureci,OR,0.622,12.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Ollastra,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Oristano,OR,0.968,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Palmas Arborea,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Pau,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Paulilatino,OR,0.892,12.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Pompu,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Riola Sardo,OR,0.933,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Ruinas,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Samugheo,OR,0.918,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+San Nicolò d'Arcidano,OR,0.815,9.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Santa Giusta,OR,0.837,12.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Villa Sant'Antonio,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Santu Lussurgiu,OR,0.917,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+San Vero Milis,OR,0.985,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Scano di Montiferro,OR,0.892,10.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Sedilo,OR,0.469,12.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Seneghe,OR,0.871,8.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Senis,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Sennariolo,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Siamaggiore,OR,0.915,10.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Siamanna,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Simala,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Simaxis,OR,0.917,10.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Sini,OR,-0.073,9.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Siris,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Solarussa,OR,0.852,12.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Sorradile,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Tadasuni,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Terralba,OR,0.838,12.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Tramatza,OR,0.677,12.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Tresnuraghes,OR,0.983,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Ulà Tirso,OR,0.58,11.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Uras,OR,0.935,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Usellus,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Villanova Truschedu,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Villaurbana,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Villa Verde,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Zeddiani,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Zerfaliu,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Siapiccia,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Curcuris,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Soddì,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Bosa,OR,0.972,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Flussio,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Laconi,OR,-0.202,12.0,Non allineato (urbano/atipico),uniforme,"['Cagliari', 'Alghero']"
+Magomadas,OR,0.989,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,"['Cagliari', 'Alghero']"
+Modolo,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Montresta,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Sagama,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Suni,OR,0.841,9.0,Parzialmente allineato (misto),curva_regionale,"['Cagliari', 'Alghero']"
+Tinnura,OR,,,Dati insufficienti,uniforme,"['Cagliari', 'Alghero']"
+Arbus,SU,0.967,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Armungia,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Ballao,SU,0.724,8.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Barrali,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Barumini,SU,0.54,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Buggerru,SU,0.969,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Burcei,SU,0.706,8.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Calasetta,SU,0.975,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Carbonia,SU,0.937,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Carloforte,SU,0.979,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Castiadas,SU,0.973,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Collinas,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Decimoputzu,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Dolianova,SU,0.859,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Domus de Maria,SU,0.983,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Domusnovas,SU,0.837,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Donori,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Escalaplano,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Escolca,SU,0.569,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Esterzili,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Fluminimaggiore,SU,0.966,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Furtei,SU,0.72,11.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Genoni,SU,0.009,8.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Genuri,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Gergei,SU,0.519,10.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Gesico,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Gesturi,SU,0.872,11.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Giba,SU,0.909,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Goni,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Gonnesa,SU,0.969,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Gonnosfanadiga,SU,0.923,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Guamaggiore,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Guasila,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Guspini,SU,0.938,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Iglesias,SU,0.951,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Isili,SU,0.487,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Las Plassas,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Lunamatrona,SU,0.892,8.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Mandas,SU,0.807,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Masainas,SU,0.982,9.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Monastir,SU,0.934,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Muravera,SU,0.981,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Musei,SU,0.423,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Narcao,SU,0.679,9.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Nuragus,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Nurallao,SU,0.844,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Nuraminis,SU,-0.035,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Nurri,SU,0.679,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Nuxis,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Orroli,SU,0.659,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Ortacesus,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Pabillonis,SU,0.586,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Pauli Arbarei,SU,0.59,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Perdaxius,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Pimentel,SU,0.74,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Piscinas,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Portoscuso,SU,0.983,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Sadali,SU,0.68,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Samassi,SU,0.113,8.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Samatzai,SU,,,Dati insufficienti,uniforme,['Cagliari']
+San Basilio,SU,,,Dati insufficienti,uniforme,['Cagliari']
+San Gavino Monreale,SU,0.634,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+San Giovanni Suergiu,SU,0.956,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+San Nicolò Gerrei,SU,,,Dati insufficienti,uniforme,['Cagliari']
+San Sperate,SU,0.904,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+San Vito,SU,0.955,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Sanluri,SU,0.782,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Santadi,SU,0.854,9.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Sant'Andrea Frius,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Sant'Anna Arresi,SU,0.973,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Sant'Antioco,SU,0.975,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Sardara,SU,0.427,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Segariu,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Selegas,SU,0.808,8.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Senorbì,SU,0.538,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Serdiana,SU,0.437,10.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Serramanna,SU,0.822,11.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Serrenti,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Serri,SU,0.649,10.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Setzu,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Seui,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Seulo,SU,0.768,11.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Siddi,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Siliqua,SU,0.916,10.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Silius,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Siurgus Donigala,SU,0.646,8.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Soleminis,SU,0.976,10.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Suelli,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Teulada,SU,0.969,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Tratalias,SU,0.879,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Tuili,SU,0.229,8.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Turri,SU,0.667,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Ussana,SU,0.879,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Ussaramanna,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Vallermosa,SU,0.449,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Villacidro,SU,0.869,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Villamar,SU,-0.439,9.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Villamassargia,SU,0.871,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Villanova Tulo,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Villanovaforru,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Villanovafranca,SU,0.776,12.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
+Villaperuccio,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Villaputzu,SU,0.961,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Villasalto,SU,,,Dati insufficienti,uniforme,['Cagliari']
+Villasimius,SU,0.985,12.0,Allineato al flusso turistico (costiero/balneare),curva_scalo,['Cagliari']
+Villasor,SU,0.675,12.0,Non allineato (urbano/atipico),uniforme,['Cagliari']
+Villaspeciosa,SU,0.836,11.0,Parzialmente allineato (misto),curva_regionale,['Cagliari']
