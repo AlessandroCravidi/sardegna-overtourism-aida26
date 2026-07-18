@@ -1,0 +1,5305 @@
+comune,anno,rank,mercato,presenze,quota_pct
+Abbasanta,2022,1,Italia,5482,74.23
+Abbasanta,2022,2,Francia,356,4.82
+Abbasanta,2022,3,Svizzera (incluso Liechtenstein),276,3.74
+Abbasanta,2022,4,Paesi Bassi,272,3.68
+Abbasanta,2022,5,Germania,264,3.57
+Abbasanta,2023,1,Italia,1043,76.08
+Abbasanta,2023,2,Francia,131,9.56
+Abbasanta,2023,3,Germania,58,4.23
+Abbasanta,2023,4,Romania,40,2.92
+Abbasanta,2023,5,Spagna,27,1.97
+Abbasanta,2024,1,Italia,1868,61.69
+Abbasanta,2024,2,Francia,196,6.47
+Abbasanta,2024,3,Germania,189,6.24
+Abbasanta,2024,4,Spagna,103,3.4
+Abbasanta,2024,5,Malta,88,2.91
+Abbasanta,2025,1,Italia,3103,65.24
+Abbasanta,2025,2,Germania,486,10.22
+Abbasanta,2025,3,Francia,193,4.06
+Abbasanta,2025,4,Malta,113,2.38
+Abbasanta,2025,5,Spagna,110,2.31
+Aggius,2022,1,Italia,294,37.36
+Aggius,2022,2,Francia,169,21.47
+Aggius,2022,3,Germania,125,15.88
+Aggius,2022,4,Regno Unito,42,5.34
+Aggius,2022,5,Spagna,29,3.68
+Aggius,2023,1,Germania,223,26.77
+Aggius,2023,2,Italia,183,21.97
+Aggius,2023,3,Francia,155,18.61
+Aggius,2023,4,Spagna,78,9.36
+Aggius,2023,5,Polonia,52,6.24
+Aggius,2024,1,Italia,301,35.33
+Aggius,2024,2,Francia,159,18.66
+Aggius,2024,3,Germania,151,17.72
+Aggius,2024,4,Paesi Bassi,69,8.1
+Aggius,2024,5,Svizzera (incluso Liechtenstein),34,3.99
+Aggius,2025,1,Francia,458,20.58
+Aggius,2025,2,Germania,396,17.8
+Aggius,2025,3,Italia,345,15.51
+Aggius,2025,4,Svizzera (incluso Liechtenstein),116,5.21
+Aggius,2025,5,Paesi Bassi,115,5.17
+Aglientu,2022,1,Italia,189455,57.16
+Aglientu,2022,2,Germania,63433,19.14
+Aglientu,2022,3,Svizzera (incluso Liechtenstein),25582,7.72
+Aglientu,2022,4,Francia,13512,4.08
+Aglientu,2022,5,Austria,10780,3.25
+Aglientu,2023,1,Italia,116993,48.64
+Aglientu,2023,2,Germania,54262,22.56
+Aglientu,2023,3,Svizzera (incluso Liechtenstein),24862,10.34
+Aglientu,2023,4,Francia,12108,5.03
+Aglientu,2023,5,Austria,6924,2.88
+Aglientu,2024,1,Italia,176060,53.93
+Aglientu,2024,2,Germania,61767,18.92
+Aglientu,2024,3,Svizzera (incluso Liechtenstein),25674,7.86
+Aglientu,2024,4,Francia,16778,5.14
+Aglientu,2024,5,Austria,7187,2.2
+Aglientu,2025,1,Italia,181629,49.48
+Aglientu,2025,2,Germania,72124,19.65
+Aglientu,2025,3,Francia,28152,7.67
+Aglientu,2025,4,Svizzera (incluso Liechtenstein),24521,6.68
+Aglientu,2025,5,Polonia,9728,2.65
+Aidomaggiore,2024,1,Italia,156,67.83
+Aidomaggiore,2024,2,Spagna,18,7.83
+Aidomaggiore,2024,3,Francia,13,5.65
+Aidomaggiore,2024,4,Austria,9,3.91
+Aidomaggiore,2024,5,Germania,9,3.91
+Aidomaggiore,2025,1,Italia,310,84.93
+Aidomaggiore,2025,2,Francia,13,3.56
+Aidomaggiore,2025,3,Spagna,9,2.47
+Aidomaggiore,2025,4,Svizzera (incluso Liechtenstein),9,2.47
+Aidomaggiore,2025,5,Germania,7,1.92
+Albagiara,2025,1,Italia,49,46.67
+Albagiara,2025,2,Paesi Bassi,18,17.14
+Albagiara,2025,3,Francia,10,9.52
+Albagiara,2025,4,Spagna,8,7.62
+Albagiara,2025,5,Germania,6,5.71
+Ales,2022,1,Italia,640,71.19
+Ales,2022,2,Francia,84,9.34
+Ales,2022,3,Spagna,63,7.01
+Ales,2022,4,Germania,50,5.56
+Ales,2022,5,Paesi Bassi,19,2.11
+Ales,2023,1,Italia,468,61.74
+Ales,2023,2,Francia,92,12.14
+Ales,2023,3,Spagna,49,6.46
+Ales,2023,4,Germania,46,6.07
+Ales,2023,5,Stati Uniti d'America,32,4.22
+Ales,2024,1,Italia,467,57.16
+Ales,2024,2,Germania,68,8.32
+Ales,2024,3,Francia,56,6.85
+Ales,2024,4,Finlandia,47,5.75
+Ales,2024,5,Polonia,26,3.18
+Ales,2025,1,Italia,683,55.04
+Ales,2025,2,Francia,126,10.15
+Ales,2025,3,Polonia,56,4.51
+Ales,2025,4,Spagna,46,3.71
+Ales,2025,5,Romania,43,3.46
+Alghero,2022,1,Italia,536223,41.51
+Alghero,2022,2,Germania,131338,10.17
+Alghero,2022,3,Francia,94704,7.33
+Alghero,2022,4,Svizzera (incluso Liechtenstein),61580,4.77
+Alghero,2022,5,Polonia,51305,3.97
+Alghero,2023,1,Italia,536467,39.06
+Alghero,2023,2,Germania,126915,9.24
+Alghero,2023,3,Francia,101004,7.35
+Alghero,2023,4,Irlanda,61639,4.49
+Alghero,2023,5,Svizzera (incluso Liechtenstein),59415,4.33
+Alghero,2024,1,Italia,572832,36.03
+Alghero,2024,2,Germania,163757,10.3
+Alghero,2024,3,Francia,130067,8.18
+Alghero,2024,4,Irlanda,72167,4.54
+Alghero,2024,5,Polonia,59377,3.73
+Alghero,2025,1,Italia,586082,32.31
+Alghero,2025,2,Germania,203285,11.21
+Alghero,2025,3,Francia,140820,7.76
+Alghero,2025,4,Polonia,85254,4.7
+Alghero,2025,5,Spagna,69629,3.84
+Allai,2024,1,Italia,40,95.24
+Allai,2024,2,Francia,2,4.76
+Allai,2025,1,Italia,40,78.43
+Allai,2025,2,Germania,8,15.69
+Allai,2025,3,Regno Unito,3,5.88
+Alà Dei Sardi,2023,1,Italia,208,85.6
+Alà Dei Sardi,2023,2,Regno Unito,24,9.88
+Alà Dei Sardi,2023,3,Stati Uniti d'America,5,2.06
+Alà Dei Sardi,2023,4,Altri Paesi dell'Asia,3,1.23
+Alà Dei Sardi,2023,5,Austria,3,1.23
+Alà Dei Sardi,2024,1,Italia,94,77.05
+Alà Dei Sardi,2024,2,Australia,8,6.56
+Alà Dei Sardi,2024,3,Portogallo,8,6.56
+Alà Dei Sardi,2024,4,Irlanda,6,4.92
+Alà Dei Sardi,2024,5,Regno Unito,6,4.92
+Alà Dei Sardi,2025,1,Italia,126,58.06
+Alà Dei Sardi,2025,2,Regno Unito,32,14.75
+Alà Dei Sardi,2025,3,Germania,22,10.14
+Alà Dei Sardi,2025,4,Francia,18,8.29
+Alà Dei Sardi,2025,5,Svizzera (incluso Liechtenstein),14,6.45
+Anela,2024,1,Italia,208,100.0
+Anela,2025,1,Italia,154,100.0
+Arborea,2022,1,Italia,59338,64.17
+Arborea,2022,2,Germania,21996,23.79
+Arborea,2022,3,Francia,3077,3.33
+Arborea,2022,4,Svizzera (incluso Liechtenstein),1594,1.72
+Arborea,2022,5,Paesi Bassi,870,0.94
+Arborea,2023,1,Italia,85757,67.55
+Arborea,2023,2,Germania,24388,19.21
+Arborea,2023,3,Romania,5354,4.22
+Arborea,2023,4,Francia,2536,2.0
+Arborea,2023,5,Svizzera (incluso Liechtenstein),1653,1.3
+Arborea,2024,1,Italia,58720,66.82
+Arborea,2024,2,Germania,13707,15.6
+Arborea,2024,3,Francia,2823,3.21
+Arborea,2024,4,Romania,2712,3.09
+Arborea,2024,5,Spagna,1485,1.69
+Arborea,2025,1,Italia,68510,64.01
+Arborea,2025,2,Francia,13448,12.57
+Arborea,2025,3,Germania,9535,8.91
+Arborea,2025,4,Romania,3152,2.95
+Arborea,2025,5,Spagna,2271,2.12
+Arbus,2022,1,Italia,24573,48.9
+Arbus,2022,2,Germania,10384,20.66
+Arbus,2022,3,Francia,3923,7.81
+Arbus,2022,4,Svizzera (incluso Liechtenstein),3277,6.52
+Arbus,2022,5,Austria,1550,3.08
+Arbus,2023,1,Italia,26722,48.84
+Arbus,2023,2,Germania,9817,17.94
+Arbus,2023,3,Francia,4162,7.61
+Arbus,2023,4,Svizzera (incluso Liechtenstein),3488,6.37
+Arbus,2023,5,Portogallo,1762,3.22
+Arbus,2024,1,Italia,33534,46.78
+Arbus,2024,2,Germania,14733,20.55
+Arbus,2024,3,Francia,5516,7.69
+Arbus,2024,4,Svizzera (incluso Liechtenstein),4581,6.39
+Arbus,2024,5,Austria,1765,2.46
+Arbus,2025,1,Italia,40506,46.71
+Arbus,2025,2,Germania,17389,20.05
+Arbus,2025,3,Francia,6708,7.74
+Arbus,2025,4,Svizzera (incluso Liechtenstein),5272,6.08
+Arbus,2025,5,Austria,2355,2.72
+Ardara,2025,1,Italia,91,53.22
+Ardara,2025,2,Germania,19,11.11
+Ardara,2025,3,Egitto,10,5.85
+Ardara,2025,4,Portogallo,8,4.68
+Ardara,2025,5,Romania,8,4.68
+Ardauli,2024,1,Francia,20,76.92
+Ardauli,2024,2,Svizzera (incluso Liechtenstein),6,23.08
+Aritzo,2022,1,Italia,2244,56.71
+Aritzo,2022,2,Germania,817,20.65
+Aritzo,2022,3,Svizzera (incluso Liechtenstein),237,5.99
+Aritzo,2022,4,Paesi Bassi,180,4.55
+Aritzo,2022,5,Francia,172,4.35
+Aritzo,2023,1,Italia,1989,54.33
+Aritzo,2023,2,Germania,493,13.47
+Aritzo,2023,3,Francia,327,8.93
+Aritzo,2023,4,Svizzera (incluso Liechtenstein),180,4.92
+Aritzo,2023,5,Stati Uniti d'America,152,4.15
+Aritzo,2024,1,Italia,2082,53.83
+Aritzo,2024,2,Germania,489,12.64
+Aritzo,2024,3,Portogallo,234,6.05
+Aritzo,2024,4,Svizzera (incluso Liechtenstein),190,4.91
+Aritzo,2024,5,Francia,139,3.59
+Aritzo,2025,1,Italia,1963,54.14
+Aritzo,2025,2,Germania,556,15.33
+Aritzo,2025,3,Svizzera (incluso Liechtenstein),279,7.69
+Aritzo,2025,4,Francia,147,4.05
+Aritzo,2025,5,Paesi Bassi,144,3.97
+Armungia,2023,1,Italia,14,100.0
+Armungia,2024,1,Italia,69,32.39
+Armungia,2024,2,Spagna,60,28.17
+Armungia,2024,3,Germania,24,11.27
+Armungia,2024,4,Stati Uniti d'America,24,11.27
+Armungia,2024,5,Slovenia,18,8.45
+Armungia,2025,1,Italia,172,84.73
+Armungia,2025,2,Altri Paesi dell'Africa,18,8.87
+Armungia,2025,3,Paesi Bassi,13,6.4
+Arzachena,2022,1,Italia,461888,38.4
+Arzachena,2022,2,Germania,229862,19.11
+Arzachena,2022,3,Regno Unito,87056,7.24
+Arzachena,2022,4,Svizzera (incluso Liechtenstein),80587,6.7
+Arzachena,2022,5,Francia,52095,4.33
+Arzachena,2023,1,Italia,401027,35.92
+Arzachena,2023,2,Germania,198527,17.78
+Arzachena,2023,3,Regno Unito,85221,7.63
+Arzachena,2023,4,Svizzera (incluso Liechtenstein),71650,6.42
+Arzachena,2023,5,Francia,49068,4.39
+Arzachena,2024,1,Italia,390788,32.89
+Arzachena,2024,2,Germania,207667,17.48
+Arzachena,2024,3,Regno Unito,91648,7.71
+Arzachena,2024,4,Svizzera (incluso Liechtenstein),69924,5.89
+Arzachena,2024,5,Stati Uniti d'America,58456,4.92
+Arzachena,2025,1,Italia,415208,30.71
+Arzachena,2025,2,Germania,236946,17.52
+Arzachena,2025,3,Regno Unito,104526,7.73
+Arzachena,2025,4,Stati Uniti d'America,85421,6.32
+Arzachena,2025,5,Svizzera (incluso Liechtenstein),71773,5.31
+Arzana,2023,1,Italia,52,53.06
+Arzana,2023,2,Francia,21,21.43
+Arzana,2023,3,Svizzera (incluso Liechtenstein),5,5.1
+Arzana,2023,4,Altri Paesi Centro - Sud America,4,4.08
+Arzana,2023,5,Belgio,4,4.08
+Arzana,2024,1,Germania,151,31.79
+Arzana,2024,2,Italia,110,23.16
+Arzana,2024,3,Francia,105,22.11
+Arzana,2024,4,Paesi Bassi,45,9.47
+Arzana,2024,5,Spagna,15,3.16
+Arzana,2025,1,Germania,284,45.01
+Arzana,2025,2,Italia,166,26.31
+Arzana,2025,3,Francia,55,8.72
+Arzana,2025,4,Polonia,47,7.45
+Arzana,2025,5,Portogallo,12,1.9
+Assemini,2022,1,Italia,20963,75.06
+Assemini,2022,2,Francia,1589,5.69
+Assemini,2022,3,Germania,885,3.17
+Assemini,2022,4,Spagna,858,3.07
+Assemini,2022,5,Paesi Bassi,637,2.28
+Assemini,2023,1,Italia,18895,75.23
+Assemini,2023,2,Francia,1403,5.59
+Assemini,2023,3,Spagna,705,2.81
+Assemini,2023,4,Germania,657,2.62
+Assemini,2023,5,Paesi Bassi,365,1.45
+Assemini,2024,1,Italia,23046,72.69
+Assemini,2024,2,Belgio,1570,4.95
+Assemini,2024,3,Germania,979,3.09
+Assemini,2024,4,Spagna,822,2.59
+Assemini,2024,5,Francia,782,2.47
+Assemini,2025,1,Italia,24832,66.22
+Assemini,2025,2,Francia,1927,5.14
+Assemini,2025,3,Belgio,1534,4.09
+Assemini,2025,4,Germania,1424,3.8
+Assemini,2025,5,Spagna,1064,2.84
+Assolo,2024,1,Germania,45,29.61
+Assolo,2024,2,Italia,36,23.68
+Assolo,2024,3,Spagna,32,21.05
+Assolo,2024,4,Francia,16,10.53
+Assolo,2024,5,Svizzera (incluso Liechtenstein),15,9.87
+Atzara,2022,1,Italia,370,81.5
+Atzara,2022,2,Francia,14,3.08
+Atzara,2022,3,Messico,14,3.08
+Atzara,2022,4,Germania,11,2.42
+Atzara,2022,5,Austria,10,2.2
+Atzara,2023,1,Italia,352,82.44
+Atzara,2023,2,Paesi Bassi,16,3.75
+Atzara,2023,3,Germania,14,3.28
+Atzara,2023,4,Francia,9,2.11
+Atzara,2023,5,Spagna,9,2.11
+Atzara,2024,1,Italia,301,76.2
+Atzara,2024,2,Francia,28,7.09
+Atzara,2024,3,Paesi Bassi,20,5.06
+Atzara,2024,4,Svizzera (incluso Liechtenstein),11,2.78
+Atzara,2024,5,Canada,6,1.52
+Atzara,2025,1,Italia,282,74.02
+Atzara,2025,2,Paesi Bassi,46,12.07
+Atzara,2025,3,Stati Uniti d'America,9,2.36
+Atzara,2025,4,Germania,8,2.1
+Atzara,2025,5,Francia,7,1.84
+Austis,2023,1,Italia,266,70.18
+Austis,2023,2,Repubblica Ceca,22,5.8
+Austis,2023,3,Spagna,19,5.01
+Austis,2023,4,Francia,18,4.75
+Austis,2023,5,Stati Uniti d'America,18,4.75
+Austis,2024,1,Italia,152,48.1
+Austis,2024,2,Francia,57,18.04
+Austis,2024,3,Germania,28,8.86
+Austis,2024,4,Estonia,18,5.7
+Austis,2024,5,Paesi Bassi,18,5.7
+Austis,2025,1,Italia,93,48.95
+Austis,2025,2,Francia,40,21.05
+Austis,2025,3,Germania,8,4.21
+Austis,2025,4,Ungheria,8,4.21
+Austis,2025,5,Finlandia,7,3.68
+Badesi,2022,1,Italia,230879,68.78
+Badesi,2022,2,Francia,21909,6.53
+Badesi,2022,3,Germania,20476,6.1
+Badesi,2022,4,Svizzera (incluso Liechtenstein),19194,5.72
+Badesi,2022,5,Spagna,8417,2.51
+Badesi,2023,1,Italia,184777,63.05
+Badesi,2023,2,Germania,23203,7.92
+Badesi,2023,3,Francia,20648,7.05
+Badesi,2023,4,Svizzera (incluso Liechtenstein),17979,6.13
+Badesi,2023,5,Regno Unito,8141,2.78
+Badesi,2024,1,Italia,176357,47.05
+Badesi,2024,2,Francia,52825,14.09
+Badesi,2024,3,Germania,28026,7.48
+Badesi,2024,4,Svizzera (incluso Liechtenstein),22093,5.89
+Badesi,2024,5,Austria,19141,5.11
+Badesi,2025,1,Italia,173400,43.98
+Badesi,2025,2,Germania,41405,10.5
+Badesi,2025,3,Francia,36441,9.24
+Badesi,2025,4,Svizzera (incluso Liechtenstein),23420,5.94
+Badesi,2025,5,Regno Unito,22170,5.62
+Ballao,2023,1,Italia,185,60.06
+Ballao,2023,2,Francia,30,9.74
+Ballao,2023,3,Spagna,18,5.84
+Ballao,2023,4,Germania,16,5.19
+Ballao,2023,5,Polonia,14,4.55
+Ballao,2024,1,Italia,81,61.83
+Ballao,2024,2,Spagna,13,9.92
+Ballao,2024,3,Regno Unito,12,9.16
+Ballao,2024,4,Francia,8,6.11
+Ballao,2024,5,Germania,6,4.58
+Ballao,2025,1,Italia,90,45.92
+Ballao,2025,2,Germania,29,14.8
+Ballao,2025,3,Polonia,19,9.69
+Ballao,2025,4,Francia,7,3.57
+Ballao,2025,5,Paesi Bassi,6,3.06
+Banari,2023,1,Italia,58,25.22
+Banari,2023,2,Svizzera (incluso Liechtenstein),44,19.13
+Banari,2023,3,Francia,34,14.78
+Banari,2023,4,Paesi Bassi,22,9.57
+Banari,2023,5,Spagna,22,9.57
+Banari,2024,1,Italia,83,29.54
+Banari,2024,2,Spagna,37,13.17
+Banari,2024,3,Stati Uniti d'America,34,12.1
+Banari,2024,4,Paesi Bassi,22,7.83
+Banari,2024,5,Polonia,21,7.47
+Banari,2025,1,Italia,52,21.85
+Banari,2025,2,Francia,43,18.07
+Banari,2025,3,Germania,36,15.13
+Banari,2025,4,Paesi Bassi,34,14.29
+Banari,2025,5,Spagna,26,10.92
+Baradili,2023,1,Italia,30,75.0
+Baradili,2023,2,Stati Uniti d'America,5,12.5
+Baradili,2023,3,Spagna,3,7.5
+Baradili,2023,4,Paesi Bassi,2,5.0
+Baradili,2024,1,Germania,32,57.14
+Baradili,2024,2,Italia,12,21.43
+Baradili,2024,3,Francia,11,19.64
+Baradili,2024,4,Argentina,1,1.79
+Baradili,2025,1,Italia,70,34.83
+Baradili,2025,2,Canada,48,23.88
+Baradili,2025,3,Francia,46,22.89
+Baradili,2025,4,Ungheria,14,6.97
+Baradili,2025,5,Germania,9,4.48
+Baratili San Pietro,2022,1,Italia,1655,70.55
+Baratili San Pietro,2022,2,Francia,238,10.14
+Baratili San Pietro,2022,3,Germania,186,7.93
+Baratili San Pietro,2022,4,Spagna,79,3.37
+Baratili San Pietro,2022,5,Belgio,42,1.79
+Baratili San Pietro,2023,1,Italia,983,56.85
+Baratili San Pietro,2023,2,Francia,270,15.62
+Baratili San Pietro,2023,3,Belgio,152,8.79
+Baratili San Pietro,2023,4,Germania,96,5.55
+Baratili San Pietro,2023,5,Spagna,88,5.09
+Baratili San Pietro,2024,1,Italia,1539,55.32
+Baratili San Pietro,2024,2,Francia,312,11.21
+Baratili San Pietro,2024,3,Germania,296,10.64
+Baratili San Pietro,2024,4,Regno Unito,117,4.21
+Baratili San Pietro,2024,5,Romania,90,3.24
+Baratili San Pietro,2025,1,Italia,1505,42.22
+Baratili San Pietro,2025,2,Francia,621,17.42
+Baratili San Pietro,2025,3,Germania,413,11.58
+Baratili San Pietro,2025,4,Spagna,160,4.49
+Baratili San Pietro,2025,5,Paesi Bassi,109,3.06
+Baressa,2023,1,Italia,673,62.37
+Baressa,2023,2,Germania,113,10.47
+Baressa,2023,3,Spagna,66,6.12
+Baressa,2023,4,Francia,42,3.89
+Baressa,2023,5,Stati Uniti d'America,35,3.24
+Baressa,2024,1,Italia,561,51.71
+Baressa,2024,2,Germania,138,12.72
+Baressa,2024,3,Spagna,99,9.12
+Baressa,2024,4,Francia,95,8.76
+Baressa,2024,5,Paesi Bassi,67,6.18
+Baressa,2025,1,Italia,791,58.25
+Baressa,2025,2,Germania,234,17.23
+Baressa,2025,3,Francia,74,5.45
+Baressa,2025,4,Svizzera (incluso Liechtenstein),48,3.53
+Baressa,2025,5,Austria,47,3.46
+Bari Sardo,2022,1,Germania,75467,38.27
+Bari Sardo,2022,2,Italia,71730,36.37
+Bari Sardo,2022,3,Svizzera (incluso Liechtenstein),20370,10.33
+Bari Sardo,2022,4,Austria,7876,3.99
+Bari Sardo,2022,5,Paesi Bassi,5097,2.58
+Bari Sardo,2023,1,Germania,73606,37.98
+Bari Sardo,2023,2,Italia,68951,35.58
+Bari Sardo,2023,3,Svizzera (incluso Liechtenstein),19322,9.97
+Bari Sardo,2023,4,Austria,7570,3.91
+Bari Sardo,2023,5,Francia,4801,2.48
+Bari Sardo,2024,1,Germania,86517,37.14
+Bari Sardo,2024,2,Italia,83333,35.78
+Bari Sardo,2024,3,Svizzera (incluso Liechtenstein),19775,8.49
+Bari Sardo,2024,4,Paesi Bassi,8089,3.47
+Bari Sardo,2024,5,Austria,7551,3.24
+Bari Sardo,2025,1,Germania,91239,36.22
+Bari Sardo,2025,2,Italia,84380,33.5
+Bari Sardo,2025,3,Svizzera (incluso Liechtenstein),21184,8.41
+Bari Sardo,2025,4,Austria,9725,3.86
+Bari Sardo,2025,5,Paesi Bassi,8393,3.33
+Barumini,2022,1,Italia,1318,66.33
+Barumini,2022,2,Francia,268,13.49
+Barumini,2022,3,Germania,119,5.99
+Barumini,2022,4,Svizzera (incluso Liechtenstein),61,3.07
+Barumini,2022,5,Austria,48,2.42
+Barumini,2023,1,Italia,1625,68.74
+Barumini,2023,2,Francia,186,7.87
+Barumini,2023,3,Germania,115,4.86
+Barumini,2023,4,Regno Unito,80,3.38
+Barumini,2023,5,Svizzera (incluso Liechtenstein),67,2.83
+Barumini,2024,1,Italia,1226,66.49
+Barumini,2024,2,Germania,161,8.73
+Barumini,2024,3,Francia,136,7.38
+Barumini,2024,4,Stati Uniti d'America,55,2.98
+Barumini,2024,5,Austria,42,2.28
+Barumini,2025,1,Italia,1672,53.85
+Barumini,2025,2,Francia,260,8.37
+Barumini,2025,3,Germania,174,5.6
+Barumini,2025,4,Belgio,153,4.93
+Barumini,2025,5,Svizzera (incluso Liechtenstein),149,4.8
+Bauladu,2022,1,Italia,510,54.08
+Bauladu,2022,2,Francia,140,14.85
+Bauladu,2022,3,Portogallo,71,7.53
+Bauladu,2022,4,Polonia,50,5.3
+Bauladu,2022,5,Spagna,46,4.88
+Bauladu,2023,1,Italia,558,64.66
+Bauladu,2023,2,Francia,109,12.63
+Bauladu,2023,3,Paesi Bassi,52,6.03
+Bauladu,2023,4,Ungheria,50,5.79
+Bauladu,2023,5,Slovacchia,32,3.71
+Bauladu,2024,1,Italia,787,75.75
+Bauladu,2024,2,Germania,40,3.85
+Bauladu,2024,3,Francia,33,3.18
+Bauladu,2024,4,Spagna,30,2.89
+Bauladu,2024,5,Cina,24,2.31
+Bauladu,2025,1,Italia,1079,70.2
+Bauladu,2025,2,Francia,93,6.05
+Bauladu,2025,3,Spagna,73,4.75
+Bauladu,2025,4,Paesi Bassi,63,4.1
+Bauladu,2025,5,Germania,43,2.8
+Baunei,2022,1,Italia,22558,34.23
+Baunei,2022,2,Germania,16347,24.81
+Baunei,2022,3,Svizzera (incluso Liechtenstein),4976,7.55
+Baunei,2022,4,Francia,4708,7.14
+Baunei,2022,5,Austria,2589,3.93
+Baunei,2023,1,Italia,26622,32.42
+Baunei,2023,2,Germania,18018,21.94
+Baunei,2023,3,Francia,6572,8.0
+Baunei,2023,4,Svizzera (incluso Liechtenstein),5359,6.53
+Baunei,2023,5,Stati Uniti d'America,3060,3.73
+Baunei,2024,1,Italia,30528,28.81
+Baunei,2024,2,Germania,25405,23.98
+Baunei,2024,3,Francia,7737,7.3
+Baunei,2024,4,Svizzera (incluso Liechtenstein),6110,5.77
+Baunei,2024,5,Stati Uniti d'America,4352,4.11
+Baunei,2025,1,Italia,41121,28.32
+Baunei,2025,2,Germania,34608,23.84
+Baunei,2025,3,Francia,11643,8.02
+Baunei,2025,4,Svizzera (incluso Liechtenstein),7355,5.07
+Baunei,2025,5,Stati Uniti d'America,6377,4.39
+Belvì,2022,1,Italia,291,78.02
+Belvì,2022,2,Francia,24,6.43
+Belvì,2022,3,Romania,18,4.83
+Belvì,2022,4,Spagna,13,3.49
+Belvì,2022,5,Regno Unito,10,2.68
+Belvì,2023,1,Italia,121,62.37
+Belvì,2023,2,Francia,29,14.95
+Belvì,2023,3,Spagna,12,6.19
+Belvì,2023,4,Austria,10,5.15
+Belvì,2023,5,Paesi Bassi,6,3.09
+Belvì,2024,1,Italia,186,70.45
+Belvì,2024,2,Francia,19,7.2
+Belvì,2024,3,Germania,19,7.2
+Belvì,2024,4,Paesi Bassi,9,3.41
+Belvì,2024,5,Spagna,6,2.27
+Belvì,2025,1,Italia,133,48.72
+Belvì,2025,2,Francia,73,26.74
+Belvì,2025,3,Germania,15,5.49
+Belvì,2025,4,Paesi Bassi,11,4.03
+Belvì,2025,5,Israele,8,2.93
+Benetutti,2023,1,Italia,6197,93.19
+Benetutti,2023,2,Francia,125,1.88
+Benetutti,2023,3,Germania,95,1.43
+Benetutti,2023,4,Spagna,65,0.98
+Benetutti,2023,5,Paesi Bassi,47,0.71
+Benetutti,2024,1,Italia,7114,87.77
+Benetutti,2024,2,Spagna,166,2.05
+Benetutti,2024,3,Germania,142,1.75
+Benetutti,2024,4,Francia,140,1.73
+Benetutti,2024,5,Polonia,106,1.31
+Benetutti,2025,1,Italia,7006,74.92
+Benetutti,2025,2,Francia,525,5.61
+Benetutti,2025,3,Germania,409,4.37
+Benetutti,2025,4,Belgio,208,2.22
+Benetutti,2025,5,Spagna,185,1.98
+Berchidda,2022,1,Italia,403,36.94
+Berchidda,2022,2,Germania,203,18.61
+Berchidda,2022,3,Regno Unito,130,11.92
+Berchidda,2022,4,Francia,104,9.53
+Berchidda,2022,5,Polonia,61,5.59
+Berchidda,2023,1,Italia,2027,65.09
+Berchidda,2023,2,Germania,242,7.77
+Berchidda,2023,3,Paesi Bassi,170,5.46
+Berchidda,2023,4,Francia,167,5.36
+Berchidda,2023,5,Romania,120,3.85
+Berchidda,2024,1,Italia,3024,69.53
+Berchidda,2024,2,Germania,289,6.65
+Berchidda,2024,3,Francia,277,6.37
+Berchidda,2024,4,Paesi Bassi,130,2.99
+Berchidda,2024,5,Spagna,104,2.39
+Berchidda,2025,1,Italia,3229,62.64
+Berchidda,2025,2,Paesi Bassi,389,7.55
+Berchidda,2025,3,Francia,325,6.3
+Berchidda,2025,4,Germania,276,5.35
+Berchidda,2025,5,Polonia,136,2.64
+Bessude,2023,1,Stati Uniti d'America,12,63.16
+Bessude,2023,2,Canada,6,31.58
+Bessude,2023,3,Italia,1,5.26
+Bessude,2025,1,Italia,65,36.52
+Bessude,2025,2,Canada,30,16.85
+Bessude,2025,3,Ungheria,21,11.8
+Bessude,2025,4,Germania,16,8.99
+Bessude,2025,5,Polonia,14,7.87
+Bitti,2022,1,Italia,671,24.02
+Bitti,2022,2,Germania,533,19.08
+Bitti,2022,3,Paesi Bassi,445,15.93
+Bitti,2022,4,Belgio,294,10.53
+Bitti,2022,5,Francia,286,10.24
+Bitti,2023,1,Italia,922,34.82
+Bitti,2023,2,Germania,381,14.39
+Bitti,2023,3,Paesi Bassi,288,10.88
+Bitti,2023,4,Svizzera (incluso Liechtenstein),176,6.65
+Bitti,2023,5,Belgio,174,6.57
+Bitti,2024,1,Italia,1239,33.87
+Bitti,2024,2,Paesi Bassi,480,13.12
+Bitti,2024,3,Belgio,437,11.95
+Bitti,2024,4,Germania,386,10.55
+Bitti,2024,5,Regno Unito,261,7.14
+Bitti,2025,1,Italia,1615,31.86
+Bitti,2025,2,Paesi Bassi,781,15.41
+Bitti,2025,3,Germania,732,14.44
+Bitti,2025,4,Francia,402,7.93
+Bitti,2025,5,Belgio,296,5.84
+Bolotana,2022,1,Italia,513,83.69
+Bolotana,2022,2,Francia,26,4.24
+Bolotana,2022,3,Ucraina,18,2.94
+Bolotana,2022,4,Spagna,11,1.79
+Bolotana,2022,5,Repubblica Ceca,7,1.14
+Bolotana,2023,1,Italia,306,67.11
+Bolotana,2023,2,Spagna,64,14.04
+Bolotana,2023,3,Germania,19,4.17
+Bolotana,2023,4,Francia,9,1.97
+Bolotana,2023,5,Altri Paesi dell'Asia,7,1.54
+Bolotana,2024,1,Italia,330,54.37
+Bolotana,2024,2,Spagna,114,18.78
+Bolotana,2024,3,Belgio,29,4.78
+Bolotana,2024,4,Germania,27,4.45
+Bolotana,2024,5,Francia,25,4.12
+Bolotana,2025,1,Italia,1765,71.98
+Bolotana,2025,2,Francia,241,9.83
+Bolotana,2025,3,Egitto,90,3.67
+Bolotana,2025,4,Spagna,78,3.18
+Bolotana,2025,5,Altri Paesi Centro - Sud America,56,2.28
+Bonarcado,2022,1,Italia,2649,76.16
+Bonarcado,2022,2,Germania,212,6.1
+Bonarcado,2022,3,Francia,119,3.42
+Bonarcado,2022,4,Spagna,118,3.39
+Bonarcado,2022,5,Regno Unito,106,3.05
+Bonarcado,2023,1,Italia,740,62.82
+Bonarcado,2023,2,Francia,146,12.39
+Bonarcado,2023,3,Germania,71,6.03
+Bonarcado,2023,4,Spagna,68,5.77
+Bonarcado,2023,5,Svizzera (incluso Liechtenstein),47,3.99
+Bonarcado,2024,1,Italia,2273,55.96
+Bonarcado,2024,2,Francia,383,9.43
+Bonarcado,2024,3,Spagna,230,5.66
+Bonarcado,2024,4,Germania,212,5.22
+Bonarcado,2024,5,Ungheria,163,4.01
+Bonarcado,2025,1,Italia,2302,52.07
+Bonarcado,2025,2,Francia,575,13.01
+Bonarcado,2025,3,Spagna,456,10.31
+Bonarcado,2025,4,Germania,263,5.95
+Bonarcado,2025,5,Paesi Bassi,123,2.78
+Bonnanaro,2025,1,Italia,33,53.23
+Bonnanaro,2025,2,Germania,12,19.35
+Bonnanaro,2025,3,Spagna,9,14.52
+Bonnanaro,2025,4,Lettonia,6,9.68
+Bonnanaro,2025,5,Altri Paesi Centro - Sud America,2,3.23
+Bono,2023,1,Italia,93,44.93
+Bono,2023,2,Germania,47,22.71
+Bono,2023,3,Francia,36,17.39
+Bono,2023,4,Svizzera (incluso Liechtenstein),9,4.35
+Bono,2023,5,Paesi Bassi,8,3.86
+Bono,2024,1,Italia,287,53.45
+Bono,2024,2,Francia,59,10.99
+Bono,2024,3,Spagna,40,7.45
+Bono,2024,4,Germania,36,6.7
+Bono,2024,5,Polonia,33,6.15
+Bono,2025,1,Italia,400,42.96
+Bono,2025,2,Germania,175,18.8
+Bono,2025,3,Altri Paesi dell'Asia,92,9.88
+Bono,2025,4,Spagna,89,9.56
+Bono,2025,5,Francia,60,6.44
+Bonorva,2023,1,Italia,191,71.27
+Bonorva,2023,2,Francia,34,12.69
+Bonorva,2023,3,Portogallo,7,2.61
+Bonorva,2023,4,Grecia,6,2.24
+Bonorva,2023,5,Spagna,5,1.87
+Bonorva,2024,1,Italia,410,64.06
+Bonorva,2024,2,Spagna,100,15.62
+Bonorva,2024,3,Francia,61,9.53
+Bonorva,2024,4,Malta,24,3.75
+Bonorva,2024,5,Polonia,8,1.25
+Bonorva,2025,1,Italia,572,67.29
+Bonorva,2025,2,Spagna,70,8.24
+Bonorva,2025,3,Francia,58,6.82
+Bonorva,2025,4,Germania,42,4.94
+Bonorva,2025,5,Paesi Bassi,29,3.41
+Boroneddu,2025,1,Italia,34,73.91
+Boroneddu,2025,2,Spagna,12,26.09
+Borore,2024,1,Italia,16,100.0
+Bortigali,2023,1,Italia,293,93.91
+Bortigali,2023,2,Francia,8,2.56
+Bortigali,2023,3,Stati Uniti d'America,7,2.24
+Bortigali,2023,4,Spagna,2,0.64
+Bortigali,2023,5,Svizzera (incluso Liechtenstein),2,0.64
+Bortigali,2024,1,Italia,619,97.33
+Bortigali,2024,2,Stati Uniti d'America,14,2.2
+Bortigali,2024,3,Spagna,3,0.47
+Bortigali,2025,1,Italia,302,81.84
+Bortigali,2025,2,Francia,16,4.34
+Bortigali,2025,3,Romania,16,4.34
+Bortigali,2025,4,Paesi Bassi,12,3.25
+Bortigali,2025,5,Belgio,8,2.17
+Bortigiadas,2023,1,Italia,538,58.04
+Bortigiadas,2023,2,Francia,131,14.13
+Bortigiadas,2023,3,Spagna,49,5.29
+Bortigiadas,2023,4,Ungheria,32,3.45
+Bortigiadas,2023,5,Germania,28,3.02
+Bortigiadas,2024,1,Italia,865,58.37
+Bortigiadas,2024,2,Francia,196,13.23
+Bortigiadas,2024,3,Spagna,73,4.93
+Bortigiadas,2024,4,Germania,51,3.44
+Bortigiadas,2024,5,Svizzera (incluso Liechtenstein),47,3.17
+Bortigiadas,2025,1,Italia,1131,45.22
+Bortigiadas,2025,2,Francia,320,12.79
+Bortigiadas,2025,3,Germania,210,8.4
+Bortigiadas,2025,4,Polonia,165,6.6
+Bortigiadas,2025,5,Spagna,152,6.08
+Bosa,2022,1,Italia,47293,51.06
+Bosa,2022,2,Francia,10074,10.88
+Bosa,2022,3,Germania,8081,8.72
+Bosa,2022,4,Svizzera (incluso Liechtenstein),3919,4.23
+Bosa,2022,5,Paesi Bassi,3192,3.45
+Bosa,2023,1,Italia,50153,47.76
+Bosa,2023,2,Germania,10709,10.2
+Bosa,2023,3,Francia,9640,9.18
+Bosa,2023,4,Paesi Bassi,6159,5.87
+Bosa,2023,5,Svizzera (incluso Liechtenstein),4268,4.06
+Bosa,2024,1,Italia,42635,41.89
+Bosa,2024,2,Germania,11626,11.42
+Bosa,2024,3,Francia,11449,11.25
+Bosa,2024,4,Paesi Bassi,4362,4.29
+Bosa,2024,5,Svizzera (incluso Liechtenstein),3880,3.81
+Bosa,2025,1,Italia,49501,40.44
+Bosa,2025,2,Germania,14956,12.22
+Bosa,2025,3,Francia,14554,11.89
+Bosa,2025,4,Paesi Bassi,5458,4.46
+Bosa,2025,5,Svizzera (incluso Liechtenstein),4736,3.87
+Bottidda,2023,1,Italia,270,65.06
+Bottidda,2023,2,Germania,42,10.12
+Bottidda,2023,3,Svizzera (incluso Liechtenstein),25,6.02
+Bottidda,2023,4,Francia,24,5.78
+Bottidda,2023,5,Belgio,9,2.17
+Bottidda,2024,1,Italia,443,77.72
+Bottidda,2024,2,Germania,28,4.91
+Bottidda,2024,3,Svizzera (incluso Liechtenstein),22,3.86
+Bottidda,2024,4,Spagna,21,3.68
+Bottidda,2024,5,Francia,12,2.11
+Bottidda,2025,1,Italia,252,58.2
+Bottidda,2025,2,Germania,35,8.08
+Bottidda,2025,3,Altri Paesi dell'Africa,21,4.85
+Bottidda,2025,4,Francia,19,4.39
+Bottidda,2025,5,Polonia,15,3.46
+Buddusò,2024,1,Italia,27,69.23
+Buddusò,2024,2,Altri Paesi dell'Asia,12,30.77
+Buddusò,2025,1,Italia,164,77.36
+Buddusò,2025,2,Germania,16,7.55
+Buddusò,2025,3,Lituania,9,4.25
+Buddusò,2025,4,Svizzera (incluso Liechtenstein),9,4.25
+Buddusò,2025,5,Portogallo,8,3.77
+Budoni,2022,1,Italia,320786,48.29
+Budoni,2022,2,Francia,158404,23.85
+Budoni,2022,3,Regno Unito,73090,11.0
+Budoni,2022,4,Germania,53747,8.09
+Budoni,2022,5,Svizzera (incluso Liechtenstein),15055,2.27
+Budoni,2023,1,Italia,360628,53.88
+Budoni,2023,2,Francia,108000,16.14
+Budoni,2023,3,Regno Unito,82724,12.36
+Budoni,2023,4,Germania,56011,8.37
+Budoni,2023,5,Svizzera (incluso Liechtenstein),13140,1.96
+Budoni,2024,1,Italia,369790,47.61
+Budoni,2024,2,Regno Unito,135875,17.49
+Budoni,2024,3,Francia,115741,14.9
+Budoni,2024,4,Germania,70419,9.07
+Budoni,2024,5,Svizzera (incluso Liechtenstein),14407,1.85
+Budoni,2025,1,Italia,413081,44.69
+Budoni,2025,2,Francia,140252,15.17
+Budoni,2025,3,Regno Unito,131969,14.28
+Budoni,2025,4,Germania,104119,11.26
+Budoni,2025,5,Svizzera (incluso Liechtenstein),20459,2.21
+Buggerru,2022,1,Italia,8756,61.5
+Buggerru,2022,2,Germania,1970,13.84
+Buggerru,2022,3,Francia,1083,7.61
+Buggerru,2022,4,Svizzera (incluso Liechtenstein),842,5.91
+Buggerru,2022,5,Austria,394,2.77
+Buggerru,2023,1,Italia,9816,61.8
+Buggerru,2023,2,Germania,2085,13.13
+Buggerru,2023,3,Francia,1360,8.56
+Buggerru,2023,4,Svizzera (incluso Liechtenstein),636,4.0
+Buggerru,2023,5,Austria,433,2.73
+Buggerru,2024,1,Italia,13052,58.03
+Buggerru,2024,2,Germania,3262,14.5
+Buggerru,2024,3,Francia,1379,6.13
+Buggerru,2024,4,Svizzera (incluso Liechtenstein),1339,5.95
+Buggerru,2024,5,Austria,753,3.35
+Buggerru,2025,1,Italia,15171,56.59
+Buggerru,2025,2,Germania,3404,12.7
+Buggerru,2025,3,Francia,1646,6.14
+Buggerru,2025,4,Svizzera (incluso Liechtenstein),1437,5.36
+Buggerru,2025,5,Austria,688,2.57
+Bultei,2024,1,Italia,101,87.83
+Bultei,2024,2,Germania,8,6.96
+Bultei,2024,3,Francia,4,3.48
+Bultei,2024,4,Romania,2,1.74
+Bultei,2025,1,Italia,91,96.81
+Bultei,2025,2,Regno Unito,2,2.13
+Bultei,2025,3,Ucraina,1,1.06
+Burcei,2023,1,Italia,379,66.26
+Burcei,2023,2,Germania,80,13.99
+Burcei,2023,3,Francia,37,6.47
+Burcei,2023,4,Svizzera (incluso Liechtenstein),20,3.5
+Burcei,2023,5,Altri Paesi Centro - Sud America,13,2.27
+Burcei,2024,1,Italia,131,44.26
+Burcei,2024,2,Francia,52,17.57
+Burcei,2024,3,Paesi Bassi,51,17.23
+Burcei,2024,4,Germania,20,6.76
+Burcei,2024,5,Svizzera (incluso Liechtenstein),13,4.39
+Burcei,2025,1,Italia,262,57.21
+Burcei,2025,2,Francia,100,21.83
+Burcei,2025,3,Germania,19,4.15
+Burcei,2025,4,Spagna,16,3.49
+Burcei,2025,5,Stati Uniti d'America,16,3.49
+Burgos,2025,1,Altri Paesi Centro - Sud America,64,37.65
+Burgos,2025,2,Italia,55,32.35
+Burgos,2025,3,Spagna,40,23.53
+Burgos,2025,4,Egitto,6,3.53
+Burgos,2025,5,Stati Uniti d'America,4,2.35
+Busachi,2022,1,Italia,122,100.0
+Busachi,2023,1,Italia,20,100.0
+Busachi,2024,1,Italia,19,95.0
+Busachi,2024,2,Svizzera (incluso Liechtenstein),1,5.0
+Busachi,2025,1,Italia,83,93.26
+Busachi,2025,2,Francia,4,4.49
+Busachi,2025,3,Stati Uniti d'America,2,2.25
+Cabras,2022,1,Italia,56741,62.49
+Cabras,2022,2,Germania,11759,12.95
+Cabras,2022,3,Francia,5368,5.91
+Cabras,2022,4,Svizzera (incluso Liechtenstein),5007,5.51
+Cabras,2022,5,Austria,1597,1.76
+Cabras,2023,1,Italia,57748,60.88
+Cabras,2023,2,Germania,12035,12.69
+Cabras,2023,3,Francia,6215,6.55
+Cabras,2023,4,Svizzera (incluso Liechtenstein),4219,4.45
+Cabras,2023,5,Paesi Bassi,1968,2.07
+Cabras,2024,1,Italia,58277,61.88
+Cabras,2024,2,Germania,10401,11.04
+Cabras,2024,3,Francia,6037,6.41
+Cabras,2024,4,Svizzera (incluso Liechtenstein),3740,3.97
+Cabras,2024,5,Paesi Bassi,2089,2.22
+Cabras,2025,1,Italia,75107,62.65
+Cabras,2025,2,Germania,12640,10.54
+Cabras,2025,3,Francia,7988,6.66
+Cabras,2025,4,Svizzera (incluso Liechtenstein),4385,3.66
+Cabras,2025,5,Paesi Bassi,3029,2.53
+Cagliari,2022,1,Italia,366021,47.45
+Cagliari,2022,2,Francia,70871,9.19
+Cagliari,2022,3,Germania,57459,7.45
+Cagliari,2022,4,Spagna,32133,4.17
+Cagliari,2022,5,Regno Unito,28525,3.7
+Cagliari,2023,1,Italia,375545,43.46
+Cagliari,2023,2,Francia,75684,8.76
+Cagliari,2023,3,Germania,66194,7.66
+Cagliari,2023,4,Regno Unito,39743,4.6
+Cagliari,2023,5,Spagna,36620,4.24
+Cagliari,2024,1,Italia,384218,39.84
+Cagliari,2024,2,Germania,82323,8.54
+Cagliari,2024,3,Francia,69766,7.23
+Cagliari,2024,4,Regno Unito,46653,4.84
+Cagliari,2024,5,Spagna,43085,4.47
+Cagliari,2025,1,Italia,443205,39.45
+Cagliari,2025,2,Germania,94256,8.39
+Cagliari,2025,3,Francia,80578,7.17
+Cagliari,2025,4,Polonia,60015,5.34
+Cagliari,2025,5,Spagna,46124,4.11
+Calangianus,2022,1,Germania,260,30.59
+Calangianus,2022,2,Italia,225,26.47
+Calangianus,2022,3,Francia,118,13.88
+Calangianus,2022,4,Svizzera (incluso Liechtenstein),70,8.24
+Calangianus,2022,5,Regno Unito,34,4.0
+Calangianus,2023,1,Francia,579,22.94
+Calangianus,2023,2,Italia,522,20.68
+Calangianus,2023,3,Germania,341,13.51
+Calangianus,2023,4,Paesi Bassi,302,11.97
+Calangianus,2023,5,Spagna,213,8.44
+Calangianus,2024,1,Italia,694,22.69
+Calangianus,2024,2,Germania,670,21.9
+Calangianus,2024,3,Francia,418,13.66
+Calangianus,2024,4,Paesi Bassi,304,9.94
+Calangianus,2024,5,Belgio,167,5.46
+Calangianus,2025,1,Francia,781,22.59
+Calangianus,2025,2,Italia,660,19.09
+Calangianus,2025,3,Germania,539,15.59
+Calangianus,2025,4,Paesi Bassi,241,6.97
+Calangianus,2025,5,Belgio,220,6.36
+Calasetta,2022,1,Italia,32838,74.31
+Calasetta,2022,2,Germania,2901,6.56
+Calasetta,2022,3,Francia,2724,6.16
+Calasetta,2022,4,Svizzera (incluso Liechtenstein),1242,2.81
+Calasetta,2022,5,Paesi Bassi,709,1.6
+Calasetta,2023,1,Italia,37412,71.53
+Calasetta,2023,2,Francia,3675,7.03
+Calasetta,2023,3,Germania,3666,7.01
+Calasetta,2023,4,Svizzera (incluso Liechtenstein),1350,2.58
+Calasetta,2023,5,Paesi Bassi,730,1.4
+Calasetta,2024,1,Italia,42122,69.62
+Calasetta,2024,2,Germania,5331,8.81
+Calasetta,2024,3,Francia,4481,7.41
+Calasetta,2024,4,Svizzera (incluso Liechtenstein),1469,2.43
+Calasetta,2024,5,Polonia,876,1.45
+Calasetta,2025,1,Italia,50879,69.59
+Calasetta,2025,2,Germania,6783,9.28
+Calasetta,2025,3,Francia,4087,5.59
+Calasetta,2025,4,Svizzera (incluso Liechtenstein),2232,3.05
+Calasetta,2025,5,Polonia,1613,2.21
+Capoterra,2022,1,Italia,19031,39.0
+Capoterra,2022,2,Germania,8598,17.62
+Capoterra,2022,3,Francia,6537,13.4
+Capoterra,2022,4,Svizzera (incluso Liechtenstein),1843,3.78
+Capoterra,2022,5,Spagna,1495,3.06
+Capoterra,2023,1,Italia,17530,29.64
+Capoterra,2023,2,Germania,11542,19.52
+Capoterra,2023,3,Francia,7653,12.94
+Capoterra,2023,4,Svizzera (incluso Liechtenstein),2849,4.82
+Capoterra,2023,5,Spagna,2374,4.01
+Capoterra,2024,1,Italia,17997,29.06
+Capoterra,2024,2,Germania,12459,20.12
+Capoterra,2024,3,Francia,6603,10.66
+Capoterra,2024,4,Polonia,3165,5.11
+Capoterra,2024,5,Regno Unito,2684,4.33
+Capoterra,2025,1,Italia,23950,30.55
+Capoterra,2025,2,Germania,14032,17.9
+Capoterra,2025,3,Francia,8357,10.66
+Capoterra,2025,4,Regno Unito,4185,5.34
+Capoterra,2025,5,Polonia,4047,5.16
+Carbonia,2022,1,Italia,17337,57.09
+Carbonia,2022,2,Francia,3597,11.85
+Carbonia,2022,3,Germania,2496,8.22
+Carbonia,2022,4,Spagna,1185,3.9
+Carbonia,2022,5,Svizzera (incluso Liechtenstein),1005,3.31
+Carbonia,2023,1,Italia,20165,60.67
+Carbonia,2023,2,Germania,2996,9.01
+Carbonia,2023,3,Francia,2824,8.5
+Carbonia,2023,4,Paesi Bassi,1097,3.3
+Carbonia,2023,5,Spagna,925,2.78
+Carbonia,2024,1,Italia,26010,56.75
+Carbonia,2024,2,Germania,5823,12.7
+Carbonia,2024,3,Francia,3346,7.3
+Carbonia,2024,4,Spagna,1715,3.74
+Carbonia,2024,5,Paesi Bassi,1179,2.57
+Carbonia,2025,1,Italia,26222,60.25
+Carbonia,2025,2,Germania,4275,9.82
+Carbonia,2025,3,Francia,3765,8.65
+Carbonia,2025,4,Spagna,1310,3.01
+Carbonia,2025,5,Paesi Bassi,1062,2.44
+Cardedu,2022,1,Italia,77087,50.28
+Cardedu,2022,2,Germania,31972,20.85
+Cardedu,2022,3,Svizzera (incluso Liechtenstein),9631,6.28
+Cardedu,2022,4,Francia,6640,4.33
+Cardedu,2022,5,Austria,5086,3.32
+Cardedu,2023,1,Italia,74042,49.14
+Cardedu,2023,2,Germania,30750,20.41
+Cardedu,2023,3,Svizzera (incluso Liechtenstein),7775,5.16
+Cardedu,2023,4,Francia,7439,4.94
+Cardedu,2023,5,Austria,5062,3.36
+Cardedu,2024,1,Italia,71706,40.45
+Cardedu,2024,2,Germania,46732,26.36
+Cardedu,2024,3,Svizzera (incluso Liechtenstein),8599,4.85
+Cardedu,2024,4,Francia,7071,3.99
+Cardedu,2024,5,Polonia,6412,3.62
+Cardedu,2025,1,Italia,72561,37.77
+Cardedu,2025,2,Germania,53470,27.83
+Cardedu,2025,3,Svizzera (incluso Liechtenstein),9943,5.18
+Cardedu,2025,4,Francia,9226,4.8
+Cardedu,2025,5,Austria,7126,3.71
+Carloforte,2022,1,Italia,36256,81.38
+Carloforte,2022,2,Francia,2063,4.63
+Carloforte,2022,3,Germania,1563,3.51
+Carloforte,2022,4,Svizzera (incluso Liechtenstein),1444,3.24
+Carloforte,2022,5,Regno Unito,664,1.49
+Carloforte,2023,1,Italia,31049,77.97
+Carloforte,2023,2,Francia,1597,4.01
+Carloforte,2023,3,Germania,1486,3.73
+Carloforte,2023,4,Svizzera (incluso Liechtenstein),1366,3.43
+Carloforte,2023,5,Stati Uniti d'America,726,1.82
+Carloforte,2024,1,Italia,35470,78.3
+Carloforte,2024,2,Francia,1881,4.15
+Carloforte,2024,3,Germania,1551,3.42
+Carloforte,2024,4,Svizzera (incluso Liechtenstein),1349,2.98
+Carloforte,2024,5,Regno Unito,937,2.07
+Carloforte,2025,1,Italia,44932,76.66
+Carloforte,2025,2,Germania,2832,4.83
+Carloforte,2025,3,Francia,2682,4.58
+Carloforte,2025,4,Svizzera (incluso Liechtenstein),1822,3.11
+Carloforte,2025,5,Regno Unito,1325,2.26
+Castelsardo,2022,1,Italia,42807,30.59
+Castelsardo,2022,2,Francia,20428,14.6
+Castelsardo,2022,3,Paesi Bassi,18322,13.09
+Castelsardo,2022,4,Germania,13167,9.41
+Castelsardo,2022,5,Spagna,11861,8.47
+Castelsardo,2023,1,Italia,41907,24.55
+Castelsardo,2023,2,Francia,31440,18.42
+Castelsardo,2023,3,Paesi Bassi,26255,15.38
+Castelsardo,2023,4,Germania,19315,11.32
+Castelsardo,2023,5,Spagna,12174,7.13
+Castelsardo,2024,1,Italia,56644,22.6
+Castelsardo,2024,2,Francia,44253,17.66
+Castelsardo,2024,3,Germania,34215,13.65
+Castelsardo,2024,4,Paesi Bassi,27487,10.97
+Castelsardo,2024,5,Spagna,16326,6.51
+Castelsardo,2025,1,Italia,57578,21.05
+Castelsardo,2025,2,Francia,54149,19.8
+Castelsardo,2025,3,Germania,36911,13.5
+Castelsardo,2025,4,Paesi Bassi,29581,10.82
+Castelsardo,2025,5,Spagna,18666,6.83
+Castiadas,2022,1,Italia,250084,73.02
+Castiadas,2022,2,Germania,32503,9.49
+Castiadas,2022,3,Svizzera (incluso Liechtenstein),20564,6.0
+Castiadas,2022,4,Francia,5429,1.59
+Castiadas,2022,5,Regno Unito,5049,1.47
+Castiadas,2023,1,Italia,164697,67.46
+Castiadas,2023,2,Germania,27138,11.12
+Castiadas,2023,3,Svizzera (incluso Liechtenstein),15504,6.35
+Castiadas,2023,4,Francia,5278,2.16
+Castiadas,2023,5,Austria,4103,1.68
+Castiadas,2024,1,Italia,229725,67.81
+Castiadas,2024,2,Germania,36740,10.84
+Castiadas,2024,3,Svizzera (incluso Liechtenstein),19676,5.81
+Castiadas,2024,4,Francia,7395,2.18
+Castiadas,2024,5,Regno Unito,6359,1.88
+Castiadas,2025,1,Italia,238976,62.53
+Castiadas,2025,2,Germania,46706,12.22
+Castiadas,2025,3,Svizzera (incluso Liechtenstein),23524,6.15
+Castiadas,2025,4,Repubblica Ceca,11632,3.04
+Castiadas,2025,5,Francia,8413,2.2
+Cheremule,2024,1,Italia,295,47.97
+Cheremule,2024,2,Francia,81,13.17
+Cheremule,2024,3,Polonia,42,6.83
+Cheremule,2024,4,Germania,41,6.67
+Cheremule,2024,5,Belgio,40,6.5
+Cheremule,2025,1,Italia,194,25.49
+Cheremule,2025,2,Germania,123,16.16
+Cheremule,2025,3,Paesi Bassi,94,12.35
+Cheremule,2025,4,Portogallo,66,8.67
+Cheremule,2025,5,Francia,49,6.44
+Chiaramonti,2023,1,Italia,219,72.52
+Chiaramonti,2023,2,Romania,52,17.22
+Chiaramonti,2023,3,Portogallo,8,2.65
+Chiaramonti,2023,4,Belgio,5,1.66
+Chiaramonti,2023,5,Spagna,5,1.66
+Chiaramonti,2024,1,Italia,344,36.29
+Chiaramonti,2024,2,Altri Paesi Europei,221,23.31
+Chiaramonti,2024,3,Francia,180,18.99
+Chiaramonti,2024,4,Altri Paesi dell'Africa,43,4.54
+Chiaramonti,2024,5,Germania,27,2.85
+Chiaramonti,2025,1,Italia,431,38.72
+Chiaramonti,2025,2,Francia,234,21.02
+Chiaramonti,2025,3,Spagna,75,6.74
+Chiaramonti,2025,4,Romania,71,6.38
+Chiaramonti,2025,5,Germania,60,5.39
+Codrongianos,2023,1,Italia,58,31.52
+Codrongianos,2023,2,Regno Unito,56,30.43
+Codrongianos,2023,3,Spagna,30,16.3
+Codrongianos,2023,4,Francia,14,7.61
+Codrongianos,2023,5,Polonia,12,6.52
+Codrongianos,2024,1,Italia,170,26.6
+Codrongianos,2024,2,Spagna,157,24.57
+Codrongianos,2024,3,Francia,95,14.87
+Codrongianos,2024,4,Malta,50,7.82
+Codrongianos,2024,5,Germania,42,6.57
+Codrongianos,2025,1,Spagna,203,22.66
+Codrongianos,2025,2,Italia,180,20.09
+Codrongianos,2025,3,Francia,173,19.31
+Codrongianos,2025,4,Polonia,72,8.04
+Codrongianos,2025,5,Ungheria,72,8.04
+Collinas,2022,1,Italia,119,44.24
+Collinas,2022,2,Francia,58,21.56
+Collinas,2022,3,Germania,40,14.87
+Collinas,2022,4,Altri Paesi dell'Asia,18,6.69
+Collinas,2022,5,Moldavia,18,6.69
+Collinas,2023,1,Italia,52,28.42
+Collinas,2023,2,Francia,37,20.22
+Collinas,2023,3,Spagna,20,10.93
+Collinas,2023,4,Germania,16,8.74
+Collinas,2023,5,Slovenia,14,7.65
+Collinas,2024,1,Italia,131,45.49
+Collinas,2024,2,Altri Paesi Europei,57,19.79
+Collinas,2024,3,Francia,42,14.58
+Collinas,2024,4,Germania,24,8.33
+Collinas,2024,5,Spagna,24,8.33
+Collinas,2025,1,Francia,147,39.95
+Collinas,2025,2,Italia,109,29.62
+Collinas,2025,3,Spagna,35,9.51
+Collinas,2025,4,Germania,28,7.61
+Collinas,2025,5,Svizzera (incluso Liechtenstein),24,6.52
+Cossoine,2023,1,Italia,133,41.18
+Cossoine,2023,2,Spagna,86,26.63
+Cossoine,2023,3,Francia,26,8.05
+Cossoine,2023,4,Slovenia,22,6.81
+Cossoine,2023,5,Germania,20,6.19
+Cossoine,2024,1,Francia,129,25.8
+Cossoine,2024,2,Italia,126,25.2
+Cossoine,2024,3,Polonia,85,17.0
+Cossoine,2024,4,Regno Unito,28,5.6
+Cossoine,2024,5,Germania,24,4.8
+Cossoine,2025,1,Francia,144,27.53
+Cossoine,2025,2,Italia,129,24.67
+Cossoine,2025,3,Germania,60,11.47
+Cossoine,2025,4,Spagna,50,9.56
+Cossoine,2025,5,Polonia,21,4.02
+Cuglieri,2022,1,Italia,83709,60.82
+Cuglieri,2022,2,Germania,20745,15.07
+Cuglieri,2022,3,Paesi Bassi,7803,5.67
+Cuglieri,2022,4,Francia,7336,5.33
+Cuglieri,2022,5,Svizzera (incluso Liechtenstein),4778,3.47
+Cuglieri,2023,1,Italia,69326,54.9
+Cuglieri,2023,2,Germania,22299,17.66
+Cuglieri,2023,3,Francia,7970,6.31
+Cuglieri,2023,4,Svizzera (incluso Liechtenstein),5937,4.7
+Cuglieri,2023,5,Paesi Bassi,5355,4.24
+Cuglieri,2024,1,Italia,74006,52.54
+Cuglieri,2024,2,Germania,26463,18.79
+Cuglieri,2024,3,Francia,10459,7.42
+Cuglieri,2024,4,Svizzera (incluso Liechtenstein),7381,5.24
+Cuglieri,2024,5,Paesi Bassi,4586,3.26
+Cuglieri,2025,1,Italia,80136,55.75
+Cuglieri,2025,2,Germania,23837,16.58
+Cuglieri,2025,3,Francia,12482,8.68
+Cuglieri,2025,4,Svizzera (incluso Liechtenstein),5873,4.09
+Cuglieri,2025,5,Paesi Bassi,4553,3.17
+Decimomannu,2022,1,Italia,735,77.7
+Decimomannu,2022,2,Spagna,42,4.44
+Decimomannu,2022,3,Francia,41,4.33
+Decimomannu,2022,4,Paesi Bassi,24,2.54
+Decimomannu,2022,5,Germania,20,2.11
+Decimomannu,2023,1,Italia,1076,64.51
+Decimomannu,2023,2,Francia,156,9.35
+Decimomannu,2023,3,Germania,112,6.71
+Decimomannu,2023,4,Spagna,64,3.84
+Decimomannu,2023,5,Polonia,62,3.72
+Decimomannu,2024,1,Italia,1312,69.31
+Decimomannu,2024,2,Spagna,132,6.97
+Decimomannu,2024,3,Francia,105,5.55
+Decimomannu,2024,4,Germania,83,4.38
+Decimomannu,2024,5,Belgio,54,2.85
+Decimomannu,2025,1,Italia,1942,65.15
+Decimomannu,2025,2,Francia,211,7.08
+Decimomannu,2025,3,Germania,205,6.88
+Decimomannu,2025,4,Spagna,165,5.54
+Decimomannu,2025,5,Romania,87,2.92
+Decimoputzu,2023,1,Italia,22,100.0
+Desulo,2022,1,Italia,304,60.2
+Desulo,2022,2,Francia,64,12.67
+Desulo,2022,3,Germania,57,11.29
+Desulo,2022,4,Paesi Bassi,25,4.95
+Desulo,2022,5,Austria,15,2.97
+Desulo,2023,1,Italia,550,81.72
+Desulo,2023,2,Germania,55,8.17
+Desulo,2023,3,Francia,25,3.71
+Desulo,2023,4,Austria,11,1.63
+Desulo,2023,5,Croazia,8,1.19
+Desulo,2024,1,Italia,553,69.12
+Desulo,2024,2,Germania,71,8.88
+Desulo,2024,3,Francia,39,4.88
+Desulo,2024,4,Repubblica Ceca,20,2.5
+Desulo,2024,5,Regno Unito,19,2.38
+Desulo,2025,1,Italia,397,58.47
+Desulo,2025,2,Francia,50,7.36
+Desulo,2025,3,Spagna,32,4.71
+Desulo,2025,4,Repubblica Ceca,30,4.42
+Desulo,2025,5,Germania,29,4.27
+Dolianova,2022,1,Italia,444,77.35
+Dolianova,2022,2,Francia,42,7.32
+Dolianova,2022,3,Regno Unito,29,5.05
+Dolianova,2022,4,Spagna,13,2.26
+Dolianova,2022,5,Altri Paesi Centro - Sud America,12,2.09
+Dolianova,2023,1,Italia,331,55.63
+Dolianova,2023,2,Belgio,60,10.08
+Dolianova,2023,3,Francia,48,8.07
+Dolianova,2023,4,Regno Unito,44,7.39
+Dolianova,2023,5,Austria,40,6.72
+Dolianova,2024,1,Italia,485,32.86
+Dolianova,2024,2,Germania,261,17.68
+Dolianova,2024,3,Francia,242,16.4
+Dolianova,2024,4,Regno Unito,111,7.52
+Dolianova,2024,5,Paesi Bassi,83,5.62
+Dolianova,2025,1,Italia,1059,39.01
+Dolianova,2025,2,Francia,462,17.02
+Dolianova,2025,3,Germania,325,11.97
+Dolianova,2025,4,Regno Unito,176,6.48
+Dolianova,2025,5,Spagna,129,4.75
+Domus De Maria,2022,1,Italia,115975,61.59
+Domus De Maria,2022,2,Germania,20881,11.09
+Domus De Maria,2022,3,Svizzera (incluso Liechtenstein),11453,6.08
+Domus De Maria,2022,4,Regno Unito,9003,4.78
+Domus De Maria,2022,5,Francia,6729,3.57
+Domus De Maria,2023,1,Italia,120987,55.24
+Domus De Maria,2023,2,Germania,23418,10.69
+Domus De Maria,2023,3,Svizzera (incluso Liechtenstein),14654,6.69
+Domus De Maria,2023,4,Regno Unito,12299,5.62
+Domus De Maria,2023,5,Francia,8199,3.74
+Domus De Maria,2024,1,Italia,108515,48.14
+Domus De Maria,2024,2,Germania,31548,13.99
+Domus De Maria,2024,3,Regno Unito,16382,7.27
+Domus De Maria,2024,4,Svizzera (incluso Liechtenstein),16069,7.13
+Domus De Maria,2024,5,Francia,8530,3.78
+Domus De Maria,2025,1,Italia,128450,49.59
+Domus De Maria,2025,2,Germania,36636,14.14
+Domus De Maria,2025,3,Svizzera (incluso Liechtenstein),17628,6.81
+Domus De Maria,2025,4,Regno Unito,17201,6.64
+Domus De Maria,2025,5,Francia,10666,4.12
+Domusnovas,2022,1,Italia,191,58.77
+Domusnovas,2022,2,Francia,67,20.62
+Domusnovas,2022,3,Spagna,24,7.38
+Domusnovas,2022,4,Germania,19,5.85
+Domusnovas,2022,5,Israele,10,3.08
+Domusnovas,2023,1,Italia,597,51.91
+Domusnovas,2023,2,Francia,123,10.7
+Domusnovas,2023,3,Germania,103,8.96
+Domusnovas,2023,4,Bulgaria,69,6.0
+Domusnovas,2023,5,Spagna,56,4.87
+Domusnovas,2024,1,Italia,781,64.39
+Domusnovas,2024,2,Germania,162,13.36
+Domusnovas,2024,3,Francia,69,5.69
+Domusnovas,2024,4,Slovenia,52,4.29
+Domusnovas,2024,5,Regno Unito,34,2.8
+Domusnovas,2025,1,Italia,904,55.53
+Domusnovas,2025,2,Polonia,145,8.91
+Domusnovas,2025,3,Germania,99,6.08
+Domusnovas,2025,4,Francia,92,5.65
+Domusnovas,2025,5,Spagna,71,4.36
+Donori,2025,1,Austria,124,38.39
+Donori,2025,2,Germania,48,14.86
+Donori,2025,3,Svizzera (incluso Liechtenstein),42,13.0
+Donori,2025,4,Altri Paesi Europei,28,8.67
+Donori,2025,5,Paesi Bassi,22,6.81
+Dorgali,2022,1,Italia,209945,44.62
+Dorgali,2022,2,Germania,70196,14.92
+Dorgali,2022,3,Francia,45222,9.61
+Dorgali,2022,4,Polonia,19188,4.08
+Dorgali,2022,5,Svizzera (incluso Liechtenstein),18237,3.88
+Dorgali,2023,1,Italia,161832,38.92
+Dorgali,2023,2,Germania,63756,15.33
+Dorgali,2023,3,Francia,38172,9.18
+Dorgali,2023,4,Polonia,21439,5.16
+Dorgali,2023,5,Svizzera (incluso Liechtenstein),18224,4.38
+Dorgali,2024,1,Italia,172053,33.84
+Dorgali,2024,2,Germania,81401,16.01
+Dorgali,2024,3,Francia,47417,9.33
+Dorgali,2024,4,Polonia,21792,4.29
+Dorgali,2024,5,Svizzera (incluso Liechtenstein),20456,4.02
+Dorgali,2025,1,Italia,166636,31.69
+Dorgali,2025,2,Germania,93942,17.87
+Dorgali,2025,3,Francia,47765,9.08
+Dorgali,2025,4,Polonia,28029,5.33
+Dorgali,2025,5,Svizzera (incluso Liechtenstein),21058,4.01
+Dualchi,2025,1,Italia,128,87.07
+Dualchi,2025,2,Spagna,15,10.2
+Dualchi,2025,3,Francia,2,1.36
+Dualchi,2025,4,Belgio,1,0.68
+Dualchi,2025,5,Paesi Bassi,1,0.68
+Elini,2022,1,Italia,192,67.13
+Elini,2022,2,Germania,61,21.33
+Elini,2022,3,Repubblica Ceca,15,5.24
+Elini,2022,4,Paesi Bassi,6,2.1
+Elini,2022,5,Spagna,5,1.75
+Elini,2023,1,Italia,148,73.27
+Elini,2023,2,Germania,28,13.86
+Elini,2023,3,Repubblica Ceca,8,3.96
+Elini,2023,4,Spagna,7,3.47
+Elini,2023,5,Polonia,5,2.48
+Elini,2024,1,Italia,191,87.21
+Elini,2024,2,Ucraina,11,5.02
+Elini,2024,3,Germania,9,4.11
+Elini,2024,4,Francia,5,2.28
+Elini,2024,5,Svizzera (incluso Liechtenstein),3,1.37
+Elini,2025,1,Italia,86,56.95
+Elini,2025,2,Germania,32,21.19
+Elini,2025,3,Francia,20,13.25
+Elini,2025,4,Belgio,4,2.65
+Elini,2025,5,Turchia,4,2.65
+Elmas,2022,1,Italia,8509,70.91
+Elmas,2022,2,Ucraina,577,4.81
+Elmas,2022,3,Francia,569,4.74
+Elmas,2022,4,Germania,443,3.69
+Elmas,2022,5,Spagna,186,1.55
+Elmas,2023,1,Italia,8210,66.39
+Elmas,2023,2,Francia,561,4.54
+Elmas,2023,3,Germania,514,4.16
+Elmas,2023,4,Spagna,314,2.54
+Elmas,2023,5,Regno Unito,281,2.27
+Elmas,2024,1,Italia,8395,69.74
+Elmas,2024,2,Germania,613,5.09
+Elmas,2024,3,Francia,457,3.8
+Elmas,2024,4,Spagna,358,2.97
+Elmas,2024,5,Polonia,224,1.86
+Elmas,2025,1,Italia,7835,57.91
+Elmas,2025,2,Spagna,1007,7.44
+Elmas,2025,3,Francia,867,6.41
+Elmas,2025,4,Germania,587,4.34
+Elmas,2025,5,Polonia,455,3.36
+Erula,2025,1,Francia,213,43.03
+Erula,2025,2,Belgio,78,15.76
+Erula,2025,3,Regno Unito,68,13.74
+Erula,2025,4,Germania,48,9.7
+Erula,2025,5,Italia,30,6.06
+Escalaplano,2023,1,Italia,96,92.31
+Escalaplano,2023,2,Francia,5,4.81
+Escalaplano,2023,3,Stati Uniti d'America,2,1.92
+Escalaplano,2023,4,Paesi Bassi,1,0.96
+Escalaplano,2024,1,Italia,156,98.73
+Escalaplano,2024,2,Svizzera (incluso Liechtenstein),2,1.27
+Escalaplano,2025,1,Italia,116,77.33
+Escalaplano,2025,2,Francia,9,6.0
+Escalaplano,2025,3,Germania,6,4.0
+Escalaplano,2025,4,Brasile,5,3.33
+Escalaplano,2025,5,Svizzera (incluso Liechtenstein),4,2.67
+Escolca,2023,1,Italia,218,71.71
+Escolca,2023,2,Paesi Bassi,27,8.88
+Escolca,2023,3,Germania,24,7.89
+Escolca,2023,4,Svizzera (incluso Liechtenstein),7,2.3
+Escolca,2023,5,Repubblica Ceca,6,1.97
+Escolca,2024,1,Italia,179,72.47
+Escolca,2024,2,Francia,16,6.48
+Escolca,2024,3,Germania,10,4.05
+Escolca,2024,4,Altri Paesi Europei,9,3.64
+Escolca,2024,5,Paesi Bassi,8,3.24
+Escolca,2025,1,Italia,193,63.49
+Escolca,2025,2,Francia,36,11.84
+Escolca,2025,3,Germania,24,7.89
+Escolca,2025,4,Paesi Bassi,21,6.91
+Escolca,2025,5,Altri Paesi dell'Asia,12,3.95
+Esterzili,2023,1,Italia,18,90.0
+Esterzili,2023,2,Germania,2,10.0
+Esterzili,2024,1,Italia,10,100.0
+Esterzili,2025,1,Italia,7,63.64
+Esterzili,2025,2,Austria,4,36.36
+Florinas,2024,1,Francia,76,32.62
+Florinas,2024,2,Italia,62,26.61
+Florinas,2024,3,Spagna,43,18.45
+Florinas,2024,4,Polonia,28,12.02
+Florinas,2024,5,Bulgaria,7,3.0
+Florinas,2025,1,Italia,271,61.17
+Florinas,2025,2,Spagna,57,12.87
+Florinas,2025,3,Francia,38,8.58
+Florinas,2025,4,Regno Unito,28,6.32
+Florinas,2025,5,Altri Paesi Centro - Sud America,14,3.16
+Fluminimaggiore,2022,1,Italia,2027,53.26
+Fluminimaggiore,2022,2,Germania,626,16.45
+Fluminimaggiore,2022,3,Francia,348,9.14
+Fluminimaggiore,2022,4,Svizzera (incluso Liechtenstein),166,4.36
+Fluminimaggiore,2022,5,Austria,141,3.7
+Fluminimaggiore,2023,1,Italia,2169,55.43
+Fluminimaggiore,2023,2,Germania,626,16.0
+Fluminimaggiore,2023,3,Francia,466,11.91
+Fluminimaggiore,2023,4,Svizzera (incluso Liechtenstein),160,4.09
+Fluminimaggiore,2023,5,Austria,139,3.55
+Fluminimaggiore,2024,1,Italia,3882,52.36
+Fluminimaggiore,2024,2,Germania,1743,23.51
+Fluminimaggiore,2024,3,Francia,547,7.38
+Fluminimaggiore,2024,4,Austria,172,2.32
+Fluminimaggiore,2024,5,Svizzera (incluso Liechtenstein),166,2.24
+Fluminimaggiore,2025,1,Italia,6119,50.35
+Fluminimaggiore,2025,2,Germania,2445,20.12
+Fluminimaggiore,2025,3,Francia,888,7.31
+Fluminimaggiore,2025,4,Svizzera (incluso Liechtenstein),600,4.94
+Fluminimaggiore,2025,5,Austria,429,3.53
+Flussio,2022,1,Italia,364,53.29
+Flussio,2022,2,Germania,200,29.28
+Flussio,2022,3,Regno Unito,32,4.69
+Flussio,2022,4,Spagna,26,3.81
+Flussio,2022,5,Svizzera (incluso Liechtenstein),18,2.64
+Flussio,2023,1,Italia,312,43.21
+Flussio,2023,2,Francia,117,16.2
+Flussio,2023,3,Germania,74,10.25
+Flussio,2023,4,Polonia,66,9.14
+Flussio,2023,5,Svizzera (incluso Liechtenstein),40,5.54
+Flussio,2024,1,Italia,325,28.63
+Flussio,2024,2,Francia,249,21.94
+Flussio,2024,3,Spagna,117,10.31
+Flussio,2024,4,Paesi Bassi,85,7.49
+Flussio,2024,5,Germania,73,6.43
+Flussio,2025,1,Italia,415,32.99
+Flussio,2025,2,Francia,270,21.46
+Flussio,2025,3,Germania,171,13.59
+Flussio,2025,4,Belgio,124,9.86
+Flussio,2025,5,Repubblica Ceca,72,5.72
+Fonni,2022,1,Italia,1950,70.81
+Fonni,2022,2,Francia,560,20.33
+Fonni,2022,3,Germania,96,3.49
+Fonni,2022,4,Svizzera (incluso Liechtenstein),41,1.49
+Fonni,2022,5,Belgio,18,0.65
+Fonni,2023,1,Italia,2849,63.85
+Fonni,2023,2,Francia,818,18.33
+Fonni,2023,3,Portogallo,188,4.21
+Fonni,2023,4,Germania,118,2.64
+Fonni,2023,5,Svizzera (incluso Liechtenstein),104,2.33
+Fonni,2024,1,Italia,2336,64.92
+Fonni,2024,2,Francia,689,19.15
+Fonni,2024,3,Germania,161,4.47
+Fonni,2024,4,Belgio,48,1.33
+Fonni,2024,5,Svizzera (incluso Liechtenstein),46,1.28
+Fonni,2025,1,Italia,2362,64.87
+Fonni,2025,2,Francia,750,20.6
+Fonni,2025,3,Belgio,66,1.81
+Fonni,2025,4,Germania,61,1.68
+Fonni,2025,5,Lituania,56,1.54
+Fordongianus,2023,1,Italia,42918,98.67
+Fordongianus,2023,2,Francia,142,0.33
+Fordongianus,2023,3,Svizzera (incluso Liechtenstein),95,0.22
+Fordongianus,2023,4,Germania,94,0.22
+Fordongianus,2023,5,Polonia,54,0.12
+Fordongianus,2024,1,Italia,42263,98.8
+Fordongianus,2024,2,Germania,140,0.33
+Fordongianus,2024,3,Francia,88,0.21
+Fordongianus,2024,4,Regno Unito,50,0.12
+Fordongianus,2024,5,Belgio,38,0.09
+Fordongianus,2025,1,Italia,42039,98.84
+Fordongianus,2025,2,Germania,112,0.26
+Fordongianus,2025,3,Francia,84,0.2
+Fordongianus,2025,4,Regno Unito,41,0.1
+Fordongianus,2025,5,Svizzera (incluso Liechtenstein),39,0.09
+Furtei,2023,1,Italia,89,52.98
+Furtei,2023,2,Francia,28,16.67
+Furtei,2023,3,Germania,28,16.67
+Furtei,2023,4,Spagna,11,6.55
+Furtei,2023,5,Danimarca,4,2.38
+Furtei,2024,1,Italia,120,58.25
+Furtei,2024,2,Francia,37,17.96
+Furtei,2024,3,Repubblica Ceca,12,5.83
+Furtei,2024,4,Spagna,11,5.34
+Furtei,2024,5,Germania,8,3.88
+Furtei,2025,1,Italia,76,44.19
+Furtei,2025,2,Francia,52,30.23
+Furtei,2025,3,Paesi Bassi,12,6.98
+Furtei,2025,4,Germania,9,5.23
+Furtei,2025,5,Moldavia,9,5.23
+Gadoni,2023,1,Italia,525,94.59
+Gadoni,2023,2,Belgio,6,1.08
+Gadoni,2023,3,Paesi Bassi,6,1.08
+Gadoni,2023,4,Germania,4,0.72
+Gadoni,2023,5,Israele,4,0.72
+Gadoni,2024,1,Italia,548,91.95
+Gadoni,2024,2,Regno Unito,12,2.01
+Gadoni,2024,3,Paesi Bassi,10,1.68
+Gadoni,2024,4,Argentina,6,1.01
+Gadoni,2024,5,Germania,4,0.67
+Gadoni,2025,1,Italia,665,84.93
+Gadoni,2025,2,Germania,40,5.11
+Gadoni,2025,3,Regno Unito,26,3.32
+Gadoni,2025,4,Austria,8,1.02
+Gadoni,2025,5,Francia,8,1.02
+Gairo,2022,1,Italia,6217,44.81
+Gairo,2022,2,Germania,4195,30.24
+Gairo,2022,3,Svizzera (incluso Liechtenstein),1239,8.93
+Gairo,2022,4,Austria,539,3.89
+Gairo,2022,5,Francia,476,3.43
+Gairo,2023,1,Italia,7142,39.88
+Gairo,2023,2,Germania,6206,34.65
+Gairo,2023,3,Svizzera (incluso Liechtenstein),1246,6.96
+Gairo,2023,4,Austria,762,4.25
+Gairo,2023,5,Francia,477,2.66
+Gairo,2024,1,Germania,8324,43.54
+Gairo,2024,2,Italia,5137,26.87
+Gairo,2024,3,Svizzera (incluso Liechtenstein),1889,9.88
+Gairo,2024,4,Francia,721,3.77
+Gairo,2024,5,Austria,620,3.24
+Gairo,2025,1,Italia,13017,38.3
+Gairo,2025,2,Germania,11510,33.86
+Gairo,2025,3,Svizzera (incluso Liechtenstein),2335,6.87
+Gairo,2025,4,Francia,1915,5.63
+Gairo,2025,5,Austria,1477,4.35
+Galtellì,2022,1,Italia,4049,39.63
+Galtellì,2022,2,Francia,1461,14.3
+Galtellì,2022,3,Germania,1428,13.98
+Galtellì,2022,4,Spagna,791,7.74
+Galtellì,2022,5,Polonia,407,3.98
+Galtellì,2023,1,Italia,4165,33.96
+Galtellì,2023,2,Germania,1861,15.17
+Galtellì,2023,3,Francia,1705,13.9
+Galtellì,2023,4,Spagna,912,7.44
+Galtellì,2023,5,Paesi Bassi,602,4.91
+Galtellì,2024,1,Italia,3937,31.55
+Galtellì,2024,2,Germania,2053,16.45
+Galtellì,2024,3,Francia,1794,14.38
+Galtellì,2024,4,Paesi Bassi,945,7.57
+Galtellì,2024,5,Spagna,687,5.51
+Galtellì,2025,1,Italia,4016,27.25
+Galtellì,2025,2,Germania,3359,22.8
+Galtellì,2025,3,Francia,2086,14.16
+Galtellì,2025,4,Spagna,802,5.44
+Galtellì,2025,5,Paesi Bassi,702,4.76
+Gavoi,2022,1,Italia,898,79.96
+Gavoi,2022,2,Germania,69,6.14
+Gavoi,2022,3,Francia,67,5.97
+Gavoi,2022,4,Danimarca,28,2.49
+Gavoi,2022,5,Canada,17,1.51
+Gavoi,2023,1,Italia,952,86.55
+Gavoi,2023,2,Polonia,29,2.64
+Gavoi,2023,3,Danimarca,28,2.55
+Gavoi,2023,4,Francia,23,2.09
+Gavoi,2023,5,Germania,13,1.18
+Gavoi,2024,1,Italia,824,77.15
+Gavoi,2024,2,Belgio,49,4.59
+Gavoi,2024,3,Germania,33,3.09
+Gavoi,2024,4,Francia,32,3.0
+Gavoi,2024,5,Danimarca,29,2.72
+Gavoi,2025,1,Italia,1789,83.48
+Gavoi,2025,2,Francia,79,3.69
+Gavoi,2025,3,Germania,48,2.24
+Gavoi,2025,4,Paesi Bassi,45,2.1
+Gavoi,2025,5,Lettonia,30,1.4
+Genoni,2023,1,Francia,69,31.36
+Genoni,2023,2,Italia,66,30.0
+Genoni,2023,3,Germania,24,10.91
+Genoni,2023,4,Spagna,14,6.36
+Genoni,2023,5,Paesi Bassi,8,3.64
+Genoni,2024,1,Italia,51,37.23
+Genoni,2024,2,Francia,33,24.09
+Genoni,2024,3,Germania,16,11.68
+Genoni,2024,4,Svizzera (incluso Liechtenstein),11,8.03
+Genoni,2024,5,Belgio,10,7.3
+Genoni,2025,1,Italia,79,41.58
+Genoni,2025,2,Francia,45,23.68
+Genoni,2025,3,Spagna,12,6.32
+Genoni,2025,4,Australia,11,5.79
+Genoni,2025,5,Svizzera (incluso Liechtenstein),10,5.26
+Gergei,2023,1,Stati Uniti d'America,74,19.17
+Gergei,2023,2,Australia,63,16.32
+Gergei,2023,3,Germania,58,15.03
+Gergei,2023,4,Svizzera (incluso Liechtenstein),39,10.1
+Gergei,2023,5,Francia,23,5.96
+Gergei,2024,1,Francia,154,23.84
+Gergei,2024,2,Stati Uniti d'America,131,20.28
+Gergei,2024,3,Germania,82,12.69
+Gergei,2024,4,Paesi Bassi,48,7.43
+Gergei,2024,5,Italia,43,6.66
+Gergei,2025,1,Italia,287,34.7
+Gergei,2025,2,Paesi Bassi,140,16.93
+Gergei,2025,3,Stati Uniti d'America,89,10.76
+Gergei,2025,4,Francia,78,9.43
+Gergei,2025,5,Regno Unito,42,5.08
+Gesturi,2022,1,Germania,140,33.65
+Gesturi,2022,2,Italia,122,29.33
+Gesturi,2022,3,Stati Uniti d'America,51,12.26
+Gesturi,2022,4,Francia,45,10.82
+Gesturi,2022,5,Regno Unito,20,4.81
+Gesturi,2023,1,Germania,151,30.2
+Gesturi,2023,2,Italia,108,21.6
+Gesturi,2023,3,Regno Unito,51,10.2
+Gesturi,2023,4,Stati Uniti d'America,50,10.0
+Gesturi,2023,5,Grecia,33,6.6
+Gesturi,2024,1,Italia,289,33.68
+Gesturi,2024,2,Germania,167,19.46
+Gesturi,2024,3,Stati Uniti d'America,93,10.84
+Gesturi,2024,4,India,52,6.06
+Gesturi,2024,5,Belgio,48,5.59
+Gesturi,2025,1,Italia,291,30.99
+Gesturi,2025,2,Germania,179,19.06
+Gesturi,2025,3,Francia,126,13.42
+Gesturi,2025,4,Paesi Bassi,79,8.41
+Gesturi,2025,5,Polonia,60,6.39
+Ghilarza,2022,1,Italia,1131,70.07
+Ghilarza,2022,2,Spagna,166,10.29
+Ghilarza,2022,3,Germania,142,8.8
+Ghilarza,2022,4,Francia,69,4.28
+Ghilarza,2022,5,Regno Unito,16,0.99
+Ghilarza,2023,1,Italia,1158,71.88
+Ghilarza,2023,2,Francia,116,7.2
+Ghilarza,2023,3,Germania,108,6.7
+Ghilarza,2023,4,Spagna,66,4.1
+Ghilarza,2023,5,Bulgaria,47,2.92
+Ghilarza,2024,1,Italia,1843,61.64
+Ghilarza,2024,2,Spagna,315,10.54
+Ghilarza,2024,3,Francia,207,6.92
+Ghilarza,2024,4,Romania,188,6.29
+Ghilarza,2024,5,Germania,158,5.28
+Ghilarza,2025,1,Italia,2211,61.01
+Ghilarza,2025,2,Romania,255,7.04
+Ghilarza,2025,3,Francia,198,5.46
+Ghilarza,2025,4,Spagna,176,4.86
+Ghilarza,2025,5,Regno Unito,171,4.72
+Giba,2022,1,Italia,637,42.24
+Giba,2022,2,Germania,426,28.25
+Giba,2022,3,Francia,163,10.81
+Giba,2022,4,Spagna,94,6.23
+Giba,2022,5,Polonia,81,5.37
+Giba,2023,1,Italia,1490,64.42
+Giba,2023,2,Francia,259,11.2
+Giba,2023,3,Germania,190,8.21
+Giba,2023,4,Polonia,149,6.44
+Giba,2023,5,Spagna,35,1.51
+Giba,2024,1,Italia,2879,76.55
+Giba,2024,2,Germania,294,7.82
+Giba,2024,3,Polonia,185,4.92
+Giba,2024,4,Francia,73,1.94
+Giba,2024,5,Svizzera (incluso Liechtenstein),72,1.91
+Giba,2025,1,Italia,4810,66.95
+Giba,2025,2,Polonia,746,10.38
+Giba,2025,3,Francia,429,5.97
+Giba,2025,4,Germania,390,5.43
+Giba,2025,5,Spagna,145,2.02
+Girasole,2022,1,Italia,1838,59.42
+Girasole,2022,2,Germania,365,11.8
+Girasole,2022,3,Francia,200,6.47
+Girasole,2022,4,Svizzera (incluso Liechtenstein),199,6.43
+Girasole,2022,5,Austria,130,4.2
+Girasole,2023,1,Italia,3803,67.67
+Girasole,2023,2,Germania,543,9.66
+Girasole,2023,3,Francia,258,4.59
+Girasole,2023,4,Belgio,181,3.22
+Girasole,2023,5,Svizzera (incluso Liechtenstein),149,2.65
+Girasole,2024,1,Italia,5867,69.56
+Girasole,2024,2,Germania,881,10.45
+Girasole,2024,3,Romania,315,3.73
+Girasole,2024,4,Francia,300,3.56
+Girasole,2024,5,Spagna,176,2.09
+Girasole,2025,1,Italia,10333,54.94
+Girasole,2025,2,Germania,3832,20.38
+Girasole,2025,3,Francia,1101,5.85
+Girasole,2025,4,Svizzera (incluso Liechtenstein),463,2.46
+Girasole,2025,5,Paesi Bassi,390,2.07
+Golfo Aranci,2022,1,Italia,144312,52.98
+Golfo Aranci,2022,2,Germania,44064,16.18
+Golfo Aranci,2022,3,Svizzera (incluso Liechtenstein),19314,7.09
+Golfo Aranci,2022,4,Regno Unito,15679,5.76
+Golfo Aranci,2022,5,Francia,9014,3.31
+Golfo Aranci,2023,1,Italia,113545,45.68
+Golfo Aranci,2023,2,Germania,49478,19.9
+Golfo Aranci,2023,3,Svizzera (incluso Liechtenstein),18704,7.52
+Golfo Aranci,2023,4,Regno Unito,11707,4.71
+Golfo Aranci,2023,5,Francia,10265,4.13
+Golfo Aranci,2024,1,Italia,93631,39.93
+Golfo Aranci,2024,2,Germania,44393,18.93
+Golfo Aranci,2024,3,Svizzera (incluso Liechtenstein),16420,7.0
+Golfo Aranci,2024,4,Regno Unito,11521,4.91
+Golfo Aranci,2024,5,Francia,11386,4.86
+Golfo Aranci,2025,1,Italia,114869,34.48
+Golfo Aranci,2025,2,Germania,72737,21.84
+Golfo Aranci,2025,3,Svizzera (incluso Liechtenstein),24436,7.34
+Golfo Aranci,2025,4,Regno Unito,18578,5.58
+Golfo Aranci,2025,5,Francia,16564,4.97
+Gonnesa,2022,1,Italia,6767,65.03
+Gonnesa,2022,2,Germania,1120,10.76
+Gonnesa,2022,3,Francia,685,6.58
+Gonnesa,2022,4,Svizzera (incluso Liechtenstein),529,5.08
+Gonnesa,2022,5,Polonia,257,2.47
+Gonnesa,2023,1,Italia,8480,57.25
+Gonnesa,2023,2,Germania,2114,14.27
+Gonnesa,2023,3,Francia,1284,8.67
+Gonnesa,2023,4,Svizzera (incluso Liechtenstein),711,4.8
+Gonnesa,2023,5,Repubblica Ceca,289,1.95
+Gonnesa,2024,1,Italia,9031,57.44
+Gonnesa,2024,2,Germania,2090,13.29
+Gonnesa,2024,3,Francia,1184,7.53
+Gonnesa,2024,4,Svizzera (incluso Liechtenstein),441,2.8
+Gonnesa,2024,5,Polonia,365,2.32
+Gonnesa,2025,1,Italia,14105,58.62
+Gonnesa,2025,2,Germania,2619,10.89
+Gonnesa,2025,3,Francia,1898,7.89
+Gonnesa,2025,4,Svizzera (incluso Liechtenstein),805,3.35
+Gonnesa,2025,5,Polonia,531,2.21
+Gonnosfanadiga,2022,1,Italia,262,44.18
+Gonnosfanadiga,2022,2,Francia,117,19.73
+Gonnosfanadiga,2022,3,Germania,95,16.02
+Gonnosfanadiga,2022,4,Svizzera (incluso Liechtenstein),19,3.2
+Gonnosfanadiga,2022,5,Belgio,18,3.04
+Gonnosfanadiga,2023,1,Italia,332,35.13
+Gonnosfanadiga,2023,2,Germania,174,18.41
+Gonnosfanadiga,2023,3,Francia,135,14.29
+Gonnosfanadiga,2023,4,Paesi Bassi,61,6.46
+Gonnosfanadiga,2023,5,Belgio,47,4.97
+Gonnosfanadiga,2024,1,Italia,745,40.91
+Gonnosfanadiga,2024,2,Germania,283,15.54
+Gonnosfanadiga,2024,3,Francia,187,10.27
+Gonnosfanadiga,2024,4,Repubblica Ceca,120,6.59
+Gonnosfanadiga,2024,5,Paesi Bassi,81,4.45
+Gonnosfanadiga,2025,1,Italia,1015,40.33
+Gonnosfanadiga,2025,2,Germania,349,13.87
+Gonnosfanadiga,2025,3,Francia,266,10.57
+Gonnosfanadiga,2025,4,Paesi Bassi,168,6.67
+Gonnosfanadiga,2025,5,Spagna,139,5.52
+Gonnosnò,2024,1,Spagna,38,52.78
+Gonnosnò,2024,2,Italia,14,19.44
+Gonnosnò,2024,3,Repubblica Ceca,12,16.67
+Gonnosnò,2024,4,Francia,8,11.11
+Gonnosnò,2025,1,Italia,15,35.71
+Gonnosnò,2025,2,Germania,9,21.43
+Gonnosnò,2025,3,Spagna,8,19.05
+Gonnosnò,2025,4,Austria,7,16.67
+Gonnosnò,2025,5,Malta,2,4.76
+Gonnostramatza,2023,1,Francia,45,39.82
+Gonnostramatza,2023,2,Italia,40,35.4
+Gonnostramatza,2023,3,Germania,20,17.7
+Gonnostramatza,2023,4,Regno Unito,8,7.08
+Gonnostramatza,2024,1,Italia,132,41.77
+Gonnostramatza,2024,2,Germania,98,31.01
+Gonnostramatza,2024,3,Repubblica Ceca,32,10.13
+Gonnostramatza,2024,4,Altri Paesi Europei,16,5.06
+Gonnostramatza,2024,5,Svizzera (incluso Liechtenstein),16,5.06
+Gonnostramatza,2025,1,Francia,145,20.31
+Gonnostramatza,2025,2,Italia,145,20.31
+Gonnostramatza,2025,3,Polonia,122,17.09
+Gonnostramatza,2025,4,Germania,49,6.86
+Gonnostramatza,2025,5,Ucraina,49,6.86
+Guamaggiore,2024,1,Italia,12,100.0
+Guamaggiore,2025,1,Italia,55,100.0
+Guasila,2024,1,Italia,61,84.72
+Guasila,2024,2,Germania,11,15.28
+Guasila,2025,1,Italia,102,100.0
+Guspini,2022,1,Italia,5204,56.28
+Guspini,2022,2,Germania,1264,13.67
+Guspini,2022,3,Francia,962,10.4
+Guspini,2022,4,Svizzera (incluso Liechtenstein),402,4.35
+Guspini,2022,5,Spagna,213,2.3
+Guspini,2023,1,Italia,4744,51.89
+Guspini,2023,2,Francia,1302,14.24
+Guspini,2023,3,Germania,932,10.19
+Guspini,2023,4,Svizzera (incluso Liechtenstein),307,3.36
+Guspini,2023,5,Belgio,287,3.14
+Guspini,2024,1,Italia,3771,40.84
+Guspini,2024,2,Spagna,1188,12.87
+Guspini,2024,3,Francia,1112,12.04
+Guspini,2024,4,Germania,943,10.21
+Guspini,2024,5,Svizzera (incluso Liechtenstein),366,3.96
+Guspini,2025,1,Italia,5430,48.08
+Guspini,2025,2,Francia,1443,12.78
+Guspini,2025,3,Spagna,1036,9.17
+Guspini,2025,4,Germania,1010,8.94
+Guspini,2025,5,Svizzera (incluso Liechtenstein),309,2.74
+Iglesias,2022,1,Italia,25359,59.44
+Iglesias,2022,2,Francia,4911,11.51
+Iglesias,2022,3,Germania,4283,10.04
+Iglesias,2022,4,Svizzera (incluso Liechtenstein),1050,2.46
+Iglesias,2022,5,Spagna,1004,2.35
+Iglesias,2023,1,Italia,30088,57.96
+Iglesias,2023,2,Francia,5698,10.98
+Iglesias,2023,3,Germania,5190,10.0
+Iglesias,2023,4,Svizzera (incluso Liechtenstein),1278,2.46
+Iglesias,2023,5,Spagna,1185,2.28
+Iglesias,2024,1,Italia,37865,56.48
+Iglesias,2024,2,Francia,7287,10.87
+Iglesias,2024,3,Germania,7073,10.55
+Iglesias,2024,4,Polonia,1888,2.82
+Iglesias,2024,5,Paesi Bassi,1536,2.29
+Iglesias,2025,1,Italia,43704,55.52
+Iglesias,2025,2,Francia,8825,11.21
+Iglesias,2025,3,Germania,8559,10.87
+Iglesias,2025,4,Polonia,2481,3.15
+Iglesias,2025,5,Spagna,1872,2.38
+Ilbono,2022,1,Italia,778,62.39
+Ilbono,2022,2,Francia,107,8.58
+Ilbono,2022,3,Germania,102,8.18
+Ilbono,2022,4,Ungheria,52,4.17
+Ilbono,2022,5,Regno Unito,30,2.41
+Ilbono,2023,1,Italia,1895,64.63
+Ilbono,2023,2,Germania,516,17.6
+Ilbono,2023,3,Francia,151,5.15
+Ilbono,2023,4,Altri Paesi Europei,59,2.01
+Ilbono,2023,5,Paesi Bassi,55,1.88
+Ilbono,2024,1,Italia,1953,55.22
+Ilbono,2024,2,Germania,513,14.5
+Ilbono,2024,3,Francia,170,4.81
+Ilbono,2024,4,Spagna,102,2.88
+Ilbono,2024,5,Paesi Bassi,97,2.74
+Ilbono,2025,1,Italia,2394,48.08
+Ilbono,2025,2,Germania,828,16.63
+Ilbono,2025,3,Francia,412,8.27
+Ilbono,2025,4,Paesi Bassi,138,2.77
+Ilbono,2025,5,Belgio,136,2.73
+Irgoli,2022,1,Italia,1795,57.92
+Irgoli,2022,2,Germania,456,14.71
+Irgoli,2022,3,Francia,223,7.2
+Irgoli,2022,4,Regno Unito,104,3.36
+Irgoli,2022,5,Spagna,88,2.84
+Irgoli,2023,1,Italia,1931,45.26
+Irgoli,2023,2,Germania,843,19.76
+Irgoli,2023,3,Francia,479,11.23
+Irgoli,2023,4,Paesi Bassi,190,4.45
+Irgoli,2023,5,Spagna,171,4.01
+Irgoli,2024,1,Italia,1838,54.48
+Irgoli,2024,2,Francia,388,11.5
+Irgoli,2024,3,Germania,372,11.03
+Irgoli,2024,4,Polonia,121,3.59
+Irgoli,2024,5,Spagna,83,2.46
+Irgoli,2025,1,Germania,1814,35.84
+Irgoli,2025,2,Italia,1712,33.82
+Irgoli,2025,3,Francia,541,10.69
+Irgoli,2025,4,Spagna,137,2.71
+Irgoli,2025,5,Regno Unito,111,2.19
+Isili,2022,1,Italia,841,62.2
+Isili,2022,2,Francia,95,7.03
+Isili,2022,3,Germania,92,6.8
+Isili,2022,4,Ungheria,36,2.66
+Isili,2022,5,Bulgaria,34,2.51
+Isili,2023,1,Italia,779,91.43
+Isili,2023,2,Francia,28,3.29
+Isili,2023,3,Stati Uniti d'America,13,1.53
+Isili,2023,4,Germania,9,1.06
+Isili,2023,5,Svizzera (incluso Liechtenstein),8,0.94
+Isili,2024,1,Italia,1287,81.66
+Isili,2024,2,Germania,33,2.09
+Isili,2024,3,Stati Uniti d'America,32,2.03
+Isili,2024,4,Ucraina,32,2.03
+Isili,2024,5,Francia,30,1.9
+Isili,2025,1,Italia,1855,77.49
+Isili,2025,2,Romania,107,4.47
+Isili,2025,3,Germania,82,3.43
+Isili,2025,4,Francia,68,2.84
+Isili,2025,5,Altri Paesi dell'Asia,51,2.13
+Ittiri,2023,1,Italia,184,60.13
+Ittiri,2023,2,Germania,97,31.7
+Ittiri,2023,3,Spagna,14,4.58
+Ittiri,2023,4,Francia,6,1.96
+Ittiri,2023,5,Repubblica Ceca,2,0.65
+Ittiri,2024,1,Italia,726,82.88
+Ittiri,2024,2,Francia,47,5.37
+Ittiri,2024,3,Paesi Bassi,36,4.11
+Ittiri,2024,4,Spagna,30,3.42
+Ittiri,2024,5,Polonia,12,1.37
+Ittiri,2025,1,Italia,1227,64.85
+Ittiri,2025,2,Francia,152,8.03
+Ittiri,2025,3,Spagna,127,6.71
+Ittiri,2025,4,Polonia,72,3.81
+Ittiri,2025,5,Germania,45,2.38
+Jerzu,2022,1,Italia,1249,47.06
+Jerzu,2022,2,Germania,512,19.29
+Jerzu,2022,3,Francia,370,13.94
+Jerzu,2022,4,Belgio,160,6.03
+Jerzu,2022,5,Svizzera (incluso Liechtenstein),131,4.94
+Jerzu,2023,1,Italia,1539,52.9
+Jerzu,2023,2,Germania,642,22.07
+Jerzu,2023,3,Paesi Bassi,97,3.33
+Jerzu,2023,4,Svizzera (incluso Liechtenstein),94,3.23
+Jerzu,2023,5,Francia,86,2.96
+Jerzu,2024,1,Italia,2131,39.17
+Jerzu,2024,2,Germania,1313,24.13
+Jerzu,2024,3,Francia,504,9.26
+Jerzu,2024,4,Svizzera (incluso Liechtenstein),268,4.93
+Jerzu,2024,5,Spagna,160,2.94
+Jerzu,2025,1,Italia,4084,27.86
+Jerzu,2025,2,Germania,3516,23.98
+Jerzu,2025,3,Francia,1381,9.42
+Jerzu,2025,4,Paesi Bassi,1035,7.06
+Jerzu,2025,5,Repubblica Ceca,666,4.54
+La Maddalena,2022,1,Italia,173912,58.49
+La Maddalena,2022,2,Francia,32229,10.84
+La Maddalena,2022,3,Germania,24051,8.09
+La Maddalena,2022,4,Svizzera (incluso Liechtenstein),10138,3.41
+La Maddalena,2022,5,Spagna,8825,2.97
+La Maddalena,2023,1,Italia,116077,52.7
+La Maddalena,2023,2,Francia,27037,12.28
+La Maddalena,2023,3,Germania,19825,9.0
+La Maddalena,2023,4,Spagna,8445,3.83
+La Maddalena,2023,5,Svizzera (incluso Liechtenstein),8124,3.69
+La Maddalena,2024,1,Italia,187458,55.2
+La Maddalena,2024,2,Francia,34759,10.24
+La Maddalena,2024,3,Germania,31826,9.37
+La Maddalena,2024,4,Spagna,12624,3.72
+La Maddalena,2024,5,Svizzera (incluso Liechtenstein),11346,3.34
+La Maddalena,2025,1,Italia,160986,49.41
+La Maddalena,2025,2,Francia,36669,11.25
+La Maddalena,2025,3,Germania,36621,11.24
+La Maddalena,2025,4,Svizzera (incluso Liechtenstein),11678,3.58
+La Maddalena,2025,5,Spagna,9587,2.94
+Laconi,2022,1,Italia,1997,80.01
+Laconi,2022,2,Germania,106,4.25
+Laconi,2022,3,Francia,85,3.41
+Laconi,2022,4,Svizzera (incluso Liechtenstein),64,2.56
+Laconi,2022,5,Paesi Bassi,46,1.84
+Laconi,2023,1,Italia,1176,77.57
+Laconi,2023,2,Germania,93,6.13
+Laconi,2023,3,Stati Uniti d'America,44,2.9
+Laconi,2023,4,Belgio,30,1.98
+Laconi,2023,5,Russia,30,1.98
+Laconi,2024,1,Italia,1010,85.38
+Laconi,2024,2,Paesi Bassi,40,3.38
+Laconi,2024,3,Francia,32,2.7
+Laconi,2024,4,Stati Uniti d'America,18,1.52
+Laconi,2024,5,Germania,17,1.44
+Laconi,2025,1,Italia,2311,86.62
+Laconi,2025,2,Spagna,50,1.87
+Laconi,2025,3,Germania,43,1.61
+Laconi,2025,4,Canada,39,1.46
+Laconi,2025,5,Altri Paesi dell'Africa,30,1.12
+Laerru,2024,1,Germania,109,31.23
+Laerru,2024,2,Altri Paesi Asia Occidentale,60,17.19
+Laerru,2024,3,Francia,56,16.05
+Laerru,2024,4,Belgio,46,13.18
+Laerru,2024,5,Romania,22,6.3
+Laerru,2025,1,Germania,200,27.25
+Laerru,2025,2,Italia,169,23.02
+Laerru,2025,3,Spagna,91,12.4
+Laerru,2025,4,Francia,54,7.36
+Laerru,2025,5,Regno Unito,39,5.31
+Lanusei,2022,1,Italia,5029,81.3
+Lanusei,2022,2,Brasile,267,4.32
+Lanusei,2022,3,Francia,241,3.9
+Lanusei,2022,4,Germania,158,2.55
+Lanusei,2022,5,Paesi Bassi,99,1.6
+Lanusei,2023,1,Italia,3248,78.49
+Lanusei,2023,2,Francia,371,8.97
+Lanusei,2023,3,Germania,170,4.11
+Lanusei,2023,4,Regno Unito,96,2.32
+Lanusei,2023,5,Spagna,42,1.01
+Lanusei,2024,1,Italia,5217,70.53
+Lanusei,2024,2,Germania,488,6.6
+Lanusei,2024,3,Francia,480,6.49
+Lanusei,2024,4,Spagna,281,3.8
+Lanusei,2024,5,Svizzera (incluso Liechtenstein),100,1.35
+Lanusei,2025,1,Italia,6921,65.62
+Lanusei,2025,2,Germania,915,8.68
+Lanusei,2025,3,Francia,727,6.89
+Lanusei,2025,4,Polonia,341,3.23
+Lanusei,2025,5,Altri Paesi Africa Mediterranea,293,2.78
+Las Plassas,2023,1,Francia,39,73.58
+Las Plassas,2023,2,Italia,6,11.32
+Las Plassas,2023,3,Germania,4,7.55
+Las Plassas,2023,4,Belgio,2,3.77
+Las Plassas,2023,5,Altri Paesi Asia Occidentale,1,1.89
+Las Plassas,2024,1,Paesi Bassi,13,50.0
+Las Plassas,2024,2,Francia,6,23.08
+Las Plassas,2024,3,Italia,3,11.54
+Las Plassas,2024,4,Svizzera (incluso Liechtenstein),2,7.69
+Las Plassas,2024,5,Germania,1,3.85
+Las Plassas,2025,1,Italia,69,79.31
+Las Plassas,2025,2,Svizzera (incluso Liechtenstein),12,13.79
+Las Plassas,2025,3,Francia,6,6.9
+Loceri,2022,1,Italia,2121,57.17
+Loceri,2022,2,Germania,540,14.56
+Loceri,2022,3,Francia,254,6.85
+Loceri,2022,4,Ucraina,123,3.32
+Loceri,2022,5,Spagna,119,3.21
+Loceri,2023,1,Italia,1564,44.98
+Loceri,2023,2,Germania,675,19.41
+Loceri,2023,3,Francia,328,9.43
+Loceri,2023,4,Spagna,171,4.92
+Loceri,2023,5,Paesi Bassi,117,3.36
+Loceri,2024,1,Italia,1847,39.37
+Loceri,2024,2,Germania,1163,24.79
+Loceri,2024,3,Francia,280,5.97
+Loceri,2024,4,Paesi Bassi,256,5.46
+Loceri,2024,5,Regno Unito,212,4.52
+Loceri,2025,1,Italia,1970,40.19
+Loceri,2025,2,Germania,1072,21.87
+Loceri,2025,3,Francia,448,9.14
+Loceri,2025,4,Spagna,238,4.86
+Loceri,2025,5,Svizzera (incluso Liechtenstein),135,2.75
+Loculi,2022,1,Francia,12,80.0
+Loculi,2022,2,Spagna,2,13.33
+Loculi,2022,3,Germania,1,6.67
+Loculi,2023,1,Italia,342,40.91
+Loculi,2023,2,Germania,185,22.13
+Loculi,2023,3,Francia,107,12.8
+Loculi,2023,4,Svizzera (incluso Liechtenstein),65,7.78
+Loculi,2023,5,Spagna,34,4.07
+Loculi,2024,1,Francia,254,28.48
+Loculi,2024,2,Italia,195,21.86
+Loculi,2024,3,Germania,183,20.52
+Loculi,2024,4,Austria,54,6.05
+Loculi,2024,5,Spagna,29,3.25
+Loculi,2025,1,Italia,984,43.01
+Loculi,2025,2,Germania,314,13.72
+Loculi,2025,3,Francia,291,12.72
+Loculi,2025,4,Spagna,101,4.41
+Loculi,2025,5,Romania,98,4.28
+Lodine,2023,1,Italia,24,100.0
+Lodine,2025,1,Italia,32,100.0
+Lodè,2023,1,Italia,132,78.57
+Lodè,2023,2,Germania,17,10.12
+Lodè,2023,3,Francia,15,8.93
+Lodè,2023,4,Paesi Bassi,2,1.19
+Lodè,2023,5,Stati Uniti d'America,2,1.19
+Lodè,2024,1,Italia,103,46.61
+Lodè,2024,2,Francia,53,23.98
+Lodè,2024,3,Germania,30,13.57
+Lodè,2024,4,Spagna,17,7.69
+Lodè,2024,5,Irlanda,4,1.81
+Lodè,2025,1,Italia,88,37.45
+Lodè,2025,2,Francia,61,25.96
+Lodè,2025,3,Germania,53,22.55
+Lodè,2025,4,Belgio,13,5.53
+Lodè,2025,5,Argentina,6,2.55
+Loiri Porto San Paolo,2022,1,Italia,58206,37.24
+Loiri Porto San Paolo,2022,2,Germania,39540,25.3
+Loiri Porto San Paolo,2022,3,Svizzera (incluso Liechtenstein),9768,6.25
+Loiri Porto San Paolo,2022,4,Francia,9156,5.86
+Loiri Porto San Paolo,2022,5,Regno Unito,7543,4.83
+Loiri Porto San Paolo,2023,1,Italia,45498,35.99
+Loiri Porto San Paolo,2023,2,Germania,28581,22.61
+Loiri Porto San Paolo,2023,3,Francia,10028,7.93
+Loiri Porto San Paolo,2023,4,Svizzera (incluso Liechtenstein),7474,5.91
+Loiri Porto San Paolo,2023,5,Paesi Bassi,5361,4.24
+Loiri Porto San Paolo,2024,1,Italia,57411,38.59
+Loiri Porto San Paolo,2024,2,Germania,32259,21.68
+Loiri Porto San Paolo,2024,3,Francia,11839,7.96
+Loiri Porto San Paolo,2024,4,Svizzera (incluso Liechtenstein),6736,4.53
+Loiri Porto San Paolo,2024,5,Regno Unito,5857,3.94
+Loiri Porto San Paolo,2025,1,Italia,66293,34.62
+Loiri Porto San Paolo,2025,2,Germania,45340,23.68
+Loiri Porto San Paolo,2025,3,Francia,14139,7.38
+Loiri Porto San Paolo,2025,4,Regno Unito,9665,5.05
+Loiri Porto San Paolo,2025,5,Svizzera (incluso Liechtenstein),8743,4.57
+Lotzorai,2022,1,Italia,46643,52.14
+Lotzorai,2022,2,Germania,24490,27.38
+Lotzorai,2022,3,Svizzera (incluso Liechtenstein),4672,5.22
+Lotzorai,2022,4,Austria,3032,3.39
+Lotzorai,2022,5,Francia,2954,3.3
+Lotzorai,2023,1,Italia,34031,45.27
+Lotzorai,2023,2,Germania,22240,29.59
+Lotzorai,2023,3,Svizzera (incluso Liechtenstein),4580,6.09
+Lotzorai,2023,4,Austria,3358,4.47
+Lotzorai,2023,5,Francia,2549,3.39
+Lotzorai,2024,1,Italia,65757,56.02
+Lotzorai,2024,2,Germania,29229,24.9
+Lotzorai,2024,3,Svizzera (incluso Liechtenstein),5678,4.84
+Lotzorai,2024,4,Francia,3111,2.65
+Lotzorai,2024,5,Austria,2965,2.53
+Lotzorai,2025,1,Italia,38877,40.62
+Lotzorai,2025,2,Germania,32123,33.56
+Lotzorai,2025,3,Svizzera (incluso Liechtenstein),6416,6.7
+Lotzorai,2025,4,Austria,3690,3.86
+Lotzorai,2025,5,Francia,3663,3.83
+Lula,2022,1,Italia,22,81.48
+Lula,2022,2,Francia,3,11.11
+Lula,2022,3,Spagna,2,7.41
+Lula,2023,1,Italia,172,60.78
+Lula,2023,2,Francia,54,19.08
+Lula,2023,3,Spagna,17,6.01
+Lula,2023,4,Belgio,7,2.47
+Lula,2023,5,Germania,7,2.47
+Lula,2024,1,Italia,192,91.0
+Lula,2024,2,Spagna,6,2.84
+Lula,2024,3,Germania,5,2.37
+Lula,2024,4,Portogallo,5,2.37
+Lula,2024,5,Regno Unito,3,1.42
+Lula,2025,1,Italia,77,71.96
+Lula,2025,2,Francia,10,9.35
+Lula,2025,3,Germania,10,9.35
+Lula,2025,4,Spagna,9,8.41
+Lula,2025,5,Altri Paesi Centro - Sud America,1,0.93
+Lunamatrona,2023,1,Italia,43,60.56
+Lunamatrona,2023,2,Stati Uniti d'America,14,19.72
+Lunamatrona,2023,3,Canada,7,9.86
+Lunamatrona,2023,4,Francia,7,9.86
+Lunamatrona,2024,1,Italia,105,48.84
+Lunamatrona,2024,2,Francia,62,28.84
+Lunamatrona,2024,3,Germania,26,12.09
+Lunamatrona,2024,4,Spagna,14,6.51
+Lunamatrona,2024,5,Paesi Bassi,8,3.72
+Lunamatrona,2025,1,Italia,105,28.53
+Lunamatrona,2025,2,Germania,76,20.65
+Lunamatrona,2025,3,Francia,54,14.67
+Lunamatrona,2025,4,Paesi Bassi,43,11.68
+Lunamatrona,2025,5,Repubblica Ceca,29,7.88
+Luogosanto,2022,1,Italia,1848,27.69
+Luogosanto,2022,2,Germania,723,10.83
+Luogosanto,2022,3,Francia,698,10.46
+Luogosanto,2022,4,Spagna,661,9.91
+Luogosanto,2022,5,Lussemburgo,625,9.37
+Luogosanto,2023,1,Italia,1965,25.54
+Luogosanto,2023,2,Germania,1252,16.27
+Luogosanto,2023,3,Spagna,1005,13.06
+Luogosanto,2023,4,Francia,838,10.89
+Luogosanto,2023,5,Lussemburgo,462,6.01
+Luogosanto,2024,1,Italia,3547,32.05
+Luogosanto,2024,2,Germania,1546,13.97
+Luogosanto,2024,3,Francia,1329,12.01
+Luogosanto,2024,4,Spagna,685,6.19
+Luogosanto,2024,5,Lussemburgo,594,5.37
+Luogosanto,2025,1,Italia,2292,20.49
+Luogosanto,2025,2,Germania,1969,17.6
+Luogosanto,2025,3,Francia,1651,14.76
+Luogosanto,2025,4,Spagna,668,5.97
+Luogosanto,2025,5,Svizzera (incluso Liechtenstein),667,5.96
+Luras,2023,1,Italia,115,43.23
+Luras,2023,2,Germania,84,31.58
+Luras,2023,3,Francia,34,12.78
+Luras,2023,4,Paesi Bassi,14,5.26
+Luras,2023,5,Spagna,14,5.26
+Luras,2024,1,Italia,294,36.7
+Luras,2024,2,Francia,205,25.59
+Luras,2024,3,Germania,110,13.73
+Luras,2024,4,Repubblica Ceca,56,6.99
+Luras,2024,5,Polonia,41,5.12
+Luras,2025,1,Italia,691,47.56
+Luras,2025,2,Francia,304,20.92
+Luras,2025,3,Germania,199,13.7
+Luras,2025,4,Spagna,56,3.85
+Luras,2025,5,Polonia,50,3.44
+Macomer,2022,1,Italia,10352,96.68
+Macomer,2022,2,Turchia,77,0.72
+Macomer,2022,3,Polonia,37,0.35
+Macomer,2022,4,Spagna,37,0.35
+Macomer,2022,5,Francia,32,0.3
+Macomer,2023,1,Italia,9514,97.82
+Macomer,2023,2,Romania,37,0.38
+Macomer,2023,3,Francia,34,0.35
+Macomer,2023,4,Spagna,25,0.26
+Macomer,2023,5,Turchia,24,0.25
+Macomer,2024,1,Italia,11264,97.54
+Macomer,2024,2,Altri Paesi Europei,44,0.38
+Macomer,2024,3,Francia,37,0.32
+Macomer,2024,4,Spagna,31,0.27
+Macomer,2024,5,Germania,27,0.23
+Macomer,2025,1,Italia,11545,93.05
+Macomer,2025,2,Spagna,181,1.46
+Macomer,2025,3,Germania,90,0.73
+Macomer,2025,4,Francia,59,0.48
+Macomer,2025,5,Ungheria,53,0.43
+Magomadas,2022,1,Italia,2698,28.82
+Magomadas,2022,2,Germania,2610,27.88
+Magomadas,2022,3,Francia,1636,17.48
+Magomadas,2022,4,Svizzera (incluso Liechtenstein),686,7.33
+Magomadas,2022,5,Paesi Bassi,276,2.95
+Magomadas,2023,1,Italia,2824,27.97
+Magomadas,2023,2,Germania,2792,27.65
+Magomadas,2023,3,Francia,1526,15.11
+Magomadas,2023,4,Svizzera (incluso Liechtenstein),409,4.05
+Magomadas,2023,5,Paesi Bassi,363,3.6
+Magomadas,2024,1,Italia,3363,27.65
+Magomadas,2024,2,Germania,2789,22.93
+Magomadas,2024,3,Francia,1991,16.37
+Magomadas,2024,4,Paesi Bassi,448,3.68
+Magomadas,2024,5,Svizzera (incluso Liechtenstein),445,3.66
+Magomadas,2025,1,Italia,4430,27.74
+Magomadas,2025,2,Germania,4019,25.16
+Magomadas,2025,3,Francia,2471,15.47
+Magomadas,2025,4,Paesi Bassi,683,4.28
+Magomadas,2025,5,Svizzera (incluso Liechtenstein),554,3.47
+Mamoiada,2022,1,Italia,656,76.19
+Mamoiada,2022,2,Francia,71,8.25
+Mamoiada,2022,3,Germania,27,3.14
+Mamoiada,2022,4,Repubblica Ceca,23,2.67
+Mamoiada,2022,5,Svizzera (incluso Liechtenstein),16,1.86
+Mamoiada,2023,1,Italia,1397,61.16
+Mamoiada,2023,2,Francia,229,10.03
+Mamoiada,2023,3,Spagna,107,4.68
+Mamoiada,2023,4,Paesi Bassi,61,2.67
+Mamoiada,2023,5,Ungheria,47,2.06
+Mamoiada,2024,1,Italia,1614,56.57
+Mamoiada,2024,2,Germania,240,8.41
+Mamoiada,2024,3,Francia,203,7.12
+Mamoiada,2024,4,Spagna,130,4.56
+Mamoiada,2024,5,Paesi Bassi,79,2.77
+Mamoiada,2025,1,Italia,1503,49.98
+Mamoiada,2025,2,Francia,325,10.81
+Mamoiada,2025,3,Spagna,208,6.92
+Mamoiada,2025,4,Germania,156,5.19
+Mamoiada,2025,5,Altri Paesi Europei,118,3.92
+Mandas,2022,1,Italia,741,47.32
+Mandas,2022,2,Germania,257,16.41
+Mandas,2022,3,Francia,113,7.22
+Mandas,2022,4,Regno Unito,108,6.9
+Mandas,2022,5,Paesi Bassi,104,6.64
+Mandas,2023,1,Italia,745,46.68
+Mandas,2023,2,Germania,180,11.28
+Mandas,2023,3,Paesi Bassi,139,8.71
+Mandas,2023,4,Francia,133,8.33
+Mandas,2023,5,Stati Uniti d'America,85,5.33
+Mandas,2024,1,Italia,489,39.25
+Mandas,2024,2,Germania,171,13.72
+Mandas,2024,3,Altri Paesi Europei,170,13.64
+Mandas,2024,4,Paesi Bassi,147,11.8
+Mandas,2024,5,Svizzera (incluso Liechtenstein),59,4.74
+Mandas,2025,1,Italia,738,39.96
+Mandas,2025,2,Germania,294,15.92
+Mandas,2025,3,Paesi Bassi,231,12.51
+Mandas,2025,4,Francia,125,6.77
+Mandas,2025,5,Regno Unito,69,3.74
+Mara,2023,1,Italia,137,40.9
+Mara,2023,2,Spagna,91,27.16
+Mara,2023,3,Francia,27,8.06
+Mara,2023,4,Germania,19,5.67
+Mara,2023,5,Polonia,18,5.37
+Mara,2024,1,Italia,30,44.78
+Mara,2024,2,Ungheria,14,20.9
+Mara,2024,3,Belgio,6,8.96
+Mara,2024,4,Canada,6,8.96
+Mara,2024,5,Francia,5,7.46
+Maracalagonis,2022,1,Italia,92944,75.87
+Maracalagonis,2022,2,Germania,8770,7.16
+Maracalagonis,2022,3,Svizzera (incluso Liechtenstein),4791,3.91
+Maracalagonis,2022,4,Francia,3924,3.2
+Maracalagonis,2022,5,Regno Unito,1688,1.38
+Maracalagonis,2023,1,Italia,91430,72.03
+Maracalagonis,2023,2,Germania,9192,7.24
+Maracalagonis,2023,3,Francia,5856,4.61
+Maracalagonis,2023,4,Svizzera (incluso Liechtenstein),4862,3.83
+Maracalagonis,2023,5,Regno Unito,3190,2.51
+Maracalagonis,2024,1,Italia,84157,64.26
+Maracalagonis,2024,2,Germania,13375,10.21
+Maracalagonis,2024,3,Svizzera (incluso Liechtenstein),5779,4.41
+Maracalagonis,2024,4,Francia,4965,3.79
+Maracalagonis,2024,5,Regno Unito,3638,2.78
+Maracalagonis,2025,1,Italia,85886,54.23
+Maracalagonis,2025,2,Germania,20633,13.03
+Maracalagonis,2025,3,Svizzera (incluso Liechtenstein),7859,4.96
+Maracalagonis,2025,4,Francia,6860,4.33
+Maracalagonis,2025,5,Regno Unito,5048,3.19
+Marrubiu,2022,1,Italia,937,57.63
+Marrubiu,2022,2,Francia,276,16.97
+Marrubiu,2022,3,Paesi Bassi,148,9.1
+Marrubiu,2022,4,Spagna,73,4.49
+Marrubiu,2022,5,Germania,59,3.63
+Marrubiu,2023,1,Italia,834,62.71
+Marrubiu,2023,2,Francia,110,8.27
+Marrubiu,2023,3,Spagna,89,6.69
+Marrubiu,2023,4,Paesi Bassi,86,6.47
+Marrubiu,2023,5,Svezia,56,4.21
+Marrubiu,2024,1,Italia,995,57.35
+Marrubiu,2024,2,Germania,174,10.03
+Marrubiu,2024,3,Paesi Bassi,117,6.74
+Marrubiu,2024,4,Francia,98,5.65
+Marrubiu,2024,5,Spagna,67,3.86
+Marrubiu,2025,1,Italia,1304,63.36
+Marrubiu,2025,2,Francia,295,14.33
+Marrubiu,2025,3,Germania,118,5.73
+Marrubiu,2025,4,Spagna,57,2.77
+Marrubiu,2025,5,Paesi Bassi,45,2.19
+Martis,2023,1,Italia,192,42.38
+Martis,2023,2,Spagna,110,24.28
+Martis,2023,3,Germania,47,10.38
+Martis,2023,4,Francia,44,9.71
+Martis,2023,5,Belgio,16,3.53
+Martis,2024,1,Italia,318,38.5
+Martis,2024,2,Germania,132,15.98
+Martis,2024,3,Spagna,125,15.13
+Martis,2024,4,Francia,117,14.16
+Martis,2024,5,Belgio,25,3.03
+Martis,2025,1,Francia,152,20.79
+Martis,2025,2,Italia,144,19.7
+Martis,2025,3,Germania,129,17.65
+Martis,2025,4,Spagna,73,9.99
+Martis,2025,5,Irlanda,29,3.97
+Masainas,2022,1,Italia,1274,62.18
+Masainas,2022,2,Francia,305,14.89
+Masainas,2022,3,Germania,135,6.59
+Masainas,2022,4,Spagna,58,2.83
+Masainas,2022,5,Irlanda,55,2.68
+Masainas,2023,1,Italia,1530,67.31
+Masainas,2023,2,Germania,262,11.53
+Masainas,2023,3,Francia,245,10.78
+Masainas,2023,4,Polonia,58,2.55
+Masainas,2023,5,Paesi Bassi,42,1.85
+Masainas,2024,1,Italia,1373,54.83
+Masainas,2024,2,Francia,436,17.41
+Masainas,2024,3,Polonia,183,7.31
+Masainas,2024,4,Germania,181,7.23
+Masainas,2024,5,Svizzera (incluso Liechtenstein),117,4.67
+Masainas,2025,1,Italia,2973,62.12
+Masainas,2025,2,Germania,572,11.95
+Masainas,2025,3,Francia,487,10.18
+Masainas,2025,4,Polonia,148,3.09
+Masainas,2025,5,Svizzera (incluso Liechtenstein),120,2.51
+Masullas,2024,1,Italia,32,31.68
+Masullas,2024,2,Francia,24,23.76
+Masullas,2024,3,Austria,12,11.88
+Masullas,2024,4,Germania,12,11.88
+Masullas,2024,5,Repubblica Ceca,8,7.92
+Masullas,2025,1,Italia,204,58.62
+Masullas,2025,2,Germania,76,21.84
+Masullas,2025,3,Estonia,25,7.18
+Masullas,2025,4,Francia,18,5.17
+Masullas,2025,5,Altri Paesi Centro - Sud America,8,2.3
+Meana Sardo,2022,1,Italia,157,96.91
+Meana Sardo,2022,2,Germania,2,1.23
+Meana Sardo,2022,3,Israele,2,1.23
+Meana Sardo,2022,4,Slovenia,1,0.62
+Meana Sardo,2023,1,Italia,298,96.44
+Meana Sardo,2023,2,Svizzera (incluso Liechtenstein),5,1.62
+Meana Sardo,2023,3,Australia,2,0.65
+Meana Sardo,2023,4,Francia,2,0.65
+Meana Sardo,2023,5,Germania,1,0.32
+Meana Sardo,2024,1,Italia,260,79.03
+Meana Sardo,2024,2,Francia,22,6.69
+Meana Sardo,2024,3,Irlanda,8,2.43
+Meana Sardo,2024,4,Germania,7,2.13
+Meana Sardo,2024,5,Portogallo,6,1.82
+Meana Sardo,2025,1,Italia,230,66.28
+Meana Sardo,2025,2,Grecia,30,8.65
+Meana Sardo,2025,3,Francia,26,7.49
+Meana Sardo,2025,4,Paesi Bassi,9,2.59
+Meana Sardo,2025,5,Regno Unito,9,2.59
+Milis,2022,1,Germania,348,31.18
+Milis,2022,2,Italia,189,16.94
+Milis,2022,3,Stati Uniti d'America,182,16.31
+Milis,2022,4,Francia,165,14.78
+Milis,2022,5,Regno Unito,60,5.38
+Milis,2023,1,Italia,263,18.52
+Milis,2023,2,Francia,262,18.45
+Milis,2023,3,Germania,251,17.68
+Milis,2023,4,Paesi Bassi,94,6.62
+Milis,2023,5,Stati Uniti d'America,78,5.49
+Milis,2024,1,Germania,531,28.04
+Milis,2024,2,Italia,276,14.57
+Milis,2024,3,Stati Uniti d'America,211,11.14
+Milis,2024,4,Svizzera (incluso Liechtenstein),133,7.02
+Milis,2024,5,Moldavia,131,6.92
+Milis,2025,1,Italia,958,43.23
+Milis,2025,2,Germania,342,15.43
+Milis,2025,3,Francia,317,14.31
+Milis,2025,4,Stati Uniti d'America,123,5.55
+Milis,2025,5,Polonia,79,3.56
+Modolo,2022,1,Italia,590,41.9
+Modolo,2022,2,Francia,365,25.92
+Modolo,2022,3,Germania,118,8.38
+Modolo,2022,4,Spagna,94,6.68
+Modolo,2022,5,Repubblica Ceca,80,5.68
+Modolo,2023,1,Italia,459,36.78
+Modolo,2023,2,Francia,205,16.43
+Modolo,2023,3,Germania,151,12.1
+Modolo,2023,4,Spagna,133,10.66
+Modolo,2023,5,Belgio,72,5.77
+Modolo,2024,1,Italia,696,41.23
+Modolo,2024,2,Francia,377,22.33
+Modolo,2024,3,Germania,235,13.92
+Modolo,2024,4,Spagna,84,4.98
+Modolo,2024,5,Paesi Bassi,64,3.79
+Modolo,2025,1,Francia,839,23.51
+Modolo,2025,2,Italia,770,21.58
+Modolo,2025,3,Germania,588,16.48
+Modolo,2025,4,Paesi Bassi,228,6.39
+Modolo,2025,5,Spagna,190,5.33
+Mogoro,2023,1,Italia,183,36.6
+Mogoro,2023,2,Spagna,80,16.0
+Mogoro,2023,3,Polonia,79,15.8
+Mogoro,2023,4,Germania,48,9.6
+Mogoro,2023,5,Francia,34,6.8
+Mogoro,2024,1,Francia,112,31.46
+Mogoro,2024,2,Italia,85,23.88
+Mogoro,2024,3,Spagna,74,20.79
+Mogoro,2024,4,Turchia,27,7.58
+Mogoro,2024,5,Germania,18,5.06
+Mogoro,2025,1,Italia,422,47.1
+Mogoro,2025,2,Francia,129,14.4
+Mogoro,2025,3,Spagna,45,5.02
+Mogoro,2025,4,Svezia,42,4.69
+Mogoro,2025,5,Paesi Bassi,40,4.46
+Monastir,2022,1,Italia,5603,67.79
+Monastir,2022,2,Francia,664,8.03
+Monastir,2022,3,Spagna,596,7.21
+Monastir,2022,4,Germania,236,2.86
+Monastir,2022,5,Paesi Bassi,207,2.5
+Monastir,2023,1,Italia,5639,69.51
+Monastir,2023,2,Francia,642,7.91
+Monastir,2023,3,Germania,365,4.5
+Monastir,2023,4,Spagna,352,4.34
+Monastir,2023,5,Belgio,147,1.81
+Monastir,2024,1,Italia,4238,64.27
+Monastir,2024,2,Francia,571,8.66
+Monastir,2024,3,Spagna,460,6.98
+Monastir,2024,4,Germania,190,2.88
+Monastir,2024,5,Belgio,159,2.41
+Monastir,2025,1,Italia,4231,61.67
+Monastir,2025,2,Germania,579,8.44
+Monastir,2025,3,Francia,526,7.67
+Monastir,2025,4,Spagna,400,5.83
+Monastir,2025,5,Paesi Bassi,148,2.16
+Monserrato,2022,1,Italia,3428,56.6
+Monserrato,2022,2,Francia,808,13.34
+Monserrato,2022,3,Germania,394,6.5
+Monserrato,2022,4,Spagna,181,2.99
+Monserrato,2022,5,Polonia,129,2.13
+Monserrato,2023,1,Italia,4036,52.59
+Monserrato,2023,2,Francia,726,9.46
+Monserrato,2023,3,Germania,418,5.45
+Monserrato,2023,4,Spagna,410,5.34
+Monserrato,2023,5,Polonia,245,3.19
+Monserrato,2024,1,Italia,5088,53.84
+Monserrato,2024,2,Francia,771,8.16
+Monserrato,2024,3,Germania,753,7.97
+Monserrato,2024,4,Polonia,418,4.42
+Monserrato,2024,5,Spagna,340,3.6
+Monserrato,2025,1,Italia,6637,53.43
+Monserrato,2025,2,Francia,1381,11.12
+Monserrato,2025,3,Germania,648,5.22
+Monserrato,2025,4,Polonia,552,4.44
+Monserrato,2025,5,Spagna,496,3.99
+Monteleone Rocca Doria,2025,1,Francia,92,25.41
+Monteleone Rocca Doria,2025,2,Germania,72,19.89
+Monteleone Rocca Doria,2025,3,Italia,53,14.64
+Monteleone Rocca Doria,2025,4,Paesi Bassi,30,8.29
+Monteleone Rocca Doria,2025,5,Ungheria,22,6.08
+Monti,2022,1,Italia,283,62.75
+Monti,2022,2,Francia,54,11.97
+Monti,2022,3,Spagna,49,10.86
+Monti,2022,4,Germania,15,3.33
+Monti,2022,5,Regno Unito,15,3.33
+Monti,2023,1,Italia,351,68.29
+Monti,2023,2,Francia,65,12.65
+Monti,2023,3,Spagna,28,5.45
+Monti,2023,4,Belgio,15,2.92
+Monti,2023,5,Germania,13,2.53
+Monti,2024,1,Italia,605,54.36
+Monti,2024,2,Francia,138,12.4
+Monti,2024,3,Spagna,87,7.82
+Monti,2024,4,Germania,70,6.29
+Monti,2024,5,Paesi Bassi,48,4.31
+Monti,2025,1,Italia,876,37.2
+Monti,2025,2,Francia,532,22.59
+Monti,2025,3,Germania,322,13.67
+Monti,2025,4,Spagna,124,5.27
+Monti,2025,5,Paesi Bassi,86,3.65
+Mores,2023,1,Italia,880,37.04
+Mores,2023,2,Germania,357,15.03
+Mores,2023,3,Francia,297,12.5
+Mores,2023,4,Belgio,142,5.98
+Mores,2023,5,Spagna,131,5.51
+Mores,2024,1,Italia,769,27.13
+Mores,2024,2,Germania,474,16.72
+Mores,2024,3,Francia,437,15.41
+Mores,2024,4,Paesi Bassi,289,10.19
+Mores,2024,5,Regno Unito,251,8.85
+Mores,2025,1,Italia,1075,25.36
+Mores,2025,2,Germania,865,20.41
+Mores,2025,3,Paesi Bassi,565,13.33
+Mores,2025,4,Francia,461,10.88
+Mores,2025,5,Spagna,203,4.79
+Muravera,2022,1,Italia,417054,64.19
+Muravera,2022,2,Germania,122332,18.83
+Muravera,2022,3,Svizzera (incluso Liechtenstein),53604,8.25
+Muravera,2022,4,Francia,11267,1.73
+Muravera,2022,5,Austria,10384,1.6
+Muravera,2023,1,Italia,400305,60.5
+Muravera,2023,2,Germania,133070,20.11
+Muravera,2023,3,Svizzera (incluso Liechtenstein),62006,9.37
+Muravera,2023,4,Austria,11618,1.76
+Muravera,2023,5,Francia,10524,1.59
+Muravera,2024,1,Italia,453891,59.65
+Muravera,2024,2,Germania,148279,19.49
+Muravera,2024,3,Svizzera (incluso Liechtenstein),57792,7.6
+Muravera,2024,4,Repubblica Ceca,16962,2.23
+Muravera,2024,5,Francia,13048,1.71
+Muravera,2025,1,Italia,431753,53.79
+Muravera,2025,2,Germania,167045,20.81
+Muravera,2025,3,Svizzera (incluso Liechtenstein),68049,8.48
+Muravera,2025,4,Polonia,26303,3.28
+Muravera,2025,5,Repubblica Ceca,17456,2.17
+Muros,2025,1,Francia,153,75.37
+Muros,2025,2,Spagna,27,13.3
+Muros,2025,3,Italia,23,11.33
+Musei,2023,1,Italia,10,62.5
+Musei,2023,2,Altri Paesi Centro - Sud America,3,18.75
+Musei,2023,3,Francia,3,18.75
+Musei,2024,1,Italia,96,35.56
+Musei,2024,2,Germania,56,20.74
+Musei,2024,3,Francia,30,11.11
+Musei,2024,4,Polonia,28,10.37
+Musei,2024,5,Spagna,13,4.81
+Musei,2025,1,Italia,149,56.65
+Musei,2025,2,Polonia,23,8.75
+Musei,2025,3,Spagna,23,8.75
+Musei,2025,4,Germania,20,7.6
+Musei,2025,5,Francia,11,4.18
+Narbolia,2022,1,Italia,43701,55.24
+Narbolia,2022,2,Germania,21535,27.22
+Narbolia,2022,3,Svizzera (incluso Liechtenstein),4694,5.93
+Narbolia,2022,4,Francia,2658,3.36
+Narbolia,2022,5,Austria,2357,2.98
+Narbolia,2023,1,Italia,47278,47.95
+Narbolia,2023,2,Germania,27452,27.84
+Narbolia,2023,3,Svizzera (incluso Liechtenstein),8005,8.12
+Narbolia,2023,4,Francia,4624,4.69
+Narbolia,2023,5,Austria,2498,2.53
+Narbolia,2024,1,Italia,38702,46.89
+Narbolia,2024,2,Germania,22701,27.5
+Narbolia,2024,3,Svizzera (incluso Liechtenstein),6404,7.76
+Narbolia,2024,4,Francia,3414,4.14
+Narbolia,2024,5,Austria,2716,3.29
+Narbolia,2025,1,Italia,40833,51.39
+Narbolia,2025,2,Germania,20648,25.99
+Narbolia,2025,3,Svizzera (incluso Liechtenstein),6487,8.16
+Narbolia,2025,4,Francia,3601,4.53
+Narbolia,2025,5,Austria,1967,2.48
+Narcao,2022,1,Italia,719,97.69
+Narcao,2022,2,Svizzera (incluso Liechtenstein),11,1.49
+Narcao,2022,3,Danimarca,2,0.27
+Narcao,2022,4,Francia,2,0.27
+Narcao,2022,5,Paesi Bassi,2,0.27
+Narcao,2023,1,Italia,708,93.04
+Narcao,2023,2,Francia,29,3.81
+Narcao,2023,3,Polonia,10,1.31
+Narcao,2023,4,Spagna,5,0.66
+Narcao,2023,5,Belgio,2,0.26
+Narcao,2024,1,Italia,12,100.0
+Narcao,2025,1,Italia,48,55.81
+Narcao,2025,2,Germania,18,20.93
+Narcao,2025,3,Svizzera (incluso Liechtenstein),8,9.3
+Narcao,2025,4,Francia,5,5.81
+Narcao,2025,5,Altri Paesi Africa Mediterranea,4,4.65
+Norbello,2023,1,Italia,1130,43.73
+Norbello,2023,2,Spagna,352,13.62
+Norbello,2023,3,Francia,262,10.14
+Norbello,2023,4,Germania,258,9.98
+Norbello,2023,5,Repubblica Ceca,245,9.48
+Norbello,2024,1,Italia,1381,45.58
+Norbello,2024,2,Spagna,450,14.85
+Norbello,2024,3,Francia,423,13.96
+Norbello,2024,4,Paesi Bassi,274,9.04
+Norbello,2024,5,Germania,244,8.05
+Norbello,2025,1,Italia,1760,43.7
+Norbello,2025,2,Francia,679,16.86
+Norbello,2025,3,Spagna,655,16.27
+Norbello,2025,4,Germania,311,7.72
+Norbello,2025,5,Paesi Bassi,168,4.17
+Nughedu San Nicolò,2023,1,Italia,216,50.47
+Nughedu San Nicolò,2023,2,Francia,56,13.08
+Nughedu San Nicolò,2023,3,Germania,40,9.35
+Nughedu San Nicolò,2023,4,Spagna,40,9.35
+Nughedu San Nicolò,2023,5,Paesi Bassi,22,5.14
+Nughedu San Nicolò,2024,1,Italia,219,71.1
+Nughedu San Nicolò,2024,2,Francia,14,4.55
+Nughedu San Nicolò,2024,3,Germania,14,4.55
+Nughedu San Nicolò,2024,4,Paesi Bassi,14,4.55
+Nughedu San Nicolò,2024,5,Spagna,13,4.22
+Nughedu San Nicolò,2025,1,Italia,217,45.59
+Nughedu San Nicolò,2025,2,Germania,101,21.22
+Nughedu San Nicolò,2025,3,Francia,60,12.61
+Nughedu San Nicolò,2025,4,Paesi Bassi,23,4.83
+Nughedu San Nicolò,2025,5,Nuova Zelanda,20,4.2
+Nughedu Santa Vittoria,2023,1,Italia,82,60.29
+Nughedu Santa Vittoria,2023,2,Francia,15,11.03
+Nughedu Santa Vittoria,2023,3,Germania,15,11.03
+Nughedu Santa Vittoria,2023,4,Spagna,9,6.62
+Nughedu Santa Vittoria,2023,5,Grecia,8,5.88
+Nughedu Santa Vittoria,2024,1,Italia,77,65.25
+Nughedu Santa Vittoria,2024,2,Germania,16,13.56
+Nughedu Santa Vittoria,2024,3,Polonia,9,7.63
+Nughedu Santa Vittoria,2024,4,Belgio,4,3.39
+Nughedu Santa Vittoria,2024,5,Spagna,4,3.39
+Nughedu Santa Vittoria,2025,1,Italia,123,71.1
+Nughedu Santa Vittoria,2025,2,Germania,13,7.51
+Nughedu Santa Vittoria,2025,3,Romania,10,5.78
+Nughedu Santa Vittoria,2025,4,Canada,9,5.2
+Nughedu Santa Vittoria,2025,5,Francia,4,2.31
+Nulvi,2022,1,Italia,249,32.09
+Nulvi,2022,2,Francia,144,18.56
+Nulvi,2022,3,Spagna,105,13.53
+Nulvi,2022,4,Germania,101,13.02
+Nulvi,2022,5,Regno Unito,64,8.25
+Nulvi,2023,1,Germania,646,31.01
+Nulvi,2023,2,Francia,356,17.09
+Nulvi,2023,3,Italia,249,11.95
+Nulvi,2023,4,Spagna,248,11.91
+Nulvi,2023,5,Svizzera (incluso Liechtenstein),105,5.04
+Nulvi,2024,1,Francia,953,33.89
+Nulvi,2024,2,Italia,540,19.2
+Nulvi,2024,3,Germania,501,17.82
+Nulvi,2024,4,Svizzera (incluso Liechtenstein),227,8.07
+Nulvi,2024,5,Spagna,186,6.61
+Nulvi,2025,1,Germania,1025,32.03
+Nulvi,2025,2,Francia,891,27.84
+Nulvi,2025,3,Italia,382,11.94
+Nulvi,2025,4,Spagna,237,7.41
+Nulvi,2025,5,Paesi Bassi,152,4.75
+Nuoro,2022,1,Italia,33244,76.17
+Nuoro,2022,2,Francia,2575,5.9
+Nuoro,2022,3,Germania,1537,3.52
+Nuoro,2022,4,Spagna,1489,3.41
+Nuoro,2022,5,Paesi Bassi,657,1.51
+Nuoro,2023,1,Italia,44327,75.21
+Nuoro,2023,2,Francia,3301,5.6
+Nuoro,2023,3,Germania,2041,3.46
+Nuoro,2023,4,Spagna,1554,2.64
+Nuoro,2023,5,Paesi Bassi,771,1.31
+Nuoro,2024,1,Italia,38587,69.55
+Nuoro,2024,2,Francia,3085,5.56
+Nuoro,2024,3,Germania,2628,4.74
+Nuoro,2024,4,Spagna,2129,3.84
+Nuoro,2024,5,Paesi Bassi,916,1.65
+Nuoro,2025,1,Italia,37873,70.35
+Nuoro,2025,2,Francia,3788,7.04
+Nuoro,2025,3,Germania,2130,3.96
+Nuoro,2025,4,Spagna,1281,2.38
+Nuoro,2025,5,Paesi Bassi,1074,1.99
+Nurachi,2022,1,Italia,2981,54.35
+Nurachi,2022,2,Germania,938,17.1
+Nurachi,2022,3,Francia,692,12.62
+Nurachi,2022,4,Spagna,168,3.06
+Nurachi,2022,5,Svizzera (incluso Liechtenstein),126,2.3
+Nurachi,2023,1,Italia,2756,48.95
+Nurachi,2023,2,Germania,841,14.94
+Nurachi,2023,3,Francia,628,11.15
+Nurachi,2023,4,Svizzera (incluso Liechtenstein),328,5.83
+Nurachi,2023,5,Spagna,212,3.77
+Nurachi,2024,1,Italia,2949,47.8
+Nurachi,2024,2,Germania,953,15.45
+Nurachi,2024,3,Francia,768,12.45
+Nurachi,2024,4,Paesi Bassi,323,5.24
+Nurachi,2024,5,Spagna,258,4.18
+Nurachi,2025,1,Italia,4853,55.95
+Nurachi,2025,2,Germania,1308,15.08
+Nurachi,2025,3,Francia,777,8.96
+Nurachi,2025,4,Spagna,381,4.39
+Nurachi,2025,5,Paesi Bassi,255,2.94
+Nuragus,2023,1,Italia,94,82.46
+Nuragus,2023,2,Francia,12,10.53
+Nuragus,2023,3,Spagna,4,3.51
+Nuragus,2023,4,Austria,2,1.75
+Nuragus,2023,5,Germania,2,1.75
+Nuragus,2024,1,Italia,39,84.78
+Nuragus,2024,2,Germania,3,6.52
+Nuragus,2024,3,Francia,2,4.35
+Nuragus,2024,4,Repubblica Ceca,1,2.17
+Nuragus,2024,5,Svizzera (incluso Liechtenstein),1,2.17
+Nuragus,2025,1,Italia,16,69.57
+Nuragus,2025,2,Francia,4,17.39
+Nuragus,2025,3,Polonia,3,13.04
+Nurallao,2022,1,Italia,400,52.63
+Nurallao,2022,2,Francia,89,11.71
+Nurallao,2022,3,Germania,84,11.05
+Nurallao,2022,4,Svizzera (incluso Liechtenstein),80,10.53
+Nurallao,2022,5,Brasile,32,4.21
+Nurallao,2023,1,Italia,463,73.84
+Nurallao,2023,2,Germania,51,8.13
+Nurallao,2023,3,Francia,34,5.42
+Nurallao,2023,4,Polonia,18,2.87
+Nurallao,2023,5,Altri Paesi Europei,9,1.44
+Nurallao,2024,1,Italia,332,61.71
+Nurallao,2024,2,Francia,58,10.78
+Nurallao,2024,3,Germania,44,8.18
+Nurallao,2024,4,Altri Paesi Europei,30,5.58
+Nurallao,2024,5,Spagna,18,3.35
+Nurallao,2025,1,Italia,294,66.22
+Nurallao,2025,2,Francia,54,12.16
+Nurallao,2025,3,Germania,20,4.5
+Nurallao,2025,4,Polonia,9,2.03
+Nurallao,2025,5,Regno Unito,9,2.03
+Nuraminis,2022,1,Italia,1319,81.93
+Nuraminis,2022,2,Romania,205,12.73
+Nuraminis,2022,3,Francia,37,2.3
+Nuraminis,2022,4,Spagna,18,1.12
+Nuraminis,2022,5,Malta,10,0.62
+Nuraminis,2023,1,Italia,2481,81.18
+Nuraminis,2023,2,Altri Paesi Africa Mediterranea,151,4.94
+Nuraminis,2023,3,Spagna,95,3.11
+Nuraminis,2023,4,Francia,71,2.32
+Nuraminis,2023,5,Romania,70,2.29
+Nuraminis,2024,1,Italia,2187,87.34
+Nuraminis,2024,2,Francia,63,2.52
+Nuraminis,2024,3,Portogallo,53,2.12
+Nuraminis,2024,4,Spagna,44,1.76
+Nuraminis,2024,5,Polonia,25,1.0
+Nuraminis,2025,1,Italia,2889,88.7
+Nuraminis,2025,2,Germania,81,2.49
+Nuraminis,2025,3,Spagna,54,1.66
+Nuraminis,2025,4,Francia,52,1.6
+Nuraminis,2025,5,Romania,21,0.64
+Nureci,2023,1,Italia,105,46.46
+Nureci,2023,2,Paesi Bassi,34,15.04
+Nureci,2023,3,Germania,24,10.62
+Nureci,2023,4,Stati Uniti d'America,14,6.19
+Nureci,2023,5,Francia,9,3.98
+Nureci,2024,1,Italia,171,47.5
+Nureci,2024,2,Svizzera (incluso Liechtenstein),37,10.28
+Nureci,2024,3,Francia,33,9.17
+Nureci,2024,4,Germania,32,8.89
+Nureci,2024,5,Romania,21,5.83
+Nureci,2025,1,Italia,242,42.61
+Nureci,2025,2,Germania,92,16.2
+Nureci,2025,3,Francia,60,10.56
+Nureci,2025,4,Svizzera (incluso Liechtenstein),23,4.05
+Nureci,2025,5,Regno Unito,17,2.99
+Nurri,2023,1,Italia,903,96.58
+Nurri,2023,2,Francia,15,1.6
+Nurri,2023,3,Svizzera (incluso Liechtenstein),10,1.07
+Nurri,2023,4,Germania,3,0.32
+Nurri,2023,5,Belgio,2,0.21
+Nurri,2024,1,Italia,688,76.11
+Nurri,2024,2,Germania,31,3.43
+Nurri,2024,3,Grecia,31,3.43
+Nurri,2024,4,Portogallo,28,3.1
+Nurri,2024,5,Spagna,26,2.88
+Nurri,2025,1,Italia,3012,96.88
+Nurri,2025,2,Spagna,64,2.06
+Nurri,2025,3,Germania,16,0.51
+Nurri,2025,4,Austria,8,0.26
+Nurri,2025,5,Francia,7,0.23
+Nuxis,2023,1,Germania,82,45.05
+Nuxis,2023,2,Spagna,45,24.73
+Nuxis,2023,3,Regno Unito,28,15.38
+Nuxis,2023,4,Paesi Bassi,27,14.84
+Nuxis,2024,1,Italia,34,43.04
+Nuxis,2024,2,Ungheria,14,17.72
+Nuxis,2024,3,Germania,12,15.19
+Nuxis,2024,4,Paesi Bassi,6,7.59
+Nuxis,2024,5,Polonia,6,7.59
+Nuxis,2025,1,Italia,288,44.72
+Nuxis,2025,2,Spagna,111,17.24
+Nuxis,2025,3,Germania,88,13.66
+Nuxis,2025,4,Francia,37,5.75
+Nuxis,2025,5,Polonia,30,4.66
+Olbia,2022,1,Italia,365377,44.43
+Olbia,2022,2,Germania,108569,13.2
+Olbia,2022,3,Francia,69138,8.41
+Olbia,2022,4,Regno Unito,47302,5.75
+Olbia,2022,5,Svizzera (incluso Liechtenstein),43205,5.25
+Olbia,2023,1,Italia,342949,39.39
+Olbia,2023,2,Germania,110013,12.63
+Olbia,2023,3,Francia,87230,10.02
+Olbia,2023,4,Svizzera (incluso Liechtenstein),42671,4.9
+Olbia,2023,5,Regno Unito,40583,4.66
+Olbia,2024,1,Italia,393607,36.45
+Olbia,2024,2,Germania,138831,12.86
+Olbia,2024,3,Francia,105891,9.81
+Olbia,2024,4,Regno Unito,52999,4.91
+Olbia,2024,5,Svizzera (incluso Liechtenstein),48367,4.48
+Olbia,2025,1,Italia,387894,33.4
+Olbia,2025,2,Germania,150391,12.95
+Olbia,2025,3,Francia,128328,11.05
+Olbia,2025,4,Regno Unito,52166,4.49
+Olbia,2025,5,Svizzera (incluso Liechtenstein),48244,4.15
+Oliena,2022,1,Italia,22340,56.25
+Oliena,2022,2,Germania,2967,7.47
+Oliena,2022,3,Francia,2934,7.39
+Oliena,2022,4,Stati Uniti d'America,2237,5.63
+Oliena,2022,5,Regno Unito,1907,4.8
+Oliena,2023,1,Italia,12017,38.72
+Oliena,2023,2,Francia,3083,9.93
+Oliena,2023,3,Stati Uniti d'America,2962,9.54
+Oliena,2023,4,Germania,2938,9.47
+Oliena,2023,5,Regno Unito,2135,6.88
+Oliena,2024,1,Italia,10684,34.19
+Oliena,2024,2,Stati Uniti d'America,3785,12.11
+Oliena,2024,3,Germania,3109,9.95
+Oliena,2024,4,Francia,2665,8.53
+Oliena,2024,5,Regno Unito,2020,6.46
+Oliena,2025,1,Italia,10761,31.37
+Oliena,2025,2,Stati Uniti d'America,4899,14.28
+Oliena,2025,3,Francia,3513,10.24
+Oliena,2025,4,Germania,3325,9.69
+Oliena,2025,5,Regno Unito,2335,6.81
+Ollastra,2023,1,Italia,84,75.0
+Ollastra,2023,2,Germania,10,8.93
+Ollastra,2023,3,Paesi Bassi,6,5.36
+Ollastra,2023,4,Spagna,6,5.36
+Ollastra,2023,5,Slovenia,4,3.57
+Ollolai,2022,1,Italia,163,89.07
+Ollolai,2022,2,Francia,16,8.74
+Ollolai,2022,3,Germania,4,2.19
+Ollolai,2023,1,Italia,127,96.95
+Ollolai,2023,2,Francia,4,3.05
+Ollolai,2024,1,Italia,127,84.11
+Ollolai,2024,2,Svizzera (incluso Liechtenstein),8,5.3
+Ollolai,2024,3,Francia,6,3.97
+Ollolai,2024,4,Austria,4,2.65
+Ollolai,2024,5,Germania,4,2.65
+Ollolai,2025,1,Italia,499,55.82
+Ollolai,2025,2,Austria,73,8.17
+Ollolai,2025,3,Stati Uniti d'America,62,6.94
+Ollolai,2025,4,Germania,59,6.6
+Ollolai,2025,5,Francia,38,4.25
+Olmedo,2022,1,Italia,2644,49.89
+Olmedo,2022,2,Germania,708,13.36
+Olmedo,2022,3,Francia,547,10.32
+Olmedo,2022,4,Spagna,370,6.98
+Olmedo,2022,5,Svizzera (incluso Liechtenstein),230,4.34
+Olmedo,2023,1,Italia,2232,36.46
+Olmedo,2023,2,Germania,962,15.72
+Olmedo,2023,3,Francia,935,15.28
+Olmedo,2023,4,Spagna,565,9.23
+Olmedo,2023,5,Paesi Bassi,295,4.82
+Olmedo,2024,1,Italia,3563,40.82
+Olmedo,2024,2,Francia,1417,16.23
+Olmedo,2024,3,Germania,947,10.85
+Olmedo,2024,4,Spagna,688,7.88
+Olmedo,2024,5,Paesi Bassi,522,5.98
+Olmedo,2025,1,Italia,6646,44.59
+Olmedo,2025,2,Francia,1877,12.59
+Olmedo,2025,3,Spagna,1288,8.64
+Olmedo,2025,4,Germania,1088,7.3
+Olmedo,2025,5,Paesi Bassi,713,4.78
+Onifai,2022,1,Italia,622,44.49
+Onifai,2022,2,Germania,172,12.3
+Onifai,2022,3,Francia,134,9.59
+Onifai,2022,4,Spagna,110,7.87
+Onifai,2022,5,Polonia,79,5.65
+Onifai,2023,1,Italia,499,36.5
+Onifai,2023,2,Francia,174,12.73
+Onifai,2023,3,Spagna,163,11.92
+Onifai,2023,4,Germania,133,9.73
+Onifai,2023,5,Ungheria,59,4.32
+Onifai,2024,1,Italia,752,34.93
+Onifai,2024,2,Germania,395,18.35
+Onifai,2024,3,Francia,284,13.19
+Onifai,2024,4,Spagna,219,10.17
+Onifai,2024,5,Polonia,94,4.37
+Onifai,2025,1,Italia,754,29.89
+Onifai,2025,2,Francia,595,23.58
+Onifai,2025,3,Germania,282,11.18
+Onifai,2025,4,Svezia,203,8.05
+Onifai,2025,5,Spagna,119,4.72
+Orani,2022,1,Italia,1502,80.8
+Orani,2022,2,Germania,142,7.64
+Orani,2022,3,Francia,71,3.82
+Orani,2022,4,Malta,45,2.42
+Orani,2022,5,Spagna,22,1.18
+Orani,2023,1,Italia,1639,82.99
+Orani,2023,2,Francia,97,4.91
+Orani,2023,3,Germania,66,3.34
+Orani,2023,4,Danimarca,30,1.52
+Orani,2023,5,Spagna,30,1.52
+Orani,2024,1,Italia,921,71.62
+Orani,2024,2,Germania,167,12.99
+Orani,2024,3,Francia,95,7.39
+Orani,2024,4,Spagna,32,2.49
+Orani,2024,5,Malta,24,1.87
+Orani,2025,1,Italia,1115,64.27
+Orani,2025,2,Francia,220,12.68
+Orani,2025,3,Germania,63,3.63
+Orani,2025,4,Regno Unito,56,3.23
+Orani,2025,5,Romania,29,1.67
+Orgosolo,2022,1,Italia,2461,51.31
+Orgosolo,2022,2,Francia,787,16.41
+Orgosolo,2022,3,Germania,480,10.01
+Orgosolo,2022,4,Polonia,178,3.71
+Orgosolo,2022,5,Spagna,176,3.67
+Orgosolo,2023,1,Italia,2177,47.43
+Orgosolo,2023,2,Francia,775,16.88
+Orgosolo,2023,3,Germania,479,10.44
+Orgosolo,2023,4,Spagna,200,4.36
+Orgosolo,2023,5,Paesi Bassi,194,4.23
+Orgosolo,2024,1,Italia,2475,45.46
+Orgosolo,2024,2,Francia,878,16.13
+Orgosolo,2024,3,Germania,589,10.82
+Orgosolo,2024,4,Spagna,210,3.86
+Orgosolo,2024,5,Polonia,194,3.56
+Orgosolo,2025,1,Italia,2646,40.66
+Orgosolo,2025,2,Francia,1239,19.04
+Orgosolo,2025,3,Germania,543,8.34
+Orgosolo,2025,4,Paesi Bassi,280,4.3
+Orgosolo,2025,5,Polonia,257,3.95
+Oristano,2022,1,Italia,107710,62.72
+Oristano,2022,2,Germania,13133,7.65
+Oristano,2022,3,Francia,12504,7.28
+Oristano,2022,4,Svizzera (incluso Liechtenstein),5538,3.22
+Oristano,2022,5,Spagna,5378,3.13
+Oristano,2023,1,Italia,120465,62.1
+Oristano,2023,2,Germania,14701,7.58
+Oristano,2023,3,Francia,13710,7.07
+Oristano,2023,4,Spagna,6030,3.11
+Oristano,2023,5,Svizzera (incluso Liechtenstein),5991,3.09
+Oristano,2024,1,Italia,116381,57.43
+Oristano,2024,2,Germania,20435,10.08
+Oristano,2024,3,Francia,14743,7.28
+Oristano,2024,4,Svizzera (incluso Liechtenstein),6478,3.2
+Oristano,2024,5,Spagna,5954,2.94
+Oristano,2025,1,Italia,135871,59.09
+Oristano,2025,2,Germania,22252,9.68
+Oristano,2025,3,Francia,16412,7.14
+Oristano,2025,4,Svizzera (incluso Liechtenstein),6542,2.85
+Oristano,2025,5,Spagna,6100,2.65
+Orosei,2022,1,Italia,543842,63.01
+Orosei,2022,2,Germania,145638,16.87
+Orosei,2022,3,Svizzera (incluso Liechtenstein),73155,8.48
+Orosei,2022,4,Francia,22537,2.61
+Orosei,2022,5,Austria,13022,1.51
+Orosei,2023,1,Italia,464326,60.4
+Orosei,2023,2,Germania,123856,16.11
+Orosei,2023,3,Svizzera (incluso Liechtenstein),60776,7.91
+Orosei,2023,4,Francia,25676,3.34
+Orosei,2023,5,Austria,13387,1.74
+Orosei,2024,1,Italia,543765,62.46
+Orosei,2024,2,Germania,142473,16.37
+Orosei,2024,3,Svizzera (incluso Liechtenstein),52211,6.0
+Orosei,2024,4,Francia,24493,2.81
+Orosei,2024,5,Austria,12849,1.48
+Orosei,2025,1,Italia,607447,58.14
+Orosei,2025,2,Germania,169057,16.18
+Orosei,2025,3,Svizzera (incluso Liechtenstein),65737,6.29
+Orosei,2025,4,Francia,40339,3.86
+Orosei,2025,5,Regno Unito,21510,2.06
+Orroli,2022,1,Italia,191,62.42
+Orroli,2022,2,Regno Unito,32,10.46
+Orroli,2022,3,Francia,31,10.13
+Orroli,2022,4,Germania,21,6.86
+Orroli,2022,5,Spagna,8,2.61
+Orroli,2023,1,Italia,245,48.23
+Orroli,2023,2,Germania,71,13.98
+Orroli,2023,3,Francia,48,9.45
+Orroli,2023,4,Irlanda,19,3.74
+Orroli,2023,5,Polonia,19,3.74
+Orroli,2024,1,Italia,322,43.45
+Orroli,2024,2,Germania,144,19.43
+Orroli,2024,3,Stati Uniti d'America,63,8.5
+Orroli,2024,4,Paesi Bassi,35,4.72
+Orroli,2024,5,Francia,25,3.37
+Orroli,2025,1,Italia,484,57.69
+Orroli,2025,2,Germania,82,9.77
+Orroli,2025,3,Francia,63,7.51
+Orroli,2025,4,Regno Unito,32,3.81
+Orroli,2025,5,Belgio,28,3.34
+Ortueri,2023,1,Italia,134,63.51
+Ortueri,2023,2,Francia,74,35.07
+Ortueri,2023,3,Stati Uniti d'America,2,0.95
+Ortueri,2023,4,Svizzera (incluso Liechtenstein),1,0.47
+Ortueri,2024,1,Italia,184,73.02
+Ortueri,2024,2,Francia,63,25.0
+Ortueri,2024,3,Germania,4,1.59
+Ortueri,2024,4,Irlanda,1,0.4
+Ortueri,2025,1,Italia,84,63.64
+Ortueri,2025,2,Francia,34,25.76
+Ortueri,2025,3,Polonia,8,6.06
+Ortueri,2025,4,Repubblica Ceca,3,2.27
+Ortueri,2025,5,Portogallo,1,0.76
+Orune,2024,1,Italia,15,100.0
+Oschiri,2022,1,Italia,720,43.45
+Oschiri,2022,2,Germania,393,23.72
+Oschiri,2022,3,Francia,114,6.88
+Oschiri,2022,4,Paesi Bassi,100,6.04
+Oschiri,2022,5,Belgio,75,4.53
+Oschiri,2023,1,Italia,238,69.19
+Oschiri,2023,2,Francia,30,8.72
+Oschiri,2023,3,Germania,29,8.43
+Oschiri,2023,4,Argentina,10,2.91
+Oschiri,2023,5,Svizzera (incluso Liechtenstein),7,2.03
+Oschiri,2024,1,Italia,351,64.17
+Oschiri,2024,2,Francia,66,12.07
+Oschiri,2024,3,Spagna,33,6.03
+Oschiri,2024,4,Germania,17,3.11
+Oschiri,2024,5,Irlanda,12,2.19
+Oschiri,2025,1,Italia,448,38.19
+Oschiri,2025,2,Francia,236,20.12
+Oschiri,2025,3,Germania,129,11.0
+Oschiri,2025,4,Spagna,98,8.35
+Oschiri,2025,5,Paesi Bassi,73,6.22
+Osidda,2023,1,Italia,29,78.38
+Osidda,2023,2,Francia,6,16.22
+Osidda,2023,3,Altri Paesi Europei,2,5.41
+Osidda,2024,1,Italia,38,100.0
+Osidda,2025,1,Italia,10,83.33
+Osidda,2025,2,Russia,2,16.67
+Osilo,2022,1,Francia,182,22.72
+Osilo,2022,2,Germania,172,21.47
+Osilo,2022,3,Paesi Bassi,146,18.23
+Osilo,2022,4,Belgio,72,8.99
+Osilo,2022,5,Italia,66,8.24
+Osilo,2023,1,Germania,65,50.39
+Osilo,2023,2,Italia,24,18.6
+Osilo,2023,3,Paesi Bassi,16,12.4
+Osilo,2023,4,Repubblica Ceca,16,12.4
+Osilo,2023,5,Francia,8,6.2
+Osilo,2024,1,Germania,163,19.85
+Osilo,2024,2,Francia,154,18.76
+Osilo,2024,3,Paesi Bassi,127,15.47
+Osilo,2024,4,Italia,112,13.64
+Osilo,2024,5,Belgio,56,6.82
+Osilo,2025,1,Francia,300,24.04
+Osilo,2025,2,Germania,194,15.54
+Osilo,2025,3,Italia,190,15.22
+Osilo,2025,4,Spagna,164,13.14
+Osilo,2025,5,Romania,88,7.05
+Osini,2022,1,Italia,646,68.94
+Osini,2022,2,Regno Unito,72,7.68
+Osini,2022,3,Francia,49,5.23
+Osini,2022,4,Germania,34,3.63
+Osini,2022,5,Austria,31,3.31
+Osini,2023,1,Italia,665,71.74
+Osini,2023,2,Francia,67,7.23
+Osini,2023,3,Germania,61,6.58
+Osini,2023,4,Svizzera (incluso Liechtenstein),27,2.91
+Osini,2023,5,Paesi Bassi,17,1.83
+Osini,2024,1,Italia,758,55.98
+Osini,2024,2,Francia,126,9.31
+Osini,2024,3,Germania,115,8.49
+Osini,2024,4,Regno Unito,98,7.24
+Osini,2024,5,Svizzera (incluso Liechtenstein),72,5.32
+Osini,2025,1,Italia,1435,51.86
+Osini,2025,2,Germania,314,11.35
+Osini,2025,3,Francia,284,10.26
+Osini,2025,4,Polonia,119,4.3
+Osini,2025,5,Belgio,96,3.47
+Ossi,2023,1,Italia,153,28.92
+Ossi,2023,2,Germania,123,23.25
+Ossi,2023,3,Francia,99,18.71
+Ossi,2023,4,Spagna,44,8.32
+Ossi,2023,5,Paesi Bassi,23,4.35
+Ossi,2024,1,Italia,263,38.17
+Ossi,2024,2,Spagna,114,16.55
+Ossi,2024,3,Francia,83,12.05
+Ossi,2024,4,Germania,61,8.85
+Ossi,2024,5,Paesi Bassi,33,4.79
+Ossi,2025,1,Italia,861,38.28
+Ossi,2025,2,Francia,493,21.92
+Ossi,2025,3,Germania,260,11.56
+Ossi,2025,4,Spagna,200,8.89
+Ossi,2025,5,Paesi Bassi,104,4.62
+Ottana,2023,1,Italia,2632,92.22
+Ottana,2023,2,Portogallo,60,2.1
+Ottana,2023,3,Germania,45,1.58
+Ottana,2023,4,Francia,27,0.95
+Ottana,2023,5,Spagna,15,0.53
+Ottana,2024,1,Italia,1147,90.89
+Ottana,2024,2,Altri Paesi dell'Africa,62,4.91
+Ottana,2024,3,Cina,22,1.74
+Ottana,2024,4,Bulgaria,12,0.95
+Ottana,2024,5,Germania,10,0.79
+Ottana,2025,1,Italia,5526,91.49
+Ottana,2025,2,Cina,138,2.28
+Ottana,2025,3,Romania,128,2.12
+Ottana,2025,4,Egitto,81,1.34
+Ottana,2025,5,Altri Paesi Africa Mediterranea,54,0.89
+Ovodda,2023,1,Italia,135,91.84
+Ovodda,2023,2,Portogallo,8,5.44
+Ovodda,2023,3,Francia,4,2.72
+Ovodda,2024,1,Italia,214,94.69
+Ovodda,2024,2,Romania,10,4.42
+Ovodda,2024,3,Portogallo,2,0.88
+Ovodda,2025,1,Italia,845,99.18
+Ovodda,2025,2,Romania,7,0.82
+Ozieri,2022,1,Italia,3781,92.47
+Ozieri,2022,2,Romania,126,3.08
+Ozieri,2022,3,Francia,52,1.27
+Ozieri,2022,4,Germania,33,0.81
+Ozieri,2022,5,Altri Paesi Europei,24,0.59
+Ozieri,2023,1,Italia,4076,76.44
+Ozieri,2023,2,Romania,435,8.16
+Ozieri,2023,3,Grecia,160,3.0
+Ozieri,2023,4,Francia,110,2.06
+Ozieri,2023,5,Germania,109,2.04
+Ozieri,2024,1,Italia,2722,75.74
+Ozieri,2024,2,Germania,162,4.51
+Ozieri,2024,3,Romania,155,4.31
+Ozieri,2024,4,Francia,140,3.9
+Ozieri,2024,5,Spagna,89,2.48
+Ozieri,2025,1,Italia,3528,82.78
+Ozieri,2025,2,Francia,213,5.0
+Ozieri,2025,3,Germania,143,3.36
+Ozieri,2025,4,Romania,71,1.67
+Ozieri,2025,5,Belgio,36,0.84
+Pabillonis,2022,1,Italia,234,64.82
+Pabillonis,2022,2,Germania,70,19.39
+Pabillonis,2022,3,Francia,20,5.54
+Pabillonis,2022,4,Regno Unito,18,4.99
+Pabillonis,2022,5,Belgio,15,4.16
+Pabillonis,2023,1,Italia,488,66.67
+Pabillonis,2023,2,Paesi Bassi,50,6.83
+Pabillonis,2023,3,Germania,38,5.19
+Pabillonis,2023,4,Spagna,30,4.1
+Pabillonis,2023,5,Romania,21,2.87
+Pabillonis,2024,1,Italia,683,56.54
+Pabillonis,2024,2,Germania,170,14.07
+Pabillonis,2024,3,Spagna,124,10.26
+Pabillonis,2024,4,Francia,73,6.04
+Pabillonis,2024,5,Regno Unito,40,3.31
+Pabillonis,2025,1,Italia,542,39.71
+Pabillonis,2025,2,Francia,166,12.16
+Pabillonis,2025,3,Polonia,163,11.94
+Pabillonis,2025,4,Germania,158,11.58
+Pabillonis,2025,5,Spagna,82,6.01
+Padria,2023,1,Italia,67,72.83
+Padria,2023,2,Svizzera (incluso Liechtenstein),21,22.83
+Padria,2023,3,Francia,4,4.35
+Padria,2024,1,Italia,88,72.73
+Padria,2024,2,Svizzera (incluso Liechtenstein),20,16.53
+Padria,2024,3,Paesi Bassi,13,10.74
+Padria,2025,1,Regno Unito,64,57.66
+Padria,2025,2,Italia,35,31.53
+Padria,2025,3,Germania,8,7.21
+Padria,2025,4,Romania,4,3.6
+Padru,2022,1,Italia,171,100.0
+Padru,2023,1,Italia,474,41.76
+Padru,2023,2,Germania,287,25.29
+Padru,2023,3,Francia,102,8.99
+Padru,2023,4,Spagna,58,5.11
+Padru,2023,5,Polonia,44,3.88
+Padru,2024,1,Italia,877,37.97
+Padru,2024,2,Germania,559,24.2
+Padru,2024,3,Francia,287,12.42
+Padru,2024,4,Spagna,141,6.1
+Padru,2024,5,Paesi Bassi,83,3.59
+Padru,2025,1,Italia,2204,40.85
+Padru,2025,2,Germania,881,16.33
+Padru,2025,3,Francia,590,10.94
+Padru,2025,4,Romania,207,3.84
+Padru,2025,5,Spagna,198,3.67
+Palau,2022,1,Italia,264688,48.83
+Palau,2022,2,Germania,111677,20.6
+Palau,2022,3,Svizzera (incluso Liechtenstein),41324,7.62
+Palau,2022,4,Francia,25607,4.72
+Palau,2022,5,Paesi Bassi,14174,2.61
+Palau,2023,1,Italia,264517,44.38
+Palau,2023,2,Germania,135260,22.69
+Palau,2023,3,Svizzera (incluso Liechtenstein),50733,8.51
+Palau,2023,4,Francia,31507,5.29
+Palau,2023,5,Paesi Bassi,16067,2.7
+Palau,2024,1,Italia,283595,40.49
+Palau,2024,2,Germania,162614,23.21
+Palau,2024,3,Svizzera (incluso Liechtenstein),58773,8.39
+Palau,2024,4,Francia,44112,6.3
+Palau,2024,5,Paesi Bassi,19880,2.84
+Palau,2025,1,Italia,274472,38.32
+Palau,2025,2,Germania,158191,22.09
+Palau,2025,3,Svizzera (incluso Liechtenstein),55658,7.77
+Palau,2025,4,Francia,51934,7.25
+Palau,2025,5,Paesi Bassi,24768,3.46
+Palmas Arborea,2024,1,Paesi Bassi,5,41.67
+Palmas Arborea,2024,2,Italia,4,33.33
+Palmas Arborea,2024,3,Germania,3,25.0
+Palmas Arborea,2025,1,Italia,364,76.96
+Palmas Arborea,2025,2,Francia,65,13.74
+Palmas Arborea,2025,3,Repubblica Ceca,26,5.5
+Palmas Arborea,2025,4,Spagna,16,3.38
+Palmas Arborea,2025,5,Paesi Bassi,2,0.42
+Pattada,2023,1,Italia,86,41.55
+Pattada,2023,2,Francia,44,21.26
+Pattada,2023,3,Svizzera (incluso Liechtenstein),26,12.56
+Pattada,2023,4,Germania,18,8.7
+Pattada,2023,5,Belgio,7,3.38
+Pattada,2024,1,Italia,71,55.47
+Pattada,2024,2,Francia,20,15.62
+Pattada,2024,3,Germania,18,14.06
+Pattada,2024,4,Austria,4,3.12
+Pattada,2024,5,Canada,4,3.12
+Pattada,2025,1,Italia,117,55.45
+Pattada,2025,2,Francia,68,32.23
+Pattada,2025,3,Spagna,14,6.64
+Pattada,2025,4,Portogallo,8,3.79
+Pattada,2025,5,Paesi Bassi,2,0.95
+Pau,2025,1,Polonia,63,34.43
+Pau,2025,2,Belgio,48,26.23
+Pau,2025,3,Spagna,46,25.14
+Pau,2025,4,Francia,20,10.93
+Pau,2025,5,Altri Paesi Centro - Sud America,6,3.28
+Pauli Arbarei,2023,1,Italia,398,71.71
+Pauli Arbarei,2023,2,Francia,49,8.83
+Pauli Arbarei,2023,3,Spagna,34,6.13
+Pauli Arbarei,2023,4,Germania,25,4.5
+Pauli Arbarei,2023,5,Svizzera (incluso Liechtenstein),14,2.52
+Pauli Arbarei,2024,1,Italia,210,59.32
+Pauli Arbarei,2024,2,Germania,41,11.58
+Pauli Arbarei,2024,3,Stati Uniti d'America,31,8.76
+Pauli Arbarei,2024,4,Svizzera (incluso Liechtenstein),14,3.95
+Pauli Arbarei,2024,5,Svezia,10,2.82
+Pauli Arbarei,2025,1,Italia,211,77.29
+Pauli Arbarei,2025,2,Germania,10,3.66
+Pauli Arbarei,2025,3,Francia,8,2.93
+Pauli Arbarei,2025,4,Repubblica Ceca,8,2.93
+Pauli Arbarei,2025,5,Belgio,6,2.2
+Paulilatino,2022,1,Italia,855,60.34
+Paulilatino,2022,2,Francia,157,11.08
+Paulilatino,2022,3,Germania,98,6.92
+Paulilatino,2022,4,Spagna,50,3.53
+Paulilatino,2022,5,Regno Unito,36,2.54
+Paulilatino,2023,1,Italia,701,46.15
+Paulilatino,2023,2,Germania,204,13.43
+Paulilatino,2023,3,Francia,125,8.23
+Paulilatino,2023,4,Spagna,97,6.39
+Paulilatino,2023,5,Paesi Bassi,70,4.61
+Paulilatino,2024,1,Italia,1690,55.26
+Paulilatino,2024,2,Germania,426,13.93
+Paulilatino,2024,3,Francia,148,4.84
+Paulilatino,2024,4,Spagna,142,4.64
+Paulilatino,2024,5,Paesi Bassi,85,2.78
+Paulilatino,2025,1,Italia,1699,53.58
+Paulilatino,2025,2,Germania,285,8.99
+Paulilatino,2025,3,Francia,242,7.63
+Paulilatino,2025,4,Spagna,150,4.73
+Paulilatino,2025,5,Regno Unito,95,3.0
+Perdasdefogu,2022,1,Italia,169,92.86
+Perdasdefogu,2022,2,Germania,7,3.85
+Perdasdefogu,2022,3,Nuova Zelanda,2,1.1
+Perdasdefogu,2022,4,Regno Unito,1,0.55
+Perdasdefogu,2022,5,Spagna,1,0.55
+Perdasdefogu,2023,1,Italia,182,91.92
+Perdasdefogu,2023,2,Austria,7,3.54
+Perdasdefogu,2023,3,Altri Paesi Africa Mediterranea,3,1.52
+Perdasdefogu,2023,4,Germania,3,1.52
+Perdasdefogu,2023,5,Stati Uniti d'America,2,1.01
+Perdasdefogu,2024,1,Italia,103,91.15
+Perdasdefogu,2024,2,Svezia,6,5.31
+Perdasdefogu,2024,3,Stati Uniti d'America,3,2.65
+Perdasdefogu,2024,4,Spagna,1,0.88
+Perdasdefogu,2025,1,Italia,542,96.79
+Perdasdefogu,2025,2,Svizzera (incluso Liechtenstein),9,1.61
+Perdasdefogu,2025,3,Polonia,6,1.07
+Perdasdefogu,2025,4,Francia,1,0.18
+Perdasdefogu,2025,5,Germania,1,0.18
+Perdaxius,2023,1,Italia,10,100.0
+Perdaxius,2024,1,Germania,28,48.28
+Perdaxius,2024,2,Paesi Bassi,16,27.59
+Perdaxius,2024,3,Belgio,7,12.07
+Perdaxius,2024,4,Francia,7,12.07
+Perdaxius,2025,1,Paesi Bassi,63,60.58
+Perdaxius,2025,2,Germania,14,13.46
+Perdaxius,2025,3,Svizzera (incluso Liechtenstein),14,13.46
+Perdaxius,2025,4,Austria,7,6.73
+Perdaxius,2025,5,Regno Unito,6,5.77
+Perfugas,2022,1,Italia,181,27.72
+Perfugas,2022,2,Francia,133,20.37
+Perfugas,2022,3,Spagna,131,20.06
+Perfugas,2022,4,Paesi Bassi,43,6.58
+Perfugas,2022,5,Svizzera (incluso Liechtenstein),33,5.05
+Perfugas,2023,1,Italia,231,24.65
+Perfugas,2023,2,Francia,213,22.73
+Perfugas,2023,3,Germania,212,22.63
+Perfugas,2023,4,Spagna,119,12.7
+Perfugas,2023,5,Polonia,41,4.38
+Perfugas,2024,1,Italia,417,27.99
+Perfugas,2024,2,Repubblica Ceca,260,17.45
+Perfugas,2024,3,Francia,240,16.11
+Perfugas,2024,4,Spagna,151,10.13
+Perfugas,2024,5,Paesi Bassi,150,10.07
+Perfugas,2025,1,Francia,653,27.69
+Perfugas,2025,2,Italia,443,18.79
+Perfugas,2025,3,Paesi Bassi,326,13.83
+Perfugas,2025,4,Lussemburgo,252,10.69
+Perfugas,2025,5,Germania,228,9.67
+Pimentel,2023,1,Belgio,50,32.26
+Pimentel,2023,2,Francia,34,21.94
+Pimentel,2023,3,Germania,27,17.42
+Pimentel,2023,4,Italia,20,12.9
+Pimentel,2023,5,Brasile,6,3.87
+Pimentel,2024,1,Italia,326,22.77
+Pimentel,2024,2,Francia,299,20.88
+Pimentel,2024,3,Germania,242,16.9
+Pimentel,2024,4,Spagna,102,7.12
+Pimentel,2024,5,Belgio,96,6.7
+Pimentel,2025,1,Italia,337,28.41
+Pimentel,2025,2,Francia,232,19.56
+Pimentel,2025,3,Germania,213,17.96
+Pimentel,2025,4,Spagna,86,7.25
+Pimentel,2025,5,Polonia,74,6.24
+Piscinas,2023,1,Italia,373,79.53
+Piscinas,2023,2,Germania,41,8.74
+Piscinas,2023,3,Francia,39,8.32
+Piscinas,2023,4,Altri Paesi Europei,5,1.07
+Piscinas,2023,5,Canada,5,1.07
+Piscinas,2024,1,Italia,463,86.54
+Piscinas,2024,2,Germania,34,6.36
+Piscinas,2024,3,Francia,12,2.24
+Piscinas,2024,4,Belgio,7,1.31
+Piscinas,2024,5,Svizzera (incluso Liechtenstein),7,1.31
+Piscinas,2025,1,Italia,636,76.08
+Piscinas,2025,2,Francia,50,5.98
+Piscinas,2025,3,Germania,46,5.5
+Piscinas,2025,4,Polonia,23,2.75
+Piscinas,2025,5,Repubblica Ceca,18,2.15
+Ploaghe,2023,1,Italia,199,77.73
+Ploaghe,2023,2,India,20,7.81
+Ploaghe,2023,3,Belgio,8,3.12
+Ploaghe,2023,4,Spagna,8,3.12
+Ploaghe,2023,5,Germania,6,2.34
+Ploaghe,2024,1,Italia,274,61.3
+Ploaghe,2024,2,Spagna,73,16.33
+Ploaghe,2024,3,Germania,39,8.72
+Ploaghe,2024,4,Slovenia,16,3.58
+Ploaghe,2024,5,Romania,10,2.24
+Ploaghe,2025,1,Italia,635,64.4
+Ploaghe,2025,2,Spagna,97,9.84
+Ploaghe,2025,3,Francia,95,9.63
+Ploaghe,2025,4,Germania,74,7.51
+Ploaghe,2025,5,Lituania,21,2.13
+Pompu,2024,1,Italia,49,76.56
+Pompu,2024,2,Croazia,10,15.62
+Pompu,2024,3,Francia,5,7.81
+Pompu,2025,1,Italia,65,59.09
+Pompu,2025,2,Moldavia,13,11.82
+Pompu,2025,3,Germania,12,10.91
+Pompu,2025,4,Spagna,8,7.27
+Pompu,2025,5,Altri Paesi Africa Mediterranea,4,3.64
+Porto Torres,2022,1,Italia,32027,62.64
+Porto Torres,2022,2,Francia,6736,13.17
+Porto Torres,2022,3,Spagna,5108,9.99
+Porto Torres,2022,4,Germania,1265,2.47
+Porto Torres,2022,5,Grecia,673,1.32
+Porto Torres,2023,1,Italia,30529,59.54
+Porto Torres,2023,2,Francia,6566,12.81
+Porto Torres,2023,3,Spagna,5888,11.48
+Porto Torres,2023,4,Germania,1909,3.72
+Porto Torres,2023,5,Svizzera (incluso Liechtenstein),749,1.46
+Porto Torres,2024,1,Italia,27561,54.47
+Porto Torres,2024,2,Francia,7460,14.74
+Porto Torres,2024,3,Spagna,5641,11.15
+Porto Torres,2024,4,Germania,2024,4.0
+Porto Torres,2024,5,Polonia,793,1.57
+Porto Torres,2025,1,Italia,30526,50.2
+Porto Torres,2025,2,Francia,8523,14.02
+Porto Torres,2025,3,Spagna,5954,9.79
+Porto Torres,2025,4,Germania,3697,6.08
+Porto Torres,2025,5,Polonia,1973,3.24
+Portoscuso,2022,1,Italia,11546,53.47
+Portoscuso,2022,2,Francia,2088,9.67
+Portoscuso,2022,3,Germania,1795,8.31
+Portoscuso,2022,4,Svizzera (incluso Liechtenstein),928,4.3
+Portoscuso,2022,5,Austria,635,2.94
+Portoscuso,2023,1,Italia,13604,50.43
+Portoscuso,2023,2,Germania,2929,10.86
+Portoscuso,2023,3,Francia,2354,8.73
+Portoscuso,2023,4,Svizzera (incluso Liechtenstein),1313,4.87
+Portoscuso,2023,5,Polonia,807,2.99
+Portoscuso,2024,1,Italia,14076,48.61
+Portoscuso,2024,2,Germania,3646,12.59
+Portoscuso,2024,3,Francia,2489,8.6
+Portoscuso,2024,4,Regno Unito,1223,4.22
+Portoscuso,2024,5,Svizzera (incluso Liechtenstein),1149,3.97
+Portoscuso,2025,1,Italia,17276,51.2
+Portoscuso,2025,2,Germania,3877,11.49
+Portoscuso,2025,3,Francia,3192,9.46
+Portoscuso,2025,4,Svizzera (incluso Liechtenstein),1180,3.5
+Portoscuso,2025,5,Regno Unito,924,2.74
+Posada,2022,1,Italia,16817,57.73
+Posada,2022,2,Germania,6047,20.76
+Posada,2022,3,Svizzera (incluso Liechtenstein),1220,4.19
+Posada,2022,4,Francia,898,3.08
+Posada,2022,5,Austria,807,2.77
+Posada,2023,1,Italia,16500,63.0
+Posada,2023,2,Germania,3426,13.08
+Posada,2023,3,Francia,1465,5.59
+Posada,2023,4,Spagna,791,3.02
+Posada,2023,5,Svizzera (incluso Liechtenstein),711,2.71
+Posada,2024,1,Italia,16429,57.04
+Posada,2024,2,Germania,5025,17.45
+Posada,2024,3,Francia,1536,5.33
+Posada,2024,4,Spagna,684,2.37
+Posada,2024,5,Svizzera (incluso Liechtenstein),600,2.08
+Posada,2025,1,Italia,25852,51.51
+Posada,2025,2,Germania,9724,19.38
+Posada,2025,3,Francia,3051,6.08
+Posada,2025,4,Polonia,1328,2.65
+Posada,2025,5,Spagna,1135,2.26
+Pozzomaggiore,2023,1,Italia,151,40.81
+Pozzomaggiore,2023,2,Francia,87,23.51
+Pozzomaggiore,2023,3,Spagna,71,19.19
+Pozzomaggiore,2023,4,Germania,16,4.32
+Pozzomaggiore,2023,5,Svizzera (incluso Liechtenstein),12,3.24
+Pozzomaggiore,2024,1,Spagna,495,41.01
+Pozzomaggiore,2024,2,Italia,322,26.68
+Pozzomaggiore,2024,3,Germania,93,7.71
+Pozzomaggiore,2024,4,Francia,87,7.21
+Pozzomaggiore,2024,5,Paesi Bassi,64,5.3
+Pozzomaggiore,2025,1,Italia,588,35.27
+Pozzomaggiore,2025,2,Germania,273,16.38
+Pozzomaggiore,2025,3,Francia,213,12.78
+Pozzomaggiore,2025,4,Polonia,89,5.34
+Pozzomaggiore,2025,5,Spagna,81,4.86
+Pula,2022,1,Italia,207943,46.13
+Pula,2022,2,Germania,54365,12.06
+Pula,2022,3,Regno Unito,39497,8.76
+Pula,2022,4,Svizzera (incluso Liechtenstein),36875,8.18
+Pula,2022,5,Francia,25735,5.71
+Pula,2023,1,Italia,206516,42.14
+Pula,2023,2,Germania,64672,13.2
+Pula,2023,3,Svizzera (incluso Liechtenstein),40560,8.28
+Pula,2023,4,Regno Unito,40349,8.23
+Pula,2023,5,Francia,30116,6.14
+Pula,2024,1,Italia,270686,44.96
+Pula,2024,2,Germania,87596,14.55
+Pula,2024,3,Svizzera (incluso Liechtenstein),41340,6.87
+Pula,2024,4,Regno Unito,39808,6.61
+Pula,2024,5,Francia,30710,5.1
+Pula,2025,1,Italia,264479,41.14
+Pula,2025,2,Germania,96103,14.95
+Pula,2025,3,Svizzera (incluso Liechtenstein),45785,7.12
+Pula,2025,4,Regno Unito,41756,6.5
+Pula,2025,5,Francia,36356,5.66
+Putifigari,2023,1,Italia,358,35.59
+Putifigari,2023,2,Francia,322,32.01
+Putifigari,2023,3,Regno Unito,84,8.35
+Putifigari,2023,4,Spagna,70,6.96
+Putifigari,2023,5,Canada,63,6.26
+Putifigari,2024,1,Italia,390,56.12
+Putifigari,2024,2,Francia,93,13.38
+Putifigari,2024,3,Spagna,57,8.2
+Putifigari,2024,4,Ungheria,32,4.6
+Putifigari,2024,5,Germania,27,3.88
+Putifigari,2025,1,Italia,447,41.31
+Putifigari,2025,2,Francia,315,29.11
+Putifigari,2025,3,Polonia,83,7.67
+Putifigari,2025,4,Germania,69,6.38
+Putifigari,2025,5,Spagna,60,5.55
+Quartu Sant'Elena,2022,1,Italia,90171,40.8
+Quartu Sant'Elena,2022,2,Germania,26564,12.02
+Quartu Sant'Elena,2022,3,Francia,23565,10.66
+Quartu Sant'Elena,2022,4,Svizzera (incluso Liechtenstein),9748,4.41
+Quartu Sant'Elena,2022,5,Polonia,8762,3.96
+Quartu Sant'Elena,2023,1,Italia,88795,36.27
+Quartu Sant'Elena,2023,2,Germania,36140,14.76
+Quartu Sant'Elena,2023,3,Francia,31877,13.02
+Quartu Sant'Elena,2023,4,Polonia,10226,4.18
+Quartu Sant'Elena,2023,5,Svizzera (incluso Liechtenstein),9324,3.81
+Quartu Sant'Elena,2024,1,Italia,92411,31.55
+Quartu Sant'Elena,2024,2,Germania,41617,14.21
+Quartu Sant'Elena,2024,3,Francia,40890,13.96
+Quartu Sant'Elena,2024,4,Polonia,17057,5.82
+Quartu Sant'Elena,2024,5,Repubblica Ceca,11700,4.0
+Quartu Sant'Elena,2025,1,Italia,128242,33.7
+Quartu Sant'Elena,2025,2,Francia,51138,13.44
+Quartu Sant'Elena,2025,3,Germania,50717,13.33
+Quartu Sant'Elena,2025,4,Polonia,19822,5.21
+Quartu Sant'Elena,2025,5,Repubblica Ceca,15849,4.17
+Quartucciu,2022,1,Italia,5018,53.98
+Quartucciu,2022,2,Francia,1078,11.6
+Quartucciu,2022,3,Germania,786,8.46
+Quartucciu,2022,4,Regno Unito,297,3.19
+Quartucciu,2022,5,Paesi Bassi,292,3.14
+Quartucciu,2023,1,Italia,5590,47.21
+Quartucciu,2023,2,Francia,1309,11.06
+Quartucciu,2023,3,Germania,1145,9.67
+Quartucciu,2023,4,Spagna,756,6.39
+Quartucciu,2023,5,Polonia,529,4.47
+Quartucciu,2024,1,Italia,7763,51.94
+Quartucciu,2024,2,Germania,1506,10.08
+Quartucciu,2024,3,Francia,1072,7.17
+Quartucciu,2024,4,Spagna,717,4.8
+Quartucciu,2024,5,Polonia,595,3.98
+Quartucciu,2025,1,Italia,7293,48.7
+Quartucciu,2025,2,Germania,1656,11.06
+Quartucciu,2025,3,Francia,1578,10.54
+Quartucciu,2025,4,Polonia,747,4.99
+Quartucciu,2025,5,Paesi Bassi,517,3.45
+Riola Sardo,2022,1,Italia,6970,64.6
+Riola Sardo,2022,2,Germania,883,8.18
+Riola Sardo,2022,3,Francia,778,7.21
+Riola Sardo,2022,4,Svizzera (incluso Liechtenstein),524,4.86
+Riola Sardo,2022,5,Regno Unito,270,2.5
+Riola Sardo,2023,1,Italia,7654,67.37
+Riola Sardo,2023,2,Germania,971,8.55
+Riola Sardo,2023,3,Francia,655,5.77
+Riola Sardo,2023,4,Svizzera (incluso Liechtenstein),385,3.39
+Riola Sardo,2023,5,Belgio,328,2.89
+Riola Sardo,2024,1,Italia,7871,64.82
+Riola Sardo,2024,2,Germania,898,7.4
+Riola Sardo,2024,3,Francia,797,6.56
+Riola Sardo,2024,4,Svizzera (incluso Liechtenstein),397,3.27
+Riola Sardo,2024,5,Belgio,325,2.68
+Riola Sardo,2025,1,Italia,10703,67.6
+Riola Sardo,2025,2,Francia,1179,7.45
+Riola Sardo,2025,3,Germania,1157,7.31
+Riola Sardo,2025,4,Svizzera (incluso Liechtenstein),456,2.88
+Riola Sardo,2025,5,Paesi Bassi,356,2.25
+Ruinas,2023,1,Francia,77,35.0
+Ruinas,2023,2,Italia,34,15.45
+Ruinas,2023,3,Germania,31,14.09
+Ruinas,2023,4,Portogallo,30,13.64
+Ruinas,2023,5,Austria,13,5.91
+Ruinas,2024,1,Italia,70,26.82
+Ruinas,2024,2,Germania,65,24.9
+Ruinas,2024,3,Francia,64,24.52
+Ruinas,2024,4,Romania,16,6.13
+Ruinas,2024,5,Belgio,10,3.83
+Ruinas,2025,1,Germania,63,31.98
+Ruinas,2025,2,Italia,44,22.34
+Ruinas,2025,3,Francia,39,19.8
+Ruinas,2025,4,Paesi Bassi,20,10.15
+Ruinas,2025,5,Spagna,19,9.64
+Sadali,2023,1,Italia,782,88.66
+Sadali,2023,2,Germania,30,3.4
+Sadali,2023,3,Svizzera (incluso Liechtenstein),30,3.4
+Sadali,2023,4,Francia,7,0.79
+Sadali,2023,5,Stati Uniti d'America,6,0.68
+Sadali,2024,1,Italia,1249,90.97
+Sadali,2024,2,Germania,36,2.62
+Sadali,2024,3,Romania,30,2.18
+Sadali,2024,4,Francia,14,1.02
+Sadali,2024,5,Lussemburgo,13,0.95
+Sadali,2025,1,Italia,887,80.13
+Sadali,2025,2,Paesi Bassi,45,4.07
+Sadali,2025,3,Germania,35,3.16
+Sadali,2025,4,Austria,25,2.26
+Sadali,2025,5,Altri Paesi Europei,22,1.99
+Sagama,2023,1,Italia,87,55.77
+Sagama,2023,2,Germania,29,18.59
+Sagama,2023,3,Francia,13,8.33
+Sagama,2023,4,Spagna,6,3.85
+Sagama,2023,5,Australia,5,3.21
+Sagama,2024,1,Italia,49,65.33
+Sagama,2024,2,Spagna,13,17.33
+Sagama,2024,3,Germania,4,5.33
+Sagama,2024,4,Altri Paesi dell'Africa,3,4.0
+Sagama,2024,5,Svizzera (incluso Liechtenstein),2,2.67
+Sagama,2025,1,Italia,404,66.45
+Sagama,2025,2,Francia,132,21.71
+Sagama,2025,3,Germania,31,5.1
+Sagama,2025,4,Spagna,15,2.47
+Sagama,2025,5,Russia,9,1.48
+Samassi,2025,1,Italia,228,88.03
+Samassi,2025,2,Altri Paesi dell'Africa,20,7.72
+Samassi,2025,3,Stati Uniti d'America,6,2.32
+Samassi,2025,4,Altri Paesi Africa Mediterranea,3,1.16
+Samassi,2025,5,Francia,1,0.39
+Samatzai,2025,1,Italia,178,59.53
+Samatzai,2025,2,Francia,48,16.05
+Samatzai,2025,3,Romania,14,4.68
+Samatzai,2025,4,Slovacchia,12,4.01
+Samatzai,2025,5,Spagna,12,4.01
+Samugheo,2023,1,Italia,149,79.68
+Samugheo,2023,2,Germania,22,11.76
+Samugheo,2023,3,Romania,6,3.21
+Samugheo,2023,4,Slovacchia,6,3.21
+Samugheo,2023,5,Francia,2,1.07
+Samugheo,2024,1,Italia,252,59.72
+Samugheo,2024,2,Germania,79,18.72
+Samugheo,2024,3,Spagna,22,5.21
+Samugheo,2024,4,Giappone,20,4.74
+Samugheo,2024,5,Polonia,9,2.13
+Samugheo,2025,1,Italia,321,60.11
+Samugheo,2025,2,Stati Uniti d'America,135,25.28
+Samugheo,2025,3,Germania,37,6.93
+Samugheo,2025,4,Francia,14,2.62
+Samugheo,2025,5,Australia,6,1.12
+San Gavino Monreale,2022,1,Italia,469,94.37
+San Gavino Monreale,2022,2,Francia,18,3.62
+San Gavino Monreale,2022,3,Romania,2,0.4
+San Gavino Monreale,2022,4,Stati Uniti d'America,2,0.4
+San Gavino Monreale,2022,5,Ungheria,2,0.4
+San Gavino Monreale,2023,1,Italia,1031,83.41
+San Gavino Monreale,2023,2,Norvegia,66,5.34
+San Gavino Monreale,2023,3,Altri Paesi Europei,38,3.07
+San Gavino Monreale,2023,4,Francia,19,1.54
+San Gavino Monreale,2023,5,Argentina,16,1.29
+San Gavino Monreale,2024,1,Italia,1006,84.18
+San Gavino Monreale,2024,2,Argentina,53,4.44
+San Gavino Monreale,2024,3,Germania,37,3.1
+San Gavino Monreale,2024,4,Spagna,28,2.34
+San Gavino Monreale,2024,5,Belgio,16,1.34
+San Gavino Monreale,2025,1,Italia,1682,87.56
+San Gavino Monreale,2025,2,Germania,90,4.69
+San Gavino Monreale,2025,3,Francia,32,1.67
+San Gavino Monreale,2025,4,Spagna,22,1.15
+San Gavino Monreale,2025,5,Repubblica Ceca,12,0.62
+San Giovanni Suergiu,2022,1,Italia,3678,66.85
+San Giovanni Suergiu,2022,2,Germania,525,9.54
+San Giovanni Suergiu,2022,3,Francia,377,6.85
+San Giovanni Suergiu,2022,4,Svizzera (incluso Liechtenstein),270,4.91
+San Giovanni Suergiu,2022,5,Spagna,129,2.34
+San Giovanni Suergiu,2023,1,Italia,5089,42.81
+San Giovanni Suergiu,2023,2,Francia,1496,12.59
+San Giovanni Suergiu,2023,3,Germania,1260,10.6
+San Giovanni Suergiu,2023,4,Svizzera (incluso Liechtenstein),775,6.52
+San Giovanni Suergiu,2023,5,Polonia,546,4.59
+San Giovanni Suergiu,2024,1,Italia,5916,44.43
+San Giovanni Suergiu,2024,2,Germania,1544,11.6
+San Giovanni Suergiu,2024,3,Francia,1223,9.18
+San Giovanni Suergiu,2024,4,Svizzera (incluso Liechtenstein),812,6.1
+San Giovanni Suergiu,2024,5,Polonia,616,4.63
+San Giovanni Suergiu,2025,1,Italia,7681,43.85
+San Giovanni Suergiu,2025,2,Germania,3059,17.46
+San Giovanni Suergiu,2025,3,Francia,1648,9.41
+San Giovanni Suergiu,2025,4,Svizzera (incluso Liechtenstein),957,5.46
+San Giovanni Suergiu,2025,5,Polonia,863,4.93
+San Nicolò D'Arcidano,2023,1,Italia,206,60.06
+San Nicolò D'Arcidano,2023,2,Germania,56,16.33
+San Nicolò D'Arcidano,2023,3,Paesi Bassi,34,9.91
+San Nicolò D'Arcidano,2023,4,Francia,27,7.87
+San Nicolò D'Arcidano,2023,5,Spagna,12,3.5
+San Nicolò D'Arcidano,2024,1,Italia,349,62.54
+San Nicolò D'Arcidano,2024,2,Germania,93,16.67
+San Nicolò D'Arcidano,2024,3,Spagna,38,6.81
+San Nicolò D'Arcidano,2024,4,Repubblica Ceca,26,4.66
+San Nicolò D'Arcidano,2024,5,Francia,13,2.33
+San Nicolò D'Arcidano,2025,1,Italia,352,58.18
+San Nicolò D'Arcidano,2025,2,Germania,91,15.04
+San Nicolò D'Arcidano,2025,3,Spagna,34,5.62
+San Nicolò D'Arcidano,2025,4,Argentina,24,3.97
+San Nicolò D'Arcidano,2025,5,Regno Unito,19,3.14
+San Sperate,2022,1,Italia,269,43.25
+San Sperate,2022,2,Francia,139,22.35
+San Sperate,2022,3,Spagna,42,6.75
+San Sperate,2022,4,Regno Unito,27,4.34
+San Sperate,2022,5,Svizzera (incluso Liechtenstein),26,4.18
+San Sperate,2023,1,Italia,538,33.56
+San Sperate,2023,2,Francia,342,21.33
+San Sperate,2023,3,Bulgaria,276,17.22
+San Sperate,2023,4,Spagna,105,6.55
+San Sperate,2023,5,Belgio,72,4.49
+San Sperate,2024,1,Italia,595,31.95
+San Sperate,2024,2,Francia,446,23.95
+San Sperate,2024,3,Germania,164,8.81
+San Sperate,2024,4,Belgio,149,8.0
+San Sperate,2024,5,Regno Unito,136,7.3
+San Sperate,2025,1,Italia,1073,44.47
+San Sperate,2025,2,Francia,322,13.34
+San Sperate,2025,3,Germania,233,9.66
+San Sperate,2025,4,Spagna,135,5.59
+San Sperate,2025,5,Polonia,115,4.77
+San Teodoro,2022,1,Italia,406297,59.16
+San Teodoro,2022,2,Germania,113986,16.6
+San Teodoro,2022,3,Svizzera (incluso Liechtenstein),36561,5.32
+San Teodoro,2022,4,Regno Unito,23552,3.43
+San Teodoro,2022,5,Francia,18264,2.66
+San Teodoro,2023,1,Italia,460489,67.35
+San Teodoro,2023,2,Germania,68093,9.96
+San Teodoro,2023,3,Svizzera (incluso Liechtenstein),30592,4.47
+San Teodoro,2023,4,Regno Unito,15542,2.27
+San Teodoro,2023,5,Francia,15333,2.24
+San Teodoro,2024,1,Italia,520020,58.17
+San Teodoro,2024,2,Germania,131538,14.71
+San Teodoro,2024,3,Svizzera (incluso Liechtenstein),37086,4.15
+San Teodoro,2024,4,Regno Unito,28438,3.18
+San Teodoro,2024,5,Francia,27833,3.11
+San Teodoro,2025,1,Italia,539300,53.82
+San Teodoro,2025,2,Germania,156006,15.57
+San Teodoro,2025,3,Svizzera (incluso Liechtenstein),47382,4.73
+San Teodoro,2025,4,Francia,36245,3.62
+San Teodoro,2025,5,Regno Unito,35007,3.49
+San Vero Milis,2022,1,Italia,25698,58.95
+San Vero Milis,2022,2,Germania,6229,14.29
+San Vero Milis,2022,3,Svizzera (incluso Liechtenstein),2723,6.25
+San Vero Milis,2022,4,Francia,2311,5.3
+San Vero Milis,2022,5,Paesi Bassi,1083,2.48
+San Vero Milis,2023,1,Italia,23980,51.45
+San Vero Milis,2023,2,Germania,7437,15.96
+San Vero Milis,2023,3,Svizzera (incluso Liechtenstein),3988,8.56
+San Vero Milis,2023,4,Francia,3000,6.44
+San Vero Milis,2023,5,Austria,1224,2.63
+San Vero Milis,2024,1,Italia,25101,51.6
+San Vero Milis,2024,2,Germania,7598,15.62
+San Vero Milis,2024,3,Svizzera (incluso Liechtenstein),3219,6.62
+San Vero Milis,2024,4,Francia,2962,6.09
+San Vero Milis,2024,5,Paesi Bassi,1579,3.25
+San Vero Milis,2025,1,Italia,31345,49.75
+San Vero Milis,2025,2,Germania,11196,17.77
+San Vero Milis,2025,3,Svizzera (incluso Liechtenstein),4294,6.82
+San Vero Milis,2025,4,Francia,3619,5.74
+San Vero Milis,2025,5,Paesi Bassi,1687,2.68
+San Vito,2022,1,Italia,1884,51.63
+San Vito,2022,2,Germania,775,21.24
+San Vito,2022,3,Francia,277,7.59
+San Vito,2022,4,Polonia,120,3.29
+San Vito,2022,5,Spagna,96,2.63
+San Vito,2023,1,Italia,2508,48.19
+San Vito,2023,2,Germania,1250,24.02
+San Vito,2023,3,Francia,258,4.96
+San Vito,2023,4,Austria,184,3.54
+San Vito,2023,5,Polonia,157,3.02
+San Vito,2024,1,Italia,3338,45.71
+San Vito,2024,2,Germania,1727,23.65
+San Vito,2024,3,Francia,477,6.53
+San Vito,2024,4,Spagna,248,3.4
+San Vito,2024,5,Svizzera (incluso Liechtenstein),240,3.29
+San Vito,2025,1,Italia,5097,53.61
+San Vito,2025,2,Germania,1599,16.82
+San Vito,2025,3,Francia,716,7.53
+San Vito,2025,4,Svizzera (incluso Liechtenstein),209,2.2
+San Vito,2025,5,Austria,201,2.11
+Sanluri,2022,1,Italia,2963,75.99
+Sanluri,2022,2,Germania,231,5.92
+Sanluri,2022,3,Francia,181,4.64
+Sanluri,2022,4,Polonia,93,2.39
+Sanluri,2022,5,Spagna,56,1.44
+Sanluri,2023,1,Italia,2139,64.08
+Sanluri,2023,2,Germania,295,8.84
+Sanluri,2023,3,Francia,167,5.0
+Sanluri,2023,4,Spagna,151,4.52
+Sanluri,2023,5,Regno Unito,75,2.25
+Sanluri,2024,1,Italia,3155,63.18
+Sanluri,2024,2,Germania,444,8.89
+Sanluri,2024,3,Francia,222,4.45
+Sanluri,2024,4,Spagna,158,3.16
+Sanluri,2024,5,Slovenia,144,2.88
+Sanluri,2025,1,Italia,2956,57.63
+Sanluri,2025,2,Francia,418,8.15
+Sanluri,2025,3,Germania,332,6.47
+Sanluri,2025,4,Stati Uniti d'America,295,5.75
+Sanluri,2025,5,Spagna,257,5.01
+Sant'Andrea Frius,2025,1,Italia,72,78.26
+Sant'Andrea Frius,2025,2,Francia,13,14.13
+Sant'Andrea Frius,2025,3,Spagna,6,6.52
+Sant'Andrea Frius,2025,4,Germania,1,1.09
+Sant'Anna Arresi,2022,1,Italia,53496,74.63
+Sant'Anna Arresi,2022,2,Germania,4242,5.92
+Sant'Anna Arresi,2022,3,Francia,2848,3.97
+Sant'Anna Arresi,2022,4,Regno Unito,2431,3.39
+Sant'Anna Arresi,2022,5,Svizzera (incluso Liechtenstein),1641,2.29
+Sant'Anna Arresi,2023,1,Italia,55738,74.83
+Sant'Anna Arresi,2023,2,Germania,4152,5.57
+Sant'Anna Arresi,2023,3,Francia,2905,3.9
+Sant'Anna Arresi,2023,4,Regno Unito,2058,2.76
+Sant'Anna Arresi,2023,5,Svizzera (incluso Liechtenstein),1816,2.44
+Sant'Anna Arresi,2024,1,Italia,56826,73.07
+Sant'Anna Arresi,2024,2,Germania,5264,6.77
+Sant'Anna Arresi,2024,3,Francia,3854,4.96
+Sant'Anna Arresi,2024,4,Svizzera (incluso Liechtenstein),1847,2.38
+Sant'Anna Arresi,2024,5,Polonia,1625,2.09
+Sant'Anna Arresi,2025,1,Italia,68655,69.22
+Sant'Anna Arresi,2025,2,Germania,7549,7.61
+Sant'Anna Arresi,2025,3,Francia,4910,4.95
+Sant'Anna Arresi,2025,4,Polonia,3010,3.03
+Sant'Anna Arresi,2025,5,Svizzera (incluso Liechtenstein),2719,2.74
+Sant'Antioco,2022,1,Italia,56384,57.39
+Sant'Antioco,2022,2,Germania,13263,13.5
+Sant'Antioco,2022,3,Francia,9776,9.95
+Sant'Antioco,2022,4,Svizzera (incluso Liechtenstein),4748,4.83
+Sant'Antioco,2022,5,Paesi Bassi,2629,2.68
+Sant'Antioco,2023,1,Italia,49468,62.8
+Sant'Antioco,2023,2,Francia,7575,9.62
+Sant'Antioco,2023,3,Germania,6219,7.9
+Sant'Antioco,2023,4,Svizzera (incluso Liechtenstein),2651,3.37
+Sant'Antioco,2023,5,Spagna,1624,2.06
+Sant'Antioco,2024,1,Italia,71062,53.86
+Sant'Antioco,2024,2,Germania,22350,16.94
+Sant'Antioco,2024,3,Francia,8751,6.63
+Sant'Antioco,2024,4,Svizzera (incluso Liechtenstein),7702,5.84
+Sant'Antioco,2024,5,Paesi Bassi,3834,2.91
+Sant'Antioco,2025,1,Italia,72734,55.2
+Sant'Antioco,2025,2,Germania,22323,16.94
+Sant'Antioco,2025,3,Francia,8702,6.6
+Sant'Antioco,2025,4,Svizzera (incluso Liechtenstein),7839,5.95
+Sant'Antioco,2025,5,Paesi Bassi,2665,2.02
+Sant'Antonio Di Gallura,2023,1,Paesi Bassi,2302,23.18
+Sant'Antonio Di Gallura,2023,2,Germania,1877,18.9
+Sant'Antonio Di Gallura,2023,3,Francia,1427,14.37
+Sant'Antonio Di Gallura,2023,4,Italia,968,9.75
+Sant'Antonio Di Gallura,2023,5,Belgio,905,9.11
+Sant'Antonio Di Gallura,2024,1,Paesi Bassi,2986,22.81
+Sant'Antonio Di Gallura,2024,2,Germania,2471,18.87
+Sant'Antonio Di Gallura,2024,3,Francia,1697,12.96
+Sant'Antonio Di Gallura,2024,4,Belgio,1458,11.14
+Sant'Antonio Di Gallura,2024,5,Regno Unito,1205,9.2
+Sant'Antonio Di Gallura,2025,1,Paesi Bassi,4143,27.34
+Sant'Antonio Di Gallura,2025,2,Germania,2884,19.04
+Sant'Antonio Di Gallura,2025,3,Francia,2027,13.38
+Sant'Antonio Di Gallura,2025,4,Belgio,1513,9.99
+Sant'Antonio Di Gallura,2025,5,Italia,1170,7.72
+Santa Giusta,2022,1,Italia,435,67.86
+Santa Giusta,2022,2,Francia,86,13.42
+Santa Giusta,2022,3,Germania,18,2.81
+Santa Giusta,2022,4,Paesi Bassi,14,2.18
+Santa Giusta,2022,5,Spagna,14,2.18
+Santa Giusta,2023,1,Italia,691,47.33
+Santa Giusta,2023,2,Francia,319,21.85
+Santa Giusta,2023,3,Germania,130,8.9
+Santa Giusta,2023,4,Spagna,111,7.6
+Santa Giusta,2023,5,Svizzera (incluso Liechtenstein),53,3.63
+Santa Giusta,2024,1,Italia,1334,53.55
+Santa Giusta,2024,2,Francia,308,12.36
+Santa Giusta,2024,3,Germania,168,6.74
+Santa Giusta,2024,4,Spagna,116,4.66
+Santa Giusta,2024,5,Repubblica Ceca,90,3.61
+Santa Giusta,2025,1,Italia,852,49.02
+Santa Giusta,2025,2,Francia,226,13.0
+Santa Giusta,2025,3,Germania,192,11.05
+Santa Giusta,2025,4,Polonia,116,6.67
+Santa Giusta,2025,5,Paesi Bassi,45,2.59
+Santa Maria Coghinas,2022,1,Italia,3678,45.2
+Santa Maria Coghinas,2022,2,Francia,1743,21.42
+Santa Maria Coghinas,2022,3,Spagna,1308,16.07
+Santa Maria Coghinas,2022,4,Germania,455,5.59
+Santa Maria Coghinas,2022,5,Belgio,189,2.32
+Santa Maria Coghinas,2023,1,Italia,4971,42.11
+Santa Maria Coghinas,2023,2,Spagna,3680,31.18
+Santa Maria Coghinas,2023,3,Francia,1133,9.6
+Santa Maria Coghinas,2023,4,Germania,860,7.29
+Santa Maria Coghinas,2023,5,Belgio,160,1.36
+Santa Maria Coghinas,2024,1,Italia,8741,43.68
+Santa Maria Coghinas,2024,2,Spagna,5552,27.74
+Santa Maria Coghinas,2024,3,Germania,2198,10.98
+Santa Maria Coghinas,2024,4,Francia,1332,6.66
+Santa Maria Coghinas,2024,5,Regno Unito,579,2.89
+Santa Maria Coghinas,2025,1,Italia,6697,37.26
+Santa Maria Coghinas,2025,2,Spagna,4861,27.04
+Santa Maria Coghinas,2025,3,Francia,2211,12.3
+Santa Maria Coghinas,2025,4,Germania,1685,9.37
+Santa Maria Coghinas,2025,5,Polonia,427,2.38
+Santa Teresa Gallura,2022,1,Italia,239274,49.83
+Santa Teresa Gallura,2022,2,Francia,90875,18.92
+Santa Teresa Gallura,2022,3,Germania,48175,10.03
+Santa Teresa Gallura,2022,4,Svizzera (incluso Liechtenstein),17655,3.68
+Santa Teresa Gallura,2022,5,Slovacchia,8840,1.84
+Santa Teresa Gallura,2023,1,Italia,234288,49.85
+Santa Teresa Gallura,2023,2,Francia,59160,12.59
+Santa Teresa Gallura,2023,3,Germania,47659,10.14
+Santa Teresa Gallura,2023,4,Svizzera (incluso Liechtenstein),20589,4.38
+Santa Teresa Gallura,2023,5,Slovacchia,12273,2.61
+Santa Teresa Gallura,2024,1,Italia,192574,46.32
+Santa Teresa Gallura,2024,2,Germania,51931,12.49
+Santa Teresa Gallura,2024,3,Francia,40858,9.83
+Santa Teresa Gallura,2024,4,Svizzera (incluso Liechtenstein),20561,4.95
+Santa Teresa Gallura,2024,5,Regno Unito,11586,2.79
+Santa Teresa Gallura,2025,1,Italia,225020,38.84
+Santa Teresa Gallura,2025,2,Germania,79365,13.7
+Santa Teresa Gallura,2025,3,Francia,60432,10.43
+Santa Teresa Gallura,2025,4,Svizzera (incluso Liechtenstein),27276,4.71
+Santa Teresa Gallura,2025,5,Regno Unito,25226,4.35
+Santadi,2022,1,Italia,200,56.82
+Santadi,2022,2,Francia,53,15.06
+Santadi,2022,3,Germania,30,8.52
+Santadi,2022,4,Svizzera (incluso Liechtenstein),23,6.53
+Santadi,2022,5,Spagna,22,6.25
+Santadi,2023,1,Italia,405,43.45
+Santadi,2023,2,Francia,160,17.17
+Santadi,2023,3,Germania,108,11.59
+Santadi,2023,4,Spagna,66,7.08
+Santadi,2023,5,Svizzera (incluso Liechtenstein),59,6.33
+Santadi,2024,1,Italia,398,53.71
+Santadi,2024,2,Francia,123,16.6
+Santadi,2024,3,Stati Uniti d'America,100,13.5
+Santadi,2024,4,Spagna,51,6.88
+Santadi,2024,5,Belgio,13,1.75
+Santadi,2025,1,Italia,746,55.71
+Santadi,2025,2,Germania,127,9.48
+Santadi,2025,3,Svizzera (incluso Liechtenstein),115,8.59
+Santadi,2025,4,Francia,77,5.75
+Santadi,2025,5,Stati Uniti d'America,71,5.3
+Santu Lussurgiu,2022,1,Italia,3255,46.85
+Santu Lussurgiu,2022,2,Germania,1009,14.52
+Santu Lussurgiu,2022,3,Francia,595,8.56
+Santu Lussurgiu,2022,4,Svizzera (incluso Liechtenstein),448,6.45
+Santu Lussurgiu,2022,5,Regno Unito,343,4.94
+Santu Lussurgiu,2023,1,Italia,3677,45.37
+Santu Lussurgiu,2023,2,Francia,1202,14.83
+Santu Lussurgiu,2023,3,Germania,927,11.44
+Santu Lussurgiu,2023,4,Regno Unito,333,4.11
+Santu Lussurgiu,2023,5,Svizzera (incluso Liechtenstein),325,4.01
+Santu Lussurgiu,2024,1,Italia,3583,43.35
+Santu Lussurgiu,2024,2,Germania,1203,14.56
+Santu Lussurgiu,2024,3,Francia,626,7.57
+Santu Lussurgiu,2024,4,Paesi Bassi,510,6.17
+Santu Lussurgiu,2024,5,Spagna,364,4.4
+Santu Lussurgiu,2025,1,Italia,4511,43.98
+Santu Lussurgiu,2025,2,Germania,1488,14.51
+Santu Lussurgiu,2025,3,Francia,1097,10.7
+Santu Lussurgiu,2025,4,Spagna,400,3.9
+Santu Lussurgiu,2025,5,Paesi Bassi,344,3.35
+Sardara,2022,1,Italia,53289,96.44
+Sardara,2022,2,Germania,400,0.72
+Sardara,2022,3,Francia,352,0.64
+Sardara,2022,4,Spagna,224,0.41
+Sardara,2022,5,Stati Uniti d'America,158,0.29
+Sardara,2023,1,Italia,49421,92.64
+Sardara,2023,2,Spagna,529,0.99
+Sardara,2023,3,Francia,502,0.94
+Sardara,2023,4,Germania,462,0.87
+Sardara,2023,5,Regno Unito,417,0.78
+Sardara,2024,1,Italia,42892,95.08
+Sardara,2024,2,Spagna,310,0.69
+Sardara,2024,3,Francia,280,0.62
+Sardara,2024,4,Germania,231,0.51
+Sardara,2024,5,Regno Unito,164,0.36
+Sardara,2025,1,Italia,50178,94.7
+Sardara,2025,2,Francia,580,1.09
+Sardara,2025,3,Germania,296,0.56
+Sardara,2025,4,Spagna,210,0.4
+Sardara,2025,5,Regno Unito,192,0.36
+Sarroch,2022,1,Italia,9544,61.14
+Sarroch,2022,2,Germania,1951,12.5
+Sarroch,2022,3,Francia,954,6.11
+Sarroch,2022,4,Svizzera (incluso Liechtenstein),686,4.39
+Sarroch,2022,5,Regno Unito,647,4.14
+Sarroch,2023,1,Italia,8366,49.64
+Sarroch,2023,2,Germania,2629,15.6
+Sarroch,2023,3,Francia,1593,9.45
+Sarroch,2023,4,Regno Unito,716,4.25
+Sarroch,2023,5,Stati Uniti d'America,622,3.69
+Sarroch,2024,1,Italia,9236,45.39
+Sarroch,2024,2,Germania,3553,17.46
+Sarroch,2024,3,Francia,1355,6.66
+Sarroch,2024,4,Regno Unito,863,4.24
+Sarroch,2024,5,Svizzera (incluso Liechtenstein),669,3.29
+Sarroch,2025,1,Italia,12625,48.91
+Sarroch,2025,2,Germania,3371,13.06
+Sarroch,2025,3,Francia,2069,8.02
+Sarroch,2025,4,Regno Unito,1257,4.87
+Sarroch,2025,5,Stati Uniti d'America,828,3.21
+Sarule,2023,1,Italia,307,80.37
+Sarule,2023,2,Francia,36,9.42
+Sarule,2023,3,Belgio,17,4.45
+Sarule,2023,4,Austria,6,1.57
+Sarule,2023,5,Danimarca,4,1.05
+Sarule,2024,1,Italia,401,89.71
+Sarule,2024,2,Francia,32,7.16
+Sarule,2024,3,Stati Uniti d'America,6,1.34
+Sarule,2024,4,Canada,3,0.67
+Sarule,2024,5,Germania,2,0.45
+Sarule,2025,1,Italia,261,66.92
+Sarule,2025,2,Altri Paesi Centro - Sud America,35,8.97
+Sarule,2025,3,Austria,35,8.97
+Sarule,2025,4,Spagna,20,5.13
+Sarule,2025,5,Francia,14,3.59
+Sassari,2022,1,Italia,128478,70.42
+Sassari,2022,2,Spagna,9452,5.18
+Sassari,2022,3,Francia,9446,5.18
+Sassari,2022,4,Romania,3711,2.03
+Sassari,2022,5,Germania,3698,2.03
+Sassari,2023,1,Italia,153460,71.34
+Sassari,2023,2,Spagna,10811,5.03
+Sassari,2023,3,Francia,10712,4.98
+Sassari,2023,4,Germania,5596,2.6
+Sassari,2023,5,Romania,4930,2.29
+Sassari,2024,1,Italia,172075,68.91
+Sassari,2024,2,Francia,13538,5.42
+Sassari,2024,3,Spagna,11863,4.75
+Sassari,2024,4,Romania,10365,4.15
+Sassari,2024,5,Germania,8737,3.5
+Sassari,2025,1,Italia,176510,64.39
+Sassari,2025,2,Francia,18452,6.73
+Sassari,2025,3,Spagna,15436,5.63
+Sassari,2025,4,Germania,12936,4.72
+Sassari,2025,5,Polonia,6715,2.45
+Scano Di Montiferro,2022,1,Italia,222,36.63
+Scano Di Montiferro,2022,2,Spagna,132,21.78
+Scano Di Montiferro,2022,3,Francia,71,11.72
+Scano Di Montiferro,2022,4,Danimarca,40,6.6
+Scano Di Montiferro,2022,5,Germania,33,5.45
+Scano Di Montiferro,2023,1,Italia,361,31.86
+Scano Di Montiferro,2023,2,Francia,326,28.77
+Scano Di Montiferro,2023,3,Spagna,198,17.48
+Scano Di Montiferro,2023,4,Belgio,41,3.62
+Scano Di Montiferro,2023,5,Germania,37,3.27
+Scano Di Montiferro,2024,1,Italia,755,24.9
+Scano Di Montiferro,2024,2,Germania,692,22.82
+Scano Di Montiferro,2024,3,Francia,526,17.35
+Scano Di Montiferro,2024,4,Spagna,327,10.78
+Scano Di Montiferro,2024,5,Belgio,88,2.9
+Scano Di Montiferro,2025,1,Francia,998,26.76
+Scano Di Montiferro,2025,2,Italia,704,18.87
+Scano Di Montiferro,2025,3,Germania,541,14.5
+Scano Di Montiferro,2025,4,Spagna,420,11.26
+Scano Di Montiferro,2025,5,Belgio,215,5.76
+Sedilo,2022,1,Italia,238,39.73
+Sedilo,2022,2,Spagna,75,12.52
+Sedilo,2022,3,Francia,70,11.69
+Sedilo,2022,4,Germania,65,10.85
+Sedilo,2022,5,Repubblica Ceca,37,6.18
+Sedilo,2023,1,Italia,598,52.87
+Sedilo,2023,2,Paesi Bassi,72,6.37
+Sedilo,2023,3,Germania,71,6.28
+Sedilo,2023,4,Francia,61,5.39
+Sedilo,2023,5,Spagna,59,5.22
+Sedilo,2024,1,Italia,831,52.1
+Sedilo,2024,2,Francia,162,10.16
+Sedilo,2024,3,Spagna,131,8.21
+Sedilo,2024,4,Germania,129,8.09
+Sedilo,2024,5,Romania,60,3.76
+Sedilo,2025,1,Italia,878,44.59
+Sedilo,2025,2,Francia,300,15.24
+Sedilo,2025,3,Germania,185,9.4
+Sedilo,2025,4,Spagna,101,5.13
+Sedilo,2025,5,Svizzera (incluso Liechtenstein),78,3.96
+Sedini,2023,1,Germania,111,26.18
+Sedini,2023,2,Italia,67,15.8
+Sedini,2023,3,Francia,64,15.09
+Sedini,2023,4,Spagna,58,13.68
+Sedini,2023,5,Regno Unito,35,8.25
+Sedini,2024,1,Italia,403,46.43
+Sedini,2024,2,Francia,87,10.02
+Sedini,2024,3,Germania,69,7.95
+Sedini,2024,4,Polonia,62,7.14
+Sedini,2024,5,Belgio,50,5.76
+Sedini,2025,1,Germania,227,36.03
+Sedini,2025,2,Francia,150,23.81
+Sedini,2025,3,Italia,113,17.94
+Sedini,2025,4,Slovacchia,60,9.52
+Sedini,2025,5,Spagna,35,5.56
+Selargius,2022,1,Italia,19359,77.75
+Selargius,2022,2,Francia,1164,4.67
+Selargius,2022,3,Spagna,724,2.91
+Selargius,2022,4,Germania,549,2.2
+Selargius,2022,5,Polonia,283,1.14
+Selargius,2023,1,Italia,19945,72.73
+Selargius,2023,2,Francia,1646,6.0
+Selargius,2023,3,Spagna,837,3.05
+Selargius,2023,4,Germania,768,2.8
+Selargius,2023,5,Polonia,503,1.83
+Selargius,2024,1,Italia,21781,71.8
+Selargius,2024,2,Spagna,1297,4.28
+Selargius,2024,3,Francia,1217,4.01
+Selargius,2024,4,Germania,1052,3.47
+Selargius,2024,5,Polonia,645,2.13
+Selargius,2025,1,Italia,25730,75.95
+Selargius,2025,2,Francia,1245,3.68
+Selargius,2025,3,Germania,977,2.88
+Selargius,2025,4,Spagna,841,2.48
+Selargius,2025,5,Polonia,558,1.65
+Selegas,2025,1,Italia,108,46.75
+Selegas,2025,2,Germania,44,19.05
+Selegas,2025,3,Paesi Bassi,44,19.05
+Selegas,2025,4,Francia,17,7.36
+Selegas,2025,5,Altri Paesi Centro - Sud America,6,2.6
+Seneghe,2023,1,Germania,145,40.17
+Seneghe,2023,2,Svizzera (incluso Liechtenstein),88,24.38
+Seneghe,2023,3,Paesi Bassi,35,9.7
+Seneghe,2023,4,Spagna,35,9.7
+Seneghe,2023,5,Francia,22,6.09
+Seneghe,2024,1,Germania,298,58.55
+Seneghe,2024,2,Italia,85,16.7
+Seneghe,2024,3,Francia,66,12.97
+Seneghe,2024,4,Spagna,34,6.68
+Seneghe,2024,5,Slovenia,16,3.14
+Seneghe,2025,1,Germania,317,34.72
+Seneghe,2025,2,Francia,228,24.97
+Seneghe,2025,3,Italia,82,8.98
+Seneghe,2025,4,Paesi Bassi,60,6.57
+Seneghe,2025,5,Austria,38,4.16
+Sennariolo,2022,1,Italia,394,39.6
+Sennariolo,2022,2,Germania,190,19.1
+Sennariolo,2022,3,Francia,150,15.08
+Sennariolo,2022,4,Belgio,82,8.24
+Sennariolo,2022,5,Paesi Bassi,71,7.14
+Sennariolo,2023,1,Italia,262,28.73
+Sennariolo,2023,2,Francia,164,17.98
+Sennariolo,2023,3,Germania,128,14.04
+Sennariolo,2023,4,Svizzera (incluso Liechtenstein),92,10.09
+Sennariolo,2023,5,Spagna,87,9.54
+Sennariolo,2024,1,Italia,409,27.99
+Sennariolo,2024,2,Francia,319,21.83
+Sennariolo,2024,3,Germania,239,16.36
+Sennariolo,2024,4,Paesi Bassi,147,10.06
+Sennariolo,2024,5,Belgio,106,7.26
+Sennariolo,2025,1,Germania,558,30.88
+Sennariolo,2025,2,Italia,315,17.43
+Sennariolo,2025,3,Francia,296,16.38
+Sennariolo,2025,4,Belgio,166,9.19
+Sennariolo,2025,5,Paesi Bassi,120,6.64
+Sennori,2023,1,Italia,238,40.48
+Sennori,2023,2,Spagna,159,27.04
+Sennori,2023,3,Francia,83,14.12
+Sennori,2023,4,Altri Paesi Asia Occidentale,28,4.76
+Sennori,2023,5,Cina,25,4.25
+Sennori,2024,1,Italia,671,26.17
+Sennori,2024,2,Spagna,642,25.04
+Sennori,2024,3,Francia,345,13.46
+Sennori,2024,4,Germania,184,7.18
+Sennori,2024,5,Polonia,93,3.63
+Sennori,2025,1,Italia,1271,22.1
+Sennori,2025,2,Germania,1035,18.0
+Sennori,2025,3,Spagna,1011,17.58
+Sennori,2025,4,Francia,749,13.02
+Sennori,2025,5,Polonia,296,5.15
+Senorbì,2022,1,Italia,727,87.59
+Senorbì,2022,2,Israele,32,3.86
+Senorbì,2022,3,Germania,25,3.01
+Senorbì,2022,4,Svizzera (incluso Liechtenstein),19,2.29
+Senorbì,2022,5,Stati Uniti d'America,16,1.93
+Senorbì,2023,1,Italia,1457,94.61
+Senorbì,2023,2,Paesi Bassi,39,2.53
+Senorbì,2023,3,Germania,13,0.84
+Senorbì,2023,4,Altri Paesi Centro - Sud America,6,0.39
+Senorbì,2023,5,Francia,6,0.39
+Senorbì,2024,1,Italia,1830,92.19
+Senorbì,2024,2,Polonia,32,1.61
+Senorbì,2024,3,Germania,31,1.56
+Senorbì,2024,4,Spagna,24,1.21
+Senorbì,2024,5,Paesi Bassi,23,1.16
+Senorbì,2025,1,Italia,1406,80.67
+Senorbì,2025,2,Germania,93,5.34
+Senorbì,2025,3,Francia,41,2.35
+Senorbì,2025,4,Paesi Bassi,38,2.18
+Senorbì,2025,5,Spagna,35,2.01
+Serdiana,2023,1,Italia,47,37.3
+Serdiana,2023,2,Francia,42,33.33
+Serdiana,2023,3,Irlanda,11,8.73
+Serdiana,2023,4,Paesi Bassi,10,7.94
+Serdiana,2023,5,Regno Unito,9,7.14
+Serdiana,2024,1,Italia,56,34.36
+Serdiana,2024,2,Germania,33,20.25
+Serdiana,2024,3,Francia,30,18.4
+Serdiana,2024,4,Belgio,10,6.13
+Serdiana,2024,5,Cina,10,6.13
+Serdiana,2025,1,Italia,273,49.55
+Serdiana,2025,2,Francia,51,9.26
+Serdiana,2025,3,Spagna,39,7.08
+Serdiana,2025,4,Polonia,34,6.17
+Serdiana,2025,5,Svizzera (incluso Liechtenstein),25,4.54
+Serramanna,2022,1,Italia,136,38.42
+Serramanna,2022,2,Spagna,50,14.12
+Serramanna,2022,3,Francia,35,9.89
+Serramanna,2022,4,Germania,33,9.32
+Serramanna,2022,5,Repubblica Ceca,28,7.91
+Serramanna,2023,1,Italia,304,44.44
+Serramanna,2023,2,Francia,121,17.69
+Serramanna,2023,3,Germania,111,16.23
+Serramanna,2023,4,Spagna,78,11.4
+Serramanna,2023,5,Paesi Bassi,38,5.56
+Serramanna,2024,1,Italia,423,53.27
+Serramanna,2024,2,Spagna,104,13.1
+Serramanna,2024,3,Germania,59,7.43
+Serramanna,2024,4,Francia,54,6.8
+Serramanna,2024,5,Malta,42,5.29
+Serramanna,2025,1,Italia,731,50.52
+Serramanna,2025,2,Francia,240,16.59
+Serramanna,2025,3,Germania,213,14.72
+Serramanna,2025,4,Paesi Bassi,77,5.32
+Serramanna,2025,5,Cina,46,3.18
+Serrenti,2023,1,Italia,77,84.62
+Serrenti,2023,2,Paesi Bassi,14,15.38
+Serrenti,2024,1,Italia,91,81.98
+Serrenti,2024,2,Brasile,12,10.81
+Serrenti,2024,3,Paesi Bassi,8,7.21
+Serrenti,2025,1,Italia,40,56.34
+Serrenti,2025,2,Spagna,19,26.76
+Serrenti,2025,3,Cina,4,5.63
+Serrenti,2025,4,Germania,4,5.63
+Serrenti,2025,5,Altri Paesi Africa Mediterranea,2,2.82
+Serri,2023,1,Italia,282,50.45
+Serri,2023,2,Germania,92,16.46
+Serri,2023,3,Francia,56,10.02
+Serri,2023,4,Paesi Bassi,35,6.26
+Serri,2023,5,Polonia,23,4.11
+Serri,2024,1,Italia,237,39.17
+Serri,2024,2,Germania,116,19.17
+Serri,2024,3,Francia,50,8.26
+Serri,2024,4,Portogallo,40,6.61
+Serri,2024,5,Belgio,29,4.79
+Serri,2025,1,Italia,350,54.01
+Serri,2025,2,Francia,75,11.57
+Serri,2025,3,Germania,48,7.41
+Serri,2025,4,Polonia,22,3.4
+Serri,2025,5,Austria,19,2.93
+Sestu,2022,1,Italia,3479,78.98
+Sestu,2022,2,Francia,318,7.22
+Sestu,2022,3,Germania,138,3.13
+Sestu,2022,4,Spagna,81,1.84
+Sestu,2022,5,Regno Unito,65,1.48
+Sestu,2023,1,Italia,3543,60.91
+Sestu,2023,2,Francia,776,13.34
+Sestu,2023,3,Spagna,301,5.17
+Sestu,2023,4,Germania,208,3.58
+Sestu,2023,5,Romania,121,2.08
+Sestu,2024,1,Italia,5188,63.08
+Sestu,2024,2,Francia,792,9.63
+Sestu,2024,3,Spagna,544,6.61
+Sestu,2024,4,Germania,399,4.85
+Sestu,2024,5,Romania,247,3.0
+Sestu,2025,1,Italia,6802,66.85
+Sestu,2025,2,Francia,731,7.18
+Sestu,2025,3,Germania,356,3.5
+Sestu,2025,4,Spagna,322,3.16
+Sestu,2025,5,Polonia,203,2.0
+Settimo San Pietro,2022,1,Italia,289,79.83
+Settimo San Pietro,2022,2,Svizzera (incluso Liechtenstein),20,5.52
+Settimo San Pietro,2022,3,Francia,16,4.42
+Settimo San Pietro,2022,4,Cina,15,4.14
+Settimo San Pietro,2022,5,Spagna,10,2.76
+Settimo San Pietro,2023,1,Italia,283,91.0
+Settimo San Pietro,2023,2,Francia,12,3.86
+Settimo San Pietro,2023,3,Spagna,6,1.93
+Settimo San Pietro,2023,4,Altri Paesi Europei,4,1.29
+Settimo San Pietro,2023,5,Austria,2,0.64
+Settimo San Pietro,2024,1,Italia,422,88.47
+Settimo San Pietro,2024,2,Francia,26,5.45
+Settimo San Pietro,2024,3,Danimarca,8,1.68
+Settimo San Pietro,2024,4,Polonia,8,1.68
+Settimo San Pietro,2024,5,Germania,6,1.26
+Settimo San Pietro,2025,1,Italia,1193,87.85
+Settimo San Pietro,2025,2,Spagna,78,5.74
+Settimo San Pietro,2025,3,Francia,21,1.55
+Settimo San Pietro,2025,4,Portogallo,19,1.4
+Settimo San Pietro,2025,5,Paesi Bassi,10,0.74
+Seui,2025,1,Canada,15,34.88
+Seui,2025,2,Italia,9,20.93
+Seui,2025,3,Germania,6,13.95
+Seui,2025,4,Paesi Bassi,6,13.95
+Seui,2025,5,Stati Uniti d'America,4,9.3
+Seulo,2023,1,Italia,334,44.47
+Seulo,2023,2,Francia,114,15.18
+Seulo,2023,3,Germania,100,13.32
+Seulo,2023,4,Svizzera (incluso Liechtenstein),49,6.52
+Seulo,2023,5,Paesi Bassi,44,5.86
+Seulo,2024,1,Italia,845,54.27
+Seulo,2024,2,Germania,190,12.2
+Seulo,2024,3,Francia,97,6.23
+Seulo,2024,4,Paesi Bassi,60,3.85
+Seulo,2024,5,Svizzera (incluso Liechtenstein),56,3.6
+Seulo,2025,1,Italia,548,33.7
+Seulo,2025,2,Danimarca,378,23.25
+Seulo,2025,3,Germania,246,15.13
+Seulo,2025,4,Francia,125,7.69
+Seulo,2025,5,Paesi Bassi,56,3.44
+Siamaggiore,2022,1,Italia,900,42.86
+Siamaggiore,2022,2,Germania,297,14.14
+Siamaggiore,2022,3,Francia,280,13.33
+Siamaggiore,2022,4,Paesi Bassi,114,5.43
+Siamaggiore,2022,5,Spagna,101,4.81
+Siamaggiore,2023,1,Italia,956,32.37
+Siamaggiore,2023,2,Germania,498,16.86
+Siamaggiore,2023,3,Francia,435,14.73
+Siamaggiore,2023,4,Paesi Bassi,213,7.21
+Siamaggiore,2023,5,Belgio,175,5.93
+Siamaggiore,2024,1,Italia,977,29.67
+Siamaggiore,2024,2,Germania,549,16.67
+Siamaggiore,2024,3,Francia,423,12.85
+Siamaggiore,2024,4,Paesi Bassi,362,10.99
+Siamaggiore,2024,5,Belgio,205,6.23
+Siamaggiore,2025,1,Italia,829,45.37
+Siamaggiore,2025,2,Germania,272,14.89
+Siamaggiore,2025,3,Francia,187,10.24
+Siamaggiore,2025,4,Paesi Bassi,79,4.32
+Siamaggiore,2025,5,Egitto,70,3.83
+Siamanna,2023,1,Italia,190,83.7
+Siamanna,2023,2,Francia,22,9.69
+Siamanna,2023,3,Spagna,15,6.61
+Siamanna,2024,1,Italia,153,70.18
+Siamanna,2024,2,Francia,49,22.48
+Siamanna,2024,3,Belgio,8,3.67
+Siamanna,2024,4,Austria,4,1.83
+Siamanna,2024,5,Spagna,4,1.83
+Siamanna,2025,1,Italia,120,54.79
+Siamanna,2025,2,Francia,39,17.81
+Siamanna,2025,3,Germania,19,8.68
+Siamanna,2025,4,Svizzera (incluso Liechtenstein),17,7.76
+Siamanna,2025,5,Romania,14,6.39
+Siddi,2024,1,Italia,12,48.0
+Siddi,2024,2,Germania,6,24.0
+Siddi,2024,3,Francia,3,12.0
+Siddi,2024,4,Belgio,2,8.0
+Siddi,2024,5,Spagna,1,4.0
+Silanus,2024,1,Italia,18,100.0
+Silanus,2025,1,Italia,86,100.0
+Siliqua,2023,1,Italia,48,17.98
+Siliqua,2023,2,Regno Unito,40,14.98
+Siliqua,2023,3,Spagna,40,14.98
+Siliqua,2023,4,Francia,36,13.48
+Siliqua,2023,5,Ungheria,24,8.99
+Siliqua,2024,1,Italia,97,33.56
+Siliqua,2024,2,Paesi Bassi,54,18.69
+Siliqua,2024,3,Francia,39,13.49
+Siliqua,2024,4,Germania,18,6.23
+Siliqua,2024,5,Belgio,16,5.54
+Siliqua,2025,1,Italia,214,59.61
+Siliqua,2025,2,Germania,26,7.24
+Siliqua,2025,3,Paesi Bassi,18,5.01
+Siliqua,2025,4,Spagna,17,4.74
+Siliqua,2025,5,Francia,16,4.46
+Silius,2024,1,Italia,33,46.48
+Silius,2024,2,Polonia,32,45.07
+Silius,2024,3,Francia,4,5.63
+Silius,2024,4,Germania,2,2.82
+Silius,2025,1,Francia,35,42.17
+Silius,2025,2,Argentina,10,12.05
+Silius,2025,3,Italia,9,10.84
+Silius,2025,4,Spagna,6,7.23
+Silius,2025,5,Germania,5,6.02
+Simaxis,2022,1,Italia,573,78.6
+Simaxis,2022,2,Francia,59,8.09
+Simaxis,2022,3,Germania,54,7.41
+Simaxis,2022,4,Spagna,12,1.65
+Simaxis,2022,5,Svizzera (incluso Liechtenstein),11,1.51
+Simaxis,2023,1,Italia,472,62.93
+Simaxis,2023,2,Francia,93,12.4
+Simaxis,2023,3,Germania,88,11.73
+Simaxis,2023,4,Spagna,45,6.0
+Simaxis,2023,5,Austria,14,1.87
+Simaxis,2024,1,Italia,411,60.18
+Simaxis,2024,2,Francia,78,11.42
+Simaxis,2024,3,Spagna,62,9.08
+Simaxis,2024,4,Germania,46,6.73
+Simaxis,2024,5,Ucraina,21,3.07
+Simaxis,2025,1,Italia,385,51.75
+Simaxis,2025,2,Francia,119,15.99
+Simaxis,2025,3,Germania,70,9.41
+Simaxis,2025,4,Spagna,24,3.23
+Simaxis,2025,5,Svizzera (incluso Liechtenstein),24,3.23
+Sindia,2023,1,Italia,107,86.99
+Sindia,2023,2,Polonia,14,11.38
+Sindia,2023,3,Germania,2,1.63
+Sindia,2025,1,Spagna,208,42.45
+Sindia,2025,2,Italia,155,31.63
+Sindia,2025,3,Romania,66,13.47
+Sindia,2025,4,Altri Paesi dell'Asia,32,6.53
+Sindia,2025,5,Germania,8,1.63
+Sini,2023,1,Germania,18,36.0
+Sini,2023,2,Italia,9,18.0
+Sini,2023,3,Svizzera (incluso Liechtenstein),8,16.0
+Sini,2023,4,Francia,6,12.0
+Sini,2023,5,Paesi Bassi,6,12.0
+Sini,2024,1,Germania,27,60.0
+Sini,2024,2,Francia,8,17.78
+Sini,2024,3,Svizzera (incluso Liechtenstein),4,8.89
+Sini,2024,4,Italia,3,6.67
+Sini,2024,5,Polonia,2,4.44
+Sini,2025,1,Italia,53,67.95
+Sini,2025,2,Francia,5,6.41
+Sini,2025,3,Austria,3,3.85
+Sini,2025,4,Regno Unito,3,3.85
+Sini,2025,5,Ungheria,3,3.85
+Siniscola,2022,1,Italia,101109,61.07
+Siniscola,2022,2,Germania,26951,16.28
+Siniscola,2022,3,Svizzera (incluso Liechtenstein),7746,4.68
+Siniscola,2022,4,Francia,6220,3.76
+Siniscola,2022,5,Austria,5545,3.35
+Siniscola,2023,1,Italia,111960,57.51
+Siniscola,2023,2,Germania,29389,15.1
+Siniscola,2023,3,Francia,8834,4.54
+Siniscola,2023,4,Svizzera (incluso Liechtenstein),8577,4.41
+Siniscola,2023,5,Austria,6103,3.13
+Siniscola,2024,1,Italia,71183,55.88
+Siniscola,2024,2,Germania,26190,20.56
+Siniscola,2024,3,Svizzera (incluso Liechtenstein),5607,4.4
+Siniscola,2024,4,Francia,4426,3.47
+Siniscola,2024,5,Paesi Bassi,2865,2.25
+Siniscola,2025,1,Italia,144408,57.61
+Siniscola,2025,2,Germania,43924,17.52
+Siniscola,2025,3,Francia,11841,4.72
+Siniscola,2025,4,Svizzera (incluso Liechtenstein),9656,3.85
+Siniscola,2025,5,Polonia,4686,1.87
+Sinnai,2022,1,Italia,13527,51.16
+Sinnai,2022,2,Germania,4175,15.79
+Sinnai,2022,3,Svizzera (incluso Liechtenstein),1973,7.46
+Sinnai,2022,4,Francia,1734,6.56
+Sinnai,2022,5,Austria,689,2.61
+Sinnai,2023,1,Italia,12019,42.59
+Sinnai,2023,2,Germania,4998,17.71
+Sinnai,2023,3,Francia,2434,8.62
+Sinnai,2023,4,Svizzera (incluso Liechtenstein),1655,5.86
+Sinnai,2023,5,Polonia,894,3.17
+Sinnai,2024,1,Italia,13011,38.7
+Sinnai,2024,2,Germania,7095,21.1
+Sinnai,2024,3,Francia,2123,6.31
+Sinnai,2024,4,Svizzera (incluso Liechtenstein),2047,6.09
+Sinnai,2024,5,Polonia,1194,3.55
+Sinnai,2025,1,Italia,19392,37.21
+Sinnai,2025,2,Germania,11875,22.78
+Sinnai,2025,3,Francia,3727,7.15
+Sinnai,2025,4,Svizzera (incluso Liechtenstein),2708,5.2
+Sinnai,2025,5,Polonia,1715,3.29
+Siurgus Donigala,2023,1,Italia,74,27.61
+Siurgus Donigala,2023,2,Germania,64,23.88
+Siurgus Donigala,2023,3,Francia,52,19.4
+Siurgus Donigala,2023,4,Spagna,22,8.21
+Siurgus Donigala,2023,5,Croazia,12,4.48
+Siurgus Donigala,2024,1,Italia,65,32.99
+Siurgus Donigala,2024,2,Germania,31,15.74
+Siurgus Donigala,2024,3,Francia,21,10.66
+Siurgus Donigala,2024,4,Spagna,19,9.64
+Siurgus Donigala,2024,5,Grecia,12,6.09
+Siurgus Donigala,2025,1,Italia,96,48.98
+Siurgus Donigala,2025,2,Polonia,27,13.78
+Siurgus Donigala,2025,3,Spagna,17,8.67
+Siurgus Donigala,2025,4,Belgio,12,6.12
+Siurgus Donigala,2025,5,Francia,9,4.59
+Solarussa,2022,1,Italia,382,42.63
+Solarussa,2022,2,Francia,106,11.83
+Solarussa,2022,3,Germania,100,11.16
+Solarussa,2022,4,Austria,66,7.37
+Solarussa,2022,5,Paesi Bassi,41,4.58
+Solarussa,2023,1,Italia,381,29.77
+Solarussa,2023,2,Germania,196,15.31
+Solarussa,2023,3,Francia,190,14.84
+Solarussa,2023,4,Belgio,87,6.8
+Solarussa,2023,5,Spagna,86,6.72
+Solarussa,2024,1,Italia,450,24.25
+Solarussa,2024,2,Francia,358,19.29
+Solarussa,2024,3,Altri Paesi Europei,302,16.27
+Solarussa,2024,4,Germania,270,14.55
+Solarussa,2024,5,Belgio,101,5.44
+Solarussa,2025,1,Italia,665,31.61
+Solarussa,2025,2,Francia,542,25.76
+Solarussa,2025,3,Germania,304,14.45
+Solarussa,2025,4,Polonia,108,5.13
+Solarussa,2025,5,Svizzera (incluso Liechtenstein),73,3.47
+Soleminis,2023,1,Italia,205,44.76
+Soleminis,2023,2,Francia,58,12.66
+Soleminis,2023,3,Germania,42,9.17
+Soleminis,2023,4,Spagna,40,8.73
+Soleminis,2023,5,Paesi Bassi,36,7.86
+Soleminis,2024,1,Italia,174,46.28
+Soleminis,2024,2,Germania,34,9.04
+Soleminis,2024,3,Svizzera (incluso Liechtenstein),32,8.51
+Soleminis,2024,4,Polonia,27,7.18
+Soleminis,2024,5,Portogallo,20,5.32
+Soleminis,2025,1,Italia,523,46.28
+Soleminis,2025,2,Francia,133,11.77
+Soleminis,2025,3,Germania,120,10.62
+Soleminis,2025,4,Spagna,108,9.56
+Soleminis,2025,5,Paesi Bassi,79,6.99
+Sorgono,2022,1,Italia,480,51.78
+Sorgono,2022,2,Francia,135,14.56
+Sorgono,2022,3,Germania,57,6.15
+Sorgono,2022,4,Spagna,56,6.04
+Sorgono,2022,5,Svizzera (incluso Liechtenstein),41,4.42
+Sorgono,2023,1,Italia,558,55.91
+Sorgono,2023,2,Germania,125,12.53
+Sorgono,2023,3,Paesi Bassi,80,8.02
+Sorgono,2023,4,Francia,63,6.31
+Sorgono,2023,5,Austria,32,3.21
+Sorgono,2024,1,Italia,394,59.25
+Sorgono,2024,2,Francia,51,7.67
+Sorgono,2024,3,Germania,47,7.07
+Sorgono,2024,4,Paesi Bassi,46,6.92
+Sorgono,2024,5,Polonia,20,3.01
+Sorgono,2025,1,Italia,757,54.54
+Sorgono,2025,2,Germania,185,13.33
+Sorgono,2025,3,Francia,120,8.65
+Sorgono,2025,4,Regno Unito,56,4.03
+Sorgono,2025,5,Paesi Bassi,48,3.46
+Sorradile,2024,1,Italia,85,72.03
+Sorradile,2024,2,Francia,16,13.56
+Sorradile,2024,3,Regno Unito,7,5.93
+Sorradile,2024,4,Spagna,6,5.08
+Sorradile,2024,5,Croazia,4,3.39
+Sorradile,2025,1,Italia,486,79.28
+Sorradile,2025,2,Islanda,30,4.89
+Sorradile,2025,3,Romania,28,4.57
+Sorradile,2025,4,Regno Unito,25,4.08
+Sorradile,2025,5,Egitto,23,3.75
+Sorso,2022,1,Italia,80866,61.92
+Sorso,2022,2,Francia,21333,16.33
+Sorso,2022,3,Germania,5415,4.15
+Sorso,2022,4,Austria,5217,3.99
+Sorso,2022,5,Polonia,3306,2.53
+Sorso,2023,1,Italia,30882,45.85
+Sorso,2023,2,Francia,16685,24.77
+Sorso,2023,3,Germania,6235,9.26
+Sorso,2023,4,Spagna,3022,4.49
+Sorso,2023,5,Svizzera (incluso Liechtenstein),1752,2.6
+Sorso,2024,1,Italia,30529,36.19
+Sorso,2024,2,Francia,25654,30.41
+Sorso,2024,3,Germania,7812,9.26
+Sorso,2024,4,Slovacchia,5283,6.26
+Sorso,2024,5,Spagna,3296,3.91
+Sorso,2025,1,Italia,40599,38.5
+Sorso,2025,2,Francia,29347,27.83
+Sorso,2025,3,Germania,11653,11.05
+Sorso,2025,4,Spagna,5544,5.26
+Sorso,2025,5,Svizzera (incluso Liechtenstein),2650,2.51
+Stintino,2022,1,Italia,258828,81.02
+Stintino,2022,2,Germania,11318,3.54
+Stintino,2022,3,Francia,8728,2.73
+Stintino,2022,4,Svizzera (incluso Liechtenstein),8107,2.54
+Stintino,2022,5,Spagna,5523,1.73
+Stintino,2023,1,Italia,254722,78.34
+Stintino,2023,2,Germania,15306,4.71
+Stintino,2023,3,Francia,8629,2.65
+Stintino,2023,4,Svizzera (incluso Liechtenstein),8351,2.57
+Stintino,2023,5,Spagna,8307,2.55
+Stintino,2024,1,Italia,238061,73.31
+Stintino,2024,2,Germania,18561,5.72
+Stintino,2024,3,Francia,10395,3.2
+Stintino,2024,4,Spagna,8795,2.71
+Stintino,2024,5,Svizzera (incluso Liechtenstein),8091,2.49
+Stintino,2025,1,Italia,264282,68.76
+Stintino,2025,2,Germania,24430,6.36
+Stintino,2025,3,Francia,15058,3.92
+Stintino,2025,4,Spagna,11524,3.0
+Stintino,2025,5,Svizzera (incluso Liechtenstein),9875,2.57
+Suni,2022,1,Italia,319,39.97
+Suni,2022,2,Francia,220,27.57
+Suni,2022,3,Spagna,172,21.55
+Suni,2022,4,Polonia,19,2.38
+Suni,2022,5,Belgio,15,1.88
+Suni,2023,1,Italia,317,37.08
+Suni,2023,2,Francia,203,23.74
+Suni,2023,3,Germania,80,9.36
+Suni,2023,4,Spagna,78,9.12
+Suni,2023,5,Belgio,36,4.21
+Suni,2024,1,Italia,292,36.68
+Suni,2024,2,Francia,223,28.02
+Suni,2024,3,Belgio,72,9.05
+Suni,2024,4,Spagna,56,7.04
+Suni,2024,5,Germania,45,5.65
+Suni,2025,1,Italia,517,34.08
+Suni,2025,2,Germania,387,25.51
+Suni,2025,3,Francia,162,10.68
+Suni,2025,4,Polonia,105,6.92
+Suni,2025,5,Spagna,71,4.68
+Talana,2023,1,Svizzera (incluso Liechtenstein),125,21.44
+Talana,2023,2,Malta,120,20.58
+Talana,2023,3,Italia,92,15.78
+Talana,2023,4,Regno Unito,86,14.75
+Talana,2023,5,Germania,34,5.83
+Talana,2024,1,Italia,178,43.73
+Talana,2024,2,Germania,110,27.03
+Talana,2024,3,Svizzera (incluso Liechtenstein),50,12.29
+Talana,2024,4,Stati Uniti d'America,35,8.6
+Talana,2024,5,Francia,12,2.95
+Talana,2025,1,Italia,111,34.58
+Talana,2025,2,Francia,80,24.92
+Talana,2025,3,Germania,60,18.69
+Talana,2025,4,Svizzera (incluso Liechtenstein),43,13.4
+Talana,2025,5,Stati Uniti d'America,14,4.36
+Telti,2022,1,Italia,1005,49.83
+Telti,2022,2,Germania,283,14.03
+Telti,2022,3,Francia,179,8.87
+Telti,2022,4,Regno Unito,150,7.44
+Telti,2022,5,Spagna,101,5.01
+Telti,2023,1,Italia,720,31.09
+Telti,2023,2,Germania,299,12.91
+Telti,2023,3,Francia,292,12.61
+Telti,2023,4,Regno Unito,278,12.0
+Telti,2023,5,Paesi Bassi,189,8.16
+Telti,2024,1,Italia,1107,27.62
+Telti,2024,2,Germania,599,14.95
+Telti,2024,3,Francia,587,14.65
+Telti,2024,4,Spagna,304,7.58
+Telti,2024,5,Regno Unito,225,5.61
+Telti,2025,1,Italia,1835,30.88
+Telti,2025,2,Germania,987,16.61
+Telti,2025,3,Francia,970,16.32
+Telti,2025,4,Paesi Bassi,356,5.99
+Telti,2025,5,Regno Unito,298,5.01
+Tempio Pausania,2022,1,Italia,14333,56.25
+Tempio Pausania,2022,2,Polonia,2357,9.25
+Tempio Pausania,2022,3,Germania,1949,7.65
+Tempio Pausania,2022,4,Francia,1391,5.46
+Tempio Pausania,2022,5,Paesi Bassi,1269,4.98
+Tempio Pausania,2023,1,Italia,18235,47.5
+Tempio Pausania,2023,2,Polonia,3623,9.44
+Tempio Pausania,2023,3,Paesi Bassi,3228,8.41
+Tempio Pausania,2023,4,Germania,2801,7.3
+Tempio Pausania,2023,5,Francia,2690,7.01
+Tempio Pausania,2024,1,Italia,18052,47.58
+Tempio Pausania,2024,2,Paesi Bassi,3555,9.37
+Tempio Pausania,2024,3,Germania,3351,8.83
+Tempio Pausania,2024,4,Francia,3035,8.0
+Tempio Pausania,2024,5,Polonia,2763,7.28
+Tempio Pausania,2025,1,Italia,20782,51.54
+Tempio Pausania,2025,2,Francia,3569,8.85
+Tempio Pausania,2025,3,Germania,3314,8.22
+Tempio Pausania,2025,4,Paesi Bassi,3176,7.88
+Tempio Pausania,2025,5,Polonia,1993,4.94
+Tergu,2022,1,Italia,1033,29.03
+Tergu,2022,2,Francia,801,22.51
+Tergu,2022,3,Germania,533,14.98
+Tergu,2022,4,Spagna,384,10.79
+Tergu,2022,5,Ucraina,132,3.71
+Tergu,2023,1,Spagna,2431,26.86
+Tergu,2023,2,Italia,1982,21.9
+Tergu,2023,3,Francia,1328,14.67
+Tergu,2023,4,Germania,1010,11.16
+Tergu,2023,5,Paesi Bassi,375,4.14
+Tergu,2024,1,Italia,2532,20.59
+Tergu,2024,2,Francia,2444,19.88
+Tergu,2024,3,Spagna,1926,15.66
+Tergu,2024,4,Germania,1474,11.99
+Tergu,2024,5,Polonia,825,6.71
+Tergu,2025,1,Francia,2553,26.98
+Tergu,2025,2,Italia,2225,23.51
+Tergu,2025,3,Ungheria,1328,14.03
+Tergu,2025,4,Spagna,1014,10.71
+Tergu,2025,5,Germania,760,8.03
+Terralba,2022,1,Italia,1467,63.42
+Terralba,2022,2,Germania,194,8.39
+Terralba,2022,3,Francia,183,7.91
+Terralba,2022,4,Polonia,99,4.28
+Terralba,2022,5,Australia,94,4.06
+Terralba,2023,1,Italia,2387,66.51
+Terralba,2023,2,Germania,290,8.08
+Terralba,2023,3,Francia,206,5.74
+Terralba,2023,4,Spagna,128,3.57
+Terralba,2023,5,Belgio,71,1.98
+Terralba,2024,1,Italia,3059,72.57
+Terralba,2024,2,Francia,341,8.09
+Terralba,2024,3,Germania,215,5.1
+Terralba,2024,4,Spagna,146,3.46
+Terralba,2024,5,Polonia,71,1.68
+Terralba,2025,1,Italia,4024,69.66
+Terralba,2025,2,Francia,377,6.53
+Terralba,2025,3,Germania,314,5.44
+Terralba,2025,4,Slovenia,158,2.73
+Terralba,2025,5,Spagna,133,2.3
+Tertenia,2022,1,Germania,9268,31.97
+Tertenia,2022,2,Italia,8210,28.32
+Tertenia,2022,3,Francia,2284,7.88
+Tertenia,2022,4,Svizzera (incluso Liechtenstein),1708,5.89
+Tertenia,2022,5,Polonia,1286,4.44
+Tertenia,2023,1,Italia,14377,31.77
+Tertenia,2023,2,Germania,13180,29.12
+Tertenia,2023,3,Francia,4004,8.85
+Tertenia,2023,4,Svizzera (incluso Liechtenstein),2950,6.52
+Tertenia,2023,5,Austria,1351,2.99
+Tertenia,2024,1,Germania,19533,32.6
+Tertenia,2024,2,Italia,15652,26.12
+Tertenia,2024,3,Francia,4688,7.82
+Tertenia,2024,4,Svizzera (incluso Liechtenstein),3794,6.33
+Tertenia,2024,5,Polonia,2292,3.83
+Tertenia,2025,1,Germania,27493,36.63
+Tertenia,2025,2,Italia,14724,19.62
+Tertenia,2025,3,Francia,6680,8.9
+Tertenia,2025,4,Svizzera (incluso Liechtenstein),5774,7.69
+Tertenia,2025,5,Paesi Bassi,2568,3.42
+Teti,2023,1,Italia,105,100.0
+Teti,2024,1,Italia,245,72.49
+Teti,2024,2,Egitto,66,19.53
+Teti,2024,3,Paesi Bassi,20,5.92
+Teti,2024,4,Altri Paesi dell'Asia,2,0.59
+Teti,2024,5,Germania,2,0.59
+Teti,2025,1,Italia,74,79.57
+Teti,2025,2,Francia,10,10.75
+Teti,2025,3,Paesi Bassi,7,7.53
+Teti,2025,4,Croazia,2,2.15
+Teulada,2022,1,Italia,22090,60.33
+Teulada,2022,2,Francia,3928,10.73
+Teulada,2022,3,Germania,3491,9.53
+Teulada,2022,4,Svizzera (incluso Liechtenstein),1311,3.58
+Teulada,2022,5,Belgio,679,1.85
+Teulada,2023,1,Italia,23015,56.72
+Teulada,2023,2,Francia,4261,10.5
+Teulada,2023,3,Germania,3826,9.43
+Teulada,2023,4,Svizzera (incluso Liechtenstein),1513,3.73
+Teulada,2023,5,Regno Unito,1206,2.97
+Teulada,2024,1,Italia,26739,53.91
+Teulada,2024,2,Germania,5666,11.42
+Teulada,2024,3,Francia,4672,9.42
+Teulada,2024,4,Regno Unito,1438,2.9
+Teulada,2024,5,Svizzera (incluso Liechtenstein),1333,2.69
+Teulada,2025,1,Italia,36329,56.96
+Teulada,2025,2,Germania,7155,11.22
+Teulada,2025,3,Francia,5691,8.92
+Teulada,2025,4,Svizzera (incluso Liechtenstein),2114,3.31
+Teulada,2025,5,Polonia,1389,2.18
+Thiesi,2022,1,Italia,2254,81.37
+Thiesi,2022,2,Spagna,150,5.42
+Thiesi,2022,3,Francia,130,4.69
+Thiesi,2022,4,Svizzera (incluso Liechtenstein),87,3.14
+Thiesi,2022,5,Ucraina,49,1.77
+Thiesi,2023,1,Italia,1493,80.53
+Thiesi,2023,2,Svizzera (incluso Liechtenstein),77,4.15
+Thiesi,2023,3,Francia,74,3.99
+Thiesi,2023,4,Belgio,39,2.1
+Thiesi,2023,5,Spagna,38,2.05
+Thiesi,2024,1,Italia,1862,86.16
+Thiesi,2024,2,Francia,103,4.77
+Thiesi,2024,3,Spagna,34,1.57
+Thiesi,2024,4,Regno Unito,33,1.53
+Thiesi,2024,5,Svizzera (incluso Liechtenstein),32,1.48
+Thiesi,2025,1,Italia,1841,92.42
+Thiesi,2025,2,Svizzera (incluso Liechtenstein),35,1.76
+Thiesi,2025,3,Ucraina,28,1.41
+Thiesi,2025,4,Francia,23,1.15
+Thiesi,2025,5,Stati Uniti d'America,14,0.7
+Tinnura,2024,1,Germania,64,54.7
+Tinnura,2024,2,Francia,19,16.24
+Tinnura,2024,3,Belgio,15,12.82
+Tinnura,2024,4,Paesi Bassi,8,6.84
+Tinnura,2024,5,Italia,7,5.98
+Tinnura,2025,1,Italia,108,34.07
+Tinnura,2025,2,Francia,75,23.66
+Tinnura,2025,3,Germania,33,10.41
+Tinnura,2025,4,Repubblica Ceca,16,5.05
+Tinnura,2025,5,Paesi Bassi,14,4.42
+Tissi,2023,1,Francia,30,38.46
+Tissi,2023,2,Italia,16,20.51
+Tissi,2023,3,Repubblica Ceca,13,16.67
+Tissi,2023,4,Spagna,10,12.82
+Tissi,2023,5,Paesi Bassi,4,5.13
+Tissi,2024,1,Italia,151,38.23
+Tissi,2024,2,Francia,102,25.82
+Tissi,2024,3,Germania,37,9.37
+Tissi,2024,4,Regno Unito,32,8.1
+Tissi,2024,5,Spagna,28,7.09
+Tissi,2025,1,Italia,187,31.27
+Tissi,2025,2,Francia,134,22.41
+Tissi,2025,3,Germania,62,10.37
+Tissi,2025,4,Spagna,60,10.03
+Tissi,2025,5,Grecia,25,4.18
+Tonara,2022,1,Italia,854,73.3
+Tonara,2022,2,Stati Uniti d'America,80,6.87
+Tonara,2022,3,Germania,75,6.44
+Tonara,2022,4,Regno Unito,47,4.03
+Tonara,2022,5,Francia,36,3.09
+Tonara,2023,1,Italia,764,75.27
+Tonara,2023,2,Germania,76,7.49
+Tonara,2023,3,Regno Unito,59,5.81
+Tonara,2023,4,Francia,35,3.45
+Tonara,2023,5,Svizzera (incluso Liechtenstein),32,3.15
+Tonara,2024,1,Italia,555,69.99
+Tonara,2024,2,Germania,89,11.22
+Tonara,2024,3,Francia,43,5.42
+Tonara,2024,4,Belgio,15,1.89
+Tonara,2024,5,Australia,14,1.77
+Tonara,2025,1,Italia,885,65.17
+Tonara,2025,2,Paesi Bassi,106,7.81
+Tonara,2025,3,Francia,89,6.55
+Tonara,2025,4,Germania,74,5.45
+Tonara,2025,5,Svizzera (incluso Liechtenstein),44,3.24
+Torpè,2022,1,Italia,1499,71.14
+Torpè,2022,2,Germania,170,8.07
+Torpè,2022,3,Francia,137,6.5
+Torpè,2022,4,Paesi Bassi,63,2.99
+Torpè,2022,5,Spagna,37,1.76
+Torpè,2023,1,Italia,1671,56.09
+Torpè,2023,2,Germania,389,13.06
+Torpè,2023,3,Francia,279,9.37
+Torpè,2023,4,Spagna,141,4.73
+Torpè,2023,5,Austria,77,2.58
+Torpè,2024,1,Italia,3690,48.8
+Torpè,2024,2,Germania,1632,21.58
+Torpè,2024,3,Francia,455,6.02
+Torpè,2024,4,Svizzera (incluso Liechtenstein),291,3.85
+Torpè,2024,5,Romania,277,3.66
+Torpè,2025,1,Italia,4779,40.26
+Torpè,2025,2,Germania,2496,21.03
+Torpè,2025,3,Francia,1267,10.67
+Torpè,2025,4,Paesi Bassi,561,4.73
+Torpè,2025,5,Spagna,439,3.7
+Torralba,2023,1,Italia,80,91.95
+Torralba,2023,2,Altri Paesi Centro - Sud America,2,2.3
+Torralba,2023,3,Australia,2,2.3
+Torralba,2023,4,Francia,1,1.15
+Torralba,2023,5,Germania,1,1.15
+Torralba,2024,1,Italia,266,91.1
+Torralba,2024,2,Romania,10,3.42
+Torralba,2024,3,Malta,8,2.74
+Torralba,2024,4,Germania,3,1.03
+Torralba,2024,5,Francia,2,0.68
+Torralba,2025,1,Italia,159,89.33
+Torralba,2025,2,Francia,10,5.62
+Torralba,2025,3,Paesi Bassi,4,2.25
+Torralba,2025,4,Regno Unito,2,1.12
+Torralba,2025,5,Altri Paesi Centro - Sud America,1,0.56
+Tortolì,2022,1,Italia,322185,50.23
+Tortolì,2022,2,Germania,128064,19.97
+Tortolì,2022,3,Svizzera (incluso Liechtenstein),50030,7.8
+Tortolì,2022,4,Francia,43012,6.71
+Tortolì,2022,5,Austria,25350,3.95
+Tortolì,2023,1,Italia,309415,48.73
+Tortolì,2023,2,Germania,124197,19.56
+Tortolì,2023,3,Francia,45246,7.13
+Tortolì,2023,4,Svizzera (incluso Liechtenstein),38136,6.01
+Tortolì,2023,5,Austria,24411,3.84
+Tortolì,2024,1,Italia,305443,49.43
+Tortolì,2024,2,Germania,125360,20.29
+Tortolì,2024,3,Svizzera (incluso Liechtenstein),33037,5.35
+Tortolì,2024,4,Francia,32138,5.2
+Tortolì,2024,5,Austria,20475,3.31
+Tortolì,2025,1,Italia,408511,45.87
+Tortolì,2025,2,Germania,165580,18.59
+Tortolì,2025,3,Francia,63890,7.17
+Tortolì,2025,4,Svizzera (incluso Liechtenstein),53248,5.98
+Tortolì,2025,5,Austria,31727,3.56
+Tramatza,2022,1,Italia,2289,90.05
+Tramatza,2022,2,Francia,90,3.54
+Tramatza,2022,3,Germania,58,2.28
+Tramatza,2022,4,Spagna,41,1.61
+Tramatza,2022,5,Paesi Bassi,8,0.31
+Tramatza,2023,1,Italia,1796,84.6
+Tramatza,2023,2,Francia,74,3.49
+Tramatza,2023,3,Germania,67,3.16
+Tramatza,2023,4,Paesi Bassi,36,1.7
+Tramatza,2023,5,Romania,25,1.18
+Tramatza,2024,1,Italia,4013,85.62
+Tramatza,2024,2,Altri Paesi dell'Africa,178,3.8
+Tramatza,2024,3,Francia,156,3.33
+Tramatza,2024,4,Spagna,85,1.81
+Tramatza,2024,5,Altri Paesi Africa Mediterranea,63,1.34
+Tramatza,2025,1,Italia,5163,89.76
+Tramatza,2025,2,Altri Paesi Africa Mediterranea,209,3.63
+Tramatza,2025,3,Altri Paesi dell'Africa,198,3.44
+Tramatza,2025,4,Francia,72,1.25
+Tramatza,2025,5,Germania,21,0.37
+Tratalias,2022,1,Italia,2254,70.17
+Tratalias,2022,2,Francia,337,10.49
+Tratalias,2022,3,Germania,148,4.61
+Tratalias,2022,4,Austria,118,3.67
+Tratalias,2022,5,Belgio,88,2.74
+Tratalias,2023,1,Italia,2196,71.79
+Tratalias,2023,2,Francia,294,9.61
+Tratalias,2023,3,Germania,173,5.66
+Tratalias,2023,4,Polonia,70,2.29
+Tratalias,2023,5,Belgio,54,1.77
+Tratalias,2024,1,Italia,1812,67.16
+Tratalias,2024,2,Germania,236,8.75
+Tratalias,2024,3,Francia,165,6.12
+Tratalias,2024,4,Svizzera (incluso Liechtenstein),114,4.23
+Tratalias,2024,5,Paesi Bassi,69,2.56
+Tratalias,2025,1,Italia,3015,75.24
+Tratalias,2025,2,Francia,250,6.24
+Tratalias,2025,3,Germania,243,6.06
+Tratalias,2025,4,Svizzera (incluso Liechtenstein),89,2.22
+Tratalias,2025,5,Polonia,63,1.57
+Tresnuraghes,2022,1,Italia,5861,30.88
+Tresnuraghes,2022,2,Germania,4932,25.98
+Tresnuraghes,2022,3,Francia,2080,10.96
+Tresnuraghes,2022,4,Paesi Bassi,1543,8.13
+Tresnuraghes,2022,5,Svizzera (incluso Liechtenstein),1037,5.46
+Tresnuraghes,2023,1,Italia,5798,24.33
+Tresnuraghes,2023,2,Germania,5021,21.07
+Tresnuraghes,2023,3,Paesi Bassi,3344,14.03
+Tresnuraghes,2023,4,Francia,2644,11.1
+Tresnuraghes,2023,5,Svizzera (incluso Liechtenstein),1482,6.22
+Tresnuraghes,2024,1,Germania,8016,26.24
+Tresnuraghes,2024,2,Italia,6246,20.45
+Tresnuraghes,2024,3,Paesi Bassi,4005,13.11
+Tresnuraghes,2024,4,Francia,3393,11.11
+Tresnuraghes,2024,5,Svizzera (incluso Liechtenstein),1178,3.86
+Tresnuraghes,2025,1,Germania,9587,25.53
+Tresnuraghes,2025,2,Italia,7700,20.51
+Tresnuraghes,2025,3,Paesi Bassi,4619,12.3
+Tresnuraghes,2025,4,Francia,4578,12.19
+Tresnuraghes,2025,5,Svizzera (incluso Liechtenstein),1577,4.2
+Triei,2022,1,Italia,982,50.99
+Triei,2022,2,Germania,293,15.21
+Triei,2022,3,Paesi Bassi,150,7.79
+Triei,2022,4,Francia,127,6.59
+Triei,2022,5,Spagna,83,4.31
+Triei,2023,1,Italia,938,36.77
+Triei,2023,2,Germania,350,13.72
+Triei,2023,3,Francia,342,13.41
+Triei,2023,4,Spagna,271,10.62
+Triei,2023,5,Polonia,181,7.1
+Triei,2024,1,Italia,1153,36.46
+Triei,2024,2,Germania,663,20.97
+Triei,2024,3,Spagna,322,10.18
+Triei,2024,4,Francia,195,6.17
+Triei,2024,5,Polonia,181,5.72
+Triei,2025,1,Italia,1408,26.4
+Triei,2025,2,Germania,1247,23.38
+Triei,2025,3,Belgio,515,9.66
+Triei,2025,4,Francia,416,7.8
+Triei,2025,5,Paesi Bassi,258,4.84
+Trinità D'Agultu E Vignola,2022,1,Italia,77342,54.02
+Trinità D'Agultu E Vignola,2022,2,Germania,18081,12.63
+Trinità D'Agultu E Vignola,2022,3,Svizzera (incluso Liechtenstein),11895,8.31
+Trinità D'Agultu E Vignola,2022,4,Francia,9735,6.8
+Trinità D'Agultu E Vignola,2022,5,Regno Unito,5847,4.08
+Trinità D'Agultu E Vignola,2023,1,Italia,39357,34.64
+Trinità D'Agultu E Vignola,2023,2,Germania,21403,18.84
+Trinità D'Agultu E Vignola,2023,3,Svizzera (incluso Liechtenstein),11096,9.77
+Trinità D'Agultu E Vignola,2023,4,Francia,9183,8.08
+Trinità D'Agultu E Vignola,2023,5,Regno Unito,6697,5.89
+Trinità D'Agultu E Vignola,2024,1,Italia,120827,35.28
+Trinità D'Agultu E Vignola,2024,2,Francia,46508,13.58
+Trinità D'Agultu E Vignola,2024,3,Germania,42523,12.41
+Trinità D'Agultu E Vignola,2024,4,Polonia,21882,6.39
+Trinità D'Agultu E Vignola,2024,5,Repubblica Ceca,18145,5.3
+Trinità D'Agultu E Vignola,2025,1,Italia,80166,31.78
+Trinità D'Agultu E Vignola,2025,2,Germania,42481,16.84
+Trinità D'Agultu E Vignola,2025,3,Francia,27669,10.97
+Trinità D'Agultu E Vignola,2025,4,Spagna,15677,6.21
+Trinità D'Agultu E Vignola,2025,5,Regno Unito,14489,5.74
+Tuili,2022,1,Italia,121,55.0
+Tuili,2022,2,Francia,76,34.55
+Tuili,2022,3,Austria,6,2.73
+Tuili,2022,4,Svizzera (incluso Liechtenstein),6,2.73
+Tuili,2022,5,Stati Uniti d'America,3,1.36
+Tuili,2023,1,Italia,96,60.38
+Tuili,2023,2,Francia,24,15.09
+Tuili,2023,3,Germania,19,11.95
+Tuili,2023,4,Svizzera (incluso Liechtenstein),11,6.92
+Tuili,2023,5,Malta,2,1.26
+Tuili,2024,1,Italia,98,44.55
+Tuili,2024,2,Francia,52,23.64
+Tuili,2024,3,Svizzera (incluso Liechtenstein),29,13.18
+Tuili,2024,4,Germania,9,4.09
+Tuili,2024,5,Regno Unito,5,2.27
+Tuili,2025,1,Italia,109,34.17
+Tuili,2025,2,Paesi Bassi,58,18.18
+Tuili,2025,3,Francia,41,12.85
+Tuili,2025,4,Germania,35,10.97
+Tuili,2025,5,Belgio,17,5.33
+Tula,2023,1,Italia,765,48.05
+Tula,2023,2,Germania,222,13.94
+Tula,2023,3,Francia,139,8.73
+Tula,2023,4,Svizzera (incluso Liechtenstein),126,7.91
+Tula,2023,5,Spagna,98,6.16
+Tula,2024,1,Italia,732,57.01
+Tula,2024,2,Germania,145,11.29
+Tula,2024,3,Svizzera (incluso Liechtenstein),94,7.32
+Tula,2024,4,Francia,76,5.92
+Tula,2024,5,Danimarca,49,3.82
+Tula,2025,1,Italia,640,29.73
+Tula,2025,2,Francia,262,12.17
+Tula,2025,3,Germania,261,12.12
+Tula,2025,4,Svizzera (incluso Liechtenstein),149,6.92
+Tula,2025,5,Altri Paesi dell'Africa,118,5.48
+Turri,2023,1,Italia,1229,55.61
+Turri,2023,2,Francia,278,12.58
+Turri,2023,3,Germania,194,8.78
+Turri,2023,4,Paesi Bassi,175,7.92
+Turri,2023,5,Regno Unito,66,2.99
+Turri,2024,1,Italia,782,49.15
+Turri,2024,2,Francia,233,14.64
+Turri,2024,3,Paesi Bassi,171,10.75
+Turri,2024,4,Germania,134,8.42
+Turri,2024,5,Regno Unito,61,3.83
+Turri,2025,1,Italia,1085,49.36
+Turri,2025,2,Germania,355,16.15
+Turri,2025,3,Francia,275,12.51
+Turri,2025,4,Paesi Bassi,123,5.6
+Turri,2025,5,Belgio,105,4.78
+Ulassai,2022,1,Italia,2376,31.93
+Ulassai,2022,2,Germania,2047,27.51
+Ulassai,2022,3,Svizzera (incluso Liechtenstein),674,9.06
+Ulassai,2022,4,Francia,484,6.5
+Ulassai,2022,5,Belgio,324,4.35
+Ulassai,2023,1,Italia,2068,34.83
+Ulassai,2023,2,Germania,738,12.43
+Ulassai,2023,3,Svizzera (incluso Liechtenstein),514,8.66
+Ulassai,2023,4,Francia,479,8.07
+Ulassai,2023,5,Stati Uniti d'America,315,5.31
+Ulassai,2024,1,Italia,2914,32.29
+Ulassai,2024,2,Germania,1973,21.86
+Ulassai,2024,3,Francia,816,9.04
+Ulassai,2024,4,Svizzera (incluso Liechtenstein),544,6.03
+Ulassai,2024,5,Stati Uniti d'America,392,4.34
+Ulassai,2025,1,Italia,3161,27.76
+Ulassai,2025,2,Germania,2461,21.61
+Ulassai,2025,3,Stati Uniti d'America,953,8.37
+Ulassai,2025,4,Francia,873,7.67
+Ulassai,2025,5,Svizzera (incluso Liechtenstein),769,6.75
+Ulà Tirso,2023,1,Italia,76,73.79
+Ulà Tirso,2023,2,Germania,25,24.27
+Ulà Tirso,2023,3,Francia,2,1.94
+Ulà Tirso,2024,1,Italia,91,69.47
+Ulà Tirso,2024,2,Repubblica Ceca,12,9.16
+Ulà Tirso,2024,3,Francia,8,6.11
+Ulà Tirso,2024,4,Germania,7,5.34
+Ulà Tirso,2024,5,Paesi Bassi,7,5.34
+Ulà Tirso,2025,1,Italia,186,38.67
+Ulà Tirso,2025,2,Repubblica Ceca,62,12.89
+Ulà Tirso,2025,3,Altri Paesi Africa Mediterranea,30,6.24
+Ulà Tirso,2025,4,Francia,28,5.82
+Ulà Tirso,2025,5,Ungheria,27,5.61
+Uras,2022,1,Italia,679,60.68
+Uras,2022,2,Germania,98,8.76
+Uras,2022,3,Francia,77,6.88
+Uras,2022,4,Polonia,50,4.47
+Uras,2022,5,Spagna,50,4.47
+Uras,2023,1,Italia,451,63.7
+Uras,2023,2,Germania,92,12.99
+Uras,2023,3,Francia,41,5.79
+Uras,2023,4,Spagna,30,4.24
+Uras,2023,5,Polonia,26,3.67
+Uras,2024,1,Italia,352,54.49
+Uras,2024,2,Germania,139,21.52
+Uras,2024,3,Francia,33,5.11
+Uras,2024,4,Spagna,32,4.95
+Uras,2024,5,Repubblica Ceca,20,3.1
+Uras,2025,1,Italia,319,51.62
+Uras,2025,2,Germania,91,14.72
+Uras,2025,3,Polonia,54,8.74
+Uras,2025,4,Francia,51,8.25
+Uras,2025,5,Stati Uniti d'America,28,4.53
+Uri,2022,1,Italia,943,60.76
+Uri,2022,2,Spagna,235,15.14
+Uri,2022,3,Germania,90,5.8
+Uri,2022,4,Francia,86,5.54
+Uri,2022,5,Belgio,71,4.57
+Uri,2023,1,Italia,975,47.42
+Uri,2023,2,Spagna,310,15.08
+Uri,2023,3,Francia,280,13.62
+Uri,2023,4,Belgio,175,8.51
+Uri,2023,5,Germania,88,4.28
+Uri,2024,1,Italia,1113,48.45
+Uri,2024,2,Francia,351,15.28
+Uri,2024,3,Polonia,190,8.27
+Uri,2024,4,Spagna,188,8.18
+Uri,2024,5,Belgio,168,7.31
+Uri,2025,1,Italia,1334,48.51
+Uri,2025,2,Francia,465,16.91
+Uri,2025,3,Spagna,271,9.85
+Uri,2025,4,Belgio,210,7.64
+Uri,2025,5,Paesi Bassi,93,3.38
+Urzulei,2022,1,Italia,1790,51.39
+Urzulei,2022,2,Germania,468,13.44
+Urzulei,2022,3,Francia,313,8.99
+Urzulei,2022,4,Belgio,157,4.51
+Urzulei,2022,5,Spagna,101,2.9
+Urzulei,2023,1,Italia,1344,41.16
+Urzulei,2023,2,Germania,494,15.13
+Urzulei,2023,3,Francia,425,13.02
+Urzulei,2023,4,Belgio,171,5.24
+Urzulei,2023,5,Stati Uniti d'America,125,3.83
+Urzulei,2024,1,Italia,1984,42.38
+Urzulei,2024,2,Francia,637,13.61
+Urzulei,2024,3,Germania,428,9.14
+Urzulei,2024,4,Paesi Bassi,258,5.51
+Urzulei,2024,5,Belgio,210,4.49
+Urzulei,2025,1,Italia,2391,35.37
+Urzulei,2025,2,Germania,1124,16.63
+Urzulei,2025,3,Francia,882,13.05
+Urzulei,2025,4,Paesi Bassi,387,5.72
+Urzulei,2025,5,Svizzera (incluso Liechtenstein),251,3.71
+Usellus,2024,1,Spagna,7,77.78
+Usellus,2024,2,Francia,2,22.22
+Usellus,2025,1,Paesi Bassi,80,38.28
+Usellus,2025,2,Germania,64,30.62
+Usellus,2025,3,Francia,20,9.57
+Usellus,2025,4,Belgio,15,7.18
+Usellus,2025,5,Repubblica Ceca,12,5.74
+Usini,2023,1,Italia,156,46.29
+Usini,2023,2,Spagna,44,13.06
+Usini,2023,3,Francia,33,9.79
+Usini,2023,4,Repubblica Ceca,28,8.31
+Usini,2023,5,Germania,25,7.42
+Usini,2024,1,Italia,182,55.66
+Usini,2024,2,Francia,55,16.82
+Usini,2024,3,Spagna,36,11.01
+Usini,2024,4,Germania,28,8.56
+Usini,2024,5,Polonia,9,2.75
+Usini,2025,1,Italia,133,24.05
+Usini,2025,2,Francia,107,19.35
+Usini,2025,3,Paesi Bassi,95,17.18
+Usini,2025,4,Spagna,73,13.2
+Usini,2025,5,Germania,40,7.23
+Ussana,2023,1,Italia,436,52.34
+Ussana,2023,2,Francia,108,12.97
+Ussana,2023,3,Germania,78,9.36
+Ussana,2023,4,Paesi Bassi,76,9.12
+Ussana,2023,5,Belgio,73,8.76
+Ussana,2024,1,Italia,262,29.08
+Ussana,2024,2,Francia,231,25.64
+Ussana,2024,3,Germania,149,16.54
+Ussana,2024,4,Paesi Bassi,91,10.1
+Ussana,2024,5,Spagna,60,6.66
+Ussana,2025,1,Francia,372,32.01
+Ussana,2025,2,Italia,323,27.8
+Ussana,2025,3,Germania,95,8.18
+Ussana,2025,4,Polonia,88,7.57
+Ussana,2025,5,Paesi Bassi,76,6.54
+Ussassai,2022,1,Italia,394,86.4
+Ussassai,2022,2,Spagna,18,3.95
+Ussassai,2022,3,Germania,12,2.63
+Ussassai,2022,4,Stati Uniti d'America,9,1.97
+Ussassai,2022,5,Francia,8,1.75
+Ussassai,2023,1,Italia,342,82.41
+Ussassai,2023,2,Germania,14,3.37
+Ussassai,2023,3,Altri Paesi dell'Asia,12,2.89
+Ussassai,2023,4,Francia,10,2.41
+Ussassai,2023,5,Svizzera (incluso Liechtenstein),9,2.17
+Ussassai,2024,1,Italia,196,66.44
+Ussassai,2024,2,Germania,22,7.46
+Ussassai,2024,3,Francia,20,6.78
+Ussassai,2024,4,Austria,11,3.73
+Ussassai,2024,5,Spagna,11,3.73
+Ussassai,2025,1,Italia,215,79.63
+Ussassai,2025,2,Germania,8,2.96
+Ussassai,2025,3,Polonia,8,2.96
+Ussassai,2025,4,Francia,6,2.22
+Ussassai,2025,5,Austria,5,1.85
+Uta,2022,1,Italia,896,42.71
+Uta,2022,2,Repubblica Ceca,354,16.87
+Uta,2022,3,Francia,210,10.01
+Uta,2022,4,Polonia,177,8.44
+Uta,2022,5,Romania,144,6.86
+Uta,2023,1,Italia,378,30.78
+Uta,2023,2,Romania,293,23.86
+Uta,2023,3,Francia,139,11.32
+Uta,2023,4,Repubblica Ceca,116,9.45
+Uta,2023,5,Spagna,70,5.7
+Uta,2024,1,Italia,1800,50.82
+Uta,2024,2,Francia,290,8.19
+Uta,2024,3,Altri Paesi Asia Occidentale,261,7.37
+Uta,2024,4,Repubblica Ceca,220,6.21
+Uta,2024,5,Bielorussia,168,4.74
+Uta,2025,1,Italia,118329,91.54
+Uta,2025,2,Germania,4495,3.48
+Uta,2025,3,Belgio,1526,1.18
+Uta,2025,4,Canada,1095,0.85
+Uta,2025,5,Svizzera (incluso Liechtenstein),767,0.59
+Valledoria,2022,1,Italia,62957,31.04
+Valledoria,2022,2,Germania,45032,22.2
+Valledoria,2022,3,Polonia,24253,11.96
+Valledoria,2022,4,Repubblica Ceca,15917,7.85
+Valledoria,2022,5,Francia,12221,6.03
+Valledoria,2023,1,Italia,43190,24.27
+Valledoria,2023,2,Germania,34512,19.39
+Valledoria,2023,3,Polonia,25801,14.5
+Valledoria,2023,4,Repubblica Ceca,24950,14.02
+Valledoria,2023,5,Francia,9951,5.59
+Valledoria,2024,1,Germania,51245,26.62
+Valledoria,2024,2,Italia,49831,25.89
+Valledoria,2024,3,Polonia,16416,8.53
+Valledoria,2024,4,Francia,15764,8.19
+Valledoria,2024,5,Svizzera (incluso Liechtenstein),10719,5.57
+Valledoria,2025,1,Italia,77381,28.37
+Valledoria,2025,2,Germania,63447,23.26
+Valledoria,2025,3,Polonia,24301,8.91
+Valledoria,2025,4,Francia,21470,7.87
+Valledoria,2025,5,Spagna,15772,5.78
+Vallermosa,2022,1,Italia,711,86.6
+Vallermosa,2022,2,Germania,44,5.36
+Vallermosa,2022,3,Belgio,30,3.65
+Vallermosa,2022,4,Francia,16,1.95
+Vallermosa,2022,5,Spagna,12,1.46
+Vallermosa,2023,1,Italia,554,78.81
+Vallermosa,2023,2,Ucraina,44,6.26
+Vallermosa,2023,3,Germania,36,5.12
+Vallermosa,2023,4,Belgio,16,2.28
+Vallermosa,2023,5,Svizzera (incluso Liechtenstein),12,1.71
+Vallermosa,2024,1,Italia,1211,92.51
+Vallermosa,2024,2,Belgio,24,1.83
+Vallermosa,2024,3,Germania,24,1.83
+Vallermosa,2024,4,Altri Paesi Europei,10,0.76
+Vallermosa,2024,5,Argentina,10,0.76
+Vallermosa,2025,1,Italia,1416,81.8
+Vallermosa,2025,2,Romania,165,9.53
+Vallermosa,2025,3,Ungheria,88,5.08
+Vallermosa,2025,4,Bielorussia,14,0.81
+Vallermosa,2025,5,Danimarca,11,0.64
+Viddalba,2022,1,Germania,837,24.06
+Viddalba,2022,2,Italia,725,20.84
+Viddalba,2022,3,Francia,688,19.78
+Viddalba,2022,4,Spagna,377,10.84
+Viddalba,2022,5,Svizzera (incluso Liechtenstein),311,8.94
+Viddalba,2023,1,Francia,2035,30.21
+Viddalba,2023,2,Germania,1225,18.19
+Viddalba,2023,3,Italia,1136,16.86
+Viddalba,2023,4,Spagna,905,13.44
+Viddalba,2023,5,Repubblica Ceca,293,4.35
+Viddalba,2024,1,Italia,1913,21.94
+Viddalba,2024,2,Francia,1801,20.65
+Viddalba,2024,3,Spagna,1591,18.25
+Viddalba,2024,4,Germania,1405,16.11
+Viddalba,2024,5,Repubblica Ceca,321,3.68
+Viddalba,2025,1,Francia,1984,21.4
+Viddalba,2025,2,Spagna,1945,20.98
+Viddalba,2025,3,Italia,1401,15.11
+Viddalba,2025,4,Germania,1291,13.93
+Viddalba,2025,5,Repubblica Ceca,397,4.28
+Villa San Pietro,2022,1,Italia,1876,47.81
+Villa San Pietro,2022,2,Francia,715,18.22
+Villa San Pietro,2022,3,Germania,477,12.16
+Villa San Pietro,2022,4,Paesi Bassi,118,3.01
+Villa San Pietro,2022,5,Spagna,95,2.42
+Villa San Pietro,2023,1,Italia,1679,34.26
+Villa San Pietro,2023,2,Francia,783,15.98
+Villa San Pietro,2023,3,Germania,654,13.34
+Villa San Pietro,2023,4,Regno Unito,244,4.98
+Villa San Pietro,2023,5,Spagna,243,4.96
+Villa San Pietro,2024,1,Italia,2620,39.01
+Villa San Pietro,2024,2,Germania,1297,19.31
+Villa San Pietro,2024,3,Francia,598,8.9
+Villa San Pietro,2024,4,Svizzera (incluso Liechtenstein),381,5.67
+Villa San Pietro,2024,5,Paesi Bassi,317,4.72
+Villa San Pietro,2025,1,Italia,4823,43.99
+Villa San Pietro,2025,2,Germania,1633,14.89
+Villa San Pietro,2025,3,Francia,1209,11.03
+Villa San Pietro,2025,4,Polonia,672,6.13
+Villa San Pietro,2025,5,Spagna,413,3.77
+Villa Verde,2025,1,Italia,6,31.58
+Villa Verde,2025,2,Spagna,6,31.58
+Villa Verde,2025,3,Altri Paesi Centro - Sud America,5,26.32
+Villa Verde,2025,4,Francia,2,10.53
+Villacidro,2022,1,Italia,1585,77.43
+Villacidro,2022,2,Francia,83,4.05
+Villacidro,2022,3,Germania,80,3.91
+Villacidro,2022,4,Argentina,52,2.54
+Villacidro,2022,5,Spagna,47,2.3
+Villacidro,2023,1,Italia,1288,66.43
+Villacidro,2023,2,Francia,162,8.35
+Villacidro,2023,3,Spagna,100,5.16
+Villacidro,2023,4,Germania,84,4.33
+Villacidro,2023,5,Svizzera (incluso Liechtenstein),75,3.87
+Villacidro,2024,1,Italia,2321,72.33
+Villacidro,2024,2,Germania,214,6.67
+Villacidro,2024,3,Francia,162,5.05
+Villacidro,2024,4,Turchia,138,4.3
+Villacidro,2024,5,Portogallo,51,1.59
+Villacidro,2025,1,Italia,3453,66.49
+Villacidro,2025,2,Germania,443,8.53
+Villacidro,2025,3,Francia,412,7.93
+Villacidro,2025,4,Spagna,200,3.85
+Villacidro,2025,5,Paesi Bassi,90,1.73
+Villagrande Strisaili,2022,1,Italia,1866,52.88
+Villagrande Strisaili,2022,2,Germania,566,16.04
+Villagrande Strisaili,2022,3,Francia,363,10.29
+Villagrande Strisaili,2022,4,Svizzera (incluso Liechtenstein),274,7.76
+Villagrande Strisaili,2022,5,Regno Unito,99,2.81
+Villagrande Strisaili,2023,1,Italia,1931,54.92
+Villagrande Strisaili,2023,2,Germania,457,13.0
+Villagrande Strisaili,2023,3,Francia,377,10.72
+Villagrande Strisaili,2023,4,Svizzera (incluso Liechtenstein),131,3.73
+Villagrande Strisaili,2023,5,Regno Unito,122,3.47
+Villagrande Strisaili,2024,1,Italia,179,56.11
+Villagrande Strisaili,2024,2,Ungheria,25,7.84
+Villagrande Strisaili,2024,3,Moldavia,21,6.58
+Villagrande Strisaili,2024,4,Germania,17,5.33
+Villagrande Strisaili,2024,5,Repubblica Ceca,17,5.33
+Villagrande Strisaili,2025,1,Italia,274,55.92
+Villagrande Strisaili,2025,2,Germania,46,9.39
+Villagrande Strisaili,2025,3,Svizzera (incluso Liechtenstein),41,8.37
+Villagrande Strisaili,2025,4,Francia,32,6.53
+Villagrande Strisaili,2025,5,Altri Paesi Africa Mediterranea,30,6.12
+Villamar,2023,1,Altri Paesi Europei,87,60.84
+Villamar,2023,2,Italia,56,39.16
+Villamar,2024,1,Italia,115,100.0
+Villamar,2025,1,Italia,468,77.48
+Villamar,2025,2,Ungheria,56,9.27
+Villamar,2025,3,Polonia,18,2.98
+Villamar,2025,4,Germania,12,1.99
+Villamar,2025,5,Belgio,11,1.82
+Villamassargia,2022,1,Italia,637,42.67
+Villamassargia,2022,2,Francia,320,21.43
+Villamassargia,2022,3,Germania,150,10.05
+Villamassargia,2022,4,Spagna,148,9.91
+Villamassargia,2022,5,Repubblica Ceca,68,4.55
+Villamassargia,2023,1,Italia,551,57.16
+Villamassargia,2023,2,Francia,140,14.52
+Villamassargia,2023,3,Germania,129,13.38
+Villamassargia,2023,4,Spagna,34,3.53
+Villamassargia,2023,5,Paesi Bassi,28,2.9
+Villamassargia,2024,1,Italia,878,53.24
+Villamassargia,2024,2,Francia,207,12.55
+Villamassargia,2024,3,Germania,143,8.67
+Villamassargia,2024,4,Spagna,137,8.31
+Villamassargia,2024,5,Svizzera (incluso Liechtenstein),83,5.03
+Villamassargia,2025,1,Italia,1273,44.51
+Villamassargia,2025,2,Francia,524,18.32
+Villamassargia,2025,3,Germania,290,10.14
+Villamassargia,2025,4,Polonia,184,6.43
+Villamassargia,2025,5,Spagna,65,2.27
+Villanova Monteleone,2022,1,Italia,729,44.05
+Villanova Monteleone,2022,2,Germania,245,14.8
+Villanova Monteleone,2022,3,Francia,225,13.6
+Villanova Monteleone,2022,4,Spagna,91,5.5
+Villanova Monteleone,2022,5,Paesi Bassi,82,4.95
+Villanova Monteleone,2023,1,Italia,1130,40.53
+Villanova Monteleone,2023,2,Francia,472,16.93
+Villanova Monteleone,2023,3,Germania,468,16.79
+Villanova Monteleone,2023,4,Spagna,331,11.87
+Villanova Monteleone,2023,5,Svizzera (incluso Liechtenstein),129,4.63
+Villanova Monteleone,2024,1,Italia,1106,41.66
+Villanova Monteleone,2024,2,Francia,473,17.82
+Villanova Monteleone,2024,3,Germania,449,16.91
+Villanova Monteleone,2024,4,Spagna,211,7.95
+Villanova Monteleone,2024,5,Paesi Bassi,88,3.31
+Villanova Monteleone,2025,1,Italia,985,29.71
+Villanova Monteleone,2025,2,Germania,718,21.66
+Villanova Monteleone,2025,3,Francia,665,20.06
+Villanova Monteleone,2025,4,Spagna,281,8.48
+Villanova Monteleone,2025,5,Regno Unito,133,4.01
+Villanova Tulo,2023,1,Italia,48,100.0
+Villanova Tulo,2024,1,Italia,47,78.33
+Villanova Tulo,2024,2,Germania,10,16.67
+Villanova Tulo,2024,3,Australia,2,3.33
+Villanova Tulo,2024,4,Svizzera (incluso Liechtenstein),1,1.67
+Villanova Tulo,2025,1,Italia,42,97.67
+Villanova Tulo,2025,2,Stati Uniti d'America,1,2.33
+Villanovaforru,2023,1,Italia,8,80.0
+Villanovaforru,2023,2,Stati Uniti d'America,2,20.0
+Villanovaforru,2024,1,Spagna,32,27.83
+Villanovaforru,2024,2,Francia,29,25.22
+Villanovaforru,2024,3,Italia,22,19.13
+Villanovaforru,2024,4,Paesi Bassi,16,13.91
+Villanovaforru,2024,5,Altri Paesi Africa Mediterranea,14,12.17
+Villanovaforru,2025,1,Italia,32,69.57
+Villanovaforru,2025,2,Francia,14,30.43
+Villanovafranca,2022,1,Italia,274,45.07
+Villanovafranca,2022,2,Francia,121,19.9
+Villanovafranca,2022,3,Spagna,61,10.03
+Villanovafranca,2022,4,Ucraina,28,4.61
+Villanovafranca,2022,5,Paesi Bassi,18,2.96
+Villanovafranca,2023,1,Altri Paesi Europei,426,33.15
+Villanovafranca,2023,2,Italia,380,29.57
+Villanovafranca,2023,3,Francia,258,20.08
+Villanovafranca,2023,4,Germania,70,5.45
+Villanovafranca,2023,5,Spagna,37,2.88
+Villanovafranca,2024,1,Italia,190,25.07
+Villanovafranca,2024,2,Francia,159,20.98
+Villanovafranca,2024,3,Paesi Bassi,136,17.94
+Villanovafranca,2024,4,Germania,55,7.26
+Villanovafranca,2024,5,Spagna,51,6.73
+Villanovafranca,2025,1,Italia,204,25.95
+Villanovafranca,2025,2,Francia,200,25.45
+Villanovafranca,2025,3,Paesi Bassi,129,16.41
+Villanovafranca,2025,4,Germania,41,5.22
+Villanovafranca,2025,5,Spagna,35,4.45
+Villaperuccio,2023,1,Italia,134,81.21
+Villaperuccio,2023,2,Francia,15,9.09
+Villaperuccio,2023,3,Polonia,10,6.06
+Villaperuccio,2023,4,Bulgaria,2,1.21
+Villaperuccio,2023,5,Germania,2,1.21
+Villaperuccio,2024,1,Italia,58,65.17
+Villaperuccio,2024,2,Germania,18,20.22
+Villaperuccio,2024,3,Stati Uniti d'America,4,4.49
+Villaperuccio,2024,4,Belgio,3,3.37
+Villaperuccio,2024,5,Francia,3,3.37
+Villaperuccio,2025,1,Italia,84,73.68
+Villaperuccio,2025,2,Germania,26,22.81
+Villaperuccio,2025,3,Francia,4,3.51
+Villaputzu,2022,1,Italia,13758,45.79
+Villaputzu,2022,2,Germania,7368,24.52
+Villaputzu,2022,3,Francia,2639,8.78
+Villaputzu,2022,4,Svizzera (incluso Liechtenstein),1341,4.46
+Villaputzu,2022,5,Paesi Bassi,979,3.26
+Villaputzu,2023,1,Italia,14366,46.69
+Villaputzu,2023,2,Germania,6178,20.08
+Villaputzu,2023,3,Francia,2428,7.89
+Villaputzu,2023,4,Paesi Bassi,1477,4.8
+Villaputzu,2023,5,Repubblica Ceca,1219,3.96
+Villaputzu,2024,1,Italia,15242,49.63
+Villaputzu,2024,2,Germania,6262,20.39
+Villaputzu,2024,3,Francia,2209,7.19
+Villaputzu,2024,4,Svizzera (incluso Liechtenstein),983,3.2
+Villaputzu,2024,5,Repubblica Ceca,875,2.85
+Villaputzu,2025,1,Italia,15931,48.86
+Villaputzu,2025,2,Germania,6255,19.19
+Villaputzu,2025,3,Francia,2633,8.08
+Villaputzu,2025,4,Svizzera (incluso Liechtenstein),1021,3.13
+Villaputzu,2025,5,Repubblica Ceca,899,2.76
+Villasalto,2025,1,Germania,9,52.94
+Villasalto,2025,2,Italia,3,17.65
+Villasalto,2025,3,Repubblica Ceca,2,11.76
+Villasalto,2025,4,Francia,1,5.88
+Villasalto,2025,5,Portogallo,1,5.88
+Villasimius,2022,1,Italia,460340,61.11
+Villasimius,2022,2,Germania,85561,11.36
+Villasimius,2022,3,Svizzera (incluso Liechtenstein),69049,9.17
+Villasimius,2022,4,Francia,24615,3.27
+Villasimius,2022,5,Regno Unito,19713,2.62
+Villasimius,2023,1,Italia,455957,61.81
+Villasimius,2023,2,Germania,75941,10.3
+Villasimius,2023,3,Svizzera (incluso Liechtenstein),57267,7.76
+Villasimius,2023,4,Francia,24248,3.29
+Villasimius,2023,5,Regno Unito,18375,2.49
+Villasimius,2024,1,Italia,481271,58.38
+Villasimius,2024,2,Germania,98734,11.98
+Villasimius,2024,3,Svizzera (incluso Liechtenstein),67684,8.21
+Villasimius,2024,4,Regno Unito,24073,2.92
+Villasimius,2024,5,Francia,23125,2.81
+Villasimius,2025,1,Italia,500815,54.66
+Villasimius,2025,2,Germania,117191,12.79
+Villasimius,2025,3,Svizzera (incluso Liechtenstein),71244,7.78
+Villasimius,2025,4,Regno Unito,27677,3.02
+Villasimius,2025,5,Francia,25760,2.81
+Villasor,2023,1,Italia,417,80.81
+Villasor,2023,2,Altri Paesi Europei,33,6.4
+Villasor,2023,3,Paesi Bassi,22,4.26
+Villasor,2023,4,Francia,12,2.33
+Villasor,2023,5,Spagna,11,2.13
+Villasor,2024,1,Italia,513,69.7
+Villasor,2024,2,Romania,119,16.17
+Villasor,2024,3,Altri Paesi Europei,40,5.43
+Villasor,2024,4,Francia,34,4.62
+Villasor,2024,5,Paesi Bassi,19,2.58
+Villasor,2025,1,Italia,1169,88.63
+Villasor,2025,2,Germania,34,2.58
+Villasor,2025,3,Altri Paesi Europei,30,2.27
+Villasor,2025,4,Francia,19,1.44
+Villasor,2025,5,Altri Paesi dell'Africa,17,1.29
+Villaspeciosa,2023,1,Italia,128,91.43
+Villaspeciosa,2023,2,Francia,12,8.57
+Villaspeciosa,2024,1,Italia,658,100.0
+Villaspeciosa,2025,1,Italia,903,96.58
+Villaspeciosa,2025,2,Spagna,26,2.78
+Villaspeciosa,2025,3,Germania,4,0.43
+Villaspeciosa,2025,4,Francia,2,0.21
+Villaurbana,2023,1,Italia,80,58.82
+Villaurbana,2023,2,Austria,27,19.85
+Villaurbana,2023,3,Regno Unito,12,8.82
+Villaurbana,2023,4,Slovenia,9,6.62
+Villaurbana,2023,5,Francia,8,5.88
+Villaurbana,2024,1,Italia,139,60.7
+Villaurbana,2024,2,Spagna,48,20.96
+Villaurbana,2024,3,Germania,36,15.72
+Villaurbana,2024,4,Portogallo,6,2.62
+Villaurbana,2025,1,Spagna,93,29.06
+Villaurbana,2025,2,Italia,75,23.44
+Villaurbana,2025,3,Belgio,55,17.19
+Villaurbana,2025,4,Germania,53,16.56
+Villaurbana,2025,5,Francia,40,12.5
+Zeddiani,2023,1,Italia,31,50.82
+Zeddiani,2023,2,Germania,16,26.23
+Zeddiani,2023,3,Francia,6,9.84
+Zeddiani,2023,4,Repubblica Ceca,4,6.56
+Zeddiani,2023,5,Canada,2,3.28
+Zeddiani,2024,1,Italia,30,45.45
+Zeddiani,2024,2,Croazia,18,27.27
+Zeddiani,2024,3,Germania,18,27.27
+Zeddiani,2025,1,Italia,258,66.15
+Zeddiani,2025,2,Germania,50,12.82
+Zeddiani,2025,3,Slovacchia,28,7.18
+Zeddiani,2025,4,Francia,20,5.13
+Zeddiani,2025,5,Romania,8,2.05

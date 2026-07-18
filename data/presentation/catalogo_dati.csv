@@ -26,6 +26,15 @@ presentation,indicatori_comune_anno,densita_abitanti_kmq,DOUBLE,Popolazione resi
 presentation,indicatori_comune_anno,gini_stagionalita,DOUBLE,Indice di Gini di stagionalità (versione zero-filled) nella tabella finale,indice 0-1,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
 presentation,indicatori_comune_anno,gini_stagionalita_solo_mesi_attivi,DOUBLE,Indice di Gini di stagionalità (versione solo mesi attivi) nella tabella finale,indice 0-1,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
 presentation,indicatori_comune_anno,n_mesi_con_dati_turismo,BIGINT,"Come n_mesi_con_dati, nella tabella finale",1-12,Tabella finale - join di tutte le staging + indicatori derivati,annuale (con Gini su base mensile)
+presentation,presenze_giornaliere_stimate,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,***,***
+presentation,presenze_giornaliere_stimate,data,TIMESTAMP,Data giornaliera del dato,YYYY-MM-DD,***,***
+presentation,presenze_giornaliere_stimate,anno,INTEGER,Anno di riferimento,anno,***,***
+presentation,presenze_giornaliere_stimate,mese,INTEGER,Mese di riferimento,1-12,***,***
+presentation,presenze_giornaliere_stimate,presenze_giorno_stimate,DOUBLE,*** DA COMPLETARE ***,***,***,***
+presentation,presenze_giornaliere_stimate,scalo_principale,VARCHAR,*** DA COMPLETARE ***,***,***,***
+presentation,presenze_giornaliere_stimate,concentrazione_top2_pct,DOUBLE,*** DA COMPLETARE ***,***,***,***
+presentation,presenze_giornaliere_stimate,fascia_affidabilita,"ENUM('Bassa (<40%)', 'Media (40-55%)', 'Buona (55-70%)', 'Alta (>70%)')",*** DA COMPLETARE ***,***,***,***
+presentation,presenze_giornaliere_stimate,metodo_usato,VARCHAR,*** DA COMPLETARE ***,***,***,***
 raw,abitazioni_non_occupate,comune,VARCHAR,"Nome del comune, forma canonica (Title Case) da anagrafica ISTAT",testo,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
 raw,abitazioni_non_occupate,anno,BIGINT,Anno di riferimento,anno,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
 raw,abitazioni_non_occupate,abitazioni_totali,BIGINT,Totale abitazioni censite (occupate + non occupate),abitazioni,ISTAT - Censimento Permanente Popolazione e Abitazioni,"2019, 2021, 2023 (censimento continuo)"
