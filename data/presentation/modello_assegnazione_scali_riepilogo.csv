@@ -1,378 +1,378 @@
-comune,scalo_principale,probabilita_principale,scalo_secondario,probabilita_secondario,scalo_terziario,probabilita_terziario,concentrazione_top2_pct,distanza_scalo_principale_km
-Abbasanta,Aeroporto_Alghero,0.234,Porto_Arbatax,0.139,Porto_Porto Torres,0.121,37.3,68.1
-Aggius,Porto_Olbia,0.247,Porto_Golfo Aranci,0.218,Aeroporto_Olbia,0.208,46.5,38.3
-Aglientu,Porto_Olbia,0.262,Porto_Golfo Aranci,0.241,Aeroporto_Olbia,0.228,50.4,36.7
-Aidomaggiore,Porto_Arbatax,0.194,Aeroporto_Alghero,0.179,Porto_Porto Torres,0.121,37.2,77.4
-Albagiara,Aeroporto_Cagliari,0.208,Porto_Cagliari,0.193,Porto_Arbatax,0.172,40.0,63.0
-Ales,Porto_Cagliari,0.259,Aeroporto_Cagliari,0.227,Porto_Arbatax,0.201,48.7,65.8
-Alghero,Aeroporto_Alghero,0.487,Porto_Porto Torres,0.261,Aeroporto_Olbia,0.066,74.7,3.5
-Allai,Porto_Arbatax,0.182,Aeroporto_Cagliari,0.157,Porto_Cagliari,0.146,33.9,72.1
-Alà dei Sardi,Aeroporto_Olbia,0.264,Porto_Olbia,0.252,Porto_Golfo Aranci,0.207,51.6,27.3
-Anela,Aeroporto_Olbia,0.174,Porto_Olbia,0.169,Aeroporto_Alghero,0.164,34.2,63.1
-Arborea,Porto_Cagliari,0.243,Aeroporto_Cagliari,0.234,Porto_Arbatax,0.145,47.7,75.1
-Arbus,Porto_Cagliari,0.319,Aeroporto_Cagliari,0.304,Porto_Arbatax,0.119,62.3,63.8
-Ardara,Aeroporto_Alghero,0.231,Porto_Porto Torres,0.191,Porto_Olbia,0.157,42.3,45.0
-Ardauli,Porto_Arbatax,0.19,Aeroporto_Alghero,0.149,Aeroporto_Cagliari,0.117,33.9,68.8
-Aritzo,Porto_Arbatax,0.336,Porto_Cagliari,0.164,Aeroporto_Cagliari,0.141,50.1,42.4
-Armungia,Aeroporto_Cagliari,0.269,Porto_Cagliari,0.267,Porto_Arbatax,0.236,53.6,44.4
-Arzachena,Porto_Golfo Aranci,0.292,Porto_Olbia,0.287,Aeroporto_Olbia,0.267,58.0,17.9
-Arzana,Porto_Arbatax,0.49,Porto_Cagliari,0.15,Aeroporto_Cagliari,0.104,64.0,22.4
-Assemini,Porto_Cagliari,0.466,Aeroporto_Cagliari,0.4,Porto_Arbatax,0.072,86.6,11.4
-Assolo,Aeroporto_Cagliari,0.205,Porto_Cagliari,0.191,Porto_Arbatax,0.182,39.5,63.4
-Asuni,Porto_Arbatax,0.202,Aeroporto_Cagliari,0.183,Porto_Cagliari,0.171,38.5,64.6
-Atzara,Porto_Arbatax,0.334,Porto_Cagliari,0.166,Aeroporto_Cagliari,0.09,50.0,54.8
-Austis,Porto_Arbatax,0.312,Porto_Cagliari,0.134,Porto_Olbia,0.107,44.6,56.7
-Badesi,Porto_Porto Torres,0.223,Porto_Olbia,0.209,Aeroporto_Olbia,0.19,43.2,46.9
-Ballao,Aeroporto_Cagliari,0.311,Porto_Cagliari,0.266,Porto_Arbatax,0.252,57.8,45.6
-Banari,Porto_Porto Torres,0.252,Aeroporto_Alghero,0.222,Porto_Olbia,0.138,47.4,49.9
-Baradili,Aeroporto_Cagliari,0.234,Porto_Cagliari,0.218,Porto_Arbatax,0.162,45.1,54.6
-Baratili San Pietro,Aeroporto_Alghero,0.189,Porto_Cagliari,0.162,Porto_Arbatax,0.159,35.1,75.9
-Baressa,Aeroporto_Cagliari,0.302,Porto_Cagliari,0.266,Porto_Arbatax,0.165,56.8,53.7
-Bari Sardo,Porto_Arbatax,0.502,Porto_Cagliari,0.13,Aeroporto_Cagliari,0.121,63.2,12.1
-Barrali,Aeroporto_Cagliari,0.327,Porto_Cagliari,0.31,Porto_Porto Vesme,0.132,63.7,25.3
-Barumini,Aeroporto_Cagliari,0.358,Porto_Cagliari,0.261,Porto_Arbatax,0.147,61.9,49.3
-Bauladu,Porto_Arbatax,0.176,Aeroporto_Alghero,0.149,Porto_Cagliari,0.145,32.6,87.3
-Baunei,Porto_Arbatax,0.423,Aeroporto_Olbia,0.124,Porto_Olbia,0.109,54.7,18.7
-Belvì,Porto_Arbatax,0.439,Porto_Cagliari,0.156,Porto_Olbia,0.083,59.5,46.5
-Benetutti,Aeroporto_Olbia,0.201,Porto_Olbia,0.185,Porto_Golfo Aranci,0.153,38.6,58.7
-Berchidda,Porto_Olbia,0.265,Aeroporto_Olbia,0.254,Porto_Golfo Aranci,0.215,52.0,27.2
-Bessude,Aeroporto_Alghero,0.301,Porto_Porto Torres,0.208,Porto_Olbia,0.121,50.9,33.8
-Bidonì,Porto_Arbatax,0.188,Aeroporto_Alghero,0.155,Aeroporto_Olbia,0.106,34.3,68.4
-Birori,Aeroporto_Alghero,0.21,Porto_Arbatax,0.139,Porto_Porto Torres,0.126,34.9,61.7
-Bitti,Aeroporto_Olbia,0.265,Porto_Olbia,0.225,Porto_Golfo Aranci,0.188,49.0,39.2
-Bolotana,Aeroporto_Alghero,0.189,Porto_Arbatax,0.155,Aeroporto_Olbia,0.145,34.4,65.6
-Bonarcado,Aeroporto_Alghero,0.214,Porto_Arbatax,0.155,Porto_Porto Torres,0.136,36.9,67.4
-Bonnanaro,Aeroporto_Alghero,0.257,Porto_Porto Torres,0.186,Porto_Olbia,0.14,44.3,42.3
-Bono,Aeroporto_Olbia,0.166,Porto_Olbia,0.166,Porto_Arbatax,0.154,33.2,66.0
-Bonorva,Porto_Porto Torres,0.182,Porto_Arbatax,0.157,Aeroporto_Alghero,0.155,33.9,71.5
-Boroneddu,Porto_Arbatax,0.175,Aeroporto_Alghero,0.166,Aeroporto_Cagliari,0.11,34.0,73.4
-Borore,Aeroporto_Alghero,0.214,Porto_Arbatax,0.139,Porto_Porto Torres,0.124,35.2,62.4
-Bortigali,Porto_Porto Vesme,1.0,Aeroporto_Cagliari,0.0,Aeroporto_Olbia,0.0,100.0,130.1
-Bortigiadas,Porto_Olbia,0.231,Aeroporto_Olbia,0.209,Porto_Golfo Aranci,0.197,44.0,41.3
-Borutta,Aeroporto_Alghero,0.271,Porto_Porto Torres,0.189,Porto_Olbia,0.132,46.1,40.1
-Bosa,Aeroporto_Alghero,0.354,Porto_Porto Torres,0.206,Aeroporto_Olbia,0.093,56.0,35.7
-Bottidda,Aeroporto_Olbia,0.168,Aeroporto_Alghero,0.166,Porto_Olbia,0.162,33.5,68.9
-Buddusò,Aeroporto_Olbia,0.236,Porto_Olbia,0.227,Porto_Golfo Aranci,0.186,46.3,38.6
-Budoni,Aeroporto_Olbia,0.296,Porto_Olbia,0.266,Porto_Golfo Aranci,0.246,56.1,24.8
-Buggerru,Porto_Cagliari,0.364,Aeroporto_Cagliari,0.355,Porto_Arbatax,0.095,71.9,59.7
-Bultei,Aeroporto_Olbia,0.188,Porto_Olbia,0.182,Aeroporto_Alghero,0.149,37.0,57.4
-Bulzi,Porto_Porto Torres,0.217,Porto_Olbia,0.185,Aeroporto_Alghero,0.185,40.1,45.4
-Burcei,Porto_Cagliari,0.437,Porto_Arbatax,0.227,Aeroporto_Cagliari,0.169,66.4,30.9
-Burgos,Aeroporto_Alghero,0.179,Aeroporto_Olbia,0.157,Porto_Olbia,0.153,33.6,64.0
-Busachi,Porto_Arbatax,0.189,Aeroporto_Cagliari,0.138,Aeroporto_Alghero,0.138,32.7,69.9
-Cabras,Aeroporto_Alghero,0.208,Porto_Cagliari,0.171,Aeroporto_Cagliari,0.159,38.0,78.9
-Cagliari,Porto_Cagliari,0.455,Aeroporto_Cagliari,0.431,Porto_Arbatax,0.06,88.7,0.0
-Calangianus,Porto_Olbia,0.28,Aeroporto_Olbia,0.264,Porto_Golfo Aranci,0.236,54.4,20.1
-Calasetta,Porto_Cagliari,0.432,Aeroporto_Cagliari,0.377,Porto_Arbatax,0.076,80.9,63.4
-Capoterra,Porto_Cagliari,0.448,Aeroporto_Cagliari,0.433,Porto_Arbatax,0.062,88.1,13.5
-Carbonia,Porto_Cagliari,0.419,Aeroporto_Cagliari,0.391,Porto_Arbatax,0.078,80.9,48.7
-Cardedu,Porto_Arbatax,0.458,Porto_Cagliari,0.158,Aeroporto_Cagliari,0.15,61.5,19.5
-Cargeghe,Aeroporto_Alghero,0.304,Porto_Porto Torres,0.251,Porto_Olbia,0.121,55.4,29.9
-Carloforte,Porto_Cagliari,0.405,Aeroporto_Cagliari,0.377,Porto_Arbatax,0.077,78.2,70.7
-Castelsardo,Porto_Porto Torres,0.292,Aeroporto_Alghero,0.208,Porto_Olbia,0.157,50.0,33.8
-Castiadas,Porto_Cagliari,0.398,Aeroporto_Cagliari,0.35,Porto_Arbatax,0.158,74.8,37.1
-Cheremule,Aeroporto_Alghero,0.274,Porto_Porto Torres,0.203,Aeroporto_Olbia,0.126,47.6,38.5
-Chiaramonti,Porto_Porto Torres,0.222,Porto_Olbia,0.183,Aeroporto_Alghero,0.166,40.5,49.8
-Codrongianos,Porto_Porto Torres,0.263,Aeroporto_Alghero,0.228,Porto_Olbia,0.143,49.1,43.3
-Collinas,Porto_Cagliari,0.333,Porto_Porto Vesme,0.235,Porto_Arbatax,0.184,56.8,52.0
-Cossoine,Aeroporto_Alghero,0.232,Porto_Porto Torres,0.219,Porto_Olbia,0.134,45.0,38.9
-Cuglieri,Aeroporto_Alghero,0.272,Porto_Porto Torres,0.163,Porto_Arbatax,0.115,43.5,57.3
-Curcuris,Aeroporto_Cagliari,0.224,Porto_Cagliari,0.208,Porto_Porto Vesme,0.166,43.2,58.5
-Decimomannu,Porto_Cagliari,0.457,Aeroporto_Cagliari,0.377,Porto_Arbatax,0.089,83.4,15.8
-Decimoputzu,Aeroporto_Cagliari,0.345,Porto_Cagliari,0.318,Porto_Porto Vesme,0.192,66.3,17.9
-Desulo,Porto_Arbatax,0.356,Porto_Cagliari,0.135,Aeroporto_Cagliari,0.112,49.1,38.9
-Dolianova,Porto_Cagliari,0.434,Aeroporto_Cagliari,0.308,Porto_Arbatax,0.164,74.2,22.0
-Domus de Maria,Porto_Cagliari,0.461,Aeroporto_Cagliari,0.414,Porto_Arbatax,0.064,87.5,36.4
-Domusnovas,Porto_Cagliari,0.434,Aeroporto_Cagliari,0.32,Porto_Arbatax,0.114,75.5,43.1
-Donori,Aeroporto_Cagliari,0.337,Porto_Cagliari,0.322,Porto_Porto Vesme,0.126,65.9,22.2
-Dorgali,Porto_Arbatax,0.265,Aeroporto_Olbia,0.19,Porto_Olbia,0.17,45.5,41.5
-Dualchi,Aeroporto_Alghero,0.187,Porto_Arbatax,0.156,Aeroporto_Olbia,0.119,34.3,67.4
-Elini,Porto_Arbatax,0.495,Aeroporto_Cagliari,0.108,Porto_Cagliari,0.106,60.3,9.9
-Elmas,Aeroporto_Cagliari,0.454,Porto_Cagliari,0.423,Porto_Arbatax,0.064,87.7,1.3
-Erula,Porto_Olbia,0.216,Porto_Porto Torres,0.192,Aeroporto_Olbia,0.181,40.7,48.1
-Escalaplano,Porto_Cagliari,0.276,Porto_Arbatax,0.273,Aeroporto_Cagliari,0.254,54.8,51.0
-Escolca,Aeroporto_Cagliari,0.31,Porto_Cagliari,0.271,Porto_Arbatax,0.203,58.2,47.9
-Esporlatu,Aeroporto_Alghero,0.178,Aeroporto_Olbia,0.154,Porto_Olbia,0.149,33.2,64.8
-Esterzili,Porto_Arbatax,0.301,Aeroporto_Cagliari,0.203,Porto_Cagliari,0.196,50.4,39.4
-Florinas,Aeroporto_Alghero,0.266,Porto_Porto Torres,0.262,Porto_Olbia,0.13,52.9,31.0
-Fluminimaggiore,Porto_Cagliari,0.369,Aeroporto_Cagliari,0.347,Porto_Arbatax,0.102,71.6,54.9
-Flussio,Aeroporto_Alghero,0.224,Porto_Porto Torres,0.193,Porto_Arbatax,0.124,41.7,47.5
-Fonni,Porto_Arbatax,0.3,Aeroporto_Olbia,0.128,Porto_Cagliari,0.112,42.8,39.6
-Fordongianus,Porto_Porto Vesme,1.0,Aeroporto_Cagliari,0.0,Aeroporto_Olbia,0.0,100.0,96.9
-Furtei,Porto_Cagliari,0.394,Aeroporto_Cagliari,0.255,Porto_Arbatax,0.193,64.9,38.8
-Gadoni,Porto_Arbatax,0.357,Porto_Cagliari,0.201,Aeroporto_Cagliari,0.139,55.8,45.3
-Gairo,Porto_Arbatax,0.446,Porto_Cagliari,0.147,Aeroporto_Cagliari,0.137,59.2,20.2
-Galtellì,Porto_Arbatax,0.228,Aeroporto_Olbia,0.21,Porto_Olbia,0.194,43.8,50.1
-Gavoi,Porto_Arbatax,0.344,Porto_Olbia,0.131,Aeroporto_Olbia,0.116,47.5,47.6
-Genoni,Porto_Porto Vesme,0.784,Porto_Arbatax,0.216,Aeroporto_Cagliari,0.0,100.0,84.4
-Genuri,Aeroporto_Cagliari,0.23,Porto_Cagliari,0.214,Porto_Arbatax,0.172,44.4,55.5
-Gergei,Porto_Cagliari,0.301,Porto_Arbatax,0.241,Aeroporto_Cagliari,0.133,54.2,52.4
-Gesico,Aeroporto_Cagliari,0.273,Porto_Cagliari,0.258,Porto_Arbatax,0.175,53.1,41.1
-Gesturi,Porto_Cagliari,0.265,Aeroporto_Cagliari,0.242,Porto_Arbatax,0.221,50.7,58.2
-Ghilarza,Porto_Arbatax,0.209,Aeroporto_Alghero,0.158,Porto_Cagliari,0.129,36.7,75.2
-Giave,Aeroporto_Alghero,0.277,Porto_Porto Torres,0.18,Porto_Olbia,0.123,45.7,41.2
-Giba,Porto_Cagliari,0.471,Aeroporto_Cagliari,0.367,Porto_Arbatax,0.078,83.8,45.8
-Girasole,Porto_Arbatax,0.555,Porto_Cagliari,0.095,Aeroporto_Cagliari,0.078,65.0,5.1
-Golfo Aranci,Porto_Golfo Aranci,0.336,Porto_Olbia,0.277,Aeroporto_Olbia,0.273,61.3,0.0
-Goni,Aeroporto_Cagliari,0.275,Porto_Cagliari,0.267,Porto_Arbatax,0.21,54.2,40.8
-Gonnesa,Porto_Cagliari,0.406,Aeroporto_Cagliari,0.37,Porto_Arbatax,0.086,77.6,55.4
-Gonnoscodina,Aeroporto_Cagliari,0.24,Porto_Cagliari,0.223,Porto_Porto Vesme,0.174,46.3,53.2
-Gonnosfanadiga,Porto_Cagliari,0.364,Aeroporto_Cagliari,0.325,Porto_Arbatax,0.12,68.9,50.0
-Gonnosnò,Aeroporto_Cagliari,0.222,Porto_Cagliari,0.206,Porto_Arbatax,0.164,42.7,58.7
-Gonnostramatza,Porto_Cagliari,0.292,Porto_Arbatax,0.197,Aeroporto_Cagliari,0.169,48.9,55.0
-Guamaggiore,Aeroporto_Cagliari,0.287,Porto_Cagliari,0.27,Porto_Arbatax,0.158,55.8,37.2
-Guasila,Porto_Cagliari,0.412,Porto_Arbatax,0.299,Aeroporto_Cagliari,0.142,71.1,38.0
-Guspini,Porto_Cagliari,0.328,Aeroporto_Cagliari,0.284,Porto_Arbatax,0.14,61.2,59.2
-Iglesias,Porto_Cagliari,0.403,Aeroporto_Cagliari,0.367,Porto_Arbatax,0.092,77.0,49.0
-Ilbono,Porto_Arbatax,0.562,Porto_Cagliari,0.122,Aeroporto_Cagliari,0.084,68.3,11.0
-Illorai,Aeroporto_Alghero,0.174,Aeroporto_Olbia,0.151,Porto_Olbia,0.146,32.5,66.6
-Irgoli,Aeroporto_Olbia,0.228,Porto_Olbia,0.22,Porto_Golfo Aranci,0.197,44.8,47.8
-Isili,Aeroporto_Cagliari,0.321,Porto_Cagliari,0.212,Porto_Arbatax,0.166,53.3,57.8
-Ittireddu,Aeroporto_Alghero,0.206,Aeroporto_Olbia,0.162,Porto_Olbia,0.162,36.8,53.1
-Ittiri,Aeroporto_Alghero,0.33,Porto_Porto Torres,0.266,Porto_Olbia,0.11,59.6,23.1
-Jerzu,Porto_Arbatax,0.429,Porto_Cagliari,0.19,Aeroporto_Cagliari,0.167,62.0,26.5
-La Maddalena,Porto_Golfo Aranci,0.301,Porto_Olbia,0.277,Aeroporto_Olbia,0.255,57.8,29.6
-Laconi,Porto_Porto Vesme,0.584,Porto_Arbatax,0.416,Aeroporto_Cagliari,0.0,100.0,94.7
-Laerru,Porto_Porto Torres,0.242,Porto_Olbia,0.194,Porto_Golfo Aranci,0.171,43.6,46.0
-Lanusei,Porto_Arbatax,0.512,Porto_Cagliari,0.157,Aeroporto_Cagliari,0.11,66.9,19.0
-Las Plassas,Aeroporto_Cagliari,0.254,Porto_Cagliari,0.238,Porto_Arbatax,0.167,49.2,47.5
-Lei,Aeroporto_Alghero,0.192,Porto_Arbatax,0.142,Aeroporto_Olbia,0.134,33.4,63.8
-Loceri,Porto_Arbatax,0.508,Porto_Cagliari,0.149,Aeroporto_Cagliari,0.113,65.7,16.9
-Loculi,Porto_Arbatax,0.254,Porto_Olbia,0.208,Aeroporto_Olbia,0.191,46.2,55.3
-Lodine,Porto_Arbatax,0.271,Aeroporto_Olbia,0.123,Porto_Olbia,0.115,39.4,46.1
-Lodè,Aeroporto_Olbia,0.261,Porto_Olbia,0.238,Porto_Golfo Aranci,0.209,49.9,33.7
-Loiri Porto San Paolo,Aeroporto_Olbia,0.322,Porto_Olbia,0.284,Porto_Golfo Aranci,0.253,60.5,6.6
-Lotzorai,Porto_Arbatax,0.531,Porto_Cagliari,0.091,Aeroporto_Olbia,0.084,62.3,5.7
-Lula,Porto_Arbatax,0.376,Porto_Olbia,0.219,Porto_Golfo Aranci,0.214,59.5,61.0
-Lunamatrona,Aeroporto_Cagliari,0.324,Porto_Cagliari,0.237,Porto_Porto Vesme,0.116,56.0,44.8
-Luogosanto,Porto_Olbia,0.277,Aeroporto_Olbia,0.252,Porto_Golfo Aranci,0.252,52.8,27.5
-Luras,Porto_Olbia,0.277,Aeroporto_Olbia,0.25,Porto_Golfo Aranci,0.242,52.8,25.1
-Macomer,Aeroporto_Alghero,0.251,Porto_Porto Torres,0.151,Aeroporto_Olbia,0.137,40.3,54.8
-Magomadas,Aeroporto_Alghero,0.313,Porto_Porto Torres,0.187,Aeroporto_Olbia,0.097,50.0,45.6
-Mamoiada,Porto_Arbatax,0.32,Porto_Olbia,0.138,Aeroporto_Olbia,0.133,45.8,47.0
-Mandas,Aeroporto_Cagliari,0.345,Porto_Cagliari,0.277,Porto_Arbatax,0.165,62.2,44.6
-Mara,Aeroporto_Alghero,0.312,Porto_Porto Torres,0.188,Porto_Olbia,0.108,49.9,36.4
-Maracalagonis,Porto_Cagliari,0.435,Aeroporto_Cagliari,0.361,Porto_Arbatax,0.126,79.5,24.5
-Marrubiu,Porto_Cagliari,0.265,Aeroporto_Cagliari,0.198,Porto_Arbatax,0.192,46.3,71.1
-Martis,Porto_Porto Torres,0.241,Porto_Olbia,0.186,Aeroporto_Olbia,0.167,42.6,45.7
-Masainas,Porto_Cagliari,0.338,Aeroporto_Cagliari,0.278,Porto_Porto Vesme,0.271,61.5,45.9
-Masullas,Porto_Cagliari,0.362,Porto_Arbatax,0.241,Aeroporto_Cagliari,0.168,60.3,60.2
-Meana Sardo,Porto_Arbatax,0.264,Porto_Cagliari,0.175,Aeroporto_Cagliari,0.169,43.9,54.0
-Milis,Aeroporto_Alghero,0.191,Porto_Arbatax,0.171,Porto_Cagliari,0.143,36.1,71.3
-Modolo,Aeroporto_Alghero,0.238,Porto_Porto Torres,0.204,Porto_Arbatax,0.112,44.2,44.0
-Mogorella,Aeroporto_Cagliari,0.184,Porto_Arbatax,0.178,Porto_Cagliari,0.171,36.2,70.7
-Mogoro,Porto_Cagliari,0.32,Aeroporto_Cagliari,0.245,Porto_Arbatax,0.186,56.5,57.1
-Monastir,Porto_Cagliari,0.419,Aeroporto_Cagliari,0.379,Porto_Arbatax,0.111,79.8,18.1
-Monserrato,Porto_Cagliari,0.469,Aeroporto_Cagliari,0.383,Porto_Arbatax,0.086,85.2,6.0
-Monteleone Rocca Doria,Aeroporto_Alghero,0.32,Porto_Porto Torres,0.23,Porto_Olbia,0.106,55.0,28.7
-Monti,Aeroporto_Olbia,0.299,Porto_Olbia,0.284,Porto_Golfo Aranci,0.221,58.3,16.7
-Montresta,Aeroporto_Alghero,0.354,Porto_Porto Torres,0.191,Porto_Olbia,0.089,54.5,32.6
-Mores,Aeroporto_Alghero,0.218,Porto_Porto Torres,0.186,Aeroporto_Olbia,0.162,40.5,47.8
-Morgongiori,Aeroporto_Cagliari,0.217,Porto_Cagliari,0.2,Porto_Porto Vesme,0.183,41.7,62.0
-Muravera,Porto_Cagliari,0.36,Aeroporto_Cagliari,0.312,Porto_Arbatax,0.211,67.3,44.0
-Muros,Aeroporto_Alghero,0.308,Porto_Porto Torres,0.262,Porto_Olbia,0.117,57.0,28.7
-Musei,Porto_Porto Vesme,0.344,Porto_Cagliari,0.311,Aeroporto_Cagliari,0.217,65.5,29.9
-Narbolia,Aeroporto_Alghero,0.227,Porto_Porto Torres,0.142,Porto_Arbatax,0.14,36.8,68.2
-Narcao,Porto_Cagliari,0.34,Porto_Porto Vesme,0.279,Aeroporto_Cagliari,0.255,61.9,35.6
-Neoneli,Porto_Arbatax,0.21,Aeroporto_Alghero,0.132,Aeroporto_Cagliari,0.121,34.3,62.9
-Noragugume,Porto_Arbatax,0.171,Aeroporto_Alghero,0.168,Aeroporto_Olbia,0.125,34.0,71.2
-Norbello,Aeroporto_Alghero,0.195,Porto_Arbatax,0.152,Porto_Porto Torres,0.112,34.7,67.8
-Nughedu San Nicolò,Porto_Olbia,0.184,Aeroporto_Olbia,0.176,Aeroporto_Alghero,0.166,36.0,60.7
-Nughedu Santa Vittoria,Porto_Arbatax,0.203,Aeroporto_Alghero,0.141,Porto_Cagliari,0.119,34.4,63.9
-Nule,Aeroporto_Olbia,0.206,Porto_Olbia,0.197,Porto_Golfo Aranci,0.161,40.3,51.3
-Nulvi,Porto_Porto Torres,0.262,Aeroporto_Alghero,0.206,Porto_Olbia,0.165,46.9,39.8
-Nuoro,Porto_Arbatax,0.225,Aeroporto_Olbia,0.181,Porto_Olbia,0.167,40.5,56.0
-Nurachi,Aeroporto_Alghero,0.194,Porto_Cagliari,0.166,Porto_Arbatax,0.152,36.1,76.9
-Nuragus,Aeroporto_Cagliari,0.216,Porto_Arbatax,0.212,Porto_Cagliari,0.203,42.8,58.1
-Nurallao,Porto_Arbatax,0.286,Porto_Cagliari,0.232,Aeroporto_Cagliari,0.197,51.8,53.8
-Nuraminis,Aeroporto_Cagliari,0.758,Porto_Cagliari,0.171,Aeroporto_Alghero,0.05,92.9,21.3
-Nureci,Porto_Arbatax,0.252,Porto_Cagliari,0.246,Aeroporto_Cagliari,0.205,49.8,64.6
-Nurri,Aeroporto_Cagliari,0.28,Porto_Cagliari,0.244,Porto_Arbatax,0.243,52.4,52.7
-Nuxis,Porto_Porto Vesme,0.321,Porto_Cagliari,0.299,Aeroporto_Cagliari,0.29,62.0,34.0
-Olbia,Porto_Olbia,0.322,Aeroporto_Olbia,0.295,Porto_Golfo Aranci,0.257,61.6,0.0
-Oliena,Porto_Arbatax,0.235,Aeroporto_Olbia,0.192,Porto_Olbia,0.162,42.6,44.8
-Ollastra,Porto_Arbatax,0.159,Aeroporto_Cagliari,0.152,Aeroporto_Alghero,0.147,31.2,80.5
-Ollolai,Porto_Arbatax,0.275,Porto_Olbia,0.133,Aeroporto_Olbia,0.133,40.9,51.2
-Olmedo,Aeroporto_Alghero,0.406,Porto_Porto Torres,0.299,Porto_Olbia,0.08,70.6,8.3
-Olzai,Porto_Arbatax,0.219,Aeroporto_Alghero,0.129,Aeroporto_Olbia,0.123,34.8,58.3
-Onanì,Aeroporto_Olbia,0.242,Porto_Olbia,0.224,Porto_Golfo Aranci,0.19,46.6,39.6
-Onifai,Aeroporto_Olbia,0.219,Porto_Arbatax,0.217,Porto_Olbia,0.21,43.6,51.9
-Oniferi,Porto_Arbatax,0.193,Aeroporto_Olbia,0.158,Porto_Olbia,0.15,35.1,61.2
-Orani,Porto_Arbatax,0.225,Aeroporto_Olbia,0.163,Porto_Olbia,0.15,38.7,58.5
-Orgosolo,Porto_Arbatax,0.331,Aeroporto_Olbia,0.138,Porto_Olbia,0.128,46.9,37.7
-Oristano,Porto_Cagliari,0.186,Aeroporto_Cagliari,0.18,Aeroporto_Alghero,0.174,36.6,86.3
-Orosei,Aeroporto_Olbia,0.224,Porto_Arbatax,0.218,Porto_Olbia,0.203,44.1,56.1
-Orotelli,Porto_Arbatax,0.177,Aeroporto_Olbia,0.156,Porto_Olbia,0.149,33.2,65.8
-Orroli,Aeroporto_Cagliari,0.285,Porto_Cagliari,0.279,Porto_Arbatax,0.249,56.4,47.9
-Ortacesus,Aeroporto_Cagliari,0.31,Porto_Cagliari,0.293,Porto_Arbatax,0.14,60.3,30.4
-Ortueri,Aeroporto_Cagliari,0.447,Aeroporto_Alghero,0.408,Aeroporto_Olbia,0.111,85.5,85.7
-Orune,Aeroporto_Olbia,0.201,Porto_Olbia,0.188,Porto_Arbatax,0.173,38.9,54.3
-Oschiri,Porto_Olbia,0.23,Aeroporto_Olbia,0.219,Porto_Golfo Aranci,0.197,44.9,38.6
-Osidda,Aeroporto_Olbia,0.216,Porto_Olbia,0.207,Porto_Golfo Aranci,0.169,42.2,47.2
-Osilo,Porto_Porto Torres,0.302,Aeroporto_Alghero,0.209,Aeroporto_Olbia,0.145,51.0,35.8
-Osini,Porto_Arbatax,0.483,Porto_Cagliari,0.186,Aeroporto_Cagliari,0.129,66.9,24.2
-Ossi,Aeroporto_Alghero,0.334,Porto_Porto Torres,0.259,Aeroporto_Olbia,0.117,59.3,26.7
-Ottana,Porto_Porto Vesme,1.0,Aeroporto_Cagliari,0.0,Aeroporto_Olbia,0.0,100.0,128.6
-Ovodda,Porto_Arbatax,0.268,Aeroporto_Olbia,0.11,Aeroporto_Cagliari,0.105,37.8,47.8
-Ozieri,Aeroporto_Alghero,0.212,Aeroporto_Olbia,0.197,Porto_Olbia,0.168,40.9,56.0
-Pabillonis,Porto_Cagliari,0.343,Aeroporto_Cagliari,0.296,Porto_Arbatax,0.146,63.9,53.5
-Padria,Aeroporto_Alghero,0.325,Porto_Porto Torres,0.186,Porto_Olbia,0.1,51.0,35.9
-Padru,Aeroporto_Olbia,0.287,Porto_Olbia,0.277,Porto_Golfo Aranci,0.24,56.4,18.2
-Palau,Porto_Golfo Aranci,0.287,Porto_Olbia,0.279,Aeroporto_Olbia,0.258,56.6,27.2
-Palmas Arborea,Aeroporto_Cagliari,0.183,Porto_Cagliari,0.169,Porto_Porto Vesme,0.166,35.2,73.9
-Pattada,Porto_Olbia,0.226,Aeroporto_Olbia,0.194,Porto_Golfo Aranci,0.193,42.0,47.6
-Pau,Aeroporto_Cagliari,0.204,Porto_Cagliari,0.189,Porto_Porto Vesme,0.164,39.3,65.5
-Pauli Arbarei,Aeroporto_Cagliari,0.325,Porto_Cagliari,0.295,Porto_Arbatax,0.162,62.0,46.7
-Paulilatino,Aeroporto_Alghero,0.186,Porto_Arbatax,0.177,Porto_Cagliari,0.13,36.3,73.6
-Perdasdefogu,Porto_Arbatax,0.393,Porto_Cagliari,0.216,Aeroporto_Cagliari,0.145,60.9,36.9
-Perdaxius,Porto_Porto Vesme,0.377,Aeroporto_Cagliari,0.266,Porto_Cagliari,0.254,64.3,21.5
-Perfugas,Porto_Olbia,0.216,Porto_Porto Torres,0.197,Aeroporto_Olbia,0.19,41.3,47.3
-Pimentel,Porto_Cagliari,0.371,Aeroporto_Cagliari,0.337,Porto_Arbatax,0.162,70.8,30.5
-Piscinas,Porto_Cagliari,0.33,Aeroporto_Cagliari,0.298,Porto_Porto Vesme,0.261,62.8,40.3
-Ploaghe,Porto_Porto Torres,0.242,Aeroporto_Alghero,0.216,Porto_Olbia,0.16,45.8,46.7
-Pompu,Aeroporto_Cagliari,0.229,Porto_Cagliari,0.212,Porto_Porto Vesme,0.177,44.0,57.4
-Porto Torres,Porto_Porto Torres,0.529,Aeroporto_Alghero,0.228,Porto_Olbia,0.074,75.7,0.0
-Portoscuso,Porto_Cagliari,0.407,Aeroporto_Cagliari,0.383,Porto_Arbatax,0.078,79.0,58.4
-Posada,Aeroporto_Olbia,0.275,Porto_Olbia,0.257,Porto_Golfo Aranci,0.24,53.2,31.7
-Pozzomaggiore,Aeroporto_Alghero,0.291,Porto_Porto Torres,0.189,Porto_Olbia,0.113,48.0,42.7
-Pula,Porto_Cagliari,0.455,Aeroporto_Cagliari,0.425,Porto_Arbatax,0.062,88.0,28.1
-Putifigari,Aeroporto_Alghero,0.333,Porto_Porto Torres,0.295,Porto_Olbia,0.097,62.9,14.9
-Quartu Sant'Elena,Porto_Cagliari,0.44,Aeroporto_Cagliari,0.388,Porto_Arbatax,0.102,82.8,17.6
-Quartucciu,Porto_Cagliari,0.453,Aeroporto_Cagliari,0.365,Porto_Arbatax,0.111,81.8,15.7
-Riola Sardo,Aeroporto_Alghero,0.209,Porto_Cagliari,0.157,Porto_Arbatax,0.146,36.6,73.2
-Romana,Aeroporto_Alghero,0.343,Porto_Porto Torres,0.206,Porto_Olbia,0.102,54.9,29.4
-Ruinas,Porto_Arbatax,0.191,Porto_Cagliari,0.177,Aeroporto_Cagliari,0.163,36.8,69.6
-Sadali,Porto_Arbatax,0.327,Porto_Cagliari,0.21,Aeroporto_Cagliari,0.198,53.7,41.2
-Sagama,Porto_Porto Torres,0.197,Aeroporto_Alghero,0.194,Porto_Arbatax,0.133,39.2,78.8
-Samassi,Aeroporto_Olbia,0.957,Porto_Porto Torres,0.043,Aeroporto_Cagliari,0.0,100.0,163.8
-Samatzai,Porto_Cagliari,0.371,Aeroporto_Cagliari,0.276,Porto_Arbatax,0.151,64.7,29.1
-Samugheo,Porto_Arbatax,0.242,Porto_Cagliari,0.173,Aeroporto_Cagliari,0.152,41.6,64.2
-San Basilio,Aeroporto_Cagliari,0.303,Porto_Cagliari,0.293,Porto_Arbatax,0.166,59.7,32.7
-San Gavino Monreale,Aeroporto_Cagliari,0.347,Porto_Cagliari,0.319,Porto_Arbatax,0.099,66.7,40.9
-San Giovanni Suergiu,Porto_Cagliari,0.435,Aeroporto_Cagliari,0.389,Porto_Arbatax,0.075,82.4,51.8
-San Nicolò Gerrei,Aeroporto_Cagliari,0.308,Porto_Cagliari,0.303,Porto_Arbatax,0.171,61.1,32.6
-San Nicolò d'Arcidano,Porto_Cagliari,0.275,Aeroporto_Cagliari,0.192,Porto_Porto Vesme,0.166,46.6,61.8
-San Sperate,Porto_Cagliari,0.446,Aeroporto_Cagliari,0.364,Porto_Arbatax,0.107,80.9,15.6
-San Teodoro,Aeroporto_Olbia,0.305,Porto_Olbia,0.276,Porto_Golfo Aranci,0.256,58.1,16.2
-San Vero Milis,Aeroporto_Alghero,0.235,Porto_Porto Torres,0.139,Porto_Cagliari,0.138,37.4,70.2
-San Vito,Porto_Cagliari,0.357,Aeroporto_Cagliari,0.285,Porto_Arbatax,0.236,64.2,41.4
-Sanluri,Aeroporto_Cagliari,0.371,Porto_Cagliari,0.336,Porto_Arbatax,0.126,70.7,36.2
-Sant'Andrea Frius,Aeroporto_Cagliari,0.322,Porto_Cagliari,0.31,Porto_Arbatax,0.143,63.2,27.3
-Sant'Anna Arresi,Porto_Cagliari,0.453,Aeroporto_Cagliari,0.398,Porto_Arbatax,0.068,85.1,48.3
-Sant'Antioco,Porto_Cagliari,0.428,Aeroporto_Cagliari,0.4,Porto_Arbatax,0.069,82.9,60.7
-Sant'Antonio di Gallura,Porto_Olbia,0.296,Aeroporto_Olbia,0.286,Porto_Golfo Aranci,0.247,58.2,14.3
-Santa Giusta,Porto_Cagliari,0.235,Porto_Arbatax,0.195,Aeroporto_Cagliari,0.17,42.9,79.4
-Santa Maria Coghinas,Porto_Porto Torres,0.229,Porto_Olbia,0.203,Aeroporto_Olbia,0.182,43.2,46.3
-Santa Teresa Gallura,Porto_Olbia,0.271,Porto_Golfo Aranci,0.267,Aeroporto_Olbia,0.242,53.8,37.7
-Santadi,Porto_Cagliari,0.411,Aeroporto_Cagliari,0.247,Porto_Porto Vesme,0.219,65.8,32.5
-Santu Lussurgiu,Aeroporto_Alghero,0.244,Porto_Porto Torres,0.143,Porto_Arbatax,0.136,38.7,61.5
-Sardara,Porto_Cagliari,0.346,Aeroporto_Cagliari,0.272,Porto_Arbatax,0.157,61.8,49.0
-Sarroch,Porto_Cagliari,0.469,Aeroporto_Cagliari,0.408,Porto_Arbatax,0.066,87.7,18.8
-Sarule,Porto_Arbatax,0.252,Aeroporto_Olbia,0.142,Porto_Olbia,0.141,39.3,56.8
-Sassari,Porto_Porto Torres,0.36,Aeroporto_Alghero,0.358,Porto_Olbia,0.08,71.8,22.0
-Scano di Montiferro,Aeroporto_Alghero,0.215,Porto_Porto Torres,0.168,Porto_Arbatax,0.136,38.4,53.4
-Sedilo,Porto_Arbatax,0.207,Aeroporto_Alghero,0.184,Aeroporto_Olbia,0.108,39.1,70.1
-Sedini,Porto_Porto Torres,0.279,Porto_Olbia,0.188,Porto_Golfo Aranci,0.167,46.8,41.2
-Segariu,Aeroporto_Cagliari,0.293,Porto_Cagliari,0.273,Porto_Porto Vesme,0.155,56.6,35.8
-Selargius,Porto_Cagliari,0.437,Aeroporto_Cagliari,0.417,Porto_Arbatax,0.081,85.4,7.6
-Selegas,Porto_Cagliari,0.333,Porto_Arbatax,0.216,Aeroporto_Cagliari,0.203,54.9,39.4
-Semestene,Aeroporto_Alghero,0.269,Porto_Porto Torres,0.163,Aeroporto_Olbia,0.116,43.2,46.1
-Seneghe,Aeroporto_Alghero,0.191,Porto_Arbatax,0.165,Porto_Porto Torres,0.156,35.6,65.6
-Senis,Aeroporto_Cagliari,0.198,Porto_Arbatax,0.193,Porto_Cagliari,0.185,39.1,65.1
-Sennariolo,Aeroporto_Alghero,0.24,Porto_Porto Torres,0.182,Porto_Arbatax,0.114,42.2,50.6
-Sennori,Porto_Porto Torres,0.337,Aeroporto_Alghero,0.215,Porto_Olbia,0.137,55.2,29.7
-Senorbì,Aeroporto_Cagliari,0.406,Porto_Cagliari,0.297,Porto_Arbatax,0.109,70.2,31.6
-Serdiana,Aeroporto_Cagliari,0.558,Porto_Cagliari,0.297,Porto_Arbatax,0.044,85.4,17.9
-Serramanna,Porto_Cagliari,0.428,Aeroporto_Cagliari,0.317,Porto_Arbatax,0.136,74.4,28.7
-Serrenti,Porto_Cagliari,0.434,Porto_Porto Vesme,0.295,Porto_Arbatax,0.145,72.9,32.2
-Serri,Aeroporto_Cagliari,0.289,Porto_Cagliari,0.263,Porto_Arbatax,0.218,55.2,51.1
-Sestu,Porto_Cagliari,0.447,Aeroporto_Cagliari,0.388,Porto_Arbatax,0.093,83.5,10.2
-Settimo San Pietro,Porto_Cagliari,0.504,Aeroporto_Cagliari,0.29,Porto_Arbatax,0.134,79.5,11.5
-Setzu,Aeroporto_Cagliari,0.232,Porto_Cagliari,0.217,Porto_Arbatax,0.174,44.9,54.5
-Seui,Porto_Arbatax,0.347,Aeroporto_Cagliari,0.164,Porto_Cagliari,0.158,51.1,32.3
-Seulo,Porto_Arbatax,0.285,Aeroporto_Cagliari,0.204,Porto_Cagliari,0.176,48.9,40.5
-Siamaggiore,Porto_Cagliari,0.182,Porto_Arbatax,0.179,Aeroporto_Alghero,0.16,36.1,89.8
-Siamanna,Porto_Arbatax,0.194,Porto_Cagliari,0.174,Aeroporto_Cagliari,0.145,36.8,78.8
-Siapiccia,Porto_Arbatax,0.164,Aeroporto_Cagliari,0.161,Porto_Cagliari,0.149,32.5,78.4
-Siddi,Aeroporto_Cagliari,0.252,Porto_Cagliari,0.234,Porto_Porto Vesme,0.168,48.6,49.0
-Silanus,Aeroporto_Alghero,0.194,Porto_Arbatax,0.144,Aeroporto_Olbia,0.129,33.9,63.9
-Siligo,Aeroporto_Alghero,0.269,Porto_Porto Torres,0.204,Porto_Olbia,0.137,47.4,38.4
-Siliqua,Porto_Cagliari,0.382,Aeroporto_Cagliari,0.302,Porto_Porto Vesme,0.171,68.5,25.9
-Silius,Aeroporto_Cagliari,0.287,Porto_Cagliari,0.281,Porto_Arbatax,0.197,56.9,37.8
-Simala,Aeroporto_Cagliari,0.231,Porto_Cagliari,0.214,Porto_Porto Vesme,0.17,44.6,56.2
-Simaxis,Porto_Cagliari,0.173,Porto_Arbatax,0.169,Aeroporto_Cagliari,0.148,34.2,84.5
-Sindia,Aeroporto_Alghero,0.246,Porto_Porto Torres,0.173,Porto_Arbatax,0.129,41.9,50.2
-Sini,Porto_Porto Vesme,0.658,Aeroporto_Cagliari,0.236,Aeroporto_Alghero,0.105,89.5,77.5
-Siniscola,Aeroporto_Olbia,0.252,Porto_Olbia,0.237,Porto_Golfo Aranci,0.218,48.9,41.8
-Sinnai,Porto_Cagliari,0.427,Aeroporto_Cagliari,0.346,Porto_Arbatax,0.141,77.3,23.2
-Siris,Aeroporto_Cagliari,0.229,Porto_Cagliari,0.212,Porto_Porto Vesme,0.186,44.1,57.7
-Siurgus Donigala,Porto_Cagliari,0.339,Porto_Arbatax,0.271,Aeroporto_Cagliari,0.165,60.9,42.0
-Soddì,Porto_Arbatax,0.173,Aeroporto_Alghero,0.17,Aeroporto_Cagliari,0.103,34.2,73.5
-Solarussa,Porto_Arbatax,0.194,Porto_Cagliari,0.177,Aeroporto_Alghero,0.157,37.2,87.0
-Soleminis,Porto_Cagliari,0.427,Aeroporto_Cagliari,0.381,Porto_Arbatax,0.111,80.7,15.2
-Sorgono,Porto_Arbatax,0.246,Aeroporto_Cagliari,0.144,Porto_Cagliari,0.138,38.9,53.6
-Sorradile,Porto_Arbatax,0.194,Aeroporto_Alghero,0.15,Aeroporto_Olbia,0.108,34.4,66.5
-Sorso,Porto_Porto Torres,0.346,Aeroporto_Alghero,0.253,Porto_Olbia,0.123,59.9,25.3
-Stintino,Porto_Porto Torres,0.485,Aeroporto_Alghero,0.276,Porto_Olbia,0.072,76.2,9.7
-Suelli,Aeroporto_Cagliari,0.289,Porto_Cagliari,0.275,Porto_Arbatax,0.17,56.3,36.6
-Suni,Aeroporto_Alghero,0.235,Porto_Porto Torres,0.199,Porto_Arbatax,0.119,43.3,43.4
-Tadasuni,Porto_Arbatax,0.179,Aeroporto_Alghero,0.161,Aeroporto_Cagliari,0.11,34.0,71.9
-Talana,Porto_Arbatax,0.506,Porto_Cagliari,0.105,Porto_Olbia,0.082,61.1,20.1
-Telti,Porto_Olbia,0.304,Aeroporto_Olbia,0.276,Porto_Golfo Aranci,0.25,58.0,10.8
-Tempio Pausania,Porto_Olbia,0.263,Aeroporto_Olbia,0.243,Porto_Golfo Aranci,0.226,50.7,29.0
-Tergu,Porto_Porto Torres,0.301,Aeroporto_Alghero,0.197,Porto_Olbia,0.159,49.7,33.6
-Terralba,Porto_Cagliari,0.295,Aeroporto_Cagliari,0.219,Porto_Arbatax,0.171,51.4,69.0
-Tertenia,Porto_Arbatax,0.411,Porto_Cagliari,0.204,Aeroporto_Cagliari,0.178,61.4,29.7
-Teti,Porto_Porto Vesme,0.62,Porto_Arbatax,0.254,Aeroporto_Olbia,0.084,87.5,120.8
-Teulada,Porto_Cagliari,0.474,Aeroporto_Cagliari,0.386,Porto_Arbatax,0.07,86.1,42.1
-Thiesi,Aeroporto_Alghero,0.588,Aeroporto_Olbia,0.131,Porto_Porto Torres,0.126,71.9,33.3
-Tiana,Porto_Arbatax,0.265,Aeroporto_Cagliari,0.114,Porto_Cagliari,0.108,37.9,48.9
-Tinnura,Aeroporto_Alghero,0.297,Porto_Porto Torres,0.16,Porto_Arbatax,0.095,45.7,46.4
-Tissi,Porto_Porto Torres,0.308,Aeroporto_Alghero,0.265,Porto_Olbia,0.119,57.3,36.6
-Tonara,Porto_Arbatax,0.253,Aeroporto_Cagliari,0.168,Porto_Cagliari,0.131,42.0,46.1
-Torpè,Aeroporto_Olbia,0.268,Porto_Olbia,0.263,Porto_Golfo Aranci,0.239,53.1,27.5
-Torralba,Aeroporto_Alghero,0.254,Porto_Olbia,0.162,Porto_Porto Torres,0.148,41.6,45.0
-Tortolì,Porto_Arbatax,0.559,Porto_Cagliari,0.102,Aeroporto_Cagliari,0.086,66.0,4.2
-Tramatza,Porto_Arbatax,0.215,Porto_Cagliari,0.18,Aeroporto_Alghero,0.136,39.5,90.2
-Tratalias,Porto_Cagliari,0.473,Aeroporto_Cagliari,0.352,Porto_Arbatax,0.085,82.4,45.6
-Tresnuraghes,Aeroporto_Alghero,0.318,Porto_Porto Torres,0.179,Porto_Arbatax,0.094,49.7,48.3
-Triei,Porto_Arbatax,0.501,Aeroporto_Olbia,0.093,Porto_Cagliari,0.09,59.4,11.0
-Trinità d'Agultu e Vignola,Porto_Olbia,0.23,Aeroporto_Olbia,0.215,Porto_Golfo Aranci,0.197,44.5,44.7
-Tuili,Porto_Arbatax,0.315,Porto_Cagliari,0.306,Porto_Porto Vesme,0.254,62.1,67.8
-Tula,Aeroporto_Olbia,0.213,Porto_Olbia,0.21,Porto_Golfo Aranci,0.17,42.4,47.1
-Turri,Aeroporto_Cagliari,0.355,Porto_Cagliari,0.251,Porto_Arbatax,0.134,60.7,51.4
-Ulassai,Porto_Arbatax,0.357,Aeroporto_Cagliari,0.218,Porto_Cagliari,0.204,57.5,30.2
-Ulà Tirso,Porto_Arbatax,0.298,Porto_Cagliari,0.157,Porto_Porto Torres,0.101,45.5,69.3
-Uras,Porto_Cagliari,0.285,Aeroporto_Cagliari,0.258,Porto_Arbatax,0.163,54.3,63.4
-Uri,Aeroporto_Alghero,0.327,Porto_Porto Torres,0.309,Porto_Olbia,0.1,63.6,15.0
-Urzulei,Porto_Arbatax,0.366,Aeroporto_Olbia,0.133,Porto_Olbia,0.11,49.9,26.3
-Usellus,Aeroporto_Cagliari,0.198,Porto_Cagliari,0.184,Porto_Arbatax,0.168,38.2,66.6
-Usini,Aeroporto_Alghero,0.308,Porto_Porto Torres,0.305,Porto_Olbia,0.109,61.3,20.5
-Ussana,Porto_Cagliari,0.425,Aeroporto_Cagliari,0.348,Porto_Arbatax,0.129,77.2,19.9
-Ussaramanna,Aeroporto_Cagliari,0.247,Porto_Cagliari,0.229,Porto_Porto Vesme,0.16,47.6,50.6
-Ussassai,Porto_Arbatax,0.447,Porto_Cagliari,0.187,Aeroporto_Cagliari,0.133,63.3,28.7
-Uta,Porto_Cagliari,0.489,Aeroporto_Cagliari,0.359,Porto_Arbatax,0.088,84.8,14.8
-Valledoria,Porto_Porto Torres,0.25,Porto_Olbia,0.191,Aeroporto_Olbia,0.175,44.1,42.0
-Vallermosa,Aeroporto_Cagliari,0.499,Porto_Cagliari,0.338,Porto_Arbatax,0.048,83.6,27.1
-Viddalba,Porto_Olbia,0.221,Porto_Porto Torres,0.204,Aeroporto_Olbia,0.194,42.5,46.0
-Villa San Pietro,Porto_Cagliari,0.492,Aeroporto_Cagliari,0.376,Porto_Arbatax,0.073,86.8,22.6
-Villa Sant'Antonio,Aeroporto_Cagliari,0.188,Porto_Arbatax,0.187,Porto_Cagliari,0.175,37.5,68.8
-Villa Verde,Aeroporto_Cagliari,0.202,Porto_Cagliari,0.187,Porto_Arbatax,0.158,38.9,65.9
-Villacidro,Porto_Cagliari,0.401,Aeroporto_Cagliari,0.336,Porto_Arbatax,0.121,73.7,39.0
-Villagrande Strisaili,Porto_Arbatax,0.458,Porto_Cagliari,0.121,Aeroporto_Cagliari,0.088,57.9,22.8
-Villamar,Aeroporto_Cagliari,0.0,Aeroporto_Olbia,0.0,Aeroporto_Alghero,0.0,0.0,41.2
-Villamassargia,Porto_Cagliari,0.467,Aeroporto_Cagliari,0.335,Porto_Arbatax,0.098,80.2,36.2
-Villanova Monteleone,Aeroporto_Alghero,0.364,Porto_Porto Torres,0.241,Porto_Olbia,0.095,60.5,23.4
-Villanova Truschedu,Porto_Arbatax,0.16,Aeroporto_Alghero,0.157,Aeroporto_Cagliari,0.141,31.6,80.3
-Villanova Tulo,Porto_Arbatax,0.266,Aeroporto_Cagliari,0.2,Porto_Cagliari,0.19,46.6,46.6
-Villanovaforru,Aeroporto_Cagliari,0.267,Porto_Cagliari,0.248,Porto_Porto Vesme,0.178,51.5,44.3
-Villanovafranca,Porto_Cagliari,0.318,Aeroporto_Cagliari,0.275,Porto_Arbatax,0.21,59.3,47.3
-Villaperuccio,Porto_Cagliari,0.369,Porto_Porto Vesme,0.276,Aeroporto_Cagliari,0.228,64.5,39.8
-Villaputzu,Porto_Arbatax,0.319,Porto_Cagliari,0.29,Aeroporto_Cagliari,0.233,60.9,46.9
-Villasalto,Porto_Cagliari,0.297,Aeroporto_Cagliari,0.296,Porto_Arbatax,0.195,59.3,37.7
-Villasimius,Porto_Cagliari,0.419,Aeroporto_Cagliari,0.361,Porto_Arbatax,0.138,78.0,37.2
-Villasor,Porto_Cagliari,0.428,Aeroporto_Cagliari,0.369,Porto_Arbatax,0.107,79.7,23.4
-Villaspeciosa,Aeroporto_Cagliari,0.437,Porto_Cagliari,0.415,Porto_Arbatax,0.072,85.2,14.7
-Villaurbana,Aeroporto_Cagliari,0.182,Porto_Cagliari,0.168,Porto_Arbatax,0.161,35.0,72.7
-Zeddiani,Porto_Arbatax,0.183,Porto_Cagliari,0.179,Aeroporto_Alghero,0.167,36.3,93.8
-Zerfaliu,Aeroporto_Alghero,0.158,Porto_Arbatax,0.152,Aeroporto_Cagliari,0.146,31.0,81.5
+comune,scalo_principale,concentrazione_top2_pct,metodo_usato,fascia_affidabilita
+Abbasanta,Aeroporto_Alghero,34.9,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Aggius,Porto_Olbia,43.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+Aglientu,Porto_Olbia,46.1,correlazione_filtro_morbido + distanza,Media (40-55%)
+Aidomaggiore,Aeroporto_Alghero,34.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Albagiara,Aeroporto_Cagliari,37.2,distanza_pura (fallback),Bassa (<40%)
+Ales,Aeroporto_Cagliari,44.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+Alghero,Aeroporto_Alghero,67.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Allai,Porto_Arbatax,31.9,distanza_pura (fallback),Bassa (<40%)
+Alà dei Sardi,Aeroporto_Olbia,47.5,distanza_pura (fallback),Media (40-55%)
+Anela,Aeroporto_Olbia,32.5,distanza_pura (fallback),Bassa (<40%)
+Arborea,Aeroporto_Cagliari,42.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Arbus,Aeroporto_Cagliari,53.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Ardara,Aeroporto_Alghero,39.4,distanza_pura (fallback),Bassa (<40%)
+Ardauli,Porto_Arbatax,31.8,distanza_pura (fallback),Bassa (<40%)
+Aritzo,Porto_Arbatax,43.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+Armungia,Aeroporto_Cagliari,49.4,distanza_pura (fallback),Media (40-55%)
+Arzachena,Porto_Golfo Aranci,54.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Arzana,Porto_Arbatax,51.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Assemini,Aeroporto_Cagliari,78.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Assolo,Aeroporto_Cagliari,36.8,distanza_pura (fallback),Bassa (<40%)
+Asuni,Porto_Arbatax,35.7,distanza_pura (fallback),Bassa (<40%)
+Atzara,Porto_Arbatax,35.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Austis,Porto_Arbatax,35.1,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Badesi,Porto_Porto Torres,39.9,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Ballao,Aeroporto_Cagliari,52.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+Banari,Aeroporto_Alghero,48.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Baradili,Aeroporto_Cagliari,41.5,distanza_pura (fallback),Media (40-55%)
+Baratili San Pietro,Aeroporto_Alghero,35.0,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Baressa,Aeroporto_Cagliari,48.7,correlazione_filtro_morbido + distanza,Media (40-55%)
+Bari Sardo,Porto_Arbatax,57.0,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Barrali,Aeroporto_Cagliari,57.8,distanza_pura (fallback),Buona (55-70%)
+Barumini,Aeroporto_Cagliari,49.7,correlazione_filtro_morbido + distanza,Media (40-55%)
+Bauladu,Aeroporto_Alghero,34.0,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Baunei,Porto_Arbatax,50.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Belvì,Porto_Arbatax,41.1,correlazione_filtro_morbido + distanza,Media (40-55%)
+Benetutti,Aeroporto_Olbia,35.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Berchidda,Porto_Olbia,47.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Bessude,Aeroporto_Alghero,46.1,distanza_pura (fallback),Media (40-55%)
+Bidonì,Porto_Arbatax,32.1,distanza_pura (fallback),Bassa (<40%)
+Birori,Aeroporto_Alghero,32.6,distanza_pura (fallback),Bassa (<40%)
+Bitti,Aeroporto_Olbia,43.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Bolotana,Aeroporto_Alghero,32.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Bonarcado,Aeroporto_Alghero,35.2,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Bonnanaro,Aeroporto_Alghero,40.7,distanza_pura (fallback),Media (40-55%)
+Bono,Aeroporto_Olbia,32.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Bonorva,Aeroporto_Alghero,37.0,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Boroneddu,Porto_Arbatax,31.9,distanza_pura (fallback),Bassa (<40%)
+Borore,Aeroporto_Alghero,32.8,distanza_pura (fallback),Bassa (<40%)
+Bortigali,Aeroporto_Alghero,33.0,distanza_pura (fallback),Bassa (<40%)
+Bortigiadas,Porto_Olbia,41.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Borutta,Aeroporto_Alghero,42.1,distanza_pura (fallback),Media (40-55%)
+Bosa,Aeroporto_Alghero,50.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+Bottidda,Aeroporto_Alghero,32.5,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Buddusò,Aeroporto_Olbia,42.8,distanza_pura (fallback),Media (40-55%)
+Budoni,Aeroporto_Olbia,51.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Buggerru,Aeroporto_Cagliari,60.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Bultei,Aeroporto_Olbia,34.8,distanza_pura (fallback),Bassa (<40%)
+Bulzi,Porto_Porto Torres,38.2,distanza_pura (fallback),Bassa (<40%)
+Burcei,Porto_Cagliari,66.1,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Burgos,Aeroporto_Alghero,31.8,distanza_pura (fallback),Bassa (<40%)
+Busachi,Porto_Arbatax,30.9,distanza_pura (fallback),Bassa (<40%)
+Cabras,Aeroporto_Alghero,36.5,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Cagliari,Porto_Cagliari,80.4,correlazione_filtro_morbido + distanza,Alta (>70%)
+Calangianus,Porto_Olbia,50.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Calasetta,Aeroporto_Cagliari,66.3,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Capoterra,Porto_Cagliari,79.4,correlazione_filtro_morbido + distanza,Alta (>70%)
+Carbonia,Aeroporto_Cagliari,67.7,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Cardedu,Porto_Arbatax,56.1,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Cargeghe,Aeroporto_Alghero,50.2,distanza_pura (fallback),Media (40-55%)
+Carloforte,Aeroporto_Cagliari,62.5,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Castelsardo,Porto_Porto Torres,46.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Castiadas,Porto_Cagliari,67.7,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Cheremule,Aeroporto_Alghero,44.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Chiaramonti,Aeroporto_Alghero,39.3,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Codrongianos,Aeroporto_Alghero,48.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+Collinas,Aeroporto_Cagliari,53.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Cossoine,Aeroporto_Alghero,45.1,correlazione_filtro_morbido + distanza,Media (40-55%)
+Cuglieri,Aeroporto_Alghero,39.9,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Curcuris,Aeroporto_Cagliari,39.9,distanza_pura (fallback),Bassa (<40%)
+Decimomannu,Aeroporto_Cagliari,75.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Decimoputzu,Aeroporto_Cagliari,60.9,distanza_pura (fallback),Buona (55-70%)
+Desulo,Porto_Arbatax,41.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Dolianova,Aeroporto_Cagliari,69.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Domus de Maria,Porto_Cagliari,77.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Domusnovas,Aeroporto_Cagliari,66.1,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Donori,Aeroporto_Cagliari,59.9,distanza_pura (fallback),Buona (55-70%)
+Dorgali,Porto_Arbatax,42.7,correlazione_filtro_morbido + distanza,Media (40-55%)
+Dualchi,Aeroporto_Alghero,32.2,distanza_pura (fallback),Bassa (<40%)
+Elini,Porto_Arbatax,53.0,distanza_pura (fallback),Media (40-55%)
+Elmas,Aeroporto_Cagliari,79.3,correlazione_filtro_morbido + distanza,Alta (>70%)
+Erula,Porto_Olbia,38.1,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Escalaplano,Porto_Arbatax,50.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Escolca,Aeroporto_Cagliari,49.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Esporlatu,Aeroporto_Alghero,31.5,distanza_pura (fallback),Bassa (<40%)
+Esterzili,Porto_Arbatax,45.8,distanza_pura (fallback),Media (40-55%)
+Florinas,Aeroporto_Alghero,49.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Fluminimaggiore,Aeroporto_Cagliari,60.9,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Flussio,Aeroporto_Alghero,43.7,correlazione_filtro_morbido + distanza,Media (40-55%)
+Fonni,Porto_Arbatax,40.0,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Fordongianus,Porto_Arbatax,30.2,distanza_pura (fallback),Bassa (<40%)
+Furtei,Aeroporto_Cagliari,60.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Gadoni,Porto_Arbatax,40.6,correlazione_filtro_morbido + distanza,Media (40-55%)
+Gairo,Porto_Arbatax,52.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Galtellì,Porto_Arbatax,41.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Gavoi,Porto_Arbatax,37.5,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Genoni,Aeroporto_Cagliari,38.0,distanza_pura (fallback),Bassa (<40%)
+Genuri,Aeroporto_Cagliari,40.9,distanza_pura (fallback),Media (40-55%)
+Gergei,Aeroporto_Cagliari,43.6,correlazione_filtro_morbido + distanza,Media (40-55%)
+Gesico,Aeroporto_Cagliari,48.5,distanza_pura (fallback),Media (40-55%)
+Gesturi,Aeroporto_Cagliari,45.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Ghilarza,Porto_Arbatax,34.4,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Giave,Aeroporto_Alghero,41.6,distanza_pura (fallback),Media (40-55%)
+Giba,Aeroporto_Cagliari,72.3,correlazione_filtro_morbido + distanza,Alta (>70%)
+Girasole,Porto_Arbatax,56.1,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Golfo Aranci,Porto_Golfo Aranci,57.6,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Goni,Aeroporto_Cagliari,49.7,distanza_pura (fallback),Media (40-55%)
+Gonnesa,Aeroporto_Cagliari,64.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Gonnoscodina,Aeroporto_Cagliari,42.6,distanza_pura (fallback),Media (40-55%)
+Gonnosfanadiga,Aeroporto_Cagliari,60.1,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Gonnosnò,Aeroporto_Cagliari,39.5,distanza_pura (fallback),Bassa (<40%)
+Gonnostramatza,Aeroporto_Cagliari,51.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+Guamaggiore,Aeroporto_Cagliari,50.7,distanza_pura (fallback),Media (40-55%)
+Guasila,Aeroporto_Cagliari,59.6,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Guspini,Aeroporto_Cagliari,53.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Iglesias,Aeroporto_Cagliari,65.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Ilbono,Porto_Arbatax,55.6,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Illorai,Aeroporto_Alghero,30.9,distanza_pura (fallback),Bassa (<40%)
+Irgoli,Aeroporto_Olbia,41.7,correlazione_filtro_morbido + distanza,Media (40-55%)
+Isili,Porto_Arbatax,41.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Ittireddu,Aeroporto_Alghero,34.8,distanza_pura (fallback),Bassa (<40%)
+Ittiri,Aeroporto_Alghero,54.7,correlazione_filtro_morbido + distanza,Media (40-55%)
+Jerzu,Porto_Arbatax,54.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+La Maddalena,Porto_Golfo Aranci,53.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Laconi,Porto_Arbatax,38.2,distanza_pura (fallback),Bassa (<40%)
+Laerru,Porto_Porto Torres,39.5,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Lanusei,Porto_Arbatax,55.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Las Plassas,Aeroporto_Cagliari,45.0,distanza_pura (fallback),Media (40-55%)
+Lei,Aeroporto_Alghero,31.5,distanza_pura (fallback),Bassa (<40%)
+Loceri,Porto_Arbatax,55.8,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Loculi,Aeroporto_Olbia,39.8,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Lodine,Porto_Arbatax,36.1,distanza_pura (fallback),Bassa (<40%)
+Lodè,Aeroporto_Olbia,46.0,distanza_pura (fallback),Media (40-55%)
+Loiri Porto San Paolo,Aeroporto_Olbia,55.5,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Lotzorai,Porto_Arbatax,55.3,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Lula,Aeroporto_Olbia,46.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+Lunamatrona,Aeroporto_Cagliari,54.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Luogosanto,Porto_Olbia,49.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+Luras,Porto_Olbia,48.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Macomer,Aeroporto_Alghero,37.1,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Magomadas,Aeroporto_Alghero,45.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+Mamoiada,Porto_Arbatax,38.4,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Mandas,Aeroporto_Cagliari,52.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Mara,Aeroporto_Alghero,44.9,distanza_pura (fallback),Media (40-55%)
+Maracalagonis,Porto_Cagliari,72.5,correlazione_filtro_morbido + distanza,Alta (>70%)
+Marrubiu,Aeroporto_Cagliari,43.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Martis,Porto_Porto Torres,40.6,correlazione_filtro_morbido + distanza,Media (40-55%)
+Masainas,Aeroporto_Cagliari,73.0,correlazione_filtro_morbido + distanza,Alta (>70%)
+Masullas,Aeroporto_Cagliari,48.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Meana Sardo,Porto_Arbatax,37.1,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Milis,Aeroporto_Alghero,34.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Modolo,Aeroporto_Alghero,45.6,correlazione_filtro_morbido + distanza,Media (40-55%)
+Mogorella,Aeroporto_Cagliari,33.9,distanza_pura (fallback),Bassa (<40%)
+Mogoro,Aeroporto_Cagliari,51.6,correlazione_filtro_morbido + distanza,Media (40-55%)
+Monastir,Aeroporto_Cagliari,72.3,correlazione_filtro_morbido + distanza,Alta (>70%)
+Monserrato,Porto_Cagliari,78.1,correlazione_filtro_morbido + distanza,Alta (>70%)
+Monteleone Rocca Doria,Aeroporto_Alghero,51.7,correlazione_filtro_morbido + distanza,Media (40-55%)
+Monti,Aeroporto_Olbia,52.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+Montresta,Aeroporto_Alghero,48.5,distanza_pura (fallback),Media (40-55%)
+Mores,Aeroporto_Alghero,38.5,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Morgongiori,Aeroporto_Cagliari,38.7,distanza_pura (fallback),Bassa (<40%)
+Muravera,Porto_Cagliari,61.5,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Muros,Aeroporto_Alghero,51.5,distanza_pura (fallback),Media (40-55%)
+Musei,Porto_Porto Vesme,55.7,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Narbolia,Aeroporto_Alghero,35.4,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Narcao,Aeroporto_Cagliari,72.5,correlazione_filtro_morbido + distanza,Alta (>70%)
+Neoneli,Porto_Arbatax,32.0,distanza_pura (fallback),Bassa (<40%)
+Noragugume,Porto_Arbatax,31.9,distanza_pura (fallback),Bassa (<40%)
+Norbello,Aeroporto_Alghero,32.4,distanza_pura (fallback),Bassa (<40%)
+Nughedu San Nicolò,Aeroporto_Olbia,34.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Nughedu Santa Vittoria,Porto_Arbatax,32.2,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Nule,Aeroporto_Olbia,37.5,distanza_pura (fallback),Bassa (<40%)
+Nulvi,Porto_Porto Torres,44.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Nuoro,Porto_Arbatax,36.9,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Nurachi,Aeroporto_Alghero,35.4,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Nuragus,Aeroporto_Cagliari,39.6,distanza_pura (fallback),Bassa (<40%)
+Nurallao,Porto_Arbatax,44.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Nuraminis,Aeroporto_Cagliari,81.4,correlazione_filtro_morbido + distanza,Alta (>70%)
+Nureci,Aeroporto_Cagliari,41.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Nurri,Porto_Arbatax,48.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+Nuxis,Aeroporto_Cagliari,75.3,correlazione_filtro_morbido + distanza,Alta (>70%)
+Olbia,Porto_Olbia,56.9,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Oliena,Porto_Arbatax,40.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Ollastra,Porto_Arbatax,29.7,distanza_pura (fallback),Bassa (<40%)
+Ollolai,Porto_Arbatax,34.5,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Olmedo,Aeroporto_Alghero,64.7,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Olzai,Porto_Arbatax,32.5,distanza_pura (fallback),Bassa (<40%)
+Onanì,Aeroporto_Olbia,43.0,distanza_pura (fallback),Media (40-55%)
+Onifai,Aeroporto_Olbia,40.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Oniferi,Porto_Arbatax,32.9,distanza_pura (fallback),Bassa (<40%)
+Orani,Porto_Arbatax,33.5,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Orgosolo,Porto_Arbatax,41.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Oristano,Aeroporto_Cagliari,34.7,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Orosei,Porto_Arbatax,41.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Orotelli,Porto_Arbatax,31.5,distanza_pura (fallback),Bassa (<40%)
+Orroli,Aeroporto_Cagliari,49.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Ortacesus,Aeroporto_Cagliari,54.7,distanza_pura (fallback),Media (40-55%)
+Ortueri,Aeroporto_Cagliari,38.8,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Orune,Aeroporto_Olbia,36.4,distanza_pura (fallback),Bassa (<40%)
+Oschiri,Porto_Olbia,43.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Osidda,Aeroporto_Olbia,39.2,distanza_pura (fallback),Bassa (<40%)
+Osilo,Aeroporto_Alghero,49.6,correlazione_filtro_morbido + distanza,Media (40-55%)
+Osini,Porto_Arbatax,54.1,correlazione_filtro_morbido + distanza,Media (40-55%)
+Ossi,Aeroporto_Alghero,53.1,correlazione_filtro_morbido + distanza,Media (40-55%)
+Ottana,Porto_Arbatax,31.8,distanza_pura (fallback),Bassa (<40%)
+Ovodda,Porto_Arbatax,34.7,distanza_pura (fallback),Bassa (<40%)
+Ozieri,Porto_Olbia,35.9,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Pabillonis,Aeroporto_Cagliari,55.1,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Padria,Aeroporto_Alghero,45.7,distanza_pura (fallback),Media (40-55%)
+Padru,Aeroporto_Olbia,51.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Palau,Porto_Golfo Aranci,53.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Palmas Arborea,Aeroporto_Cagliari,33.2,distanza_pura (fallback),Bassa (<40%)
+Pattada,Aeroporto_Olbia,39.2,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Pau,Aeroporto_Cagliari,36.6,distanza_pura (fallback),Bassa (<40%)
+Pauli Arbarei,Aeroporto_Cagliari,52.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Paulilatino,Aeroporto_Alghero,34.4,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Perdasdefogu,Porto_Arbatax,52.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Perdaxius,Porto_Porto Vesme,60.1,distanza_pura (fallback),Buona (55-70%)
+Perfugas,Porto_Olbia,38.4,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Pimentel,Aeroporto_Cagliari,64.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Piscinas,Aeroporto_Cagliari,73.9,correlazione_filtro_morbido + distanza,Alta (>70%)
+Ploaghe,Aeroporto_Alghero,44.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Pompu,Aeroporto_Cagliari,40.6,distanza_pura (fallback),Media (40-55%)
+Porto Torres,Porto_Porto Torres,69.0,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Portoscuso,Aeroporto_Cagliari,63.9,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Posada,Aeroporto_Olbia,48.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Pozzomaggiore,Aeroporto_Alghero,43.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Pula,Porto_Cagliari,78.6,correlazione_filtro_morbido + distanza,Alta (>70%)
+Putifigari,Aeroporto_Alghero,60.0,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Quartu Sant'Elena,Porto_Cagliari,75.0,correlazione_filtro_morbido + distanza,Alta (>70%)
+Quartucciu,Porto_Cagliari,74.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Riola Sardo,Aeroporto_Alghero,36.1,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Romana,Aeroporto_Alghero,49.1,distanza_pura (fallback),Media (40-55%)
+Ruinas,Porto_Arbatax,37.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Sadali,Porto_Arbatax,47.6,correlazione_filtro_morbido + distanza,Media (40-55%)
+Sagama,Aeroporto_Alghero,42.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Samassi,Aeroporto_Cagliari,55.0,distanza_pura (fallback),Media (40-55%)
+Samatzai,Aeroporto_Cagliari,65.4,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Samugheo,Porto_Arbatax,37.3,correlazione_filtro_morbido + distanza,Bassa (<40%)
+San Basilio,Aeroporto_Cagliari,54.3,distanza_pura (fallback),Media (40-55%)
+San Gavino Monreale,Aeroporto_Cagliari,49.1,correlazione_filtro_morbido + distanza,Media (40-55%)
+San Giovanni Suergiu,Aeroporto_Cagliari,69.0,correlazione_filtro_morbido + distanza,Buona (55-70%)
+San Nicolò Gerrei,Aeroporto_Cagliari,55.6,distanza_pura (fallback),Buona (55-70%)
+San Nicolò d'Arcidano,Aeroporto_Cagliari,50.6,correlazione_filtro_morbido + distanza,Media (40-55%)
+San Sperate,Aeroporto_Cagliari,74.1,correlazione_filtro_morbido + distanza,Alta (>70%)
+San Teodoro,Aeroporto_Olbia,53.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+San Vero Milis,Aeroporto_Alghero,35.9,correlazione_filtro_morbido + distanza,Bassa (<40%)
+San Vito,Porto_Cagliari,59.8,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Sanluri,Aeroporto_Cagliari,60.7,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Sant'Andrea Frius,Aeroporto_Cagliari,57.4,distanza_pura (fallback),Buona (55-70%)
+Sant'Anna Arresi,Aeroporto_Cagliari,73.4,correlazione_filtro_morbido + distanza,Alta (>70%)
+Sant'Antioco,Aeroporto_Cagliari,68.4,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Sant'Antonio di Gallura,Porto_Olbia,52.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Santa Giusta,Aeroporto_Cagliari,38.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Santa Maria Coghinas,Porto_Porto Torres,39.2,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Santa Teresa Gallura,Porto_Olbia,49.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Santadi,Aeroporto_Cagliari,75.9,correlazione_filtro_morbido + distanza,Alta (>70%)
+Santu Lussurgiu,Aeroporto_Alghero,35.8,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Sardara,Aeroporto_Cagliari,47.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Sarroch,Porto_Cagliari,79.4,correlazione_filtro_morbido + distanza,Alta (>70%)
+Sarule,Porto_Arbatax,33.1,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Sassari,Aeroporto_Alghero,65.8,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Scano di Montiferro,Aeroporto_Alghero,39.9,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Sedilo,Porto_Arbatax,34.2,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Sedini,Porto_Porto Torres,41.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Segariu,Aeroporto_Cagliari,51.5,distanza_pura (fallback),Media (40-55%)
+Selargius,Porto_Cagliari,77.3,correlazione_filtro_morbido + distanza,Alta (>70%)
+Selegas,Aeroporto_Cagliari,57.8,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Semestene,Aeroporto_Alghero,39.4,distanza_pura (fallback),Bassa (<40%)
+Seneghe,Aeroporto_Alghero,35.6,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Senis,Aeroporto_Cagliari,36.4,distanza_pura (fallback),Bassa (<40%)
+Sennariolo,Aeroporto_Alghero,42.7,correlazione_filtro_morbido + distanza,Media (40-55%)
+Sennori,Porto_Porto Torres,52.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Senorbì,Aeroporto_Cagliari,54.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+Serdiana,Aeroporto_Cagliari,70.6,correlazione_filtro_morbido + distanza,Alta (>70%)
+Serramanna,Aeroporto_Cagliari,68.1,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Serrenti,Porto_Cagliari,63.3,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Serri,Aeroporto_Cagliari,47.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+Sestu,Aeroporto_Cagliari,76.3,correlazione_filtro_morbido + distanza,Alta (>70%)
+Settimo San Pietro,Porto_Cagliari,75.4,correlazione_filtro_morbido + distanza,Alta (>70%)
+Setzu,Aeroporto_Cagliari,41.3,distanza_pura (fallback),Media (40-55%)
+Seui,Porto_Arbatax,45.9,distanza_pura (fallback),Media (40-55%)
+Seulo,Porto_Arbatax,45.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Siamaggiore,Aeroporto_Alghero,34.2,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Siamanna,Aeroporto_Cagliari,35.4,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Siapiccia,Porto_Arbatax,30.9,distanza_pura (fallback),Bassa (<40%)
+Siddi,Aeroporto_Cagliari,44.5,distanza_pura (fallback),Media (40-55%)
+Silanus,Aeroporto_Alghero,31.9,distanza_pura (fallback),Bassa (<40%)
+Siligo,Aeroporto_Alghero,43.4,distanza_pura (fallback),Media (40-55%)
+Siliqua,Aeroporto_Cagliari,73.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Silius,Aeroporto_Cagliari,51.9,distanza_pura (fallback),Media (40-55%)
+Simala,Aeroporto_Cagliari,41.0,distanza_pura (fallback),Media (40-55%)
+Simaxis,Aeroporto_Cagliari,33.8,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Sindia,Aeroporto_Alghero,40.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+Sini,Aeroporto_Cagliari,40.0,distanza_pura (fallback),Bassa (<40%)
+Siniscola,Aeroporto_Olbia,45.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Sinnai,Porto_Cagliari,70.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Siris,Aeroporto_Cagliari,40.7,distanza_pura (fallback),Media (40-55%)
+Siurgus Donigala,Aeroporto_Cagliari,55.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Soddì,Porto_Arbatax,32.0,distanza_pura (fallback),Bassa (<40%)
+Solarussa,Aeroporto_Alghero,33.3,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Soleminis,Aeroporto_Cagliari,73.3,correlazione_filtro_morbido + distanza,Alta (>70%)
+Sorgono,Porto_Arbatax,37.5,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Sorradile,Porto_Arbatax,32.1,distanza_pura (fallback),Bassa (<40%)
+Sorso,Porto_Porto Torres,55.5,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Stintino,Porto_Porto Torres,69.8,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Suelli,Aeroporto_Cagliari,51.3,distanza_pura (fallback),Media (40-55%)
+Suni,Aeroporto_Alghero,44.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Tadasuni,Porto_Arbatax,31.9,distanza_pura (fallback),Bassa (<40%)
+Talana,Porto_Arbatax,47.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Telti,Porto_Olbia,53.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Tempio Pausania,Porto_Olbia,47.1,correlazione_filtro_morbido + distanza,Media (40-55%)
+Tergu,Porto_Porto Torres,47.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Terralba,Aeroporto_Cagliari,46.8,correlazione_filtro_morbido + distanza,Media (40-55%)
+Tertenia,Porto_Arbatax,54.7,correlazione_filtro_morbido + distanza,Media (40-55%)
+Teti,Porto_Arbatax,56.6,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Teulada,Aeroporto_Cagliari,75.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Thiesi,Aeroporto_Alghero,51.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Tiana,Porto_Arbatax,34.8,distanza_pura (fallback),Bassa (<40%)
+Tinnura,Aeroporto_Alghero,41.2,distanza_pura (fallback),Media (40-55%)
+Tissi,Aeroporto_Alghero,55.4,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Tonara,Porto_Arbatax,36.8,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Torpè,Aeroporto_Olbia,49.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Torralba,Aeroporto_Alghero,40.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Tortolì,Porto_Arbatax,57.6,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Tramatza,Aeroporto_Alghero,33.7,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Tratalias,Aeroporto_Cagliari,70.9,correlazione_filtro_morbido + distanza,Alta (>70%)
+Tresnuraghes,Aeroporto_Alghero,44.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Triei,Porto_Arbatax,52.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+Trinità d'Agultu e Vignola,Porto_Olbia,41.2,correlazione_filtro_morbido + distanza,Media (40-55%)
+Tuili,Porto_Cagliari,59.6,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Tula,Porto_Olbia,39.4,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Turri,Aeroporto_Cagliari,49.5,correlazione_filtro_morbido + distanza,Media (40-55%)
+Ulassai,Porto_Arbatax,53.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Ulà Tirso,Porto_Arbatax,34.2,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Uras,Aeroporto_Cagliari,48.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Uri,Aeroporto_Alghero,60.3,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Urzulei,Porto_Arbatax,46.3,correlazione_filtro_morbido + distanza,Media (40-55%)
+Usellus,Aeroporto_Cagliari,35.6,distanza_pura (fallback),Bassa (<40%)
+Usini,Aeroporto_Alghero,57.5,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Ussana,Aeroporto_Cagliari,70.7,correlazione_filtro_morbido + distanza,Alta (>70%)
+Ussaramanna,Aeroporto_Cagliari,43.6,distanza_pura (fallback),Media (40-55%)
+Ussassai,Porto_Arbatax,51.0,correlazione_filtro_morbido + distanza,Media (40-55%)
+Uta,Aeroporto_Cagliari,77.6,correlazione_filtro_morbido + distanza,Alta (>70%)
+Valledoria,Porto_Porto Torres,40.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Vallermosa,Aeroporto_Cagliari,69.7,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Viddalba,Porto_Olbia,39.4,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Villa San Pietro,Porto_Cagliari,78.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Villa Sant'Antonio,Aeroporto_Cagliari,35.0,distanza_pura (fallback),Bassa (<40%)
+Villa Verde,Aeroporto_Cagliari,36.2,distanza_pura (fallback),Bassa (<40%)
+Villacidro,Aeroporto_Cagliari,65.2,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Villagrande Strisaili,Porto_Arbatax,47.9,correlazione_filtro_morbido + distanza,Media (40-55%)
+Villamar,Aeroporto_Cagliari,48.5,distanza_pura (fallback),Media (40-55%)
+Villamassargia,Aeroporto_Cagliari,70.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Villanova Monteleone,Aeroporto_Alghero,55.6,correlazione_filtro_morbido + distanza,Buona (55-70%)
+Villanova Truschedu,Porto_Arbatax,30.1,distanza_pura (fallback),Bassa (<40%)
+Villanova Tulo,Porto_Arbatax,42.6,distanza_pura (fallback),Media (40-55%)
+Villanovaforru,Aeroporto_Cagliari,47.1,distanza_pura (fallback),Media (40-55%)
+Villanovafranca,Aeroporto_Cagliari,53.4,correlazione_filtro_morbido + distanza,Media (40-55%)
+Villaperuccio,Aeroporto_Cagliari,72.9,correlazione_filtro_morbido + distanza,Alta (>70%)
+Villaputzu,Porto_Arbatax,53.1,correlazione_filtro_morbido + distanza,Media (40-55%)
+Villasalto,Porto_Cagliari,54.2,distanza_pura (fallback),Media (40-55%)
+Villasimius,Porto_Cagliari,70.8,correlazione_filtro_morbido + distanza,Alta (>70%)
+Villasor,Aeroporto_Cagliari,71.3,correlazione_filtro_morbido + distanza,Alta (>70%)
+Villaspeciosa,Aeroporto_Cagliari,75.1,correlazione_filtro_morbido + distanza,Alta (>70%)
+Villaurbana,Aeroporto_Cagliari,33.0,distanza_pura (fallback),Bassa (<40%)
+Zeddiani,Aeroporto_Alghero,34.5,correlazione_filtro_morbido + distanza,Bassa (<40%)
+Zerfaliu,Aeroporto_Alghero,29.6,distanza_pura (fallback),Bassa (<40%)
