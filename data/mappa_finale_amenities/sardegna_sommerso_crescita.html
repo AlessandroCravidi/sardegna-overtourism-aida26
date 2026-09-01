@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sardegna — sommerso, crescita dell'offerta e quadranti</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{
+  --ink:#12313B; --paper:#E7EDEA; --surface:#F8FBF9; --line:#C6D3D0;
+  --teal:#1C6E7D; --red:#B3402F; --ochre:#C98A26; --green:#4A8A63; --muted:#5B7079;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.55}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px 96px}
+h1,h2,h3{font-family:var(--serif);font-weight:600;letter-spacing:-0.01em;margin:0}
+h1{font-size:clamp(30px,4.4vw,52px);line-height:1.06}
+h2{font-size:clamp(21px,2.4vw,28px);margin-bottom:6px}
+h3{font-size:17px;margin-bottom:10px}
+p{margin:10px 0}
+.lead{font-size:18px;max-width:64ch;color:#26454E}
+.note{font-size:14px;color:var(--muted);max-width:72ch}
+header.top{padding:56px 0 28px;border-bottom:1px solid var(--line)}
+section{padding:44px 0;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.sec-head{display:flex;flex-wrap:wrap;gap:12px 28px;align-items:baseline;justify-content:space-between;margin-bottom:22px}
+.grid{display:grid;gap:22px}
+.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.g4{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:860px){.g3,.g4{grid-template-columns:1fr 1fr}}
+.panel{background:var(--surface);border:1px solid var(--line);padding:18px}
+.chart{position:relative;height:340px}
+.chart.tall{height:420px}
+.stat{background:var(--surface);border:1px solid var(--line);padding:16px 18px}
+.stat .n{font-family:var(--serif);font-size:30px;line-height:1.1;display:block}
+.stat .l{font-size:13px;color:var(--muted);display:block;margin-top:4px}
+.toggles{display:flex;gap:8px;flex-wrap:wrap}
+button,select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--ink);padding:7px 12px;cursor:pointer}
+button[aria-pressed="true"]{background:var(--ink);color:var(--surface)}
+button:focus-visible,select:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+table{border-collapse:collapse;width:100%;font-size:14.5px}
+th,td{text-align:left;padding:6px 10px;border-bottom:1px solid var(--line)}
+th{font-weight:600;color:var(--muted);font-size:12.5px}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.scroll{max-height:340px;overflow:auto}
+footer{padding:40px 0 0;font-size:14px;color:var(--muted)}
+footer h2{color:var(--ink)}
+ul.miss{margin:12px 0 0;padding-left:18px}
+ul.miss li{margin-bottom:5px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <h1>Il turismo che i registri<br>non vedono</h1>
+  <p class="lead">Gli ultimi due file completano il quadro: quanti arrivi sfuggono alle statistiche ufficiali, e come si muovono presenze e posti letto nei comuni dove entrambi i dati esistono.</p>
+  <div class="grid g4" style="margin-top:26px">
+    <div class="stat"><span class="n" id="k-nc25"></span><span class="l">arrivi non registrati nel 2025</span></div>
+    <div class="stat"><span class="n" id="k-pct25"></span><span class="l">quota non catturata nel 2025</span></div>
+    <div class="stat"><span class="n" id="k-pct22"></span><span class="l">era questa nel 2022</span></div>
+    <div class="stat"><span class="n" id="k-com"></span><span class="l">comuni con dati di crescita confrontabili</span></div>
+  </div>
+</header>
+
+<section>
+  <div class="sec-head">
+    <div>
+      <h2>Sommerso turistico</h2>
+      <p class="note">Gli arrivi rilevati a porti e aeroporti si dividono fra quelli che compaiono in SIRED e quelli che non risultano da nessuna parte. Le due barre sommate danno il totale in ingresso.</p>
+    </div>
+  </div>
+  <div class="panel"><div class="chart tall"><canvas id="c-sommerso"></canvas></div></div>
+  <p class="note" style="margin-top:14px">Il flusso non registrato resta sopra i tre milioni fino al 2024 e scende nel 2025: la quota cala perché gli arrivi registrati crescono più in fretta del totale, non perché arrivi meno gente.</p>
+</section>
+
+<section>
+  <div class="sec-head">
+    <div>
+      <h2>Presenze e posti letto: chi cresce davvero</h2>
+      <p class="note">Sopra la diagonale l'offerta cresce più della domanda, sotto è il contrario. La classificazione in tre tipologie è quella del file di origine.</p>
+    </div>
+    <div class="toggles">
+      <button id="b-zoom" aria-pressed="true">Vista principale</button>
+      <button id="b-all" aria-pressed="false">Tutti i comuni</button>
+    </div>
+  </div>
+  <div class="panel"><div class="chart tall"><canvas id="c-gap"></canvas></div></div>
+  <div class="grid g3" style="margin-top:22px" id="tipbox"></div>
+  <p class="note" style="margin-top:14px">Un comune sta fuori scala nella vista principale: Uta, con presenze a +3.893% contro posti letto a +148%. Il file lo classifica come crescita reale, ma un salto di quell'ordine somiglia più a un cambio di rilevazione che a domanda nuova.</p>
+</section>
+
+<section>
+  <div class="sec-head">
+    <div>
+      <h2>I quattro quadranti</h2>
+      <p class="note">Incrocio fra attrattività e overtourism 2025 rispetto alle mediane regionali, con i nomi usati nel workbook. Seleziona un quadrante per vedere quali comuni ci finiscono.</p>
+    </div>
+    <label>Quadrante <select id="sel-q"></select></label>
+  </div>
+  <div class="grid g4" id="qstats"></div>
+  <div class="panel scroll" style="margin-top:22px">
+    <table>
+      <thead><tr><th>Comune</th><th class="num">Attrattività</th><th class="num">Overtourism 2025</th></tr></thead>
+      <tbody id="qtab"></tbody>
+    </table>
+  </div>
+</section>
+
+<footer>
+  <h2>Gli ultimi quattro fogli</h2>
+  <p class="note">Restano fuori «Impatto abitativo» e i tre grafici per quadrante. Non è questione di file mancanti nel senso di prima: quei fogli leggono la tabella principale del workbook, <em>indicatori_comune_anno</em>, che è dentro l'estratto .hyper e non fra i CSV. Servono queste colonne:</p>
+  <ul class="miss">
+    <li>presenze_per_residente e quota_abitazioni_non_occupate_pct — «Impatto abitativo»</li>
+    <li>letti_per_struttura — «Letti x struttura x quadrante»</li>
+    <li>permanenza_media_giorni — «Permanenza media x quadrante»</li>
+    <li>tasso_occupazione_media — «Tasso occupazione x quadrante»</li>
+  </ul>
+  <p class="note" style="margin-top:14px">L'assegnazione dei comuni ai quadranti è già pronta qui sopra: appena arrivano quelle colonne, i tre grafici sono una media per gruppo.</p>
+</footer>
+
+</div>
+<script id="payload" type="application/json">{"q":[["Alà dei Sardi","Territorio da Sviluppare",12.1,0.0006],["Cabras","Destinazione Matura",46.8,0.0852],["Santa Teresa Gallura","Destinazione Matura",48.9,0.2881],["Birori","Gemma Nascosta",36.9,0.0],["Ossi","Destinazione Matura",42.6,0.0102],["Silanus","Gemma Nascosta",26.3,0.0005],["Budoni","Destinazione Matura",56.0,0.4202],["Ottana","Criticità",15.8,0.0229],["Senorbì","Destinazione Matura",26.6,0.0084],["Ittireddu","Gemma Nascosta",46.0,0.0],["Padria","Territorio da Sviluppare",6.2,0.0011],["Villacidro","Territorio da Sviluppare",17.6,0.0063],["Villanova Tulo","Gemma Nascosta",27.3,0.0003],["Gavoi","Destinazione Matura",34.0,0.0106],["Bosa","Destinazione Matura",35.4,0.0868],["Ussana","Territorio da Sviluppare",13.6,0.0061],["San Giovanni Suergiu","Criticità",23.1,0.0284],["Lei","Gemma Nascosta",30.8,0.0],["Orroli","Territorio da Sviluppare",15.1,0.0035],["Vallermosa","Criticità",8.9,0.0077],["Sini","Gemma Nascosta",28.6,0.0024],["Ollastra","Gemma Nascosta",28.5,0.0],["Giba","Criticità",19.4,0.0302],["Ales","Destinazione Matura",30.8,0.0112],["Magomadas","Destinazione Matura",47.2,0.1206],["Bottidda","Gemma Nascosta",35.4,0.0046],["Masainas","Destinazione Matura",38.2,0.023],["Ghilarza","Destinazione Matura",33.1,0.0121],["Simaxis","Gemma Nascosta",31.6,0.0052],["Aggius","Criticità",11.9,0.034],["Golfo Aranci","Destinazione Matura",56.0,0.3603],["Villamassargia","Criticità",18.3,0.0075],["Meana Sardo","Territorio da Sviluppare",10.1,0.0021],["Onifai","Criticità",7.3,0.0211],["Orani","Territorio da Sviluppare",5.7,0.005],["Orgosolo","Destinazione Matura",27.4,0.0091],["Serdiana","Territorio da Sviluppare",10.4,0.0029],["Cossoine","Territorio da Sviluppare",17.9,0.0039],["Benetutti","Destinazione Matura",28.8,0.022],["Castelsardo","Destinazione Matura",53.3,0.2633],["Osilo","Territorio da Sviluppare",4.8,0.003],["Tratalias","Criticità",17.6,0.0203],["San Vito","Criticità",22.5,0.011],["Lodè","Criticità",2.0,0.0092],["Paulilatino","Criticità",21.4,0.009],["Thiesi","Criticità",14.3,0.0079],["Pauli Arbarei","Gemma Nascosta",31.7,0.005],["Mara","Gemma Nascosta",35.1,0.0],["Baunei","Destinazione Matura",31.7,0.0864],["Bitti","Criticità",9.5,0.0083],["Curcuris","Territorio da Sviluppare",22.4,0.0],["Perfugas","Territorio da Sviluppare",11.3,0.0065],["Siliqua","Territorio da Sviluppare",4.0,0.0009],["Uras","Territorio da Sviluppare",21.6,0.0033],["Aidomaggiore","Territorio da Sviluppare",16.5,0.0036],["Pattada","Gemma Nascosta",32.1,0.0005],["Lunamatrona","Gemma Nascosta",32.6,0.0032],["Villagrande Strisaili","Territorio da Sviluppare",11.2,0.001],["San Basilio","Territorio da Sviluppare",6.8,0.0],["Mogoro","Gemma Nascosta",36.2,0.0065],["Neoneli","Territorio da Sviluppare",8.1,0.0],["Elini","Gemma Nascosta",28.8,0.0029],["Fluminimaggiore","Criticità",23.9,0.0199],["Romana","Gemma Nascosta",28.7,0.0],["Villanovaforru","Gemma Nascosta",47.6,0.0013],["Solarussa","Destinazione Matura",34.7,0.0103],["Burgos","Gemma Nascosta",28.6,0.0021],["Pabillonis","Criticità",20.0,0.0077],["Sant'Andrea Frius","Territorio da Sviluppare",8.9,0.0005],["Modolo","Destinazione Matura",59.6,0.0921],["Badesi","Destinazione Matura",29.8,0.3927],["Erula","Territorio da Sviluppare",12.9,0.0033],["Selegas","Gemma Nascosta",25.1,0.0026],["Sant'Antioco","Destinazione Matura",41.1,0.096],["Musei","Territorio da Sviluppare",18.3,0.0035],["Luras","Territorio da Sviluppare",9.5,0.0049],["Guamaggiore","Territorio da Sviluppare",14.1,0.0014],["Tertenia","Destinazione Matura",31.4,0.064],["Gonnostramatza","Criticità",23.0,0.0085],["San Sperate","Destinazione Matura",44.6,0.0104],["Collinas","Gemma Nascosta",25.8,0.0033],["Arzachena","Destinazione Matura",33.3,0.2963],["Galtellì","Destinazione Matura",44.5,0.0346],["Luogosanto","Criticità",7.5,0.0184],["Oliena","Destinazione Matura",24.8,0.0295],["Girasole","Destinazione Matura",31.6,0.0928],["Tresnuraghes","Destinazione Matura",36.1,0.1087],["Domusnovas","Territorio da Sviluppare",22.7,0.0046],["Riola Sardo","Criticità",23.7,0.0398],["Bultei","Gemma Nascosta",43.6,0.0004],["Tergu","Criticità",14.0,0.035],["Aglientu","Criticità",13.7,0.1968],["Sorradile","Criticità",19.2,0.0071],["Pompu","Territorio da Sviluppare",22.3,0.0048],["Villanova Truschedu","Gemma Nascosta",43.9,0.0],["Lanusei","Destinazione Matura",38.1,0.0238],["Olmedo","Destinazione Matura",24.6,0.0396],["Baressa","Destinazione Matura",26.3,0.0698],["Elmas","Destinazione Matura",68.0,0.0516],["Siligo","Territorio da Sviluppare",24.2,0.0],["Fonni","Criticità",16.3,0.0085],["San Gavino Monreale","Territorio da Sviluppare",15.6,0.005],["Padru","Criticità",13.2,0.0125],["Aritzo","Criticità",18.4,0.0129],["Bortigali","Territorio da Sviluppare",15.8,0.0023],["Orune","Territorio da Sviluppare",20.3,0.0],["Turri","Destinazione Matura",25.8,0.0353],["Laerru","Destinazione Matura",27.9,0.007],["Teti","Territorio da Sviluppare",22.9,0.001],["Villamar","Gemma Nascosta",24.6,0.004],["Borutta","Gemma Nascosta",42.5,0.0],["Silius","Territorio da Sviluppare",14.5,0.0007],["Jerzu","Criticità",15.8,0.0249],["Lula","Territorio da Sviluppare",4.8,0.0003],["Senis","Territorio da Sviluppare",15.1,0.0],["Ballao","Territorio da Sviluppare",9.6,0.0018],["Boroneddu","Gemma Nascosta",34.1,0.0021],["Decimomannu","Destinazione Matura",31.4,0.0116],["Irgoli","Criticità",9.1,0.0125],["Ortacesus","Territorio da Sviluppare",11.5,0.0],["Assolo","Territorio da Sviluppare",3.3,0.0],["Siniscola","Destinazione Matura",26.7,0.0894],["Allai","Territorio da Sviluppare",24.1,0.0006],["Sadali","Criticità",24.0,0.0071],["Bonnanaro","Territorio da Sviluppare",19.2,0.0009],["Armungia","Territorio da Sviluppare",10.0,0.001],["Gonnesa","Destinazione Matura",33.8,0.0476],["Santa Maria Coghinas","Destinazione Matura",28.5,0.0743],["Calangianus","Territorio da Sviluppare",8.3,0.0062],["Norbello","Destinazione Matura",29.4,0.0832],["Villasor","Destinazione Matura",39.5,0.0262],["Segariu","Territorio da Sviluppare",23.0,0.0],["Sindia","Territorio da Sviluppare",14.9,0.0025],["Talana","Territorio da Sviluppare",6.4,0.0011],["Tortolì","Destinazione Matura",71.6,0.4253],["Cardedu","Destinazione Matura",45.4,0.2693],["Villasalto","Territorio da Sviluppare",5.4,0.0001],["Mandas","Criticità",23.2,0.009],["Siddi","Gemma Nascosta",41.2,0.0],["Simala","Territorio da Sviluppare",16.3,0.0],["Quartucciu","Destinazione Matura",49.6,0.0341],["Putifigari","Territorio da Sviluppare",7.9,0.0055],["Villaperuccio","Gemma Nascosta",31.1,0.0009],["Maracalagonis","Destinazione Matura",27.1,0.0998],["Bolotana","Criticità",11.6,0.0071],["Orosei","Destinazione Matura",46.6,0.4093],["Marrubiu","Territorio da Sviluppare",22.6,0.0059],["Atzara","Territorio da Sviluppare",16.2,0.0039],["Bidonì","Territorio da Sviluppare",16.8,0.0],["Pau","Gemma Nascosta",50.3,0.0038],["Decimoputzu","Territorio da Sviluppare",11.5,0.0],["San Vero Milis","Destinazione Matura",25.2,0.0847],["Santadi","Territorio da Sviluppare",8.4,0.0031],["Buggerru","Destinazione Matura",42.0,0.0703],["Monserrato","Destinazione Matura",93.4,0.059],["Ovodda","Gemma Nascosta",29.6,0.006],["Sagama","Destinazione Matura",37.3,0.0108],["Nulvi","Criticità",17.7,0.0087],["Macomer","Destinazione Matura",24.5,0.0171],["Sestu","Destinazione Matura",33.5,0.0178],["Sant'Antonio di Gallura","Criticità",8.6,0.028],["Gonnosnò","Territorio da Sviluppare",22.7,0.0006],["Tissi","Gemma Nascosta",39.8,0.0059],["Ollolai","Destinazione Matura",38.2,0.0082],["San Nicolò d'Arcidano","Gemma Nascosta",35.7,0.0043],["Gesturi","Territorio da Sviluppare",19.0,0.006],["Sassari","Destinazione Matura",34.9,0.0423],["Calasetta","Destinazione Matura",37.3,0.1311],["Torpè","Criticità",22.2,0.0189],["La Maddalena","Destinazione Matura",69.9,0.2334],["Sanluri","Criticità",18.1,0.0107],["Monastir","Destinazione Matura",28.5,0.0245],["Carloforte","Destinazione Matura",45.4,0.0801],["Usini","Gemma Nascosta",34.0,0.0025],["Morgongiori","Territorio da Sviluppare",19.0,0.0],["Samassi","Territorio da Sviluppare",15.4,0.0015],["Quartu Sant'Elena","Destinazione Matura",52.6,0.1313],["Suelli","Territorio da Sviluppare",23.7,0.0],["Dualchi","Gemma Nascosta",31.9,0.0027],["Uta","Criticità",13.8,0.04],["Pula","Destinazione Matura",30.5,0.2713],["Gonnosfanadiga","Territorio da Sviluppare",14.5,0.0052],["Barumini","Destinazione Matura",70.5,0.021],["Siris","Gemma Nascosta",30.8,0.0],["Sinnai","Destinazione Matura",42.1,0.0256],["Villa Verde","Criticità",20.1,0.0069],["Nule","Gemma Nascosta",28.0,0.0],["Guspini","Criticità",16.2,0.0113],["Sant'Anna Arresi","Destinazione Matura",32.3,0.1514],["Villa Sant'Antonio","Gemma Nascosta",32.6,0.0],["Selargius","Destinazione Matura",58.7,0.0572],["Osidda","Gemma Nascosta",35.5,0.0001],["Soleminis","Destinazione Matura",54.4,0.0102],["Onanì","Territorio da Sviluppare",6.6,0.0],["Cheremule","Criticità",15.8,0.0086],["Nuraminis","Criticità",16.1,0.0141],["Desulo","Gemma Nascosta",25.9,0.0032],["Bono","Gemma Nascosta",49.9,0.0035],["Seulo","Destinazione Matura",47.0,0.0083],["Suni","Criticità",21.6,0.0072],["Busachi","Territorio da Sviluppare",4.4,0.0006],["Villanovafranca","Territorio da Sviluppare",19.1,0.0066],["Sardara","Criticità",19.8,0.0887],["Burcei","Gemma Nascosta",39.3,0.0016],["Seneghe","Gemma Nascosta",32.1,0.004],["Pozzomaggiore","Territorio da Sviluppare",21.1,0.0056],["Abbasanta","Destinazione Matura",37.6,0.0197],["Tula","Criticità",13.0,0.009],["Siamanna","Territorio da Sviluppare",10.7,0.0029],["Ulassai","Criticità",19.6,0.0243],["Viddalba","Criticità",2.2,0.0225],["Olzai","Territorio da Sviluppare",4.5,0.0],["Usellus","Gemma Nascosta",37.8,0.0026],["Nughedu San Nicolò","Criticità",16.1,0.0178],["Ozieri","Territorio da Sviluppare",18.2,0.0052],["Codrongianos","Territorio da Sviluppare",18.5,0.0061],["Semestene","Territorio da Sviluppare",0.0,0.0],["Lotzorai","Destinazione Matura",65.1,0.2355],["Nuragus","Territorio da Sviluppare",20.6,0.0004],["Milis","Destinazione Matura",32.9,0.016],["Villasimius","Destinazione Matura",54.5,0.4428],["Montresta","Territorio da Sviluppare",15.7,0.0],["Nuxis","Territorio da Sviluppare",11.1,0.0031],["Gesico","Territorio da Sviluppare",8.4,0.0],["Lodine","Gemma Nascosta",32.5,0.0018],["Oniferi","Territorio da Sviluppare",19.8,0.0],["Perdasdefogu","Territorio da Sviluppare",8.8,0.0026],["Loculi","Criticità",10.0,0.0134],["Bonarcado","Destinazione Matura",48.5,0.0207],["Laconi","Criticità",11.8,0.0078],["Baratili San Pietro","Destinazione Matura",42.4,0.0386],["Esterzili","Territorio da Sviluppare",9.0,0.0],["Cargeghe","Gemma Nascosta",35.3,0.0],["Porto Torres","Destinazione Matura",56.0,0.0454],["Nughedu Santa Vittoria","Territorio da Sviluppare",18.2,0.0029],["Mamoiada","Destinazione Matura",32.1,0.0128],["Stintino","Destinazione Matura",48.2,0.3246],["Bauladu","Destinazione Matura",38.5,0.0135],["Narcao","Territorio da Sviluppare",4.8,0.0003],["Villaputzu","Criticità",19.9,0.0268],["Esporlatu","Territorio da Sviluppare",15.7,0.0],["Tiana","Territorio da Sviluppare",11.8,0.0],["Capoterra","Destinazione Matura",37.3,0.0642],["Sennori","Destinazione Matura",42.9,0.0178],["Mores","Criticità",11.7,0.0177],["Buddusò","Territorio da Sviluppare",21.4,0.0003],["Scano di Montiferro","Criticità",24.1,0.0112],["Las Plassas","Gemma Nascosta",44.9,0.0017],["Nureci","Criticità",19.1,0.0117],["Gergei","Criticità",17.3,0.0115],["Sarroch","Criticità",21.9,0.0429],["Siapiccia","Territorio da Sviluppare",5.0,0.0],["Urzulei","Destinazione Matura",25.9,0.0165],["Cagliari","Destinazione Matura",100.0,0.2878],["Uri","Criticità",18.3,0.0092],["Ortueri","Territorio da Sviluppare",0.1,0.0013],["Villa San Pietro","Criticità",13.4,0.0332],["Chiaramonti","Territorio da Sviluppare",8.8,0.0041],["Villaspeciosa","Territorio da Sviluppare",21.8,0.0064],["Fordongianus","Criticità",22.6,0.1141],["Siurgus Donigala","Territorio da Sviluppare",2.6,0.001],["San Nicolò Gerrei","Territorio da Sviluppare",2.4,0.0],["Oschiri","Territorio da Sviluppare",8.3,0.002],["Belvì","Gemma Nascosta",25.8,0.0044],["Santa Giusta","Territorio da Sviluppare",20.8,0.0056],["Triei","Criticità",22.2,0.0231],["Perdaxius","Territorio da Sviluppare",15.8,0.0011],["Torralba","Territorio da Sviluppare",21.9,0.0018],["Tramatza","Destinazione Matura",30.9,0.0454],["Martis","Criticità",15.6,0.0079],["Isili","Destinazione Matura",26.8,0.009],["Pimentel","Destinazione Matura",27.0,0.0131],["Bortigiadas","Criticità",3.4,0.0103],["Serramanna","Gemma Nascosta",53.2,0.0035],["Zeddiani","Gemma Nascosta",30.3,0.0047],["Telti","Criticità",7.9,0.0123],["Cuglieri","Destinazione Matura",34.4,0.1166],["Monteleone Rocca Doria","Destinazione Matura",31.2,0.0349],["Banari","Gemma Nascosta",25.2,0.0023],["Samatzai","Territorio da Sviluppare",10.3,0.0025],["Sedini","Gemma Nascosta",32.0,0.0028],["Loiri Porto San Paolo","Destinazione Matura",31.5,0.127],["Arbus","Criticità",19.1,0.0456],["Alghero","Destinazione Matura",56.1,0.3044],["Ruinas","Territorio da Sviluppare",8.2,0.0021],["Mogorella","Territorio da Sviluppare",20.5,0.0],["Tadasuni","Gemma Nascosta",33.9,0.0],["Baradili","Destinazione Matura",30.5,0.0109],["Teulada","Criticità",8.2,0.0406],["Sarule","Territorio da Sviluppare",17.1,0.0028],["Tuili","Gemma Nascosta",38.2,0.0033],["Sedilo","Destinazione Matura",53.5,0.0081],["Ploaghe","Territorio da Sviluppare",13.4,0.0029],["Albagiara","Territorio da Sviluppare",23.2,0.0028],["Furtei","Territorio da Sviluppare",18.2,0.0018],["Guasila","Territorio da Sviluppare",13.0,0.001],["Santu Lussurgiu","Destinazione Matura",35.2,0.0216],["Asuni","Territorio da Sviluppare",23.1,0.0],["Bulzi","Territorio da Sviluppare",12.4,0.0],["Portoscuso","Destinazione Matura",38.5,0.0655],["Ussassai","Gemma Nascosta",34.4,0.0032],["Monti","Territorio da Sviluppare",5.8,0.0048],["Domus de Maria","Criticità",22.7,0.2095],["San Teodoro","Destinazione Matura",51.2,0.3811],["Borore","Territorio da Sviluppare",23.6,0.0],["Sorgono","Destinazione Matura",28.2,0.0074],["Giave","Territorio da Sviluppare",11.5,0.0],["Goni","Gemma Nascosta",40.5,0.0],["Villanova Monteleone","Territorio da Sviluppare",8.8,0.0057],["Escalaplano","Territorio da Sviluppare",3.4,0.0007],["Gairo","Destinazione Matura",24.3,0.0649],["Trinità d'Agultu e Vignola","Criticità",19.1,0.1455],["Tinnura","Destinazione Matura",80.0,0.0116],["Bessude","Criticità",7.3,0.0173],["Olbia","Destinazione Matura",37.6,0.1562],["Ilbono","Destinazione Matura",29.0,0.0211],["Genuri","Gemma Nascosta",34.2,0.0],["Sennariolo","Destinazione Matura",27.4,0.0206],["Nuoro","Destinazione Matura",35.2,0.0294],["Palmas Arborea","Gemma Nascosta",25.2,0.0024],["Masullas","Gemma Nascosta",36.5,0.0039],["Samugheo","Territorio da Sviluppare",18.3,0.0026],["Serri","Destinazione Matura",32.7,0.0081],["Valledoria","Destinazione Matura",47.9,0.3143],["Tempio Pausania","Criticità",20.6,0.0261],["Serrenti","Gemma Nascosta",25.9,0.0002],["Loceri","Destinazione Matura",34.2,0.0261],["Castiadas","Destinazione Matura",29.5,0.2414],["Berchidda","Criticità",4.6,0.0089],["Palau","Destinazione Matura",51.3,0.4336],["Austis","Territorio da Sviluppare",19.5,0.0018],["Illorai","Territorio da Sviluppare",9.9,0.0],["Iglesias","Destinazione Matura",37.3,0.0374],["Siamaggiore","Destinazione Matura",33.9,0.0172],["Posada","Destinazione Matura",63.3,0.0952],["Escolca","Territorio da Sviluppare",17.2,0.0048],["Soddì","Gemma Nascosta",29.9,0.0],["Muravera","Destinazione Matura",50.7,0.362],["Setzu","Gemma Nascosta",28.4,0.0],["Settimo San Pietro","Destinazione Matura",34.2,0.0075],["Dolianova","Territorio da Sviluppare",23.9,0.0058],["Gadoni","Territorio da Sviluppare",15.3,0.0062],["Osini","Destinazione Matura",31.6,0.0151],["Zerfaliu","Gemma Nascosta",53.0,0.0],["Ulà Tirso","Criticità",11.8,0.0067],["Anela","Gemma Nascosta",49.7,0.0022],["Bonorva","Territorio da Sviluppare",20.4,0.0023],["Florinas","Gemma Nascosta",24.4,0.0032],["Sorso","Destinazione Matura",37.7,0.0765],["Flussio","Destinazione Matura",48.2,0.0189],["Ussaramanna","Gemma Nascosta",33.3,0.0],["Narbolia","Destinazione Matura",33.2,0.1509],["Ardauli","Gemma Nascosta",26.9,0.0],["Assemini","Destinazione Matura",34.7,0.0304],["Arborea","Criticità",19.2,0.1005],["Nurri","Criticità",1.3,0.0109],["Genoni","Territorio da Sviluppare",12.3,0.0016],["Noragugume","Territorio da Sviluppare",9.7,0.0],["Terralba","Destinazione Matura",52.1,0.014],["Donori","Territorio da Sviluppare",12.9,0.0016],["Oristano","Destinazione Matura",63.7,0.128],["Villaurbana","Territorio da Sviluppare",14.3,0.0011],["Carbonia","Destinazione Matura",26.6,0.0298],["Gonnoscodina","Gemma Nascosta",28.6,0.0],["Muros","Gemma Nascosta",25.1,0.0044],["Bari Sardo","Destinazione Matura",49.9,0.2981],["Ittiri","Gemma Nascosta",32.4,0.0044],["Orotelli","Territorio da Sviluppare",10.1,0.0],["Tonara","Destinazione Matura",26.6,0.007],["Seui","Gemma Nascosta",29.0,0.0001],["Nurallao","Territorio da Sviluppare",15.1,0.0035],["Arzana","Territorio da Sviluppare",6.7,0.0017],["Ardara","Territorio da Sviluppare",16.6,0.0014],["Dorgali","Destinazione Matura",38.4,0.1723],["Nurachi","Destinazione Matura",34.0,0.0432],["Barrali","Gemma Nascosta",26.0,0.0],["Piscinas","Criticità",17.3,0.0083]],"ma":24.3,"mo":0.0067,"tip":[["Aglientu","crescita reale",21.3,27.4,6.1],["Alghero","crescita reale",27.7,29.3,1.6],["Arborea","stagnazione",-11.2,2.7,13.9],["Arbus","crescita reale",50.9,49.8,-1.1],["Arzachena","emersione",9.5,32.8,23.3],["Assemini","crescita reale",30.5,26.2,-4.3],["Badesi","crescita reale",22.3,22.5,0.2],["Bari Sardo","crescita reale",24.0,18.8,-5.2],["Baunei","crescita reale",69.7,50.2,-19.5],["Bosa","emersione",13.4,37.4,24.0],["Budoni","crescita reale",27.6,36.5,8.9],["Buggerru","crescita reale",63.7,52.8,-10.9],["Cabras","crescita reale",15.3,22.8,7.5],["Cagliari","emersione",27.7,48.1,20.4],["Calasetta","crescita reale",38.5,30.0,-8.5],["Capoterra","emersione",30.0,72.5,42.5],["Carbonia","emersione",40.5,58.0,17.5],["Cardedu","crescita reale",21.5,24.4,2.9],["Carloforte","emersione",23.2,66.2,43.0],["Castelsardo","crescita reale",68.7,64.5,-4.2],["Castiadas","crescita reale",22.9,26.2,3.3],["Cuglieri","crescita reale",7.8,19.4,11.6],["Domus de Maria","crescita reale",18.9,27.8,8.9],["Dorgali","crescita reale",16.7,20.5,3.8],["Fordongianus","crescita reale",-1.9,7.4,9.3],["Gairo","crescita reale",67.1,5.7,-61.4],["Golfo Aranci","emersione",9.0,38.4,29.4],["Gonnesa","crescita reale",57.8,71.3,13.5],["Iglesias","emersione",54.1,73.3,19.2],["La Maddalena","crescita reale",28.6,39.9,11.3],["Loiri Porto San Paolo","emersione",20.4,46.1,25.7],["Lotzorai","crescita reale",29.4,17.9,-11.5],["Maracalagonis","emersione",16.0,48.0,32.0],["Muravera","crescita reale",19.2,20.7,1.5],["Narbolia","crescita reale",-8.8,5.1,13.9],["Nuoro","crescita reale",6.6,9.4,2.8],["Olbia","emersione",32.4,57.5,25.1],["Oliena","stagnazione",-7.3,-5.7,1.6],["Oristano","crescita reale",18.3,15.8,-2.5],["Orosei","crescita reale",17.4,18.4,1.0],["Palau","crescita reale",24.5,31.1,6.6],["Porto Torres","emersione",8.8,70.0,61.2],["Portoscuso","emersione",29.1,57.6,28.5],["Posada","emersione",42.8,61.1,18.3],["Pula","crescita reale",32.3,28.9,-3.4],["Quartu Sant'Elena","emersione",44.5,77.0,32.5],["San Teodoro","crescita reale",38.3,40.7,2.4],["San Vero Milis","crescita reale",23.8,27.4,3.6],["Sant'Anna Arresi","emersione",21.1,51.3,30.2],["Sant'Antioco","crescita reale",49.0,20.5,-28.5],["Santa Maria Coghinas","crescita reale",90.5,30.6,-59.9],["Santa Teresa Gallura","emersione",4.7,26.9,22.2],["Sardara","emersione",-9.7,6.6,16.3],["Sarroch","emersione",42.3,82.0,39.7],["Sassari","crescita reale",31.8,44.1,12.3],["Selargius","crescita reale",22.7,31.9,9.2],["Siniscola","emersione",4.9,53.0,48.1],["Sinnai","emersione",56.8,75.9,19.1],["Sorso","stagnazione",-4.1,-0.4,3.7],["Stintino","emersione",10.0,31.8,21.8],["Tempio Pausania","emersione",22.5,53.3,30.8],["Tertenia","emersione",81.8,110.6,28.8],["Teulada","emersione",46.9,90.6,43.7],["Tortolì","crescita reale",18.2,17.8,-0.4],["Tresnuraghes","crescita reale",59.1,48.0,-11.1],["Trinità d'Agultu e Vignola","crescita reale",131.6,71.4,-60.2],["Uta","crescita reale",3893.1,147.9,-3745.2],["Valledoria","crescita reale",22.2,33.5,11.3],["Villaputzu","stagnazione",4.1,-11.4,-15.5],["Villasimius","emersione",16.7,31.8,15.1]],"flu":{"anni":[2022,2023,2024,2025],"tot":[6910435,7285690,7734717,8138434],"sired":[3678902,3904361,4442089,5170069],"nc":[3231533,3381329,3292628,2968365],"pct":[46.8,46.4,42.6,36.5]}}</script>
+<script>
+const D = JSON.parse(document.getElementById('payload').textContent);
+const C = {ink:'#12313B',teal:'#1C6E7D',red:'#B3402F',ochre:'#C98A26',green:'#4A8A63',muted:'#5B7079'};
+const nf = new Intl.NumberFormat('it-IT');
+const num = (v,d=0) => nf.format(Math.round(v*10**d)/10**d);
+Chart.defaults.font.family = getComputedStyle(document.body).fontFamily;
+Chart.defaults.font.size = 12.5;
+Chart.defaults.color = C.muted;
+Chart.defaults.animation = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? false : {duration:450};
+const grid = {color:'rgba(18,49,59,.10)'};
+
+/* indicatori di testa */
+const F = D.flu, last = F.anni.length - 1;
+document.getElementById('k-nc25').textContent = num(F.nc[last]/1e6,1) + ' mln';
+document.getElementById('k-pct25').textContent = num(F.pct[last],1) + '%';
+document.getElementById('k-pct22').textContent = num(F.pct[0],1) + '%';
+document.getElementById('k-com').textContent = D.tip.length;
+
+/* sommerso */
+new Chart(document.getElementById('c-sommerso'), {
+  data:{labels:F.anni, datasets:[
+    {type:'bar', label:'Arrivi registrati in SIRED', data:F.sired, backgroundColor:C.teal, borderWidth:0, order:2},
+    {type:'bar', label:'Flusso non catturato', data:F.nc, backgroundColor:C.red, borderWidth:0, order:2},
+    {type:'line', label:'Quota non catturata', data:F.pct, borderColor:C.ink, backgroundColor:C.ink,
+     borderWidth:2, tension:.25, pointRadius:4, yAxisID:'y2', order:1}
+  ]},
+  options:{maintainAspectRatio:false,
+    plugins:{legend:{position:'bottom', labels:{boxWidth:9, usePointStyle:true, pointStyle:'circle'}},
+      tooltip:{callbacks:{label:c=>c.dataset.yAxisID==='y2' ? `${c.dataset.label}: ${num(c.raw,1)}%` : `${c.dataset.label}: ${num(c.raw)} arrivi`}}},
+    scales:{x:{stacked:true, grid:{display:false}},
+      y:{stacked:true, grid, title:{display:true,text:'arrivi'}, ticks:{callback:v=>num(v/1e6,1)+' mln'}},
+      y2:{position:'right', grid:{display:false}, min:0, max:60, title:{display:true,text:'quota non catturata (%)'}, ticks:{callback:v=>v+'%'}}}}});
+
+/* gap domanda-offerta */
+const TC = {'crescita reale':C.teal, 'emersione':C.ochre, 'stagnazione':C.muted};
+const tips = [...new Set(D.tip.map(r=>r[1]))];
+const sets = tips.map(t=>({label:t, backgroundColor:TC[t]||C.green, pointRadius:4, pointHoverRadius:7,
+  data: D.tip.filter(r=>r[1]===t).map(r=>({x:r[2], y:r[3], c:r[0], g:r[4]}))}));
+const parity = {id:'par', afterDraw(ch){
+  const {ctx, chartArea:a, scales:s} = ch;
+  const lo = Math.max(s.x.min, s.y.min), hi = Math.min(s.x.max, s.y.max);
+  ctx.save(); ctx.strokeStyle='rgba(18,49,59,.45)'; ctx.setLineDash([5,4]); ctx.lineWidth=1;
+  ctx.beginPath(); ctx.moveTo(s.x.getPixelForValue(lo), s.y.getPixelForValue(lo));
+  ctx.lineTo(s.x.getPixelForValue(hi), s.y.getPixelForValue(hi)); ctx.stroke(); ctx.restore();
+}};
+const chGap = new Chart(document.getElementById('c-gap'), {type:'scatter', data:{datasets:sets}, plugins:[parity],
+  options:{maintainAspectRatio:false,
+    plugins:{legend:{position:'bottom', labels:{boxWidth:9, usePointStyle:true, pointStyle:'circle'}},
+      tooltip:{callbacks:{label:c=>`${c.raw.c}: presenze ${num(c.raw.x,1)}%, letti ${num(c.raw.y,1)}%, divario ${num(c.raw.g,1)}`}}},
+    scales:{x:{grid, min:-20, max:200, title:{display:true,text:'crescita delle presenze (%)'}},
+            y:{grid, min:-20, max:160, title:{display:true,text:'crescita dei posti letto (%)'}}}}});
+const bz = document.getElementById('b-zoom'), ba = document.getElementById('b-all');
+function zoom(on){
+  chGap.options.scales.x.max = on ? 200 : undefined;
+  chGap.options.scales.x.min = on ? -20 : undefined;
+  bz.setAttribute('aria-pressed', on?'true':'false'); ba.setAttribute('aria-pressed', on?'false':'true');
+  chGap.update();
+}
+bz.onclick = ()=>zoom(true); ba.onclick = ()=>zoom(false);
+const cnt = {};
+D.tip.forEach(r=>cnt[r[1]] = (cnt[r[1]]||0)+1);
+document.getElementById('tipbox').innerHTML = tips.map(t=>
+  `<div class="stat"><span class="n" style="color:${TC[t]||C.green}">${cnt[t]}</span><span class="l">comuni in ${t}</span></div>`).join('');
+
+/* quadranti */
+const QC = {'Destinazione Matura':C.red, 'Gemma Nascosta':C.teal, 'Criticità':C.ochre, 'Territorio da Sviluppare':C.muted};
+const QN = ['Destinazione Matura','Gemma Nascosta','Criticità','Territorio da Sviluppare'];
+const qc = {}; D.q.forEach(r=>qc[r[1]] = (qc[r[1]]||0)+1);
+document.getElementById('qstats').innerHTML = QN.map(q=>
+  `<div class="stat"><span class="n" style="color:${QC[q]}">${qc[q]||0}</span><span class="l">${q}</span></div>`).join('');
+const selq = document.getElementById('sel-q');
+QN.forEach(q=>{ const o=document.createElement('option'); o.value=q; o.textContent=q; selq.appendChild(o); });
+function fillQ(q){
+  const rows = D.q.filter(r=>r[1]===q).sort((a,b)=>b[3]-a[3]);
+  document.getElementById('qtab').innerHTML = rows.map(r=>
+    `<tr><td>${r[0]}</td><td class="num">${num(r[2],1)}</td><td class="num">${num(r[3],3)}</td></tr>`).join('');
+}
+fillQ(QN[0]);
+selq.addEventListener('change', e=>fillQ(e.target.value));
+</script>
+</body>
+</html>
