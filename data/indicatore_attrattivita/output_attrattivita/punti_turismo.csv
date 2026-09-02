@@ -425,7 +425,6 @@ lat,lon,tags,osm_id,osm_type,pilastro
 39.9299154,9.7005963,{'tourism': 'guest_house'},1806357498,node,turismo
 40.4109657,9.4128319,"{'archaeological_site': 'megalith', 'email': 'cooplarco@gmail.com', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'historic:period': 'nuragic', 'megalith_type': 'well', 'name': 'Fonte Sacra Su Tempiesu', 'natural': 'spring', 'opening_hours': 'Mo-Su 09:00-sunset', 'phone': '+39 328 7565148', 'tourism': 'attraction', 'website': 'http://www.sutempiesu.it/', 'wheelchair': 'no', 'wikidata': 'Q2361327', 'wikipedia': 'it:Fonte sacra Su Tempiesu'}",1808848322,node,turismo
 41.07926,9.4104827,"{'access': 'permissive', 'archaeological_site': 'sacrificial_site', 'historic': 'archaeological_site', 'historic:civilization': 'prehistoric', 'name': 'Tempietto Nuragico Malchittu', 'wikidata': 'Q1634579', 'wikipedia': 'it:Complesso nuragico di Malchittu'}",1812802082,node,turismo
-40.3114148,9.324504,"{'archaeological_site': 'megalith', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'megalith_type': 'nuraghe', 'name': 'Nuraghe di Tanca Manna', 'ruins': 'yes', 'wikidata': 'Q2005277'}",1813982268,node,turismo
 39.3391821,8.6041029,"{'name': 'Belvedere San Michele', 'tourism': 'viewpoint'}",1814090660,node,turismo
 39.2633333,8.8166354,{'tourism': 'picnic_site'},1814782733,node,turismo
 40.921469,8.7917721,"{'charge': '20 EUR/day', 'fee': 'yes', 'motorhome': 'designated', 'name': 'Area Camper Punto Maragnani', 'phone': '+39 349 612 4675; +39 079 584 9030', 'power_supply': 'yes', 'tourism': 'caravan_site', 'website': 'http://web.tiscali.it/areacampermaragnani/'}",1821619713,node,turismo
@@ -2113,7 +2112,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 40.581894,9.1065723,{'tourism': 'viewpoint'},4919120136,node,turismo
 40.5828592,9.1077583,{'tourism': 'viewpoint'},4919120137,node,turismo
 40.5777462,9.1048119,{'tourism': 'viewpoint'},4919136494,node,turismo
-40.5818188,9.1101145,"{'addr:city': 'Patada/Pattada', 'addr:postcode': '07016', 'addr:street': 'Via Vittorio Emanuele Secondo', 'name': 'Culter - museo internazionale del coltello', 'tourism': 'museum'}",4919700795,node,turismo
+40.5818188,9.1101145,"{'addr:city': 'Patada/Pattada', 'addr:postcode': '07016', 'addr:street': 'Via Vittorio Emanuele Secondo', 'name': 'Culter - museo internazionale del coltello', 'tourism': 'museum', 'website': 'https://www.culterpattada.com/'}",4919700795,node,turismo
 40.5777876,9.1049202,{'historic': 'wayside_cross'},4920175245,node,turismo
 39.0135898,8.9969869,{'tourism': 'viewpoint'},4924917127,node,turismo
 38.9153585,8.899108,{'tourism': 'viewpoint'},4924918981,node,turismo
@@ -3022,7 +3021,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 40.100863,8.5786816,{'tourism': 'viewpoint'},8538213491,node,turismo
 40.0676027,8.5587594,{'tourism': 'viewpoint'},8538213515,node,turismo
 40.2360717,8.6792147,{'tourism': 'viewpoint'},8538223123,node,turismo
-39.2367563,9.5721494,"{'name': 'scoglio di Peppino', 'tourism': 'attraction'}",8551482677,node,turismo
+39.2367563,9.5721494,"{'name': 'scoglio di Peppino', 'tourism': 'attraction', 'wheelchair': 'no'}",8551482677,node,turismo
 40.7928833,9.3544106,{'tourism': 'viewpoint'},8589269829,node,turismo
 40.8373014,8.8663821,"{'name': 'Piscine naturali', 'tourism': 'attraction'}",8595312863,node,turismo
 40.4932914,8.4290752,"{'historic': 'archaeological_site', 'name': 'Necropoli Furrighesos'}",8595343300,node,turismo
@@ -3715,9 +3714,9 @@ lat,lon,tags,osm_id,osm_type,pilastro
 39.9887299,9.6889616,{'tourism': 'picnic_site'},11274657286,node,turismo
 40.3768767,9.6972062,"{'internet_access': 'yes', 'name': ""S'Ortale"", 'stars': '3', 'tourism': 'hotel', 'website': 'https://www.sortale.it/'}",11277886194,node,turismo
 40.5954489,8.2856199,"{'contact:facebook': 'progettoEGEA', 'name': 'Ecomuseo Egea', 'tourism': 'museum', 'website': 'https://ecomuseoegea.org/museo/'}",11278245443,node,turismo
-40.5603459,8.3108079,"{'artwork_type': 'installation', 'direction': '255', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'tourism': 'artwork'}",11278267040,node,turismo
-40.5602169,8.3108556,"{'artwork_type': 'installation', 'direction': '260', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'tourism': 'artwork'}",11278267041,node,turismo
-40.5601503,8.3108853,"{'artwork_type': 'installation', 'direction': '245', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'tourism': 'artwork'}",11278267042,node,turismo
+40.5603459,8.3108079,"{'direction': '255', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'source': 'survey'}",11278267040,node,turismo
+40.5602169,8.3108556,"{'direction': '260', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'source': 'survey'}",11278267041,node,turismo
+40.5601503,8.3108853,"{'direction': '245', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'source': 'survey'}",11278267042,node,turismo
 40.5092496,8.3393803,"{'image': 'https://www.villawanda.se/cove.jpg', 'name': 'Caletta Villa Wanda', 'natural': 'beach', 'surface': 'sand'}",11279609907,node,turismo
 39.938436,9.6944764,{'tourism': 'picnic_site'},11281274917,node,turismo
 39.9388874,9.6944009,{'tourism': 'picnic_site'},11281301099,node,turismo
@@ -3905,8 +3904,8 @@ lat,lon,tags,osm_id,osm_type,pilastro
 40.2555083,9.417622,{'tourism': 'picnic_site'},12007553336,node,turismo
 40.2562682,9.486384,{'tourism': 'picnic_site'},12007553337,node,turismo
 39.9105454,9.2799849,{'tourism': 'viewpoint'},12012051461,node,turismo
-40.5593792,8.3112739,"{'artwork_type': 'installation', 'direction': '258', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'tourism': 'artwork'}",12012637710,node,turismo
-40.5594109,8.311262,"{'artwork_type': 'installation', 'direction': '258', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'tourism': 'artwork'}",12012637711,node,turismo
+40.5593792,8.3112739,"{'direction': '258', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'source': 'survey'}",12012637710,node,turismo
+40.5594109,8.311262,"{'direction': '258', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'source': 'survey'}",12012637711,node,turismo
 40.5605447,8.3116893,"{'artwork_type': 'statue', 'name': 'Madonnina di Stella Maris', 'name:en': 'Our Lady, Star of the Sea', 'religion': 'christian', 'tourism': 'artwork'}",12012637712,node,turismo
 39.872608,9.3889395,{'tourism': 'viewpoint'},12012824251,node,turismo
 40.2980022,8.5049829,{'tourism': 'viewpoint'},12023263742,node,turismo
@@ -3950,10 +3949,11 @@ lat,lon,tags,osm_id,osm_type,pilastro
 40.572291,8.300181,"{'historic': 'wreck', 'seamark:type': 'wreck', 'seamark:wreck:category': 'hull_showing', 'source:date_sunk': 'newspaper', 'wreck:date_sunk': '2008-03-21', 'wreck:type': 'ship', 'wreck:visible_at_high_tide': 'yes', 'wreck:visible_at_low_tide': 'yes'}",12104977842,node,turismo
 40.1558241,8.9776643,"{'historic': 'ruins', 'name': 'Nuraghe Sas Lozzas', 'wikidata': 'Q122206515'}",12106600515,node,turismo
 39.6678098,9.6601715,{'tourism': 'viewpoint'},12107908417,node,turismo
-40.5604824,8.3109841,"{'artwork_type': 'installation', 'direction': '340', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'tourism': 'artwork'}",12119082166,node,turismo
+40.5604824,8.3109841,"{'direction': '340', 'historic': 'cannon', 'name': 'Cannone', 'name:ca': 'Canó', 'name:en': 'Cannon', 'name:it': 'Cannone', 'source': 'survey'}",12119082166,node,turismo
 41.1788533,9.3744824,{'tourism': 'viewpoint'},12121895985,node,turismo
 40.0912123,8.4908785,{'tourism': 'viewpoint'},12124366998,node,turismo
 39.6858804,8.8765401,"{'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'name': ""Fonte Nuragica Conca 'e sa Cresia""}",12141823878,node,turismo
+39.3922511,8.3903308,"{'historic': 'ruins', 'name': 'Pranu Sartu'}",12142241827,node,turismo
 40.6386905,9.2991415,"{'name': ""Nuraghe Intro 'e Serra"", 'tourism': 'attraction'}",12142679349,node,turismo
 40.6288903,9.2895091,"{'addr:city': 'Alà/Alà dei Sardi', 'name': 'Nuraghe Binioni', 'tourism': 'attraction'}",12142736419,node,turismo
 40.725349,8.5783867,"{'artwork_type': 'installation', 'tourism': 'artwork'}",12149524964,node,turismo
@@ -4694,7 +4694,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 40.2963846,8.6583783,"{'historic': 'memorial', 'memorial': 'war_memorial', 'name': 'Monumento ai Caduti di Sindia'}",13276230266,node,turismo
 40.2967919,8.657185,"{'artist_name': 'Pina Monne', 'artwork_type': 'mural', 'start_date': '2010-05', 'tourism': 'artwork'}",13276230277,node,turismo
 40.2943868,8.6574024,"{'artwork_type': 'statue', 'tourism': 'artwork'}",13276230296,node,turismo
-38.9036337,8.7834739,"{'name': 'Viewpoint', 'tourism': 'viewpoint'}",13277266539,node,turismo
+38.9036337,8.7834739,{'tourism': 'viewpoint'},13277266539,node,turismo
 38.8910169,8.7979872,{'natural': 'beach'},13277298216,node,turismo
 40.2792412,8.5495037,"{'artist_name': 'Pinuccio Sciola', 'artwork_type': 'stone', 'tourism': 'artwork'}",13278311239,node,turismo
 40.2807873,8.5481657,"{'artist_name': 'Pina Monne', 'artwork_type': 'mural', 'tourism': 'artwork'}",13278311258,node,turismo
@@ -4969,22 +4969,22 @@ lat,lon,tags,osm_id,osm_type,pilastro
 39.7930844,8.8036372,"{'historic': 'memorial', 'memorial': 'war_memorial', 'name': 'Monumento ai Caduti di Pau'}",13357371059,node,turismo
 40.7441017,8.6715014,"{'historic': 'memorial', 'memorial': 'war_memorial'}",13358811386,node,turismo
 40.3537157,9.002675,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13359032016,node,turismo
-40.3544746,9.0014812,"{'historic': 'memorial', 'memorial': 'war_memorial'}",13359032230,node,turismo
+40.3544746,9.0014812,"{'historic': 'memorial', 'memorial': 'war_memorial', 'name': 'Monumento ai Caduti di Illorai'}",13359032230,node,turismo
 40.3892513,8.9960027,"{'name': 'Museo del Castello di Burgos', 'tourism': 'museum'}",13359468106,node,turismo
-40.3904472,8.9944943,"{'historic': 'memorial', 'memorial': 'war_memorial'}",13359502614,node,turismo
+40.3904472,8.9944943,"{'historic': 'memorial', 'memorial': 'war_memorial', 'name': 'Monumento ai Caduti di Burgos'}",13359502614,node,turismo
 40.3913902,9.0086297,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13359755470,node,turismo
 40.392602,9.0093804,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13359755478,node,turismo
 40.3929358,9.0102092,"{'name': 'Museo del Territorio', 'tourism': 'museum'}",13359755482,node,turismo
 40.3935177,9.0104225,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13359755483,node,turismo
-40.3937205,9.0110651,"{'historic': 'memorial', 'memorial': 'war_memorial'}",13359755489,node,turismo
+40.3937205,9.0110651,"{'historic': 'memorial', 'memorial': 'war_memorial', 'name': 'Monumento ai Caduti di Bottidda'}",13359755489,node,turismo
 40.4447255,9.0576766,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13360074056,node,turismo
 40.4434458,9.0568832,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13360074060,node,turismo
-40.443498,9.056773,"{'historic': 'memorial', 'memorial': 'war_memorial'}",13360074061,node,turismo
+40.443498,9.056773,"{'historic': 'memorial', 'memorial': 'war_memorial', 'name': 'Lapide commemorativa ai caduti di Anela'}",13360074061,node,turismo
 39.4244369,8.921126,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13361121336,node,turismo
 39.4258375,8.9195139,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13361182329,node,turismo
-40.4571546,9.0619438,"{'historic': 'memorial', 'memorial': 'war_memorial'}",13361436303,node,turismo
+40.4571546,9.0619438,"{'historic': 'memorial', 'memorial': 'war_memorial', 'name': 'Monumento ai Caduti di Bultei'}",13361436303,node,turismo
 40.4571848,9.0619079,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13361436304,node,turismo
-40.4561109,9.1704263,"{'artwork_type': 'statue', 'tourism': 'artwork'}",13361855887,node,turismo
+40.4561109,9.1704263,"{'historic': 'memorial', 'memorial': 'war_memorial', 'name': 'Monumento ai Caduti di Benetutti'}",13361855887,node,turismo
 40.4622241,9.1846069,{'tourism': 'viewpoint'},13362193606,node,turismo
 40.4625201,9.1896607,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13362193622,node,turismo
 40.5823688,9.0896706,"{'artwork_type': 'mural', 'tourism': 'artwork'}",13364186409,node,turismo
@@ -5556,7 +5556,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 39.0932573,8.7129132,"{'historic': 'memorial', 'memorial': 'war_memorial', 'name': 'Monumento ai Caduti di Santadi'}",13789689792,node,turismo
 39.5973621,8.7990678,"{'historic': 'ruins', 'name': 'Miniera di Monreale'}",13795895101,node,turismo
 39.5980623,8.8024674,"{'historic': 'mine', 'name': 'Pozzo Miniera di Monreale'}",13795944701,node,turismo
-39.5979022,8.8010351,"{'historic': 'mine', 'name': 'Locale Magazzino Officina Miniera di Monreale'}",13795982601,node,turismo
+39.5979022,8.8010351,"{'historic': 'building', 'name': 'Locale Magazzino Officina Miniera di Monreale'}",13795982601,node,turismo
 39.5981038,8.8015228,"{'historic': 'mine', 'name': 'Laveria Miniera Monreale'}",13795991901,node,turismo
 39.218994,9.1128313,"{'historic': 'memorial', 'memorial': 'plaque'}",13801355984,node,turismo
 39.0928342,8.7157343,"{'name': 'Sa Domu Antiga', 'tourism': 'museum'}",13808099561,node,turismo
@@ -5882,6 +5882,13 @@ lat,lon,tags,osm_id,osm_type,pilastro
 39.2907341,9.4024385,"{'direction': '100', 'tourism': 'viewpoint'}",14122778900,node,turismo
 39.2895676,9.4055019,"{'direction': '90', 'name': 'Sa Tellaia (65-6)', 'tourism': 'viewpoint'}",14122793908,node,turismo
 39.2901093,9.4080021,"{'access': 'yes', 'capacity': '6', 'name': 'Su Pàris de Porciledhu', 'tourism': 'picnic_site'}",14122795495,node,turismo
+40.9389924,9.5663787,"{'access': 'customers', 'capacity:caravans': '6', 'fee': 'yes', 'name': 'Mama Beach', 'tourism': 'caravan_site'}",14130008735,node,turismo
+39.3463848,9.1812219,{'historic': 'wayside_cross'},14130914529,node,turismo
+40.3893361,8.9963892,"{'artwork_type': 'mural', 'tourism': 'artwork'}",14132796804,node,turismo
+40.392057,9.0106405,"{'artwork_type': 'mural', 'tourism': 'artwork'}",14132926919,node,turismo
+40.5602542,8.3110546,"{'historic': 'memorial', 'name': 'Per a una ""Suite"" algueresa', 'source': 'survey'}",14136604460,node,turismo
+40.5561905,8.3147937,"{'name': 'Giostrina ecologica Ecocarosello', 'source': 'survey', 'tourism': 'attraction'}",14136604474,node,turismo
+40.558474,8.3118913,"{'historic': 'memorial', 'source': 'survey'}",14137514140,node,turismo
 40.8413441,9.6530148,"{'description': 'Antico Confine Provincie Nuoro-Sassari', 'disused:boundary': 'administrative', 'historic': 'yes'}",23983533,way,turismo
 39.2020516,9.1607221,"{'addr:city': 'Cagliari', 'addr:street': 'Via Vulcano', 'check_date': '2023-09-14', 'name': 'Cavalluccio Marino', 'tourism': 'theme_park'}",24443855,way,turismo
 39.0304637,9.0314435,"{'name': ""Perd'e Sali"", 'natural': 'beach', 'source': 'Yahoo imagery'}",27765091,way,turismo
@@ -6552,7 +6559,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 40.9138986,8.7081689,"{'natural': 'beach', 'surface': 'sand'}",179162162,way,turismo
 39.177403,9.3627995,"{'alt_name': 'Murtaucci', 'name': 'Is Canaleddus', 'natural': 'beach', 'source': 'bing', 'surface': 'sand'}",179173197,way,turismo
 39.1727555,9.3719349,"{'check_date': '2025-08-26w', 'name': 'Spiaggia di Mari Pintau', 'natural': 'beach', 'source': '39.173141, 9.371756', 'surface': 'pebblestone', 'wikidata': 'Q33338715'}",179174889,way,turismo
-38.9170819,8.9119689,"{'natural': 'beach', 'note': 'bing outdated', 'source': 'GPS'}",179175688,way,turismo
+38.9170819,8.9119689,"{'name': 'Spiaggia di Pinus Village', 'natural': 'beach', 'note': 'bing outdated', 'source': 'GPS'}",179175688,way,turismo
 39.116259,9.5051579,"{'name': 'Fortezza Vecchia', 'natural': 'beach', 'surface': 'sand'}",179202243,way,turismo
 40.913458,8.7072505,"{'building': 'yes', 'name': 'Pensione Pinna', 'stars': '2', 'tourism': 'hotel'}",179354128,way,turismo
 40.9135944,8.7063132,"{'building': 'yes', 'check_date': '2026-06-12', 'name': 'Hotel Meli', 'stars': '3', 'tourism': 'hotel'}",179354139,way,turismo
@@ -6621,7 +6628,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 39.7229309,8.6377755,"{'building': 'hotel', 'name': 'Albergo Ristorante ""La terrazza""', 'tourism': 'hotel'}",197099328,way,turismo
 40.0874218,8.5180405,"{'archaeological_site': 'megalith', 'building': 'yes', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'historic:period': 'nuragic', 'megalith_type': 'nuraghe', 'name': 'Nuraghe Crastachesu', 'ruins': 'yes', 'wikidata': 'Q122277738'}",197408925,way,turismo
 40.084008,8.527879,"{'archaeological_site': 'megalith', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'megalith_type': 'nuraghe', 'name': 'Nuraghe Ameddosu', 'ref:www.tharros.info': '184', 'ruins': 'yes', 'wikidata': 'Q122327350'}",197408927,way,turismo
-38.9284013,8.9270913,"{'natural': 'beach', 'note': 'bing outdated'}",198047953,way,turismo
+38.9284013,8.9270913,"{'name': 'Spiaggia di Santa Margherita di Pula', 'natural': 'beach', 'note': 'bing outdated'}",198047953,way,turismo
 40.4099646,8.684046,"{'archaeological_site': 'megalith', 'historic': 'archaeological_site', 'megalith_type': 'nuraghe', 'name': 'Nuraghe Alvu', 'tourism': 'attraction', 'wikidata': 'Q64940621'}",198074371,way,turismo
 39.6345197,8.8543283,"{'archaeological_site': 'megalith', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'historic:period': 'iron-age', 'loc_name': 'Nuraghe Genn’e Mari', 'megalith_type': 'nuraghe', 'name': 'Nuraghe Genna Maria', 'website': 'http://www.sardegnacultura.it/j/v/253?s=20731&v=2&c=2461&c1=2617&t=1', 'wikidata': 'Q994358', 'wikipedia': 'en:Nuraghe Genna Maria'}",198074375,way,turismo
 40.4043624,9.7110684,"{'archaeological_site': 'megalith', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'megalith_type': 'nuraghe', 'name': 'Nuraghe Rampinu', 'ruins': 'yes', 'wikidata': 'Q122188654'}",198074378,way,turismo
@@ -7743,7 +7750,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 40.840965,9.7232924,"{'name': 'Capo Coda Cavallo', 'natural': 'beach'}",321808372,way,turismo
 40.8774359,9.6527539,"{'name': 'Spiaggia di Cala Finanza', 'natural': 'beach'}",321810922,way,turismo
 39.0953249,9.0048464,"{'archaeological_site': 'megalith', 'building': 'yes', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'historic:period': 'nuragic', 'megalith_type': 'nuraghe', 'name': 'Nuraghe Antigori', 'website': 'http://www.sardegnacultura.it/j/v/253?s=21524&v=2&c=2488&c1=2123&t=1', 'wikidata': 'Q123065', 'wikipedia': 'it:Nuraghe Antigori'}",322014748,way,turismo
-40.3114311,9.3245388,{'historic': 'archaeological_site'},322100077,way,turismo
+40.3114311,9.3245388,"{'archaeological_site': 'megalith', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'megalith_type': 'nuraghe', 'name': 'Nuraghe di Tanca Manna', 'ruins': 'yes', 'wikidata': 'Q2005277'}",322100077,way,turismo
 39.9523371,8.7043697,"{'archaeological_site': 'megalith', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'historic:period': 'nuragic', 'megalith_type': 'nuraghe', 'name': 'Nuraghe Su Barroccu de is pedras'}",322242041,way,turismo
 39.1595493,8.3001008,"{'name': 'Hotel Le Terrazze', 'stars': '3', 'tourism': 'hotel', 'website': 'http://www.leterrazzecarloforte.it'}",322505320,way,turismo
 39.102374,8.26964,"{'name': 'Hotel Mezzaluna', 'stars': '3', 'tourism': 'hotel', 'website': 'http://www.hotelmezzaluna.it/'}",322505321,way,turismo
@@ -7780,7 +7787,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 40.5944518,8.1497548,"{'building': 'tower', 'historic': 'tower', 'historic:civilization': 'middle-ages', 'man_made': 'tower', 'name': 'Torre della Pegna', 'opening_hours': '24/7', 'ruins': 'yes', 'tower:construction': 'freestanding', 'tower:type': 'defensive', 'wheelchair': 'no', 'wikidata': 'Q3995495', 'wikipedia': 'it:Torre della Pegna'}",329177190,way,turismo
 40.6440673,8.1864713,"{'building': 'tower', 'height': '10', 'historic': 'tower', 'historic:civilization': 'middle-ages', 'man_made': 'tower', 'name': 'Torre del Porticciolo', 'name:be': 'Вежа Партычыёла', 'name:ca': 'Torre del Portitxol', 'name:it': 'Torre del Porticciolo', 'name:ru': 'Башня Портичиёло', 'tower:construction': 'freestanding', 'tower:type': 'defensive', 'wikidata': 'Q3995440', 'wikipedia': 'it:Torre del Porticciolo'}",329177191,way,turismo
 39.2261439,9.2074964,"{'building': 'tower', 'historic': 'tower', 'historic:civilization': 'middle-ages', 'man_made': 'tower', 'name': 'Torre di Carcangiolas', 'ruins': 'yes', 'seamark:type': 'rock', 'tower:construction': 'freestanding', 'tower:type': 'defensive', 'wikidata': 'Q3995551', 'wikipedia': 'it:Torre di Carcangiolas'}",329177192,way,turismo
-39.2103983,9.1708554,"{'building': 'tower', 'historic': 'tower', 'historic:civilization': 'middle-ages', 'man_made': 'tower', 'name': 'Torre di Mezza Spiaggia', 'seamark:landmark:category': 'tower', 'seamark:type': 'landmark', 'tower:construction': 'freestanding', 'tower:type': 'defensive', 'wikidata': 'Q3995579', 'wikimedia_commons': 'Category:Torre di Mezza Spiaggia', 'wikipedia': 'it:Torre di Mezza Spiaggia'}",329177193,way,turismo
+39.2103983,9.1708554,"{'building': 'tower', 'historic': 'tower', 'historic:civilization': 'middle-ages', 'man_made': 'tower', 'name': 'Torre di Mezza Spiaggia', 'name:sc': 'Turri de sa quarta Regia', 'seamark:landmark:category': 'tower', 'seamark:type': 'landmark', 'tower:construction': 'freestanding', 'tower:type': 'defensive', 'wikidata': 'Q3995579', 'wikimedia_commons': 'Category:Torre di Mezza Spiaggia', 'wikipedia': 'it:Torre di Mezza Spiaggia'}",329177193,way,turismo
 40.1608909,8.9515169,"{'archaeological_site': 'megalith', 'building': 'yes', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'historic:period': 'nuragic', 'megalith_type': 'nuraghe', 'name': 'Nuraghe Busurtei'}",329322604,way,turismo
 40.1598048,8.8991917,"{'boundary': 'protected_area', 'historic': 'archaeological_site', 'name': 'Area Archeologica di Iloi', 'protect_class': '22', 'tourism': 'attraction', 'wikidata': 'Q19284053', 'wikipedia': 'it:Complesso nuragico di Iloi'}",329420709,way,turismo
 40.1592529,8.9024744,"{'archaeological_site': 'necropolis', 'boundary': 'protected_area', 'historic': 'archaeological_site', 'historic:civilization': 'nuragic', 'name': 'Area Archeologica di Ispiluncas', 'protect_class': '22', 'tourism': 'attraction', 'wikidata': 'Q24933079', 'wikipedia': 'it:Necropoli di Ispiluncas'}",329420710,way,turismo
@@ -7824,7 +7831,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 39.840355,9.3203027,"{'addr:city': 'Seui', 'addr:postcode': '08037', 'addr:street': 'Via Sassari', 'building': 'yes', 'email': 'eremigu@tiscali.it', 'facebook': 'https://www.facebook.com/Musei-di-Seui-122855714408868', 'fee': 'yes', 'name': 'Carcere Spagnolo', 'opening_hours': 'Apr-Sep: Tu-Su 09:00-13:00,15:30-19:30; Oct-Mar: Tu-Su 09:00-13:00,15:00-17:30', 'operator': ""Percorso museale Sehuiense - Società cooperativa S'eremigu a r.l."", 'phone': '+39 0782 539002', 'tourism': 'museum', 'website': 'https://museiseui.altervista.org/', 'wheelchair': 'yes'}",342751919,way,turismo
 39.7969966,8.5461105,"{'building': 'bunker', 'historic': 'yes', 'military': 'bunker'}",345467994,way,turismo
 39.4435672,9.640203,"{'name': 'Porto Corallino', 'natural': 'beach', 'surface': 'gravel'}",351106268,way,turismo
-38.9205802,8.9152973,"{'natural': 'beach', 'note': 'bing outdated'}",351917743,way,turismo
+38.9205802,8.9152973,"{'name': 'Spiaggia di Su Pilastru', 'natural': 'beach', 'note': 'bing outdated'}",351917743,way,turismo
 38.9152688,8.9102047,"{'natural': 'beach', 'note': 'bing outdated'}",351917744,way,turismo
 38.9159025,8.9107037,{'natural': 'beach'},351917747,way,turismo
 38.9160615,8.9109907,{'natural': 'beach'},351917748,way,turismo
@@ -9450,7 +9457,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 39.2514889,9.1697452,"{'building': 'yes', 'historic': 'building'}",1272210539,way,turismo
 39.7240598,9.1122908,"{'name': 'Monte Simudis', 'tourism': 'picnic_site'}",1272695010,way,turismo
 39.2597081,9.1533445,{'historic': 'archaeological_site'},1276769886,way,turismo
-39.2760378,9.5887675,"{'leisure': 'beach_resort', 'name': 'Spiaggia Rei Sole', 'natural': 'beach'}",1279281109,way,turismo
+39.2760378,9.5887675,"{'leisure': 'beach_resort', 'name': 'Spiaggia Rei Sole', 'natural': 'beach', 'surface': 'sand'}",1279281109,way,turismo
 41.2333434,9.4462652,"{'lifeguard': 'no', 'name': 'Spiaggetta Isabella', 'natural': 'beach', 'supervised': 'no', 'surface': 'sand'}",1282809351,way,turismo
 40.9529721,9.5106372,"{'area': 'yes', 'historic': 'yes', 'name': 'Cimitero romano di Cabu Abbas', 'tomb': 'yes'}",1283288289,way,turismo
 40.9510714,9.5134618,"{'area': 'yes', 'historic': 'yes', 'name': 'Fortino Bellico Cabu Abbas'}",1283288297,way,turismo
@@ -9918,6 +9925,7 @@ lat,lon,tags,osm_id,osm_type,pilastro
 39.8539437,9.304727,"{'archaeological_site': 'church', 'building': 'yes', 'church:type': 'filial', 'diocese': 'Lanusei', 'historic': 'archaeological_site', 'name': 'Ruderi Vecchia Chiesa San Sebastiano', 'parish': 'Seui Santa Maria Maddalena'}",1545916237,way,turismo
 39.8874984,9.5589938,"{'archaeological_site': 'church', 'building': 'yes', 'church:type': 'filial', 'diocese': 'Lanusei', 'historic': 'archaeological_site', 'name': 'Rovine Chiesa di San Pietro', 'parish': 'Ilbono San Giovanni Battista'}",1546676278,way,turismo
 39.8771304,9.5430572,"{'building': 'yes', 'historic': 'house', 'name': 'Casa Natale di Vittorio Angius', 'note': 'Religioso, Storico e Poeta'}",1546878539,way,turismo
+41.0652439,9.4227755,"{'amenity': 'festival_grounds', 'contact:facebook': 'https://www.facebook.com/profile.php?id=61573471929406&locale=it_IT', 'contact:instagram': 'https://www.instagram.com/lebonskipark/', 'email': 'info@lebonskipark.com', 'fee': 'no', 'name': 'Lebonksi Park', 'opening_hours': 'Jul 31-Aug 24 19:00-02:00', 'tourism': 'theme_park', 'was:sport': 'equestrian', 'website': 'https://lebonskipark.com/'}",1546914309,way,turismo
 40.8362442,8.392265,"{'bridge': 'viaduct', 'historic': 'man_made', 'layer': '1', 'man_made': 'bridge', 'name': 'Ponte Romano di Porto Torres', 'tourism': 'attraction', 'wikidata': 'Q37283749'}",1547622483,way,turismo
 40.8363763,8.3930152,"{'access': 'no', 'highway': 'path', 'historic': 'roman_road', 'name': 'Via Ponte Romano', 'old_ref': 'SP34', 'surface': 'rock', 'was:highway': 'secondary'}",1547622484,way,turismo
 40.8361228,8.3915226,"{'access': 'no', 'highway': 'path', 'historic': 'roman_road', 'name': 'Via Ponte Romano', 'old_ref': 'SP34', 'surface': 'rock', 'was:highway': 'secondary'}",1547622485,way,turismo
@@ -9935,3 +9943,5 @@ lat,lon,tags,osm_id,osm_type,pilastro
 40.3528513,9.5074496,"{'archaeological_site': 'church', 'building': 'yes', 'church:type': 'filial', 'diocese': 'Nuoro', 'historic': 'archaeological_site', 'name': 'Ruderi chiesa San Basilio di Nurule', 'parish': ""Dorgali Santa Caterina d'Alessandria""}",1551757334,way,turismo
 40.8809836,8.7677048,"{'archaeological_site': 'church', 'building': 'yes', 'church:type': 'filial', 'diocese': 'Tempio-Ampurias', 'historic': 'archaeological_site', 'name': 'Ruderi Chiesa di Santa Maria di Salasciu', 'parish': ""Castelsardo Sant'Antonio Abate""}",1552232390,way,turismo
 40.5114267,8.7046818,"{'archaeological_site': 'church', 'building': 'yes', 'church:type': 'filial', 'diocese': 'Sassari', 'historic': 'archaeological_site', 'name': 'Ruderi Chiesa di San Benedetto', 'parish': 'Thiesi Santa Vittoria Vergine e Martire'}",1552306397,way,turismo
+39.3921095,8.3905835,"{'area': 'yes', 'historic': 'ruins', 'name': 'Pranu Sartu'}",1553664656,way,turismo
+40.5561041,8.3134173,"{'lifeguard': 'no', 'name': ""Platja de la Torre de l'Esperó"", 'name:ca': ""Platja de la Torre de l'Esperó"", 'natural': 'beach', 'source': 'survey', 'supervised': 'no'}",1553804127,way,turismo

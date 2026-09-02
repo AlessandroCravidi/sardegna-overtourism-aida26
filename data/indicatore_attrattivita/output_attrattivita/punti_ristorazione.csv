@@ -125,7 +125,7 @@ lat,lon,tags,osm_id,osm_type
 39.2190615,9.1303192,{'amenity': 'cafe'},994731145,node
 39.2533915,9.1709097,"{'amenity': 'cafe', 'name': 'Bar'}",1162723274,node
 39.2139869,9.1205061,"{'amenity': 'cafe', 'name': 'Cafè déjà vu', 'tobacco': 'yes'}",1165439709,node
-39.2128587,9.1295584,{'amenity': 'cafe'},1165439746,node
+39.2128587,9.1295584,"{'amenity': 'cafe', 'name': 'Caffetteria Piazzetta Mascia'}",1165439746,node
 39.2123454,9.1297526,"{'amenity': 'fast_food', 'cuisine': 'pizza', 'name': 'Pizzetteria ""Pizzetta d\'oro""', 'wheelchair': 'no'}",1165439751,node
 40.3790908,9.6962701,"{'amenity': 'cafe', 'name': 'Yesterday'}",1187224111,node
 40.3799494,9.6953361,"{'amenity': 'cafe', 'name': 'Central Bar'}",1187230611,node
@@ -203,7 +203,7 @@ lat,lon,tags,osm_id,osm_type
 39.2510774,9.1071239,"{'amenity': 'cafe', 'cuisine': 'ice_cream', 'name': 'Il Colle'}",1523445782,node
 39.9053147,8.5909238,"{'addr:housenumber': '19', 'addr:street': 'Via Salvator Angelo De Castro', 'amenity': 'cafe', 'check_date': '2024-09-13', 'name': 'La Dolce Vita', 'opening_hours': 'Mo-Su 08:00-22:00; PH off'}",1564391301,node
 39.9639411,8.5422416,"{'amenity': 'restaurant', 'cuisine': 'pizza', 'name': 'Giangiacomo'}",1568226041,node
-39.9350318,8.5730478,"{'amenity': 'fast_food', 'cuisine': 'pizza', 'name': 'Pizzeria al Taglio Fenugheda', 'takeaway': 'yes'}",1568226047,node
+39.9350318,8.5730478,"{'addr:city': 'Donigala Fenughedu', 'addr:housenumber': '1', 'addr:postcode': '09170', 'addr:street': 'Vico Oristano', 'amenity': 'fast_food', 'cuisine': 'pizza', 'mobile': '+39 370 1092410', 'name': 'Pizzeria al Taglio Fenugheda', 'opening_hours': '18:30-22:30; PH off', 'takeaway': 'yes', 'website': 'https://pizzeriafenugheda.it/'}",1568226047,node
 39.3470343,8.9554772,{'amenity': 'pub'},1569007201,node
 39.3509991,8.9615851,{'amenity': 'restaurant'},1569007211,node
 39.3474346,8.9559514,{'amenity': 'restaurant'},1569007254,node
@@ -636,7 +636,7 @@ lat,lon,tags,osm_id,osm_type
 39.9104161,8.5885044,"{'addr:housenumber': '77', 'addr:street': 'Via Cagliari', 'amenity': 'ice_cream', 'name': 'Gelateria Il Chicco'}",2310429926,node
 39.9949751,8.5397507,"{'amenity': 'cafe', 'name': 'Sa Barritta'}",2310429933,node
 39.2535378,9.0610051,"{'amenity': 'restaurant', 'name': 'Self Service Gusto', 'wheelchair': 'yes'}",2310429934,node
-39.9353797,8.5733999,"{'amenity': 'cafe', 'name': 'Bar e Caffè di Ignazio'}",2310430230,node
+39.9353797,8.5733999,"{'addr:city': 'Donigala Fenughedu', 'addr:housenumber': '3', 'addr:postcode': '09170', 'addr:street': 'Via Nuraxinieddu', 'amenity': 'cafe', 'mobile': '+39 339 74865008', 'name': 'Da Dende', 'operator': 'Lochi Ignazio R. & C. S.a.S.', 'ref:vatin': 'IT01220860959'}",2310430230,node
 39.9761365,8.5386664,"{'amenity': 'cafe', 'opening_hours': 'Mo-Su 06:00-24:00'}",2310430294,node
 41.2413818,9.1886126,"{'amenity': 'restaurant', 'name': 'Ristorante Pape Satan'}",2311017873,node
 41.2410571,9.1887253,"{'amenity': 'restaurant', 'brewery': 'yes', 'check_date': '2024-09-05', 'cuisine': 'pizza', 'name': 'Pizzeria La Lucciola', 'outdoor_seating': 'yes', 'payment:cash': 'yes', 'payment:credit_cards': 'yes', 'takeaway': 'yes', 'toilets:wheelchair': 'no'}",2311017876,node
@@ -750,7 +750,7 @@ lat,lon,tags,osm_id,osm_type
 39.8721044,8.9467078,"{'addr:housename': 'Piazza Dante', 'amenity': 'cafe'}",2492817591,node
 41.034825,9.51927,"{'amenity': 'restaurant', 'cuisine': 'italian', 'name': 'Ristorante Su Cubone', 'outdoor_seating': 'yes', 'seamark:small_craft_facility:category': 'restaurant', 'seamark:type': 'small_craft_facility', 'smoking': 'outside'}",2492862602,node
 40.936332,9.498057,"{'addr:city': 'Olbia', 'addr:housenumber': '173', 'addr:street': 'Viale Aldo Moro', 'amenity': 'restaurant', 'level': '-1', 'name': 'Bartolo Ristorante'}",2493592677,node
-41.1349007,9.5374341,"{'amenity': 'restaurant', 'cuisine': 'italian', 'name': 'Crazy Pizza Porto Cervo', 'outdoor_seating': 'yes', 'toilets:wheelchair': 'yes', 'wheelchair': 'yes'}",2493647152,node
+41.1349007,9.5374341,"{'amenity': 'restaurant', 'branch': 'Porto Cervo', 'contact:instagram': 'https://www.instagram.com/crazypizza__official/', 'cuisine': 'italian', 'email': 'portocervo@crazypizza.com', 'name': 'Crazy Pizza', 'opening_hours': 'Mo-Su 19:00-01:00', 'outdoor_seating': 'yes', 'phone': '+39 0789 173 3111', 'toilets:wheelchair': 'yes', 'website': 'https://crazypizza.com/porto-cervo/', 'website:menu': 'https://crazypizza.com/porto-cervo/wp-content/uploads/sites/12/2026/07/20260722_CP_PC_Alc_digital_sito_ENG.pdf', 'wheelchair': 'yes'}",2493647152,node
 41.134521,9.537337,"{'amenity': 'restaurant', 'name': 'Café Du Port', 'seamark:small_craft_facility:category': 'restaurant', 'seamark:type': 'small_craft_facility'}",2493652972,node
 40.929613,9.500482,"{'amenity': 'restaurant', 'cuisine': 'italian;pizza', 'name': 'Pizzeria Vesuvio', 'outdoor_seating': 'yes'}",2493951480,node
 40.2842239,9.6394477,"{'amenity': 'restaurant', 'cuisine': 'seafood', 'indoor_seating': 'yes', 'name': 'Il Pescatore', 'outdoor_seating': 'yes'}",2502485584,node
@@ -1190,7 +1190,7 @@ lat,lon,tags,osm_id,osm_type
 39.9011072,8.5916836,"{'addr:city': 'Oristano', 'addr:housenumber': '8', 'addr:postcode': '09170', 'addr:street': 'Piazza Giuseppe Manno', 'amenity': 'cafe', 'contact:email': 'nino.vacca@tiscali.it', 'contact:facebook': 'https://www.facebook.com/ninovaccaoristano/', 'contact:fax': '+39 0783 70665', 'contact:phone': '+39 0783 70665', 'contact:website': 'http://www.ninovaccapasticceria.com/', 'name': 'Bar Vacca', 'opening_hours': 'Mo-Sa 07:00-13:00,16:30-19:30; We 07:00-13:00; Su 09:00-13:00', 'ref:vatin': 'IT00506530955'}",3275246669,node
 39.9090583,8.5884763,"{'addr:city': 'Oristano', 'addr:housenumber': '85', 'addr:postcode': '09170', 'addr:street': 'Via Cagliari', 'amenity': 'restaurant', 'contact:phone': '+39 345 833 7034', 'cuisine': 'fish', 'name': 'Cozzeria Campidanese', 'opening_hours': 'Tu-Su 12:00-14:45,19:30-23:30'}",3275249525,node
 39.9082393,8.5979022,"{'addr:city': 'Oristano', 'addr:housenumber': '89', 'addr:postcode': '09170', 'addr:street': 'Via Sardegna', 'amenity': 'cafe', 'name': 'Gian Flo', 'opening_hours': 'Mo-Sa 07:00-22:00; PH off'}",3275250261,node
-39.9078194,8.5900666,"{'addr:city': 'Oristano', 'addr:housenumber': '89', 'addr:postcode': '09170', 'addr:street': 'Via Tirso', 'amenity': 'cafe', 'name': 'Mio Bar', 'opening_hours': 'Mo-Su 06:30-24:00', 'wheelchair': 'no'}",3275250265,node
+39.9078194,8.5900666,"{'addr:city': 'Oristano', 'addr:housenumber': '89', 'addr:postcode': '09170', 'addr:street': 'Via Tirso', 'amenity': 'cafe', 'name': 'Mio Bar', 'opening_hours': 'Mo-Su 06:30-24:00', 'operator': 'Drink Bar S.r.l.s.', 'ref:vatin': 'IT01231030956', 'wheelchair': 'no'}",3275250265,node
 39.9060812,8.5954645,"{'addr:city': 'Oristano', 'addr:housenumber': '9', 'addr:postcode': '09170', 'addr:street': 'Via Mariano Quarto', 'amenity': 'cafe', 'name': 'Pitiko', 'opening_hours': 'Mo-Sa 06:30-21:00; Su 08:30-13:30'}",3275251068,node
 39.9081627,8.5981491,"{'addr:city': 'Oristano', 'addr:housenumber': '95', 'addr:postcode': '09170', 'addr:street': 'Via Sardegna', 'amenity': 'fast_food', 'contact:email': 'lacquolina@tiscali.it', 'contact:facebook': 'https://www.facebook.com/Lacquolina-1442723122617730/', 'contact:phone': '+39 0783 70214', 'contact:website': 'http://www.lacquolina.com', 'cuisine': 'italian', 'name': ""Gastronomia Rosticceria L'Acquolina"", 'opening_hours': 'Mo-Su 08:00-14:30; Tu-Fr 08:00-14:30,17:00-20:00'}",3275251918,node
 39.9000672,8.43183,"{'amenity': 'restaurant', 'contact:email': 'info@agriturismocaposanmarco.it', 'contact:facebook': 'https://www.facebook.com/agriturismocaposanmarco/', 'contact:phone': '+39 347 2115490;+39 0783 391 011', 'contact:website': 'http://www.agriturismocaposanmarco.it', 'cuisine': 'regional;sardinian', 'name': 'Agriturismo Capo San Marco'}",3276959648,node
@@ -1939,7 +1939,7 @@ lat,lon,tags,osm_id,osm_type
 40.5581946,8.3146279,"{'addr:city': 'Alghero', 'addr:housenumber': '11', 'addr:postcode': '07041', 'addr:street': 'Via Barcellonetta', 'amenity': 'restaurant', 'name': 'Ristorante 10 Metri'}",4473541972,node
 40.5585421,8.3123079,"{'addr:city': 'Alghero', 'addr:housenumber': '3', 'addr:postcode': '07041', 'addr:street': 'Via Don Deroma', 'amenity': 'restaurant', 'check_date': '2024-09-14', 'name': 'Ristorante Al Vecchio Mulino'}",4473541973,node
 40.5567634,8.3140096,"{'addr:city': 'Alghero', 'addr:housenumber': '113', 'addr:postcode': '07041', 'addr:street': 'Via Maiorca', 'amenity': 'restaurant', 'contact:email': 'booking@altuguri.it', 'email': 'booking@altuguri.it', 'name': 'Ristorante Al tuguri', 'opening_hours': 'Mo-Sa 19:30-22:00', 'phone': '+39 079 976772', 'website': 'https://www.altuguri.it/'}",4473541974,node
-40.5580759,8.3150056,"{'addr:city': 'Alghero', 'addr:housenumber': '55', 'addr:postcode': '07041', 'addr:street': 'Via Ambrogio Machin', 'amenity': 'restaurant', 'name': 'Ristorante Bicho Raro', 'phone': '+39 079 481 1734'}",4473541975,node
+40.5582176,8.3151712,"{'addr:city': 'Alghero', 'addr:housenumber': '55', 'addr:postcode': '07041', 'addr:street': 'Via Ambrogio Machin', 'amenity': 'restaurant', 'name': 'Ristorante Bicho Raro', 'phone': '+39 079 481 1734'}",4473541975,node
 40.5569853,8.3134126,"{'addr:city': 'Alghero', 'addr:housenumber': '76', 'addr:postcode': '07041', 'addr:street': 'Via Principe Umberto', 'amenity': 'restaurant', 'name': 'Ristorante Casablanca', 'phone': '+39 079 983353'}",4473541976,node
 40.5588411,8.3148752,"{'addr:city': 'Alghero', 'addr:housenumber': '40', 'addr:postcode': '07041', 'addr:street': 'Via Columbano', 'amenity': 'restaurant', 'name': 'Ristorante El Puntal'}",4473541977,node
 40.5564763,8.3145326,"{'addr:city': 'Alghero', 'addr:housenumber': '135', 'addr:postcode': '07041', 'addr:street': 'Via Carlo Alberto di Savoia', 'amenity': 'restaurant', 'name': 'La Lepanto'}",4473541978,node
@@ -3134,7 +3134,7 @@ lat,lon,tags,osm_id,osm_type
 40.8315525,8.4061888,"{'amenity': 'restaurant', 'name': 'Il Carillon'}",9883047417,node
 40.081238,8.610654,"{'addr:city': 'Seneghe', 'addr:housenumber': '4', 'addr:postcode': '09070', 'addr:street': 'Piazza Aldp Moro', 'amenity': 'cafe', 'name': 'Bar Manunza'}",9885455821,node
 40.0816874,8.6099547,"{'addr:city': 'Seneghe', 'addr:postcode': '09070', 'addr:street': 'Via Santa Maria', 'amenity': 'restaurant', 'cuisine': 'pizza', 'name': 'Bar Pizzeria IlNascondino', 'phone': '+39 349 06 47 990'}",9885455822,node
-40.0808616,8.6119442,"{'addr:city': 'Seneghe', 'addr:housenumber': '172', 'addr:postcode': '09070', 'addr:street': 'Corso Umberto', 'amenity': 'cafe', 'name': 'Su Recreu'}",9885455823,node
+40.0808616,8.6119442,"{'addr:city': 'Seneghe', 'addr:housenumber': '172', 'addr:postcode': '09070', 'addr:street': 'Corso Umberto', 'amenity': 'cafe', 'name': 'Su Recreu', 'operator': 'Su Recreu S.n.c. di Catzeddu e Mastinu', 'ref:vatin': 'IT01169400957'}",9885455823,node
 39.7476453,9.6725411,{'amenity': 'fast_food'},9885769027,node
 39.79022,9.5199206,"{'amenity': 'restaurant', 'cuisine': 'local', 'name': 'Da Concetta', 'opening_hours': 'Mo-Sa 12:30-15:00, 20:00-21:30; Su 12:30-15:00', 'payment:cash': 'yes', 'payment:credit_cards': 'yes', 'payment:debit_cards': 'yes', 'wheelchair': 'no'}",9885770666,node
 39.2250824,9.1192789,"{'addr:housenumber': '145a145', 'addr:street': 'Via Giardini', 'amenity': 'pub', 'name': ""L'Opoz""}",9888509672,node
@@ -3997,7 +3997,7 @@ lat,lon,tags,osm_id,osm_type
 39.102676,8.3988088,{'amenity': 'restaurant'},13071270742,node
 41.1785394,9.3820579,{'amenity': 'cafe'},13073966971,node
 40.8179979,8.4667674,"{'addr:housenumber': '4', 'addr:street': 'Via Oreste Pieroni', 'amenity': 'restaurant', 'bar': 'yes', 'check_date': '2025-08-18', 'delivery': 'no', 'highchair': 'yes', 'name': 'La Riva', 'name:it': 'La Riva', 'opening_hours': '12:00-15:00,19:30-24:00', 'outdoor_seating': 'yes', 'payment:app': 'yes', 'payment:cash': 'yes', 'payment:credit_cards': 'yes', 'payment:debit_cards': 'yes', 'reservation': 'yes', 'smoking': 'outside', 'takeaway': 'no', 'toilets': 'yes', 'toilets:wheelchair': 'yes', 'website': 'https://www.antonellozappino.it/la-riva/', 'website:menu': 'https://www.antonellozappino.it/la-riva/', 'wheelchair': 'yes'}",13078128831,node
-40.5573282,8.3158735,"{'amenity': 'restaurant', 'cuisine': 'pizza', 'name': 'Pizzeria Grano'}",13081412102,node
+40.5573282,8.3158735,"{'amenity': 'restaurant', 'name': 'Ristorante Pizzeria Fulchetta', 'source': 'survey'}",13081412102,node
 39.2155021,9.1162011,"{'addr:housenumber': '1', 'addr:postcode': '09124', 'addr:street': ""Piazza Martiri d'Italia"", 'amenity': 'ice_cream', 'name': 'Cremoso Dolci Emozioni'}",13083862601,node
 39.2160098,9.1217372,"{'addr:housenumber': '26', 'addr:postcode': '09127', 'addr:street': 'Via Grazia Deledda', 'amenity': 'restaurant', 'cuisine': 'argentinian', 'name': 'Hermanos Empanadas Argentinas', 'phone': '+39 340 411 0258'}",13084296202,node
 39.2153317,9.1163135,"{'addr:floor': 'G', 'addr:housenumber': '4', 'addr:street': 'Via Torino', 'air_conditioning': 'yes', 'amenity': 'restaurant', 'check_date': '2025-08-21', 'cuisine': 'italian', 'delivery': 'no', 'internet_access': 'wlan', 'internet_access:fee': 'customers', 'internet_access:ssid': 'RistovivaRouter_2.4', 'name': 'Trattoria Macelleria Vivarelli', 'name:it': 'Trattoria Macelleria Vivarelli', 'opening_hours': 'Mo-We,Su 19:45-23:00; Th-Sa 12:30-15:00,19:45-23:00', 'outdoor_seating': 'yes', 'payment:cash': 'yes', 'payment:credit_cards': 'yes', 'payment:debit_cards': 'yes', 'phone': '+39 070 332 8860', 'toilets': 'yes', 'wheelchair': 'no'}",13086712844,node
@@ -4069,7 +4069,7 @@ lat,lon,tags,osm_id,osm_type
 40.9223988,9.499889,"{'addr:housenumber': '20', 'addr:street': 'Via Regina Elena', 'name': 'Zia Anna', 'shop': 'confectionery'}",13177006303,node
 39.497618,8.7617229,"{'amenity': 'cafe', 'name': 'Foresteria'}",13177461639,node
 41.2421897,9.189589,"{'addr:housenumber': '13', 'addr:street': 'Piazza San Vittorio', 'amenity': 'restaurant', 'cuisine': 'italian', 'name': 'Gioielli Nappi Antonio', 'self_service': 'no'}",13178957301,node
-40.630561,8.2955188,"{'amenity': 'bar', 'name': 'Briciole bar'}",13179663455,node
+40.6306282,8.29561,"{'amenity': 'bar', 'name': 'Briciole bar'}",13179663455,node
 38.8841762,8.8636186,"{'amenity': 'cafe', 'check_date': '2025-09-29', 'name': 'Entu Beach Bar', 'payment:cash': 'yes', 'payment:credit_cards': 'yes', 'payment:debit_cards': 'yes', 'website:menu': 'https://qrcc.me/sfleh2opsb4w'}",13180350184,node
 39.2445958,9.5705123,"{'amenity': 'restaurant', 'indoor_seating': 'yes', 'name': 'Chaplin', 'outdoor_seating': 'yes'}",13183659588,node
 40.9238746,9.4985962,"{'addr:housenumber': '171', 'amenity': 'cafe', 'cuisine': 'coffee_shop;sandwich', 'name': 'Le Café des Artistes'}",13183672901,node
@@ -5174,9 +5174,9 @@ lat,lon,tags,osm_id,osm_type
 40.7217313,8.5654744,"{'addr:city': 'Sassari', 'addr:housenumber': '7', 'addr:street': 'Via Giorgio Asproni', 'amenity': 'bar', 'name': 'Enoteca Bistrot'}",14006966875,node
 41.1944768,9.2664629,{'shop': 'pastry'},14010178746,node
 40.9366622,8.2251771,"{'amenity': 'restaurant', 'contact:instagram': 'https://www.instagram.com/la.dumbarella', 'cuisine': 'pasta;regional', 'diet:vegetarian': 'yes', 'indoor_seating': 'no', 'name': 'La Dumbarella', 'outdoor_seating': 'veranda', 'start_date': '2026-07'}",14011414922,node
-40.6311538,8.2955937,"{'amenity': 'fast_food', 'check_date': '2026-07-12', 'cuisine': 'pizza', 'level': '0', 'name': 'Pizza Flor'}",14011435624,node
-40.631188,8.2954794,"{'amenity': 'cafe', 'check_date': '2026-07-12', 'level': '0', 'name': 'KIKKI'}",14011435625,node
-40.6311747,8.2955431,"{'amenity': 'fast_food', 'check_date': '2026-07-12', 'cuisine': 'pasta', 'level': '0', 'name': 'frègulas'}",14011435626,node
+40.631261,8.2955724,"{'amenity': 'fast_food', 'check_date': '2026-07-12', 'cuisine': 'pizza', 'level': '0', 'name': 'Pizza Flor'}",14011435624,node
+40.6312173,8.2954367,"{'amenity': 'cafe', 'check_date': '2026-07-12', 'level': '0', 'name': 'KIKKI'}",14011435625,node
+40.6311935,8.2955022,"{'amenity': 'restaurant', 'check_date': '2026-07-12', 'cuisine': 'italian', 'level': '0', 'name': 'Frègulas'}",14011435626,node
 40.7190863,8.5684672,"{'amenity': 'restaurant', 'contact:city': 'Sassari', 'contact:facebook': 'https://www.facebook.com/4seasonsassari/', 'contact:housenumber': '13', 'contact:instagram': 'https://www.instagram.com/popular/four-season-sassari/', 'contact:postcode': '07100', 'contact:street': 'Via Torino', 'name': '4Season Bar'}",14023053257,node
 40.2694471,8.5477824,{'amenity': 'cafe'},14023749226,node
 40.5549896,8.9452225,"{'amenity': 'restaurant', 'name': 'Agriturismo Sapori di Monte Zuighe'}",14024127854,node
@@ -5234,7 +5234,7 @@ lat,lon,tags,osm_id,osm_type
 39.251969,9.0928096,"{'amenity': 'bar', 'name': 'Il piccolo borgo'}",14089278872,node
 40.5812609,9.752327,"{'addr:postcode': '08029', 'addr:street': 'Strada Statale 125 Orientale Sarda', 'amenity': 'restaurant', 'check_date': '2026-08-12', 'name': 'Locanda Ristorante Bar Sa Veletta di Cordazzu Maria Grazia', 'phone': '+390784819073', 'website': 'https://www.locandasaveletta.com/'}",14090275401,node
 40.9261496,8.7996947,"{'amenity': 'ice_cream', 'survey:date': '2026-08-10'}",14090545484,node
-40.6318985,8.2958814,"{'amenity': 'bar', 'name': 'Club Lounge', 'source': 'survey'}",14092419545,node
+40.6318728,8.2958872,"{'air_conditioning': 'yes', 'amenity': 'bar', 'name': 'Club Lounge', 'source': 'survey'}",14092419545,node
 39.282116,9.0732892,"{'amenity': 'restaurant', 'cuisine': 'sushi', 'name': 'Kai Sushi fusion'}",14094559335,node
 40.7286039,8.560941,"{'amenity': 'cafe', 'check_date': '2024-09-14', 'contact:housenumber': '26', 'contact:street': 'Piazza Efisio e Pasquale Tola', 'name': 'Bidda Piazza Tola'}",14094584010,node
 40.7279657,8.5611868,"{'amenity': 'pub', 'contact:city': 'Sassari', 'contact:housenumber': '2', 'contact:postcode': '07100', 'contact:street': 'Piazza Efisio e Pasquale Tola', 'name': 'BNO'}",14094584011,node
@@ -5295,6 +5295,20 @@ lat,lon,tags,osm_id,osm_type
 41.0473405,9.4677825,"{'amenity': 'bar', 'name': ""L'Hostaria""}",14123870423,node
 41.0102254,9.5313199,"{'amenity': 'restaurant', 'name': 'Jaçanã'}",14123880310,node
 39.2394353,9.1129515,"{'amenity': 'cafe', 'name': 'Crudelia Caffè'}",14128036485,node
+41.1796399,9.3826541,"{'addr:housenumber': '13', 'addr:street': 'via sportiva', 'amenity': 'restaurant', 'cuisine': 'pizza', 'name': 'Lo Spizzico - Pizzaria Trattoria Tradizione', 'website': 'https://www.lospizzico.com/'}",14130019204,node
+39.1977013,9.1515374,"{'addr:city': 'Casteddu/Cagliari', 'addr:housenumber': '9', 'addr:postcode': '09126', 'addr:street': 'Via del Pozzetto', 'amenity': 'restaurant', 'cuisine': 'pizza', 'diet:vegetarian': 'yes', 'name': 'Mamo Pizza'}",14130973540,node
+40.6305552,8.2958895,"{'amenity': 'fast_food', 'name': 'Mu Finest Burger'}",14131207368,node
+39.217814,9.1125376,"{'addr:housenumber': '31', 'addr:postcode': '09124', 'addr:street': 'corso vittorio emanuele II', 'amenity': 'bar', 'brewery': 'various', 'min_age': '18', 'name': 'SPOT 31'}",14132872292,node
+40.7278532,8.5674248,"{'contact:city': 'Sassari', 'contact:housenumber': '20', 'contact:postcode': '07100', 'contact:street': 'Viale Goffredo Mameli', 'name': 'Bottega del Sapore', 'shop': 'deli'}",14133598648,node
+40.4566159,9.1729228,"{'name': 'Pasticcerica Denti', 'shop': 'pastry'}",14135114426,node
+40.9469902,9.5200043,"{'addr:city': 'Olbia', 'addr:postcode': '07026', 'addr:street': 'Strada Panoramica Olbia', 'amenity': 'cafe', 'name': 'Fuel & Oil S.a.S.', 'phone': '+39 0789 387452', 'ref:vatin': 'IT09820800010'}",14135605591,node
+40.3137209,9.3605846,"{'amenity': 'restaurant', 'name': 'Sa conca'}",14135717728,node
+40.559483,8.3114149,"{'amenity': 'restaurant', 'name': 'Sibul', 'source': 'survey'}",14136604459,node
+40.5585989,8.3136011,"{'amenity': 'ice_cream', 'name': 'Gelateria del Corso', 'outdoor_seating': 'yes', 'source': 'survey'}",14137417533,node
+40.5572116,8.3123046,"{'amenity': 'restaurant', 'name': 'MOMA', 'outdoor_seating': 'yes', 'source': 'survey'}",14137417534,node
+40.557929,8.3163262,"{'name': 'Sugar&Candy', 'shop': 'pastry', 'source': 'survey'}",14137560305,node
+40.6304055,9.7419362,{'amenity': 'bar'},14138374491,node
+40.6294809,9.742134,{'amenity': 'bar'},14138390240,node
 39.8806676,8.4389516,"{'addr:city': 'San Giovanni di Sinis', 'amenity': 'cafe', 'building': 'commercial', 'contact:facebook': 'https://www.facebook.com/Bar-Trattoria-Tequila-167343656636874/', 'mobile': '+39 348 809 4192; +39 349 607 9070', 'name': 'Bar trattoria Tequila', 'opening_hours': 'Mo-Su 09:30-19:00; Tu off'}",72443770,way
 39.8791065,8.4389639,"{'addr:city': 'Cabras', 'addr:place': 'San Giovanni di Sinis', 'amenity': 'restaurant', 'building': 'yes', 'contact:facebook': 'https://www.facebook.com/Ristorante-Bar-Da-Marina-San-Giovanni-di-sinis-201715946894343/', 'contact:phone': '+39 0783 370065', 'name': 'Bar Ristorante Da Marina', 'opening_hours': 'Mo-Su 08:30-23:30', 'operator': 'Pau Marina', 'ref:vatin': 'IT00355300955'}",72444101,way
 39.8811855,8.4389432,"{'amenity': 'restaurant', 'building': 'commercial', 'contact:email': 'mauraboi71@gmail.com', 'contact:facebook': 'https://www.facebook.com/Genti-Arrubia-139952486134723/', 'contact:phone': '+39 393 297 2013', 'cuisine': 'fish;regional', 'name': 'Genti Arrubia'}",72445687,way
@@ -5336,7 +5350,7 @@ lat,lon,tags,osm_id,osm_type
 40.12849,8.8056477,"{'amenity': 'restaurant', 'building': 'yes', 'name': 'Ok Corral'}",159913963,way
 40.3713674,9.7207308,"{'access': 'customers', 'amenity': 'bar', 'building': 'yes', 'name': 'Bar Piscina'}",161575894,way
 40.4466625,8.6465944,"{'addr:city': 'Mara', 'addr:postcode': '07010', 'amenity': 'restaurant', 'building': 'yes', 'contact:facebook': 'https://www.facebook.com/bonuighinueden/', 'cuisine': 'italian', 'name': 'Bonu Ighinu Eden B', 'operator': 'Nughes Massimiliano', 'phone': '+39 079 805234;+39 347 3141678'}",163130231,way
-40.1100298,8.7918382,"{'addr:city': 'Abbasanta', 'addr:housenumber': 'KM 122', 'addr:milestone': '122.7', 'addr:postcode': '09071', 'addr:province': 'OR', 'addr:street': 'Strada Statale 131 Carlo Felice', 'amenity': 'cafe', 'building': 'retail', 'cuisine': 'ice_cream', 'email': 'oasilosa@arubapec.it', 'name': 'Oasi Losa Lato Ovest', 'nohousenumber': 'yes', 'opening_hours': 'Mo-Fr 05:30-21:00; Sa,Su 06:00-22:15', 'operator': 'Oasi Losa S.r.l.', 'outdoor_seating': 'yes', 'phone': '+39 0785 53165', 'ref:vatin': 'IT01148540956'}",164253236,way
+40.1100298,8.7918382,"{'addr:city': 'Abbasanta', 'addr:milestone': '122.7', 'addr:postcode': '09071', 'addr:province': 'OR', 'addr:street': 'Strada Statale 131 Carlo Felice', 'amenity': 'cafe', 'building': 'retail', 'cuisine': 'ice_cream', 'email': 'oasilosa@arubapec.it', 'name': 'Oasi Losa Lato Ovest', 'nohousenumber': 'yes', 'opening_hours': 'Mo-Fr 05:30-21:00; Sa,Su 06:00-22:15', 'operator': 'Oasi Losa S.r.l.', 'outdoor_seating': 'yes', 'phone': '+39 0785 53165', 'ref:vatin': 'IT01148540956'}",164253236,way
 40.1112428,8.489874,"{'amenity': 'cafe', 'building': 'yes'}",164725474,way
 40.1781567,9.6301018,"{'amenity': 'restaurant', 'building': 'yes', 'contact:email': 'info@coopsisine.it', 'contact:facebook': 'https://www.facebook.com/sucoilecalasisine/', 'contact:phone': '+39 0784 932 71;+39 338 853 7638', 'cuisine': 'regional;sardinian', 'name': 'Su Coile', 'opening_hours': 'Mo-Su 08:00-24:00'}",166296749,way
 40.1645049,8.5281544,"{'amenity': 'restaurant', 'building': 'yes', 'contact:facebook': 'https://www.facebook.com/La-Villa-Pedras-Longas-1481891518694909/', 'name': 'La Villa - Pedras Longas'}",169171663,way
@@ -5523,7 +5537,7 @@ lat,lon,tags,osm_id,osm_type
 40.5636423,8.1633379,"{'amenity': 'cafe', 'building': 'yes', 'name': 'Snack Bar Grotte di Nettuno'}",279262958,way
 40.5842452,8.3109053,"{'amenity': 'cafe', 'building': 'yes'}",279262959,way
 40.5076772,8.3556522,"{'amenity': 'restaurant', 'building': 'yes', 'name': 'Blue Marlin'}",279263390,way
-40.5636712,8.3275482,"{'addr:housenumber': '215', 'addr:street': 'Via Vittorio Emanuele', 'amenity': 'restaurant', 'branch': 'Alghero', 'brand': 'Doppio Malto', 'brand:wikidata': 'Q125285187', 'building': 'yes', 'cuisine': 'burger;italian;steak_house', 'name': 'Doppio Malto', 'opening_hours': 'Mo-Fr, Su 12:00-15:30, 18:30-23:00; Sa 12:00-15:30, 18:30-00:00', 'phone': '+390799634080', 'website': 'https://www.doppiomalto.com/it/ristoranti/alghero/'}",279263832,way
+40.563671,8.3275073,"{'addr:housenumber': '215', 'addr:street': 'Via Vittorio Emanuele', 'amenity': 'restaurant', 'branch': 'Alghero', 'brand': 'Doppio Malto', 'brand:wikidata': 'Q125285187', 'building': 'yes', 'cuisine': 'burger;italian;steak_house', 'name': 'Doppio Malto', 'opening_hours': 'Mo-Fr, Su 12:00-15:30, 18:30-23:00; Sa 12:00-15:30, 18:30-00:00', 'phone': '+390799634080', 'website': 'https://www.doppiomalto.com/it/ristoranti/alghero/'}",279263832,way
 40.6166075,8.2063912,"{'amenity': 'bar', 'building': 'yes', 'name': 'Mugoni'}",279266341,way
 40.5700497,8.3185612,"{'amenity': 'cafe', 'building': 'yes'}",279269119,way
 40.5939132,8.1653583,"{'amenity': 'restaurant', 'building': 'yes', 'name': 'La Nuvola', 'source': 'survey'}",279271003,way
@@ -5655,7 +5669,7 @@ lat,lon,tags,osm_id,osm_type
 39.9518066,8.5315798,"{'amenity': 'restaurant', 'building': 'commercial', 'cuisine': 'italian', 'name': 'Ristorante Su Soi', 'website': 'https://www.susoi.it/'}",295904839,way
 39.9193808,8.4925872,"{'addr:city': 'Cabras', 'addr:housenumber': '2.5', 'addr:postcode': '09072', 'addr:street': 'SP6', 'addr:unit': 'km', 'amenity': 'restaurant', 'building': 'yes', 'contact:email': 'm.pinna560@gmail.com', 'contact:facebook': 'https://www.facebook.com/Ittioturismo-Aquaurchi-916370708407397/', 'contact:phone': '+39 0783 392587', 'contact:website': 'http://www.ittioturismooristano.com', 'cuisine': 'seafood', 'name': 'Ittioturismo Aquaurchi', 'operator': 'Soc. Coop. Pescatori Aquaurchi a r.l.', 'phone:mobile': '+39 340 9053472', 'ref:vatin': 'IT00488840950'}",295905022,way
 39.9177854,8.5460917,"{'amenity': 'restaurant', 'building': 'yes', 'contact:email': 'info@agriturismosusattu.it', 'contact:facebook': 'https://www.facebook.com/Agriturismo-Su-Sattu-823582321148934/', 'contact:phone': '+39 347 717 1747', 'contact:website': 'http://www.agriturismosusattu.it', 'cuisine': 'regional'}",295905116,way
-39.8829002,8.4363176,"{'addr:city': 'Crabas/Cabras', 'addr:postcode': '09072', 'addr:street': 'Via Lungomare', 'amenity': 'restaurant', 'bar': 'yes', 'building': 'commercial', 'name': 'Vento Maestro', 'opening_hours': 'Mo-Fr 09:00-19:00; Sa,Su 09:00-20:00', 'outdoor_seating': 'yes', 'phone': '+39 348 1815 815', 'website': 'https://www.ventomaestro.it/'}",295905160,way
+39.8829002,8.4363176,"{'addr:city': 'Crabas/Cabras', 'addr:postcode': '09072', 'addr:street': 'Via Lungomare', 'amenity': 'restaurant', 'bar': 'yes', 'building': 'commercial', 'name': 'Vento Maestro', 'opening_hours': 'Mo-Fr 09:00-19:00; Sa,Su 09:00-20:00', 'operator': 'Cultour Società Coop.va', 'outdoor_seating': 'yes', 'phone': '+39 348 1815 815', 'ref:vatin': 'IT01132640952', 'website': 'https://www.ventomaestro.it/'}",295905160,way
 39.9214651,8.5639098,"{'amenity': 'restaurant', 'building': 'commercial', 'cuisine': 'pizza;regional', 'name': 'Ristorante Pizzeria La Rosa dei Venti', 'oven': 'wood_fired', 'restaurant:type:it': 'pizzeria', 'website': 'http://www.rosadeiventioristano.it'}",295905903,way
 39.9107864,8.533098,"{'addr:postcode': '09072', 'amenity': 'restaurant', 'building': 'yes', 'contact:phone': '+39 348 2100108', 'contact:website': 'https://www.lafattoriadiago.it', 'cuisine': 'pizza;regional;seafood', 'name': 'La Fattoria di Ago', 'opening_hours': 'Mo-Su 12:00-15:00,19:00-22:30; Tu off', 'oven': 'wood_fired', 'restaurant:type:it': 'pizzeria', 'start_date': '2023-12-08'}",295906317,way
 39.4860618,9.0654629,"{'addr:city': 'Pramantellu/Pimentel', 'addr:postcode': '09020', 'addr:street': 'Via Santa Caterina', 'amenity': 'cafe', 'building': 'yes', 'name': 'Funtanedda'}",295929217,way
@@ -5918,7 +5932,7 @@ lat,lon,tags,osm_id,osm_type
 39.2055625,9.1648008,"{'amenity': 'cafe', 'building': 'yes', 'name': 'Lanterna Rossa'}",699446483,way
 39.2059569,9.1652334,"{'amenity': 'cafe', 'building': 'yes', 'name': 'Palm Beach'}",699446484,way
 39.2090166,9.1687386,"{'amenity': 'cafe', 'building': 'yes', 'name': 'Il Nilo', 'wheelchair': 'yes'}",699447155,way
-39.2094977,9.1693489,"{'addr:street': 'Viale Poetto', 'amenity': 'cafe', 'building': 'yes', 'name': 'coco beach'}",709608728,way
+39.2094977,9.1693489,"{'addr:street': 'Viale Poetto', 'amenity': 'cafe', 'building': 'yes', 'name': 'Calipso beach'}",709608728,way
 39.209991,9.1698988,"{'amenity': 'cafe', 'building': 'yes', 'name': 'Corto Maltese', 'outdoor_seating': 'yes'}",709608731,way
 39.2125976,9.1733945,"{'amenity': 'bar', 'building': 'yes', 'check_date': '2026-08-22', 'name': ""Il fico d'India"", 'outdoor_seating': 'yes'}",709608732,way
 39.2134628,9.1749645,"{'amenity': 'bar', 'building': 'yes', 'name': ""L'Iguana""}",709608735,way

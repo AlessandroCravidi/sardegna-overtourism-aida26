@@ -798,7 +798,7 @@ lat,lon,tags,osm_id,osm_type
 40.6133714,8.2967853,"{'bench': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'no', 'name': 'SP44 / civico 84', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'passenger_information_display': 'no', 'public_transport': 'platform', 'shelter': 'no', 'surface': 'earth'}",6208050279,node
 40.6238669,8.2969485,"{'bench': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'no', 'name': 'SP44 / Strada Vicinale Paris Giega', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'passenger_information_display': 'no', 'public_transport': 'platform', 'shelter': 'no', 'surface': 'earth'}",6208050280,node
 40.6240195,8.2968358,"{'bench': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'no', 'name': 'SP44 / Strada Vicinale Paris Giega', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'passenger_information_display': 'no', 'public_transport': 'platform', 'shelter': 'no', 'surface': 'earth'}",6208050281,node
-40.6310328,8.2962417,"{'bench': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'no', 'name': 'Aeroporto Fertilia partenze (Cap.)', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'passenger_information_display': 'no', 'public_transport': 'platform', 'shelter': 'no', 'surface': 'paved'}",6208050282,node
+40.6301343,8.295679,"{'bench': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'no', 'name': 'Aeroporto Fertilia partenze (Cap.)', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'passenger_information_display': 'no', 'public_transport': 'platform', 'shelter': 'no', 'surface': 'paved'}",6208050282,node
 40.629978,8.295646,"{'bench': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'no', 'name': 'Aeroporto Fertilia arrivi (Cap.)', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'passenger_information_display': 'no', 'public_transport': 'platform', 'shelter': 'no', 'surface': 'paved'}",6208050283,node
 40.5821219,8.3179568,"{'bench': 'yes', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'no', 'name': 'Via Don Minzoni (Cap.)', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'passenger_information_display': 'no', 'public_transport': 'platform', 'shelter': 'no', 'surface': 'paved'}",6209902541,node
 40.5822564,8.3179273,"{'bench': 'yes', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'no', 'name': 'Alghero Viale Burruni Villa Maria Pia', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'passenger_information_display': 'no', 'public_transport': 'platform', 'ref': '7090', 'shelter': 'no', 'surface': 'paved'}",6209902542,node
@@ -917,7 +917,7 @@ lat,lon,tags,osm_id,osm_type
 39.2205526,9.1054907,"{'bench': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'name': 'Pola (ang. via Mameli)', 'operator': 'CTM', 'public_transport': 'platform', 'shelter': 'no', 'surface': 'paved'}",6245710688,node
 39.219482,9.1049061,"{'bench': 'yes', 'bin': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'yes', 'name': 'Trieste (ang. via 29 Novembre)', 'operator': 'CTM Cagliari', 'passenger_information_display': 'yes', 'public_transport': 'platform', 'shelter': 'yes', 'surface': 'paved', 'tactile_paving': 'no', 'wheelchair': 'yes'}",6245710689,node
 40.6299751,8.2956786,"{'bus': 'yes', 'name': 'Aeroporto Fertilia arrivi (Cap.)', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'public_transport': 'stop_position'}",6262739003,node
-40.6310184,8.2963004,"{'bus': 'yes', 'name': 'Aeroporto Fertilia partenze (Cap.)', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'public_transport': 'stop_position'}",6262739004,node
+40.6309204,8.2962473,"{'bus': 'yes', 'name': 'Aeroporto Fertilia partenze (Cap.)', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'public_transport': 'stop_position'}",6262739004,node
 40.6240179,8.2968934,"{'bus': 'yes', 'name': 'SP44 / Strada Vicinale Paris Giega', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'public_transport': 'stop_position'}",6262739005,node
 40.6238619,8.2968938,"{'bus': 'yes', 'name': 'SP44 / Strada Vicinale Paris Giega', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'public_transport': 'stop_position'}",6262739006,node
 40.6133709,8.2968149,"{'bus': 'yes', 'name': 'SP44 / civico 84', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'public_transport': 'stop_position'}",6262739007,node
@@ -991,9 +991,9 @@ lat,lon,tags,osm_id,osm_type
 39.2176384,9.1305372,"{'bus': 'yes', 'highway': 'bus_stop', 'name': 'Scano (clinica)', 'public_transport': 'platform'}",6313765010,node
 39.2178493,9.1302985,"{'bus': 'yes', 'highway': 'bus_stop', 'name': 'Scano (fronte clinica)', 'public_transport': 'platform'}",6313765011,node
 39.2159769,9.1304702,"{'bus': 'yes', 'highway': 'bus_stop', 'name': 'Scano (chiesa)', 'public_transport': 'platform'}",6313765012,node
-39.215341,9.1301563,"{'bus': 'yes', 'highway': 'bus_stop', 'name': 'Scano (ang. via Cugia)', 'public_transport': 'platform'}",6313765013,node
+39.215341,9.1301563,"{'bench': 'no', 'bin': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'name': 'Scano (ang. via Cugia)', 'public_transport': 'platform', 'shelter': 'no'}",6313765013,node
 39.2132591,9.130348,"{'bench': 'yes', 'bin': 'yes', 'bus': 'yes', 'highway': 'bus_stop', 'name': 'Scano (ang. via Gazzano)', 'public_transport': 'platform', 'shelter': 'yes', 'tactile_paving': 'no'}",6313765014,node
-39.2133901,9.1300891,"{'bus': 'yes', 'highway': 'bus_stop', 'name': 'Scano (ang. via Marini)', 'public_transport': 'platform'}",6313765015,node
+39.2133901,9.1300891,"{'bench': 'yes', 'bin': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'name': 'Scano (ang. via Marini)', 'public_transport': 'platform', 'shelter': 'yes'}",6313765015,node
 39.2111629,9.131361,"{'bench': 'yes', 'bin': 'yes', 'bus': 'yes', 'highway': 'bus_stop', 'lit': 'yes', 'name': 'della Pineta (ang. via Dexart)', 'public_transport': 'platform', 'shelter': 'yes', 'tactile_paving': 'yes'}",6313765016,node
 39.211138,9.1311907,"{'bus': 'yes', 'highway': 'bus_stop', 'name': 'della Pineta (fronte via Dexart)', 'public_transport': 'platform', 'shelter': 'no'}",6313765017,node
 39.2102235,9.1318652,"{'bus': 'yes', 'highway': 'bus_stop', 'name': 'della Pineta (fronte via dei Colombi)', 'public_transport': 'platform'}",6313765018,node
@@ -1913,6 +1913,8 @@ lat,lon,tags,osm_id,osm_type
 40.9431258,9.4889997,"{'bus': 'yes', 'highway': 'bus_stop', 'public_transport': 'platform'}",14103118235,node
 41.1824958,9.386151,"{'harbour': 'yes', 'name': 'Porto Commerciale Palau'}",14120753640,node
 41.0481721,9.4695226,"{'bench': 'no', 'bus': 'yes', 'highway': 'bus_stop', 'public_transport': 'platform', 'shelter': 'no'}",14123805891,node
+40.9314988,9.5138524,"{'bus': 'yes', 'highway': 'bus_stop', 'public_transport': 'platform'}",14131676165,node
+40.5603217,8.3141489,"{'amenity': 'ferry_terminal', 'ferry': 'yes', 'name': 'Frecce delle grotte srl', 'public_transport': 'station', 'source': 'survey', 'wheelchair': 'limited'}",14137361416,node
 40.9044657,9.5160441,"{'amenity': 'bus_station', 'bus': 'yes', 'description': 'bus station', 'public_transport': 'station', 'wheelchair': 'yes'}",23936295,way
 40.8021255,9.6584132,"{'aeroway': 'aerodrome', 'description': 'Campo di volo ultraleggeri', 'local_ref': 'OTSTE', 'name': 'Aviosuperficie San Teodoro', 'website': 'https://www.santeodoroulm.it/'}",24038576,way
 39.2147286,9.1088776,"{'addr:street': 'Piazza Giacomo Matteotti', 'air_conditioning': 'yes', 'amenity': 'bus_station', 'bus': 'yes', 'check_date': '2023-09-03', 'name': 'Autostazione ARST', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'payment:bancomat': 'yes', 'payment:cash': 'yes', 'payment:mastercard': 'yes', 'payment:visa': 'yes', 'payment:visa_debit': 'yes', 'public_transport': 'station', 'wheelchair': 'yes'}",35076184,way
@@ -1957,7 +1959,7 @@ lat,lon,tags,osm_id,osm_type
 39.2169131,9.1065719,"{'area': 'yes', 'bench': 'yes', 'bin': 'yes', 'lit': 'yes', 'public_transport': 'platform', 'railway': 'platform', 'shelter': 'yes', 'tactile_paving': 'yes', 'train': 'yes'}",221999281,way
 39.9016552,8.5909933,"{'amenity': 'bus_station', 'bus': 'yes', 'name': 'Stazione A.R.S.T.', 'note': 'doppio tag, in attesa che il rendering supporti public_transport=station', 'operator': 'ARST', 'operator:wikidata': 'Q3601148', 'public_transport': 'station'}",222066101,way
 39.9015653,8.6042432,"{'area': 'yes', 'bench': 'yes', 'bin': 'yes', 'lit': 'yes', 'public_transport': 'platform', 'railway': 'platform', 'shelter': 'yes', 'tactile_paving': 'yes'}",222066145,way
-40.3265035,9.3142433,{'aeroway': 'helipad'},225485530,way
+40.3265033,9.3142428,{'aeroway': 'helipad'},225485530,way
 40.9127745,9.4704622,"{'aeroway': 'helipad', 'name': 'Elisoccorso'}",226847884,way
 39.3007678,8.5642975,"{'aeroway': 'helipad', 'operator': 'Vigili del Fuoco'}",235074272,way
 41.0040989,9.2897079,"{'public_transport': 'platform', 'railway': 'platform', 'train': 'yes'}",238031430,way
